@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+
+          <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
+
+
+<!-- NB UPDATE THIS EVERY TIME -->          
+          <lastBuildDate>Sat, 10 Nov 2018 10:00:00 +0200</lastBuildDate>
+<!-- NB UPDATE THIS EVERY TIME -->
+
+
+          <ttl>30</ttl>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
+          <title>Melanie Walker's Grounded</title>
+          <link>http://solidgoldstudios.co.za/grounded</link>
+          <language>en-za</language>
+          <copyright>SoldGoldStudios.co.za</copyright>
+          <description>Melanie Walker's podcast exploring all things gardening.</description>
+          <itunes:subtitle>Melanie Walker's podcast exploring all things gardening.</itunes:subtitle>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening and all things grounded.</itunes:summary>
+          
+          <itunes:category text="Sports &amp; Recreation">
+          <itunes:category text="Outdoor" />
+          </itunes:category>   
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:owner>
+               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
+               <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+      
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+
+    <item>
+             <!-- OUR RSS NUMBER 0009 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>Annual Flower Growing made easy | Peter Goodwin</title>
+               <pubDate>Sat, 10 Nov 2018 10:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+<!--               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-???????.jpg" /> -->
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>It's time for the stars of the November Garden to take centre stage</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Melanie Walker and Michael Rickhoff | Following on the disastrous decimation of Impatiens walleriana crops worldwide a couple of years ago, there's good news for the 'busy lizzie' fans - they're back and in good shape. We also discuss the differences between those and New Guinea Impatiens, and the SunPatiens. Anything you need to know on where to plant them, how to plant them and how to care for them is on the menu!</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Melanie Walker and Michael Rickhoff | Following on the disastrous decimation of Impatiens walleriana crops worldwide a couple of years ago, there's good news for the 'busy lizzie' fans - they're back and in good shape. We also discuss the differences between those and New Guinea Impatiens, and the SunPatiens. Anything you need to know on where to plant them, how to plant them and how to care for them is on the menu!</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3</guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>27:53</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Peter Goodwin, Bedding plants, New Guinea impatiens, SunPatiens, begonia, shade garden, full sun, Busy Lizzie, annuals, perennials, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+
+    <item>
+             <!-- OUR RSS NUMBER 0008 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>What we put plants through before putting them in the garden! | Kathy Varney</title>
+               <pubDate>Sat, 03 Nov 2018 10:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023b.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>We find out more about the process of plant trialing and how plants make it to the consumer in retail garden centres.</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Melanie Walker and Michael Rickhoff | Who doesn’t love to walk through a retail garden center and ogle all of the new plants that have made it to market each year? Ever ask how and why certain varieties make it to market and others don’t. The process of trialing is how. Plant trialing is not only an integral part of the green industry but it’s important for the consumer. Testing plants in varying parts of the country allows the breeders to make better decisions about what will look good and grow in the landscape and also allows the growers to decide what works best for their business and their cultural practices. We take a 'walk' through the process and highlight the upcoming plant trials at Ball Straathof. </p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Melanie Walker and Michael Rickhoff | Who doesn’t love to walk through a retail garden center and ogle all of the new plants that have made it to market each year? Ever ask how and why certain varieties make it to market and others don’t. The process of trialing is how. Plant trialing is not only an integral part of the green industry but it’s important for the consumer. Testing plants in varying parts of the country allows the breeders to make better decisions about what will look good and grow in the landscape and also allows the growers to decide what works best for their business and their cultural practices. We take a 'walk' through the process and highlight the upcoming plant trials at Ball Straathof.</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3</guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>28:06</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Kathy Varney, plants, new varieties, trials, plant trials, Ball Straathof, gardening, flowers, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+ 		<item>
+             <!-- 0007 -->
+             <!-- 20181023c -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>Life Is A Garden - The November Files | Cary Goodwin</title>
+               <pubDate>Sat, 27 Oct 2018 10:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023c.jpg" />
+
+               <itunes:subtitle>Life is a Garden is the marketing arm of SANA, the South African Nursery Association. This is the place to find out what to do and when in your backyard.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Melanie Walker & Michael Rickhoff | The main aim of Life is a Garden is to bring relevant, industry-endorsed information to interested gardeners across Southern Africa. November is a busy time in the garden, and we take a look at some of the plants and activities we should be taking in hand. The star of the veggie garden is beetroot, the trend is still to grow vertically, containers are coming back into vogue with smaller spaces being utilised, and brachyscome, yucca, plumbago and Inca lilies are the flowers creating loads of colour.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Melanie Walker and Michael Rickhoff | The main aim of Life is a Garden is to bring relevant, industry-endorsed information to interested gardeners across Southern Africa. November is a busy time in the garden, and we take a look at some of the plants and activities we should be taking in hand. The star of the veggie garden is beetroot, the trend is still to grow vertically, containers are coming back into vogue with smaller spaces being utilised, and brachyscome, yucca, plumbago and Inca lilies are the flowers creating loads of colour.</itunes:summary>
+
+                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3</guid>
+               
+
+               <itunes:duration>29:10</itunes:duration>
+               
+               <itunes:keywords>Cary Goodwin, brachyscome, yucca, plumbago, Inca lilies, alstroemeria, vertical, container, beetroot, health, flowers, vegetables, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+           <item>
+        	   <!-- 0006 -->
+        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>Are You What You Eat? | Linda Galvad</title>
+               <pubDate>Sat, 20 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003b.jpg" />               
+
+
+			   <itunes:subtitle>Are You What You Eat? | Melanie Walker and Michael Rickhoff with Linda Galvad (Founder Sought After Seedlings)</itunes:subtitle>
+               
+               <description><![CDATA[<p>Continuing with the theme, You are what You Eat, Linda Galvad explores the subject of heirloom seeds, what GMO foods mean for the person and the environment, and how to Grow Your Own to the best of your ability. Sought After Seedlings is South Africa's home of organic seeds and stockist of high quality authentic Italian Franchi Sementi seeds.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Continuing with the theme, You are what You Eat, Linda Galvad explores the subject of heirloom seeds, what GMO foods mean for the person and the environment, and how to Grow Your Own to the best of your ability. Sought After Seedlings is South Africa's home of organic seeds and stockist of high quality authentic Italian Franchi Sementi seeds.</itunes:summary>
+
+                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3</guid>
+               
+               <itunes:duration>31:42</itunes:duration>
+               
+               <itunes:keywords>Vegetables, Linda Galvad, Sought After Seedlings, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+          <item>
+        	   <!-- 0005 -->
+        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>Making Organic a Lifestyle, not a Duty | Jenny Slabber and Maureen Madiseng</title>
+               <pubDate>Sat, 13 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181004a.jpg" />               
+
+
+			   <itunes:subtitle>Making Organic a Lifestyle, not a Duty | Melanie Walker with Jenny Slabber (Sales Manager) and Maureen Madiseng (horticulturalist) at Talborne Organics</itunes:subtitle>
+               
+               <description><![CDATA[<p>Going green doesn’t start with doing green acts - it starts with a shift in consciousness. And the first shift is making sure that what you put into your garden, your home grown veggies and yourself is as natural as can be. Talborne Organics offers healthy, safe and sustainable organic options that will perform to professional standards on all projects, whether for the Big Agri farmer, or the home gardener.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Going green doesn’t start with doing green acts - it starts with a shift in consciousness. And the first shift is making sure that what you put into your garden, your home grown veggies and yourself is as natural as can be. Talborne Organics offers healthy, safe and sustainable organic options that will perform to professional standards on all projects, whether for the Big Agri farmer, or the home gardener.</itunes:summary>
+
+                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3</guid>
+               
+               <itunes:duration>27:02</itunes:duration>
+               
+               <itunes:keywords>Talborne Organics, Jenny Slabber, Maureen Madiseng, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>          
+
+          <item>
+        	   <!-- 0004 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>The "Dagga" Debate | Quintin van Kerken</title>
+               <pubDate>Sat, 06 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003c.jpg" />
+
+			   <itunes:subtitle>The "Dagga" Debate | Melanie Walker and Michael Rickhoff with Quintin van Kerken (Chief Executive Clear Option on Cannabis)</itunes:subtitle>
+               
+               <description><![CDATA[<p>On this episode, Melanie and Mike Rickhoff (senior lecturer at Lifestyle college) chat to Quintin van Kerken, CEO of Clear Option on Cannabis, about what implications the recent rulings on Marijuana in SA have for people.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>On this episode, Melanie and Mike Rickhoff (senior lecturer at Lifestyle college) chat to Quintin van Kerken, CEO of Clear Option on Cannabis, about what implications the recent rulings on Marijuana in SA have for people.</itunes:summary>
+
+                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3</guid>
+               
+               <itunes:duration>26:23</itunes:duration>
+               
+               <itunes:keywords>Dagga, Quintin van Kerken, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+          
+          <item>
+        	   <!-- 0003 -->          	
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>Shirley Wallington</title>
+               <pubDate>Sat, 09 Sep 2017 12:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:summary>
+               
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Shirley Wallington, Open Gardens Meander, Johannesburg Garden Club, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+         <item>
+        	   <!-- 0002 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <title>Gavin Heron</title>
+               <pubDate>Sat, 23 Sep 2017 12:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:summary>
+               
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Gavin Heron, Earth Probiotic, Bokashi, compost, topsoil, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>          
+
+        <item>
+        	   <!-- 0001 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <title>Misha Teasdale</title>               
+               <pubDate>Sat, 02 Dec 2017 13:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20171202.jpg" />
+               
+               <itunes:subtitle>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:subtitle>
+               
+               <description>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting... Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+               
+               <itunes:summary>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:summary>
+               
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid>
+               
+               <itunes:duration>26:33</itunes:duration>
+               
+               <itunes:keywords>Misha Teasdale, GreenPop, Treevolution, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>   
+
+     </channel>
+</rss>

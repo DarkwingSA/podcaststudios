@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+
+          <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
+          <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
+
+          <lastBuildDate>Fri, 26 Oct 2018 15:48:00 +0200</lastBuildDate>
+
+          <title>On Change with Petro du Pisani</title>
+          <link>http://solidgoldstudios.co.za/onchange</link>
+          <language>en-za</language>
+          <copyright>SoldGoldStudios.co.za</copyright>
+          <description>The podcast that explores 'change that works' and the people who make it happen.</description>
+          <itunes:subtitle>Let's talk about change - with integrity.</itunes:subtitle>
+          <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+          <itunes:summary>Experienced change practioner, Petro du Pisani, explores 'change that works' and the people who make it happen. Recorded and produced at Solid Gold Studios.</itunes:summary>
+          
+          <itunes:category text="Business" />
+          <itunes:category text="Education">
+          <itunes:category text="Training" />
+          </itunes:category>   
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>onchange@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
+
+        <item>
+               <!-- 009 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Thu, 25 Oct 2018 20:31:00 +0200</pubDate>
+
+          <!-- episoded-specific artwork
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+
+               <title>Gail Cameron | Coaching and African Leadership</title>
+               <itunes:subtitle>How executive and life coaching has evolved over the past 30 years. Emotional Intelligence, Social Intelligence, Resonant Leadership and the Quantum Physics of Leadership.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Gail Cameron (MD of the Image  Excellence Group) on how executive and life coaching has evolved over the past 30 years. They discuss excerpts from Gail's book "Authentic African Leadership," and touch on topics such as Emotional Intelligence, Social Intelligence, Resonant Leadership and the Quantum Physics of Leadership.</p><p>Extensive show notes, with links to content from this episode, are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Gail Cameron (MD of the Image Excellence Group) on how executive and life coaching has evolved over the past 30 years. They discuss excerpts from Gail's book "Authentic African Leadership," and touch on topics such as Emotional Intelligence, Social Intelligence, Resonant Leadership and the Quantum Physics of Leadership.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-009-gail-cameron.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-009-gail-cameron.mp3</guid>
+               
+               <itunes:duration>31:57</itunes:duration>
+               
+               <itunes:keywords>Coaching, Authentic African Leadership, Gail Cameron, Image Excellence Group, Emotional Intelligence , Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+               <!-- 008 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Mon, 24 Sep 2018 10:19:00 +0200</pubDate>
+
+          <!-- episoded-specific artwork
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+
+               <title>Corrie Pitzer | Resilience Engineering in Safety</title>
+               <itunes:subtitle>With Corrie Pitzer from Safemap International.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Corrie Pitzer, from Safemap International, about resilience engineering in safety.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Corrie Pitzer, from Safemap International, about resilience engineering in safety.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-008-corrie-pitzer.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-008-corrie-pitzer.mp3</guid>
+               
+               <itunes:duration>50:19</itunes:duration>
+               
+               <itunes:keywords>Corrie Pitzer, Safemap International, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+               <!-- 007 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Fri, 21 Sep 2018 15:30:00 +0200</pubDate>
+
+          <!-- episoded-specific artwork
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+
+               <title>Dr. Clifford Saunders | Reprogramming your brain</title>
+               <itunes:subtitle>With Dr. Clifford Saunders, the Brain Reprogramming Doctor, from the Centre for Applied Neuroscience in Business.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Dr. Clifford Saunders (The Brain Reprogramming Doctor) about reprogramming your brain.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Dr. Clifford Saunders (The Brain Reprogramming Doctor) about reprogramming your brain.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-007-clifford-saunders.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-007-clifford-saunders.mp3</guid>
+               
+               <itunes:duration>36:59</itunes:duration>
+               
+               <itunes:keywords>Dr. Clifford Saunders, Centre for Applied Neuroscience in Business, The Brain Doctor, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+               <!-- 006 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Mon, 16 Jul 2018 08:20:00 +0200</pubDate>
+
+          <!-- episoded-specific artwork
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+
+               <title>Harry Sinko and Gary Lane | Disruption in the mining industry</title>
+               <itunes:subtitle>With Harry Sinko and Gary Lane, from Vuuma Collaborations, talking about mining simulations, digital twins and the people change required for Mining 4.0</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Harry Sinko and Gary Lane, from Vuuma Collaborations, about mining simulations, digital twins and the people change required for Mining 4.0.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Harry Sinko and Gary Lane, from Vuuma Collaborations, about mining simulations, digital twins and the people change required for Mining 4.0.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-006-harry-sinko-and-gary-lane-disruption.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-006-harry-sinko-and-gary-lane-disruption.mp3</guid>
+               
+               <itunes:duration>29:56</itunes:duration>
+               
+               <itunes:keywords>Harry Sinko, Gary Lane, Vuuma Collaborations, SiMINE, digital twins, mining 4.0, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+          	<!-- 005 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Thu, 14 Jun 2018 15:44:00 +0200</pubDate>
+        	<!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" />
+               <title>WiMSA | Gender diversity in the mining industry</title>
+               <itunes:subtitle>With Noleen Pauls and Lindi Nakedi from 'Women in Mining South Africa (WiMSA.org.za)'</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Noleen Pauls and Lindi Nakedi from 'Women in Mining South Africa (WiMSA)' about gender diversity in the mining industry.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Noleen Pauls and Lindi Nakedi from 'Women in Mining South Africa (WiMSA) about gender diversity in the mining industry.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-005-wimsa-gender-diversity-in-mining.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-005-wimsa-gender-diversity-in-mining.mp3</guid>
+               
+               <itunes:duration>39:05</itunes:duration>
+               
+               <itunes:keywords>Noleen Pauls, Lindi Nakedi, Women in Mining South Africa, WiMSA, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+          	<!-- 004 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Fri, 30 Mar 2018 18:15:00 +0200</pubDate>
+               <title>George Lee Sye | Intersection between change management and business improvement</title>
+               <itunes:subtitle>With George Lee Sye.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to George Lee Sye about the intersection between change management and business improvement.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to George Lee Sye about the intersection between change management and business improvement.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-004-george-lee-sye.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-004-george-lee-sye.mp3</guid>
+               
+               <itunes:duration>39:02</itunes:duration>
+               
+               <itunes:keywords>George Lee Sye, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+        <item>
+          	<!-- 003 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sun, 25 Mar 2018 17:50:00 +0200</pubDate>
+               <title>Dr. Barbra Trautline | Change Intelligence (CQ)</title>
+               <itunes:subtitle>With Dr. Barbra Trautline 'Change Catalysts'</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Dr. Barbra Trautline from 'Change Catalysts' about Change Intelligence (CQ).</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Dr. Barbra Trautline from 'Change Catalysts' about Change Intelligence (CQ).</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-003-barbara-trautlein.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-003-barbara-trautlein.mp3</guid>
+               
+               <itunes:duration>41:57</itunes:duration>
+               
+               <itunes:keywords>Dr. Barbra Trautline, Change Catalysts, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+		<item>
+          	<!-- 002 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Thu, 25 Jan 2018 18:35:00 +0200</pubDate>
+               <title>Dr. Ryk Croukamp | Logotherapy and self-awareness in change</title>
+               <itunes:subtitle>With Dr. Ryk Croukamp from 'Indigo Skye'</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to Dr. Ryk Croukamp from 'Indigo Skye' about logotherapy and self-awareness in change.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to Dr. Ryk Croukamp from 'Indigo Skye' about logotherapy and self-awareness in change.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-002-ryk-croukamp.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-002-ryk-croukamp.mp3</guid>
+               
+               <itunes:duration>48:32</itunes:duration>
+               
+               <itunes:keywords>Ryk Croukamp, Indigo Skye, Logotherapy, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+		<item>
+          	<!-- 001 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sat, 18 Nov 2017 12:00:00 +0200</pubDate>
+               <title>Tom Marsicano | Change in a production environment</title>
+               <itunes:subtitle>With Tom Marsicano from 'And Change'</itunes:subtitle>
+               
+               <description><![CDATA[<p>Petro du Pisani talks to 'And Change' owner, Tom Marsicano about change in a production environment.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>Petro du Pisani talks to 'And Change' owner, Tom Marsicano about change in a production environment.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-001-tom-marsicano.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/onchange/on-change-001-tom-marsicano.mp3</guid>
+               
+               <itunes:duration>26:42</itunes:duration>
+               
+               <itunes:keywords>Tom Marsicano, And Change, change in a production environment, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+        </item>
+
+     </channel>
+</rss>

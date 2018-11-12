@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/eduthink.xml" rel="self" type="application/rss+xml" />
+          <!-- <atom:link href="http://mymate.co.za/podcasts/rss/eduthink001.xml" rel="self" type="application/rss+xml" /> -->
+          <lastBuildDate>Sun, 14 Oct 2018 15:30:00 +0200</lastBuildDate>
+          <title>EduThink with Gavin Kennedy</title>
+          <link>http://solidgoldstudios.co.za/eduthink</link>
+          <language>en-za</language>
+          <copyright>SoldGoldStudios.co.za</copyright>
+          <description>The podcast that explores Education in South Africa.</description>
+          <itunes:subtitle>"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela</itunes:subtitle>
+          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios, this is EduThink - the podcast that explores Education in South Africa. If you're a parent, a pupil, a teacher, a principal, or simply interested in education, then this podcast is for you. Hosted by entrepreneur, pragmatic optimist, and small business improvement consultant, Gavin Kennedy.</itunes:summary>
+          
+          <itunes:category text="Education" />
+          
+          <itunes:explicit>no</itunes:explicit>
+
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>eduthink@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+
+          <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />
+
+          <item>
+          	<!-- 005 -->
+               <itunes:author>Gavin Kennedy and Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Sat, 26 May 2018 14:35:00 +0200</pubDate>
+               <title>What can South African schools learn from Finland? | Jax Aitchison and Carmen Murray</title>
+               <itunes:subtitle>What do South African and Finnish schools have in common? What's different? What can we learn from Finland?</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />               
+
+               <description><![CDATA[<p>Gavin Kennedy re-broadcasts a Carmen Murray discussion with Jacqueline Aitchison, Director of Education Incorporated Boutique School, about the differences and similarities between South African and Finnish schools and what we can learn from them.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/eduthink.php">SolidGoldStudios.co.za/eduthink</a></p>]]></description>
+               <itunes:summary>Gavin Kennedy re-broadcasts a Carmen Murray discussion with Jacqueline Aitchison, Director of Education Incorporated Boutique School, about the differences and similarities between South African and Finnish schools and what we can learn from them.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduthink/eduthink-005-what-can-south-african-schools-learn-from-finland.mp3" type="audio/mpeg" length="27191352" />
+               <guid>http://podcaststudios.co.za/audio/eduthink/eduthink-005-what-can-south-african-schools-learn-from-finland.mp3</guid>
+               
+               <itunes:duration>23:13</itunes:duration>
+               <itunes:keywords>Carmen Murray, Boo-Yah!, Jax Aitchison, Education Incorporated Boutique School, Finland, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+          <item>
+          	<!-- 004 -->
+               <itunes:author>Gavin Kennedy and Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Wed, 23 May 2018 10:35:00 +0200</pubDate>
+               <title>Educating Your 22nd Century Child | Jax Aitchison and Carmen Murray</title>
+               <itunes:subtitle>What parents ought to know when choosing the right school for their child.</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />                              
+
+               <description><![CDATA[<p>Gavin Kennedy re-broadcasts a Carmen Murray discussion with Jacqueline Aitchison, Director of Education Incorporated Boutique School, about Jax's book titled 'Educating Your 22nd Century Child'.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/eduthink.php">SolidGoldStudios.co.za/eduthink</a></p>]]></description>
+               <itunes:summary>Gavin Kennedy re-broadcasts a Carmen Murray discussion with Jacqueline Aitchison, Director of Education Incorporated Boutique School, about Jax's book titled 'Educating Your 22nd Century Child'.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduthink/eduthink-004-educating-your-22nd-century-child.mp3" type="audio/mpeg" length="26046464" />
+               <guid>http://podcaststudios.co.za/audio/eduthink/eduthink-004-educating-your-22nd-century-child.mp3</guid>
+               
+               <itunes:duration>36:59</itunes:duration>
+               <itunes:keywords>Carmen Murray, Boo-Yah!, Jax Aitchison, Education Incorporated Boutique School, Educating Your 22nd Century Child, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+         <item>
+         	<!-- 003 -->
+               <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Sun, 08 Apr 2018 18:00:00 +0200</pubDate>
+               <title>Robotics in schools | Gershom Aitchison, Phillip Haas and Gordon Whitcher</title>
+               <itunes:subtitle>Is robotics in schools just for fun? Or is it the future?</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />                              
+
+               <description><![CDATA[<p>Gavin Kennedy talks to Phillip Haas, from 'Hands On Technology', Gershom Aitchison, Headmaster of Education Incorporated Boutique School, and Gordon Whitcher about the exciting world of robotics in schools. Discussion is around Lego Mindstorm and the value of robotics as part of the official curriculum, or as an extra-mural activity.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/eduthink.php">SolidGoldStudios.co.za/EduThink</a></p>]]></description>
+               <itunes:summary>Gavin Kennedy talks to Phillip Haas, from 'Hands On Technology', Gershom Aitchison, Headmaster of Education Incorporated Boutique School, and Gordon Whitcher about the exciting world of robotics in schools. Discussion is around Lego Mindstorm and the value of robotics as part of the official curriculum, or as an extra-mural activity.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduthink/eduthink-003-robotics.mp3" type="audio/mpeg" length="54539818" />
+               <guid>http://podcaststudios.co.za/audio/eduthink/eduthink-003-robotics.mp3</guid>
+               
+               <itunes:duration>44:36</itunes:duration>
+               <itunes:keywords>Gershom Aitchison, Education Incorporated Boutique School, Phillip Haas, Hands On Technology, Lego Mindstorm, Gordon Whitcher, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+         <item>
+         	<!-- 002 -->
+               <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Wed, 03 Jan 2018 09:00:00 +0200</pubDate>
+               <title>Grade 4 (il)literacy | Joan Griebenow and Aurora Schoch</title>
+               <itunes:subtitle>Why can't our children read? What can we do about it today?</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />                              
+
+               <description><![CDATA[<p>Gavin Kennedy talks to Joan Griebenow, past principal of Bryandale Primary School, and Aurora Schoch, from the Lonehill International Academy, about the alarming state of South African literacy, as well as practical strategies to turn this around.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/eduthink.php">SolidGoldStudios.co.za/EduThink</a></p>]]></description>
+               <itunes:summary>Gavin Kennedy talks to Joan Griebenow, past principal of Bryandale Primary School, and Aurora Schoch, from the Lonehill International Academy, about the alarming state of South African literacy, as well as practical strategies to turn this around.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduthink/eduthink-002-grade-4-literacy.mp3" type="audio/mpeg" length="34177312" />
+               <guid>http://podcaststudios.co.za/audio/eduthink/eduthink-002-grade-4-literacy.mp3</guid>
+               
+               <itunes:duration>33:15</itunes:duration>
+               <itunes:keywords>Joan Griebenow, Bryandale Primary School, Aurora Schoch, Lonehill Academy, PIRLS, reading, books, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+          <item>
+          	<!-- 001 -->
+               <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Wed, 22 Nov 2017 22:11:00 +0200</pubDate>
+               <title>Choosing subjects for Grade 9 pupils | Gershom Aitchison, John Skelton and Andrew Jones</title>
+               <itunes:subtitle>The importance of appropriate subject choices, and how to choose them.</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg" />                              
+
+               <description><![CDATA[<p>Gavin Kennedy talks to Education Incroporated Headmaster, Gershom Aitchison, Bryanston High Principal, John Skelton, and Andrew Jones about the challenges facing parents of Grade 9 children who must choose their subjects for the last 3 years of their schooling.</p><p>Show notes are available at <a href="http://www.solidgoldstudios.co.za/eduthink.php">SolidGoldStudios.co.za/eduthink</a></p>]]></description>
+               <itunes:summary>Gavin Kennedy talks to Education Incroporated Headmaster, Gershom Aitchison, Bryanston High Principal, John Skelton, and Andrew Jones about the challenges facing parents of Grade 9 children who must choose their subjects for the last 3 years of their schooling.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduthink/eduthink-001-subject-choices.mp3" type="audio/mpeg" length="54203585" />
+               <guid>http://podcaststudios.co.za/audio/eduthink/eduthink-001-subject-choices.mp3</guid>
+               
+               <itunes:duration>33:05</itunes:duration>
+               <itunes:keywords>John Skelton, Bryanston High School, Gershom Aitchison, Education Incorporated Boutique School, Andrew Jones, Kip McGrath, Grade 9 subject choices, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+
+
+
+
+     </channel>
+</rss>

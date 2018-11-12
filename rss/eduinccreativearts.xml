@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
+
+          <lastBuildDate>Mon, 29 Oct 2018 14:41:00 +0200</lastBuildDate>
+          <ttl>60</ttl>
+
+          <title>Edu Inc Creative Arts and Languages</title>
+          <link>http://educationincorporated.co.za</link>
+          <language>en-za</language>
+          <copyright>Education Incorporated | Solid Gold Studios</copyright>
+          <description>Education Incorporated Boutique School : Creative Arts and Language Productions</description>
+          <itunes:subtitle>Education Incorporated Boutique School : Creative Artsand Language  Productions</itunes:subtitle>
+          <itunes:author>Education Incorporated Boutique School Creative Arts and Language | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Education Incorporated Boutique School comes a selection of productions from the Creative Artsand Language Departments.</itunes:summary>
+          
+          <itunes:category text="Education" />
+          
+          <itunes:explicit>no</itunes:explicit>
+
+          <itunes:owner>
+               <itunes:name>Education Incorporated | Solid Gold Studios</itunes:name>
+               <itunes:email>podcasts@eduinc.co.za</itunes:email>
+          </itunes:owner>
+
+          <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduthink-cover-000.jpg" />
+
+          <item>
+          	<!-- 001 -->
+               <itunes:author>Education Incorporated Boutique School | Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Mon, 15 Oct 2018 20:00:00 +0200</pubDate>
+               <title>Grade 9 Radio Drama - 2018</title>
+               <itunes:subtitle>A breaking news story about a missing member of the Flat Earth Society.</itunes:subtitle>
+
+               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" />               
+
+               <description><![CDATA[<p>From Education Incorporated Grade 9s comes a radio drama about a missing member of the Flat Earth Society.</p><p>Learn more about our school at <a href="http://www.educationincorporated.co.za">Edu Inc</a></p>]]></description>
+               <itunes:summary>From Education Incorporated Grade 9s (2018) comes a radio drama about a missing member of the Flat Earth Society.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3</guid>
+               
+               <itunes:duration>2:54</itunes:duration>
+               <itunes:keywords>Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+     </channel>
+</rss>

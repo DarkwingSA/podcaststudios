@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+
+          <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
+          
+          <lastBuildDate>Mon, 01 Oct 2018 10:00:00 +0200</lastBuildDate>
+
+          <title>Melanie Walker's Grounded</title>
+          <link>http://solidgoldstudios.co.za/grounded</link>
+          <language>en-za</language>
+          <copyright>SoldGoldStudios.co.za</copyright>
+          <description>Melanie Walker's podcast that explores all things adventurous and gardening.</description>
+          <itunes:subtitle>Melanie Walker's podcast that explores all thingsadventurous and  gardening.</itunes:subtitle>
+          <itunes:author>Melanie Walker</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores outdoor adventures and gardens too.</itunes:summary>
+          
+          <itunes:category text="Sports &amp; Recreation">
+          <itunes:category text="Outdoor" />
+          </itunes:category>   
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:owner>
+               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
+               <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+      
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+          
+          <item>
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sat, 09 Sep 2017 12:00:00 +0200</pubDate>
+               <title>Shirley Wallington</title>
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="34380639" />
+               <guid>http://podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Shirley Wallington, Open Gardens Meander, Johannesburg Garden Club, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+         <item>
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sat, 23 Sep 2017 12:00:00 +0200</pubDate>
+               <title>Gavin Heron</title>
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="34336539" />
+               <guid>http://podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Gavin Heron, Earth Probiotic, Bokashi, compost, topsoil, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>          
+
+        <item>
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sat, 02 Dec 2017 12:00:00 +0200</pubDate>
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20171202.jpg" />
+               
+               <title>Misha Teasdale</title>
+               <itunes:subtitle>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:subtitle>
+               
+               <description>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting... Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+               <itunes:summary>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="29547315" />
+               <guid>http://podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid>
+               
+               <itunes:duration>26:33</itunes:duration>
+               
+               <itunes:keywords>Misha Teasdale, GreenPop, Treevolution, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>   
+
+     </channel>
+</rss>

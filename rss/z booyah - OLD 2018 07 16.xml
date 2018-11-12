@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/booyah.xml" rel="self" type="application/rss+xml" />
+          <lastBuildDate>Fri, 13 Jul 2018 08:50:00 +0200</lastBuildDate>
+          <title>Boo-Yah! with Carmen Murray</title>
+          <link>http://www.solidgoldstudios.co.za/booyah.php</link>
+          <language>en-za</language>
+          <copyright>SolidGoldStudios.co.za</copyright>
+          <description>From Solid Gold Studios, this is Boo-Yah! Your host Carmen Murray (occasionally with selected co-hosts) presents an insightful and fun show aimed at empowering everyone through sharing information and insights on trends that will set you and your brand up for success. Featuring interviews with industry heavyweights, Carmen and her guests will be unpacking everything from new technologies to the latest marketing trends as well as sharing elevant case studies to get your creative juices flowing so you can stay ahead of the curve. Carmen celebrates 'Women in Tech' and all movers and shakers who are disrupting the business world through learning about their journeys, sharing valuable lessons, and best practice empowerment strategies to make your business stand out in the new digital age.</description>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Make knowledge your superpower.</itunes:subtitle>
+          <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to Boo-Yah!</itunes:summary>
+          <itunes:category text="Technology" />
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>booyah@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/booyah/cover-main.jpg" />
+
+		 <item>
+		 	<!-- 024 -->
+               <title>How to accidentally land in game designing? | Tsitsi Chiumya</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Tsitsi Chiumya : Comedian and game designer - How to accidentally land in game designing?</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Tsitsi Chiumya : Comedian and game designer - How to accidentally land in game designing?</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Tsitsi Chiumya : Comedian and game designer - How to accidentally land in game designing?</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-024-game-changer.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-024-game-changer.mp3</guid>
+               <pubDate>Fri, 13 Jul 2018 08:30:01 +0200</pubDate>
+               <itunes:duration>30:30</itunes:duration>
+               <itunes:keywords>Tsitsi Chiumya, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+
+		 <item>
+		 	<!-- 023 -->
+               <title>Do you have 'Horny Teenage Boy' syndrome? | John Sanei</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest John Sanei : African Renaissance Man, Futurist,Best Selling Author, Faculty Member Singularity University, Global Speaker - Do you have 'Horny Teenage Boy' syndrome? 'Purpose vs Profit'.</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest John Sanei : African Renaissance Man | Futurist | Best Selling Author | Faculty Member Singularity University | Global Speaker. - Do you have 'Horny Teenage Boy' syndrome? 'Purpose vs Profit' and the launch of John's new book 'Magnetiize'.</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest John Sanei : African Renaissance Man | Futurist | Best Selling Author | Faculty Member Singularity University | Global Speaker. - Do you have 'Horny Teenage Boy' syndrome? 'Purpose vs Profit' and the launch of John's new book 'Magnetiize'.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-023-purpose-over-profit.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-023-purpose-over-profit.mp3</guid>
+               <pubDate>Tue, 10 Jul 2018 10:00:01 +0200</pubDate>
+               <itunes:duration>36:59</itunes:duration>
+               <itunes:keywords>John Sanei, Magnetize, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+		 <item>
+		 	<!-- 022 -->
+               <title>Funny is a serious business | Alfred Adriaan</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Alfred Adriaan : A top SA comedian and entrepreneur. - Funny is a serious business</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Alfred Adriaan : A top SA comedian and entrepreneur. - Funny is a serious business</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Alfred Adriaan : A top SA comedian and entrepreneur. - Funny is a serious business</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-022-funny-is-a-serious-business.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-022-funny-is-a-serious-business.mp3</guid>
+               <pubDate>Tue, 03 Jul 2018 20:00:01 +0200</pubDate>
+               <itunes:duration>29:38</itunes:duration>
+               <itunes:keywords>Alfred Adriaan, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+ 
+         <item>
+         	<!-- 021 -->
+               <title>Stokvels - how to do business with them | Candice Goodman and Kgomotso 'Mo' Malele</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and co-host Candice Goodman with guest Kgomotso 'Mo' Malele : Director Of Marketing And Business Development at BSK Marketing. - Stokvels - how to do business with them</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and co-host Candice Goodman with guest Kgomotso 'Mo' Malele : Director Of Marketing And Business Development at BSK Marketing. - Stokvels - how to do business with them</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and co-host Candice Goodman with guest Kgomotso 'Mo' Malele : Director Of Marketing And Business Development at BSK Marketing. - Stokvels - how to do business with them</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-021-how-to-do-business-with-stokvels.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-021-how-to-do-business-with-stokvels.mp3</guid>
+               <pubDate>Fri, 15 Jun 2018 09:00:01 +0200</pubDate>
+               <itunes:duration>33:14</itunes:duration>
+               <itunes:keywords>Candice Goodman, Kgomotso Mo Malele, BSK Marketing, Stokvel, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+        <item>
+        	<!-- 020 -->
+               <title>Is mobile dying? | Candice Goodman</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Candice Goodman : MD of Mobitainment SA. - Is mobile dying?</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Candice Goodman : MD of Mobitainment SA. - Is mobile dying?</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Candice Goodman : MD of Mobitainment SA. - Is mobile dying?</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-020-is-mobile-dying.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-020-is-mobile-dying.mp3</guid>
+               <pubDate>Mon, 11 Jun 2018 15:05:01 +0200</pubDate>
+               <itunes:duration>33:21</itunes:duration>
+               <itunes:keywords>Candice Goodman, Mobitainment SA, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 019 -->
+               <title>Can we beat cyber bullying? | Rianette Leibowitz</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Rianette Leibowitz : Cyber Safety Activist and Specialist, CEO at SaveTNet Cyber Safety. - Can we beat cyber bullying?</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Rianette Leibowitz : Cyber Safety Activist and Specialist, CEO at SaveTNet Cyber Safety. - Can we beat cyber bullying?</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Rianette Leibowitz : Cyber Safety Activist and Specialist, CEO at SaveTNet Cyber Safety. - Can we beat cyber bullying?</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-019-can-we-beat-cyber-bullying.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-019-can-we-beat-cyber-bullying.mp3</guid>
+               <pubDate>Wed, 06 Jun 2018 17:30:01 +0200</pubDate>
+               <itunes:duration>40:06</itunes:duration>
+               <itunes:keywords>Rianette Leibowitz, Cyber Safety Activist, SaveTNet Cyber Safety, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+ 
+          <item>
+          	<!-- 018 -->
+               <title>What can South African education learn from Finland? | Jax Aitchison - Edu Inc Boutique School</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-018-what-can-south-african-education-learn-from-finland.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-018-what-can-south-african-education-learn-from-finland.mp3</guid>
+               <pubDate>Fri, 25 May 2018 16:40:01 +0200</pubDate>
+               <itunes:duration>34:05</itunes:duration>
+               <itunes:keywords>Jax Aitchison, Education Incorporated Boutique School, Finland, IEB, 22nd Century Child, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Education</category>
+          </item>         
+
+          <item>
+          	<!-- 017 -->
+               <title>Educating Your 22nd Century Child | Jax Aitchison - Edu Inc Boutique School</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Jax Aitchison - Director and co-owner of Education Incorporated Boutique School</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-017-educating-your-22nd-century-child.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-017-educating-your-22nd-century-child.mp3</guid>
+               <pubDate>Mon, 21 May 2018 12:00:01 +0200</pubDate>
+               <itunes:duration>42:30</itunes:duration>
+               <itunes:keywords>Jax Aitchison, Education Incorporated Boutique School, IEB, 22nd Century Child, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Education</category>
+          </item>
+
+          <item>
+          	<!-- 016 -->
+               <title>Crisis Management Hacks for the Digital Age | Mikhaila Hunter</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Mikhaila Hunter - Marketing and Communications Manager at Fort</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Mikhaila Hunter - Marketing and Communications Manager at Fort</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Mikhaila Hunter - Marketing and Communications Manager at Fort</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-016-crisis-management-hacks-for-the-digital-age.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-016-crisis-management-hacks-for-the-digital-age.mp3</guid>
+               <pubDate>Wed, 16 May 2018 16:00:01 +0200</pubDate>
+               <itunes:duration>40:28</itunes:duration>
+               <itunes:keywords>Mikhaila Hunter, Fort, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 015 -->
+               <title>Building a 21st Century Brand | Benjamin Schroderer</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Benjamin Schoderer - Digital Manager Yum! Restaurants Africa and IAB Marketer of the Year</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Benjamin Schoderer - Digital Manager Yum! Restaurants Africa and IAB Marketer of the Year</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Benjamin Schoderer - Digital Manager Yum! Restaurants Africa and IAB Marketer of the Year</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-015-building-a-21st-century-brand.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-015-building-a-21st-century-brand.mp3</guid>
+               <pubDate>Mon, 30 Apr 2018 11:00:01 +0200</pubDate>
+               <itunes:duration>31:20</itunes:duration>
+               <itunes:keywords>Benjamin Schoderer, Yum!, IAB, Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 014 -->
+               <title>Everything you need to know about BBBEE for your business transformation | Chris Greyvenstein</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray with guest Chris Gryvenstein - Owner : ECS Group</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray with guest Chris Gryvenstein - Owner : ECS Group</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray with guest Chris Gryvenstein - Owner : ECS Group</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-014-bbbee-everything-you-need-to-know.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-014-bbbee-everything-you-need-to-know.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:14:01 +0200</pubDate>
+               <itunes:duration>32:14</itunes:duration>
+               <itunes:keywords>Carmen Murray, Paul Berney, Chris Gryvenstein, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 013 -->
+               <title>How Behaviour Economics impacts the Customer User Journey | Paul Berney and Kirsten Dugmore</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-013-behaviour-economics-part-2-customer-user-journey.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-013-behaviour-economics-part-2-customer-user-journey.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:13:01 +0200</pubDate>
+               <itunes:duration>29:06</itunes:duration>
+               <itunes:keywords>Carmen Murray, Paul Berney, Kirsten Dugmore, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 012 -->
+               <title>The 3 disciplines of Behaviour Economics | Paul Berney and Kirsten Dugmore</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and  Paul Berney (Founder of The Connected Marketer) with guest Kirsten Dugmore - Founder : Suga and Spice</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-012-behaviour-economics-part-1-three-disciplines.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-012-behaviour-economics-part-1-three-disciplines.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:12:01 +0200</pubDate>
+               <itunes:duration>35:18</itunes:duration>
+               <itunes:keywords>Carmen Murray, Kirsten Dugmore, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+           <item>
+           	<!-- 011 -->
+               <title>Is entrepreneurship for everyone? | Masterclass</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray's Masterclass on entrepreneurship.</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray's Masterclass on entrepreneurship.</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray's Masterclass on entrepreneurship.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-011-is-entrepreneurship-for-everyone.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-011-is-entrepreneurship-for-everyone.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:11:01 +0200</pubDate>
+               <itunes:duration>42:40</itunes:duration>
+               <itunes:keywords>Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>          
+
+          <item>
+          	<!-- 010 -->
+               <title>Finding inspiration from Albert Einstein | Carmen Murray</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo talk about Einstein and inspiration</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo talk about Einstein and inspiration</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo talk about Einstein and inspiration</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-010-finding-inspiration-from-albert-einstein.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-010-finding-inspiration-from-albert-einstein.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:10:01 +0200</pubDate>
+               <itunes:duration>37:56</itunes:duration>
+               <itunes:keywords>Carmen Murray, Albert Einstein, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+
+          <item>
+          	<!-- 009 -->
+               <title>Digital Trends | Jerry Mpufane</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Jerry Mpufane - Chairmain : M and C Saatchi Jhb Group</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Jerry Mpufane - Chairmain : M and C Saatchi Jhb Group</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Jerry Mpufane - Chairmain : M and C Saatchi Jhb Group</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-009-digital-trends.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-009-digital-trends.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:09:01 +0200</pubDate>
+               <itunes:duration>12:15</itunes:duration>
+               <itunes:keywords>Carmen Murray, Jerry Mpufane, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 008 -->
+               <title>Why the IAB 'Bookmarks' is the 'Oscars of digital' | Josephine Buys</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Josephine Buys - CEO : IAB</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Josephine Buys - CEO : IAB</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Josephine Buys - CEO : IAB</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-008-iab-bookmarks-oscars-of-digital.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-008-iab-bookmarks-oscars-of-digital.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:08:01 +0200</pubDate>
+               <itunes:duration>00:26:21</itunes:duration>
+               <itunes:keywords>Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 007 -->
+               <title>The future of work | Carmen Murray</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-007-the-future-of-work.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-007-the-future-of-work.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:07:01 +0200</pubDate>
+               <itunes:duration>00:30:11</itunes:duration>
+               <itunes:keywords>Carmen Murray, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 006 -->
+               <title>The future of entertainment, now | Surie Ramasary</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Surie Ramasary - Chief Executive : Content for Black, Cell C</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Surie Ramasary - Chief Executive : Content for Black, Cell C</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Surie Ramasary - Chief Executive : Content for Black, Cell C</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-006-the-future-of-entertainment-now.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-006-the-future-of-entertainment-now.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:06:01 +0200</pubDate>
+               <itunes:duration>00:29:48</itunes:duration>
+               <itunes:keywords>Carmen Murray, Surie Ramasary, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+
+       <item>
+       	<!-- 005 -->
+               <title>Breaking the mould as a'digital warrior' | May Lalloo</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest May Lalloo - Head of Digital : Nestle</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest May Lalloo - Head of Digital : Nestle</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest May Lalloo - Head of Digital : Nestle</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-005-digital-warrior.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-005-digital-warrior.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:05:01 +0200</pubDate>
+               <itunes:duration>28:21</itunes:duration>
+               <itunes:keywords>Carmen Murray, May Lalloo, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+ 
+        <item>
+        	<!-- 004 -->
+               <title>The Red Tent - Why has the concept of 'sisterhood' not caught up? | Taryn Smuts</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Taryn Smuts - Sales Manager : Internet Solutions</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Taryn Smuts - Sales Manager : Internet Solutions</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo with guest Taryn Smuts - Sales Manager : Internet Solutions</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-004-sisterhood.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-004-sisterhood.mp3</guid>
+               <pubDate>Thu, 26 Apr 2018 12:04:01 +0200</pubDate>
+               <itunes:duration>25:40</itunes:duration>
+               <itunes:keywords>Carmen Murray, Taryn Smuts, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+   
+         <item>
+         	<!-- 003 -->
+               <title>Overcoming obstacles | Farhana Gany</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Farhana Gany - Digital Manager : McDonalds</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Farhana Gany - Digital Manager : McDonalds</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Farhana Gany - Digital Manager : McDonalds</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-003-overcoming-obstacles.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-003-overcoming-obstacles.mp3</guid>
+               <pubDate>Wed, 25 Apr 2018 17:03:01 +0200</pubDate>
+               <itunes:duration>31:57</itunes:duration>
+               <itunes:keywords>Carmen Murray, Farhana Gany, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+   
+          <item>
+          	<!-- 002 -->
+               <title>#CutTheCrap | Lisa Steingold</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Lisa Steingold - Marketing Manager : Popimedia and author of several books including 'Cut the Crap' and 'The Power of Authenticity for Brands'.</itunes:subtitle>
+               <description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Lisa Steingold - Marketing Manager : Popimedia and author of several books including 'Cut the Crap' and 'The Power of Authenticity for Brands'.</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Lisa Steingold - Marketing Manager : Popimedia and author of several books including 'Cut the Crap' and 'The Power of Authenticity for Brands'.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-002-cut-the-crap.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-002-cut-the-crap.mp3</guid>
+               <pubDate>Wed, 25 Apr 2018 17:02:01 +0200</pubDate>
+               <itunes:duration>28:23</itunes:duration>
+               <itunes:keywords>Carmen Murray, Lisa Steingold, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+          <item>
+          	<!-- 001 -->
+               <title>Five valuable secrets to a successful career in technology | Daniella Louw</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Daniella Louw - MD : IMDM</itunes:subtitle>
+				<description><![CDATA[<p>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Daniella Louw - MD : IMDM.</p><p>another <em>Solid Gold</em> podcast : <a href="http://www.solidgoldstudios.co.za/booyah.php">SolidGoldStudios.co.za/booyah</a></p>]]></description>
+               <itunes:summary>Boo-Yah! owner Carmen Murray and Jessica McEndoo speak to Daniella Louw - MD : IMDM</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/booyah/booyah-001-5-valuable-secrets-for-women-in-tech.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/booyah/booyah-001-5-valuable-secrets-for-women-in-tech.mp3</guid>
+               <pubDate>Wed, 25 Apr 2018 17:01:01 +0200</pubDate>
+               <itunes:duration>22:47</itunes:duration>
+               <itunes:keywords>Carmen Murray, Daniella Louw, Boo-Yah, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <category>Technology</category>
+          </item>
+
+     </channel>
+</rss>

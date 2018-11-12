@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
+          <lastBuildDate>Tue, 21 Aug 2018 08:25:00 +0200</lastBuildDate>
+          <title>The Carmen Murray Show</title>
+          <link>http://www.solidgoldstudios.co.za/thecarmenmurrayshow.php</link>
+          <language>en-za</language>
+          <copyright>SolidGoldStudios.co.za</copyright>
+          <description>From Solid Gold Studios, this is The Carmen Murray Show. Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!</description>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>
+          <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to The Carmen Murray Show</itunes:summary>
+          <itunes:category text="Business" />
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+
+          <item>
+               <!-- 0006 -->
+               <itunes:episode>6</itunes:episode>
+               <title>"MARS"terclass #MarsOne | Adriana Marais</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project</itunes:subtitle>
+               <description><![CDATA[<p>South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-006-adriana-marais.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-006-adriana-marais.mp3</guid>
+               <pubDate>Tue, 21 Aug 2018 08:24:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>35:45</itunes:duration>
+               <itunes:keywords>Adriana Marais, #MarsOne, Fearless Women, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>          
+
+          <item>
+               <!-- 0005 -->
+               <itunes:episode>5</itunes:episode>
+               <title>Fearless Women | Mandy Wiener</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-005-mandy-wiener.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-005-mandy-wiener.mp3</guid>
+               <pubDate>Wed, 15 Aug 2018 16:50:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>25:51</itunes:duration>
+               <itunes:keywords>Mandy Wiener, Fearless Women, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>          
+
+          <item>
+               <!-- 0004 -->
+               <itunes:episode>4</itunes:episode>
+               <title>Gender Equality | Jeremy Maggs</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-004-maggs-on-media-gender-equality.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-004-maggs-on-media-gender-equality.mp3</guid>
+               <pubDate>Tue, 11 Aug 2018 11:00:00 +0200</pubDate>
+               <itunes:episodeType>Bonus</itunes:episodeType>
+               <itunes:duration>6:41</itunes:duration>
+               <itunes:keywords>Jeremy Maggs, Maggs on Media eNews, Gender Equality, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+           <item>
+               <!-- 0003 -->
+               <itunes:episode>3</itunes:episode>
+               <title>Fearless Women | Jenna Clifford</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-003-jenna-clifford.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-003-jenna-clifford.mp3</guid>
+               <pubDate>Mon, 06 Aug 2018 18:10:00 +0200</pubDate>
+               <itunes:duration>21:54</itunes:duration>
+               <itunes:keywords>Jenna Clifford, Jewellery, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+           <item>
+               <!-- 0002 -->
+               <itunes:episode>2</itunes:episode>
+               <title>Brain Dump | John Vlismas</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-002-john-vlismas.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-002-john-vlismas.mp3</guid>
+               <pubDate>Fri, 27 Jul 2018 08:00:00 +0200</pubDate>
+               <itunes:duration>33:25</itunes:duration>
+               <itunes:keywords>John VLismas, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+     	<item>
+		 	<!-- 0001 -->
+               <itunes:episode>1</itunes:episode>
+               <title>GDPR and POPIA - What you need to know | Elizabeth de Stadler</title>
+               <itunes:author>Carmen Murray</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-001-gdpr-and-popia.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-001-gdpr-and-popia.mp3</guid>
+               <pubDate>Thu, 26 Jul 2018 08:00:00 +0200</pubDate>
+               <itunes:duration>36:54</itunes:duration>
+               <itunes:keywords>Elizabeth de Stadler, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- <category>Technology</category> -->
+          </item>
+
+     </channel>
+</rss>
