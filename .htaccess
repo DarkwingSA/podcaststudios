@@ -1,0 +1,32 @@
+## Redirect requests for a non-existant directory to a .php file of the same name ##
+## RewriteEngine on ##
+## RewriteCond %{REQUEST_FILENAME}.php -f ##
+## RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [L] ##
+## End ##
+
+
+## force re-load of all media files - cache control ##
+RewriteEngine On
+<FilesMatch "\.(mp3|mp4|mpeg|wav)$">
+  FileETag None
+  <IfModule mod_headers.c>
+    Header unset ETag
+    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "Wed, 12 Jan 1980 05:00:00 GMT"
+  </IfModule>
+</FilesMatch>
+## End ##
+
+
+## block bots ##
+RewriteEngine On
+## RewriteCond %{HTTP_USER_AGENT} (googlebot|CFNetwork|python|python-urllib|core|favicon|ips-agent|commons-httpclient|Dalvik|simplepie|Googlebot-video|twitterbot|netcraft|Exabot|bingbot|Baiduspider) [NC] ##
+RewriteCond %{HTTP_USER_AGENT} (googlebot|Googlebot-video|twitterbot|Exabot|bingbot|Baiduspider) [NC]
+RewriteRule .* - [R=403,L]
+## End ##
+
+
+## Customer error pages - yes, re-direct to SGS website :-) ##
+ErrorDocument 404 https://solidgoldstudios.co.za/index.php?utm_source=404%20from%20podcaststudios%20co%20za
+## End ##
