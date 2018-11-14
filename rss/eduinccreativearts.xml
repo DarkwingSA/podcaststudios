@@ -3,8 +3,8 @@
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
 
-          <lastBuildDate>Mon, 29 Oct 2018 14:41:00 +0200</lastBuildDate>
-          <ttl>60</ttl>
+          <lastBuildDate>Tue, 13 Nov 2018 10:40:00 +0200</lastBuildDate>
+          <ttl>30</ttl>
 
           <title>Edu Inc Creative Arts and Languages</title>
           <link>http://educationincorporated.co.za</link>
@@ -24,7 +24,29 @@
                <itunes:email>podcasts@eduinc.co.za</itunes:email>
           </itunes:owner>
 
-          <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduthink-cover-000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduthink-cover-000.jpg?=v2" />
+
+          <item>
+          	<!-- 002 -->
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Tue, 13 Nov 2018 10:40:00 +0200</pubDate>
+               <title>We are a Boutique School in Fourways</title>
+               <itunes:subtitle>We are a Boutique School in Fourways</itunes:subtitle>
+
+               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
+
+               <description><![CDATA[<p>We are a Boutique School in Fourways.</p><p> Learn more about our school at <a href="http://www.educationincorporated.co.za">Edu Inc Website</a></p>]]></description>
+               <itunes:summary>We are a Boutique School in Fourways.</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3</guid>
+               
+               <itunes:duration>00:30</itunes:duration>
+               <itunes:keywords>Malcolm Gooding, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy</itunes:keywords>
+               
+          </item>
 
           <item>
           	<!-- 001 -->
@@ -35,9 +57,9 @@
                <title>Grade 9 Radio Drama - 2018</title>
                <itunes:subtitle>A breaking news story about a missing member of the Flat Earth Society.</itunes:subtitle>
 
-               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" />               
+               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg?=v1" />               
 
-               <description><![CDATA[<p>From Education Incorporated Grade 9s comes a radio drama about a missing member of the Flat Earth Society.</p><p>Learn more about our school at <a href="http://www.educationincorporated.co.za">Edu Inc</a></p>]]></description>
+               <description><![CDATA[<p>From Education Incorporated Grade 9s comes a radio drama about a missing member of the Flat Earth Society.</p><p>Learn more about our school at <a href="http://www.educationincorporated.co.za">Edu Inc Website</a></p>]]></description>
                <itunes:summary>From Education Incorporated Grade 9s (2018) comes a radio drama about a missing member of the Flat Earth Society.</itunes:summary>
 
                <enclosure url="http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3" type="audio/mpeg" length="0" />
