@@ -24,7 +24,30 @@
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
 
-          <lastBuildDate>Sat, 10 Nov 2018 09:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Sat, 17 Nov 2018 09:15:00 +0200</lastBuildDate>
+
+      <item>
+            <!-- 019 -->
+            <itunes:episode>19</itunes:episode>
+               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Sat, 17 Nov 2018 09:10:00 +0200</pubDate>
+               <title>Amazing Grace and The Book of Face | 17 November 2018</title>
+               <itunes:subtitle>Lance Zeeman's Weekend Party Entertainment Report.</itunes:subtitle>
+               
+               <description><![CDATA[<p>The crime caper Widows is at the movies, Aretha Frankin's gospel concert finally gets a release some 40 years after it was filmed. Cheech and Chong are pushing hemp based grooming products, Facebook are trying to lure back the teens as Spielberg, Winfrey and Jones reunite for another shot at The Color Purple. Your favorite horror character is now ready to 'slash' your Christmas tree.</p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty.php">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+               <itunes:summary>The crime caper Widows is at the movies, Aretha Frankin's gospel concert finally gets a release some 40 years after it was filmed. Cheech and Chong are pushing hemp based grooming products, Facebook are trying to lure back the teens as Spielberg, Winfrey and Jones reunite for another shot at The Color Purple. Your favorite horror character is now ready to 'slash' your Christmas tree.</itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-019.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-019.mp3</guid>
+               
+               <itunes:duration>02:28</itunes:duration>
+               
+               <itunes:keywords>Widows,Viola Davis, Aretha Franklin, Oprah, Spielberg, Facebook,trick or treat,Leatherface,jigsaw,lasso,Sade,Cheech and Chong,The Color Purple, Weekend Party, Entertainment Report, Lance Zeeman, Hot 91.9 FM, Solid Gold Podcasts</itunes:keywords>
+                                                            
+      </item>
 
       <item>
             <!-- 018 -->
@@ -32,7 +55,7 @@
                <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
-               <pubDate>Sat, 10 Nov 2018 09:30:00 +0200</pubDate>
+               <pubDate>Sat, 10 Nov 2018 09:40:00 +0200</pubDate>
                <title>Spiders, Sequels, Spice Girls and Little Mix | 10 November 2018</title>
                <itunes:subtitle>Lance Zeeman's Weekend Party Entertainment Report.</itunes:subtitle>
                
@@ -41,7 +64,7 @@
                <itunes:summary>Lance Zeeman presents his 'Weekend Party' Entertainment Report. Everything you should be looking out for in the world of entertainment. In this episode : Computer Hacker Lisbeth Salander is back as Hollywood gets an overdose of sequelitis. Next up is Austin Powers, Gladiator and Shrek. The Spice Girls are back minus Posh, but Little Mix is where Girl Power is at as Duran Duran become socially aware courtesy of David Medina.</itunes:summary>
                
                <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-018.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-018.mp4</guid>
+               <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-018.mp3</guid>
                
                <itunes:duration>02:14</itunes:duration>
                
