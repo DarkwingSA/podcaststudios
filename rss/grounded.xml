@@ -6,7 +6,7 @@
 
 
 <!-- NB UPDATE THIS EVERY TIME -->          
-          <lastBuildDate>Thu, 15 Nov 2018 19:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 19 Nov 2018 09:00:00 +0200</lastBuildDate>
 <!-- NB UPDATE THIS EVERY TIME -->
 
 
@@ -34,6 +34,41 @@
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
 
     <item>
+             <!-- OUR RSS NUMBER 0011 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>All the Deliciousness that is Jane! | Jane Griffiths</title>
+               <pubDate>Sat, 17 Nov 2018 08:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023a.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>All the Deliciousness that is Jane! | Melanie Walker and Michael Rickhoff with Jane Griffiths (Author of Jane's Delicious Garden/Kitchen/Herbs/Urban Gardening and A-Z of vegetables)</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>The well-known veggie garden girl has branched out into a range of fantastic skincare products, specifically created with the avid gardener in mind. Sore back from bending over your floral beauties? There's a muscle rub for that. Fingers and hands grubby and chafed from planting? There's a balm to soothe your frustrated fingers. Tired of getting bitten by the garden bugs - not the good variety? She's created a bug-off spray for that too! The perfect way to keep your body in the same great shape your mind is in after gardening, and the perfect gift for the special gardener in your life.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>The well-known veggie garden girl has branched out into a range of fantastic skincare products, specifically created with the avid gardener in mind. Sore back from bending over your floral beauties? There's a muscle rub for that. Fingers and hands grubby and chafed from planting? There's a balm to soothe your frustrated fingers. Tired of getting bitten by the garden bugs - not the good variety? She's created a bug-off spray for that too! The perfect way to keep your body in the same great shape your mind is in after gardening, and the perfect gift for the special gardener in your life.</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3</guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>26:03</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Jane Griffiths, Veggie Garden, herbs, vegetables, skincare, natural, organic, delicious, Jane Griffiths, Mike Rickhoff, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+    <item>
              <!-- OUR RSS NUMBER 0010 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
@@ -44,7 +79,7 @@
                <pubDate>Thu, 15 Nov 2018 19:00:00 +0200</pubDate>
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
 
-             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
 			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181115a.jpg" />
              <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
 
