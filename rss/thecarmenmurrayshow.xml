@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
-          <lastBuildDate>Sun, 11 Nov 2018 15:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 19 Nov 2018 13:50:00 +0200</lastBuildDate>
           <title>The Carmen Murray Show</title>
           <link>http://www.solidgoldstudios.co.za/thecarmenmurrayshow.php</link>
           <language>en-za</language>
@@ -18,6 +18,22 @@
                <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+
+          <item>
+               <!-- 0012 -->
+               <itunes:episode>12</itunes:episode>
+               <pubDate>Mon, 19 Nov 2018 13:50:00 +0200</pubDate>
+               <title>Smarter ways to disrupt you | Timothy Maurice Webster</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Timothy Maurice Webster joins Carmen Murray for a fun and inspiring discussion about life, evolving yourself and the importance of The Brain and Brand Science to develop your own personal brand intelligence.</itunes:subtitle>
+               <description><![CDATA[<p>Timothy Maurice Webster, Author, Radio Host, TV Presenter, Podcaster, columnist, International Speaker,  Brain and Brand expert, introduces bold thinking that questions the value of personal branding and how to navigate the complexity of measuring your identity in varying leadership environments.  Like EQ/Emotional Intelligence, PBQ is a way to create heightened awareness of your personal brand potential that shares research, case studies and Timothy’s personal experience with leaders and influencers around the world. Learn more on Www.timothymaurice.com</p><p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Timothy Maurice Webster, Author, Radio Host, TV Presenter, Podcaster, columnist, International Speaker,  Brain and Brand expert, introduces bold thinking that questions the value of personal branding and how to navigate the complexity of measuring your identity in varying leadership environments.  Like EQ/Emotional Intelligence, PBQ is a way to create heightened awareness of your personal brand potential that shares research, case studies and Timothy’s personal experience with leaders and influencers around the world. Learn more on Www.timothymaurice.com</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-012-timothy-maurice-webster.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-012-timothy-maurice-webster.mp3</guid>
+               <itunes:duration>42:48</itunes:duration>
+               <itunes:keywords>Timothy Maurice Webster, disrupt evolve yourself, diversity, author, personal brand building, neuroscience, leadership, Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, AI, marketing, mobile, speaker, Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
 
           <item>
                <!-- 0011 -->
