@@ -6,7 +6,7 @@
 
 
 <!-- NB UPDATE THIS EVERY TIME -->          
-          <lastBuildDate>Sat, 10 Nov 2018 10:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 15 Nov 2018 19:00:00 +0200</lastBuildDate>
 <!-- NB UPDATE THIS EVERY TIME -->
 
 
@@ -32,6 +32,43 @@
           </itunes:owner>
       
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+
+    <item>
+             <!-- OUR RSS NUMBER 0010 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>Come on down and see (for) yourself | Heather Mac and Tim Parr</title>
+               <pubDate>Thu, 15 Nov 2018 19:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181115a.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>Join Heather Mac and Tim Parr as they talk to Melanie Walker about their up-coming reunion tour in Joburg</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Come on down and see (for) yourself | Melanie Walker with Heather Mac and Tim Parr</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Come on down and see (for) yourself | Melanie Walker with Heather Mac and Tim Parr</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3</guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>22:01</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Heather Mac and Tim Parr, Heather Mac, Tim Parr, Ella Mental, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
 
     <item>
              <!-- OUR RSS NUMBER 0009 -->
