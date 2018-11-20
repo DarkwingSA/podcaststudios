@@ -5,7 +5,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
-          <lastBuildDate>Tue, 20 Nov 2018 11:40:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 20 Nov 2018 10:00:00 +0200</lastBuildDate>
 
           <title>On Change with Petro du Pisani</title>
           <link>http://solidgoldstudios.co.za/onchange</link>
@@ -33,7 +33,7 @@
                <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
-               <pubDate>Tue, 20 Nov 2018 11:40:00 +0200</pubDate>
+               <pubDate>Tue, 20 Nov 2018 10:00:00 +0200</pubDate>
 
           <!-- episoded-specific artwork
                <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
@@ -44,7 +44,7 @@
                <description><![CDATA[<p>My guest is Steven Heyman (owner of Yogaworks), whose Vinyasa Flow class is a firm favourite of mine at The Yoga Republic. In this episode we explore how he went from being the managing director of a logistics company to becoming a yoga teacher. We also talk about the practice of mindfulness.</p><p>Extensive show notes, with links to content from this episode, are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
                <itunes:summary>My guest is Steven Heyman (owner of Yogaworks), whose Vinyasa Flow class is a firm favourite of mine at The Yoga Republic. In this episode we explore how he went from being the managing director of a logistics company to becoming a yoga teacher. We also talk about the practice of mindfulness.</itunes:summary>
                
-               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-010-steven-heyman.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="http://podcaststudios.co.za/audio/on-change-010-steven-heyman.mp3" type="audio/mpeg" length="0" />
                <guid>http://podcaststudios.co.za/audio/onchange/on-change-010-steven-heyman.mp3</guid>
                
                <itunes:duration>36:28</itunes:duration>
