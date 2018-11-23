@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/emotioninmotion.xml" rel="self" type="application/rss+xml" />
+
+       <ttl>30</ttl>
+       <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
+
+       <lastBuildDate>Sat, 10 Nov 2018 18:12:00 +0200</lastBuildDate>
+
+
+          <title>Emotion in Motion with Charlotte D Blignaut</title>
+          <link>http://www.solidgoldstudios.co.za/emotioninmotion</link>
+          <language>en-za</language>
+          <copyright>SolidGoldStudios.co.za</copyright>
+          <description>Open minded mindfulness - exploring the change in Mindsets required and the relationship with evolving Consciousness in our world.  Including various options shared for coping, plus bonus in learning how to expand your own consciousness, We will discuss, coach or chat, with you the audience and with various people, who are seen as leaders of change, where change has been embraced is prevalent and working well. Uncovering and sharing the many varied ways and means for improving inner balance, joy and creating authenticity of our lives life within.</description>
+
+
+          <itunes:type>serial</itunes:type>
+          <itunes:explicit>no</itunes:explicit>
+
+          <itunes:subtitle>How You Communicate is How You Succeed</itunes:subtitle>
+          <itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to Emotion in Motion</itunes:summary>
+          <itunes:category text="Health" />
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>emotioninmotion@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
+
+     	<item>
+		 	<!-- Season 01 - episode 0003 -->
+		 	<itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+               <title>Coping with Change within | Deon Groenewald (Trainer, Coach, Owner of the Action Factory and Mental Kombat)</title>
+               <itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Coaching and NLP (Neuro Linguistic Programming) and the role it plays in coaching behaviour</itunes:subtitle>
+               <description><![CDATA[<p>Understanding the origins of NLP, from the 1970's where it was created and why it was created to assist people to shift and change behaviour. Creating clarity within.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
+               <itunes:summary>Understanding the origins of NLP, from the 1970's where it was created and why it was created to assist people to shift and change behaviour. Creating clarity within.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e003-deon-groenewald.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e003-deon-groenewald.mp3</guid>
+               <pubDate>Sat, 10 Nov 2018 17:03:00 +0200</pubDate>
+               <itunes:duration>01:41:09</itunes:duration>
+               <itunes:keywords> coaching, coach, NLP, neuro linguistic programming, reframing,MIND, Charlotte D Blignaut, Emotion in Motion, Solid Gold podcast studios</itunes:keywords>
+        </item>
+
+     	<item>
+		 	<!-- Season 01 - episode 0002 -->
+		 	<itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+               <title>Angels and You | Carol Vasconcelos (Business owner and South African Principal teacher of the non profit Diana Cooper School of Teachers)</title>
+               <itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Connecting with your Angels</itunes:subtitle>
+               <description><![CDATA[<p>Learning how to connect with your Angels for your life support. Asking the name, Using and holding your Soul blueprint the job of your Angels.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
+               <itunes:summary>Learning how to connect with your Angels for your life support. Asking the name, Using and holding your Soul blueprint the job of your Angels.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e002-carol-vasconcelos.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e002-carol-vasconcelos.mp3</guid>
+               <pubDate>Sat, 10 Nov 2018 17:02:00 +0200</pubDate>
+               <itunes:duration>01:45:54</itunes:duration>
+               <itunes:keywords>angels, reiki, healing, crystals, guardian angels, stress, health, wellness, Charlotte D Blignaut, Emotion in Motion, Solid Gold podcast studios</itunes:keywords>
+        </item>
+
+     	<item>
+		 	<!-- Season 01 - episode 0001 -->
+		 	<itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+               <title>Coping with change in the Corporate world | George Woods (Business Owner, Community Leader)</title>
+               <itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>How the Corporate World is coping with change</itunes:subtitle>
+               <description><![CDATA[<p>Discussion with George, a natural and successful leader in various key businesses, both in South Africa, and internationally, how the corporate world is adopting change policies, transparency and embracing transformation.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
+               <itunes:summary>Discussion with George, a natural and successful leader in various key businesses, both in South Africa, and internationally, how the corporate world is adopting change policies, transparency and embracing transformation.</itunes:summary>
+               <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e001-george-woods.mp3" type="audio/mpeg" length="0" />
+               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-001-george-woods.mp3</guid>
+               <pubDate>Sat, 10 Nov 2018 17:01:00 +0200</pubDate>
+               <itunes:duration>01:25:00</itunes:duration>
+               <itunes:keywords>change, expert, leadership, corporate, transformation, George Woods, Charlotte D Blignaut, Emotion in Motion, Solid Gold podcast studios</itunes:keywords>
+        </item>        
+
+     </channel>
+</rss>

@@ -27,6 +27,28 @@
           <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduthink-cover-000.jpg?=v2" />
 
           <item>
+               <!-- 003 -->
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+
+               <pubDate>Wed, 21 Nov 2018 11:30:00 +0200</pubDate>
+               <title>2 Things Every Parent Wishes They'd Known Sooner</title>
+               <itunes:subtitle>2 Things Every Parent Wishes They'd Known Sooner</itunes:subtitle>
+
+               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
+
+               <description><![CDATA[<p>2 Things Every Parent Wishes They'd Known Sooner</p><p> Learn more about our school at <a href="http://www.educationincorporated.co.za">Edu Inc Website</a></p>]]></description>
+               <itunes:summary>2 Things Every Parent Wishes They'd Known Sooner</itunes:summary>
+
+               <enclosure url="http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4" type="video/mp4" length="0" />
+               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid>
+               
+               <itunes:duration>00:30</itunes:duration>
+               <itunes:keywords>Malcolm Gooding, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy</itunes:keywords>
+               
+          </item>
+
+          <item>
           	<!-- 002 -->
                <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
