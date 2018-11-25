@@ -43,8 +43,9 @@
 
             <!-- AUDIO ONLY -->
             <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-020.mp3" type="audio/mpeg" length="0" />
+            
 
-            <!-- if video then use this one
+            <!-- VIDEO VERSION
             <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-020.mp3" type="video/mp4" length="0" />
             -->
                
