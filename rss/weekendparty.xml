@@ -25,10 +25,10 @@
           <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
           <itunes:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy</itunes:keywords>
 
-          <lastBuildDate>Sat, 17 Nov 2018 09:15:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 26 Nov 2018 08:30:00 +0200</lastBuildDate>
 
       <item>
-            <!-- 020 at home now -->
+            <!-- 020 -->
             <itunes:episode>20</itunes:episode>
             <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
             <itunes:explicit>no</itunes:explicit>
@@ -41,18 +41,19 @@
 
             <itunes:summary>The submarine movie Hunter Killer hits the movie screen, Snoop Dogg gets his Star on the Walk of Fame, Space Jam 2 is happening, A David Bowie virtual museum will be a downloadable app. Kanye West and Mark Zuckerberg do Karaoke and Toxic is Oxford's word of the year.</itunes:summary>
 
-            <!-- AUDIO ONLY -->
+<!-- AUDIO ONLY
             <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-020.mp3" type="audio/mpeg" length="0" />
+-->
 
-            <!-- if video then use this one
-            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-020.mp3" type="video/mp4" length="0" />
-            -->
+<!-- if video then use this one -->
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-020.mp4" type="video/mp4" length="0" />
+<!-- -->
                
 <!-- leaving out to test
             <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-019.mp3</guid>
 -->
                
-            <itunes:duration>02:28</itunes:duration>
+            <itunes:duration>02:39</itunes:duration>
                
             <itunes:keywords>Hunter Killer, Gerard Butler, Common, Gary Oldman, Linda Cardellini, Space Jam 2, Le Bron James, David Bowie Is, 2651, Snoop Dogg, Walk of Fame, Toxic, Kanye, Zuckerberg, Bugs Bunny, Daffy Duck</itunes:keywords>
                                                             
