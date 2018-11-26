@@ -2,13 +2,16 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
-
-          <lastBuildDate>Mon, 26 Nov 2018 09:00:00 +0200</lastBuildDate>
-
+          <ttl>30</ttl>
           <title>The Carmen Murray Show</title>
           <link>http://www.solidgoldstudios.co.za/thecarmenmurrayshow.php</link>
           <language>en-za</language>
           <copyright>SolidGoldStudios.co.za</copyright>
+
+
+          <lastBuildDate>Mon, 26 Nov 2018 09:00:00 +0200</lastBuildDate>
+
+
           <description>From Solid Gold Studios, this is The Carmen Murray Show. Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!</description>
           <itunes:explicit>no</itunes:explicit>
           <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>

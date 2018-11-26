@@ -3,7 +3,6 @@
      <channel>
 
           <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
-
           <ttl>30</ttl>
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
           <link>http://solidgoldstudios.co.za/weekendreport</link>
