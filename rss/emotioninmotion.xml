@@ -6,7 +6,7 @@
        <ttl>30</ttl>
        <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
 
-       <lastBuildDate>Tue, 27 Nov 2018 10:30:00 +0200</lastBuildDate>
+       <lastBuildDate>Tue, 27 Nov 2018 11:20:00 +0200</lastBuildDate>
 
 
           <title>Emotion in Motion with Charlotte D Blignaut</title>
@@ -30,8 +30,48 @@
 
             <itunes:keywords>Charlotte D Blignaut, Emotion in Motion, hidden genius superpower, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
 
-          <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s02-0000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s02-0000.jpg?ver=20181127" />
 
+
+          <item>
+		 	<!-- Season 02 - episode 001b fix guid -->
+		 	<itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
+
+		 	<itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <title>Are your Mindsets keeping YOU, YOUR Business, YOUR Life super small?</title>
+               
+            <itunes:subtitle>Did you know - Neuroscience proves, you can change the mindsets that want to?</itunes:subtitle>
+            
+            <description><![CDATA[<p>DID YOU KNOW - Challenging your own Mindsets has never been this easy. Its about your perspective and its about the parts of you that truly DESIRE behaviour and thinking changes.
+You can relearn how to think.
+But you have to be willing to have fun, laugh at self and with self, and be open to embracing an open mind. 
+AND if Self Mastery and Self Actualisation is what you aspire to, then this is a podcast you do not want to miss!
+Is that you?
+Do you want to become more profitable as a person? 
+Do you want to love and live openly with your Hidden Genius SuperPower?
+Your comments and feedback are encouraged!
+Together we can do anything! Together we are stronger!</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
+            <itunes:summary>DID YOU KNOW - Challenging your own Mindsets has never been this easy. Its about your perspective and its about the parts of you that truly DESIRE behaviour and thinking changes.
+You can relearn how to think.
+But you have to be willing to have fun, laugh at self and with self, and be open to embracing an open mind. 
+AND if Self Mastery and Self Actualisation is what you aspire to, then this is a podcast you do not want to miss!
+Is that you?
+Do you want to become more profitable as a person? 
+Do you want to love and live openly with your Hidden Genius SuperPower?
+Your comments and feedback are encouraged!
+Together we can do anything! Together we are stronger!</itunes:summary>
+            
+            <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3" type="audio/mpeg" length="0" />
+            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3</guid>
+            
+            <pubDate>Tue, 27 Nov 2018 11:20:00 +0200</pubDate>
+            <itunes:duration>45:09</itunes:duration>
+            
+            <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s02-0000.jpg" />
+            
+            <itunes:keywords>Self Mastery, Self Actualisation, Your Hidden Genius SuperPower, personal profiler, body4brains, coaching, neuroscience, neuroplasticity, thought leaders, profit</itunes:keywords>
+        </item>
 
           <item>
 		 	<!-- Season 02 - episode 001 -->
@@ -63,9 +103,9 @@ Your comments and feedback are encouraged!
 Together we can do anything! Together we are stronger!</itunes:summary>
             
             <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3" type="audio/mpeg" length="0" />
-            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower</guid>
+            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3</guid>
             
-            <pubDate>Tue, 27 Nov 2018 10:30:00 +0200</pubDate>
+            <pubDate>Tue, 27 Nov 2018 10:33:00 +0200</pubDate>
             <itunes:duration>45:09</itunes:duration>
             
             <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s02-0000.jpg" />
