@@ -26,7 +26,7 @@
 
           <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
 
-          <media:copyright>SoldGoldStudios.co.za all rights reserved</media:copyright>
+          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
           <media:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
           <media:category>Business</media:category>
@@ -47,7 +47,59 @@
           <ttl>30</ttl>
 
           <lastBuildDate>Fri, 23 Nov 2018 14:15:00 +0200</lastBuildDate>
-      
+   
+    <item>
+          <!-- OUR RSS NUMBER 0013 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Saving SA's Eco Heritage | Andrew Hankey</title>
+          <itunes:title>Saving SA's Eco Heritage | Andrew Hankey</itunes:title>
+          <itunes:subtitle>If we don't do it, we all lose out - Saving South Africa's sacred eco-resources</itunes:subtitle>
+          <itunes:duration>27:20</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>13</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122a.jpg" />
+
+          <pubDate>Sat, 01 Dec 2018 08:08:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+The Walter Sisulu National Botanical Garden is not only one of our country's top SANBI sites, but also a hotbed of one-hit wonders!
+
+Exactly 100 years after its first discovery, the Brachychorythis conica subspecies transvaalensis - which only has a handful of breeding sites left and has been placed on the Red List of critically endangered species - was officially named the Albertina Sisulu Orchid earlier this year.
+
+First discovered in Pretoria in 1918, the same year the world discovered a woman who would rock the Apartheid struggle to its core,The Krugersdorp population is now under threat of obliteration if plans to develop a 3000 unit complex on the ridges above the Walter Sisulu Botanical gardens go ahead.
+
+Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a breakdown of how the Bot Gardens work and advice on how to help save this endangered species.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+The Walter Sisulu National Botanical Garden is not only one of our country's top SANBI sites, but also a hotbed of one-hit wonders!
+
+Exactly 100 years after its first discovery, the Brachychorythis conica subspecies transvaalensis - which only has a handful of breeding sites left and has been placed on the Red List of critically endangered species - was officially named the Albertina Sisulu Orchid earlier this year.
+
+First discovered in Pretoria in 1918, the same year the world discovered a woman who would rock the Apartheid struggle to its core,The Krugersdorp population is now under threat of obliteration if plans to develop a 3000 unit complex on the ridges above the Walter Sisulu Botanical gardens go ahead.
+
+Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a breakdown of how the Bot Gardens work and advice on how to help save this endangered species.
+          </itunes:summary>
+
+          <itunes:keywords>Andrew Hankey, Walter Sisulu Botanical Gardens, Albertina Sisulu Orchid, redlist, plants, horticulture</itunes:keywords>
+
+          <media:content url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" fileSize="26587054" />
+
+          <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="0" />
+
+          <guid isPermaLink="false">Grounded 20181122a></guid>
+                                                         
+    </item>
+
 
     <item>
           <!-- OUR RSS NUMBER 0012 -->
@@ -84,12 +136,8 @@
           <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
 
           <guid isPermaLink="false">Grounded 20181003a></guid>
-
-<!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3</guid> -->
-                                                            
-          </item>
-
-
+                                                         
+    </item>
 
     <item>
              <!-- OUR RSS NUMBER 0011 -->
