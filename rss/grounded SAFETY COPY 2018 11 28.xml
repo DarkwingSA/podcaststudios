@@ -1,95 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
      <channel>
-
-          <title>Melanie Walker's Grounded</title>
-          <link>https://solidgoldstudios.co.za/grounded</link>
-          <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</managingEditor>
-          <language>en-za</language>
-          <copyright>Solid Gold Studios - all rights reserved</copyright>
-          <description>Melanie Walker's podcast exploring all things gardening.</description>
-
-          <image>
-            <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
-            <title>Grounded Podcast</title>
-            <link>https://solidgoldstudios.co.za/grounded</link>
-          </image>
-
-          <itunes:explicit>no</itunes:explicit>
-          <itunes:type>episodic</itunes:type>
-          <itunes:subtitle>Melanie Walker's podcast about gardening and adventure.</itunes:subtitle>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-          <itunes:summary>Welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening, nature, adventure, and all things Grounded.</itunes:summary>
-
-          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
 
           <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
 
-          <media:copyright>SoldGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
-          <media:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
-          <media:category>Business</media:category>
 
-          <itunes:owner>
-               <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
-               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
-          </itunes:owner>
+<!-- NB UPDATE THIS EVERY TIME -->          
+          <lastBuildDate>Fri, 23 Nov 2018 14:15:00 +0200</lastBuildDate>
+<!-- NB UPDATE THIS EVERY TIME -->
 
-          <itunes:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
-
-          <itunes:category text="Sports &amp; Recreation">
-          <itunes:category text="Outdoor" />
-          </itunes:category> 
-
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
 
           <ttl>30</ttl>
-
-          <lastBuildDate>Fri, 23 Nov 2018 14:15:00 +0200</lastBuildDate>
-      
-
-    <item>
-          <!-- OUR RSS NUMBER 0012 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
+          <title>Melanie Walker's Grounded</title>
+          <link>http://solidgoldstudios.co.za/grounded</link>
+          <language>en-za</language>
+          <copyright>SoldGoldStudios.co.za</copyright>
+          <description>Melanie Walker's podcast exploring all things gardening.</description>
+          <itunes:subtitle>Melanie Walker's podcast exploring all things gardening.</itunes:subtitle>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening and all things Grounded.</itunes:summary>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
-          <title>You Think Good Design is Expensive? | Michael Rickhoff</title>
-          <itunes:title>You Think Good Design is Expensive? | Michael Rickhoff</itunes:title>
-          <itunes:subtitle>Gardens work in four dimensions.</itunes:subtitle>
-          <itunes:duration>30:07</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation">
+          <itunes:category text="Outdoor" />
+          </itunes:category>   
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>12</itunes:episode>
+          <itunes:owner>
+               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
+               <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+      
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
 
-          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003a.jpg" />
+    <item>
+             <!-- OUR RSS NUMBER 0012 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>You Think Good Design is Expensive? | Michael Rickhoff</title>
+               <pubDate>Sat, 24 Nov 2018 08:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
 
-          <pubDate>Sat, 24 Nov 2018 08:01:00 +0200</pubDate>
-          
-          <description>
-            <![CDATA[<p>If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
-          </description>
+			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003a.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
 
-          <itunes:summary>
-            If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.
-          </itunes:summary>
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>Gardens work in four dimensions.</itunes:subtitle>
 
-          <itunes:keywords>Michael Rickhoff, design, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
 
-          <media:content url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" fileSize="29243442" />
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan. </itunes:summary>
 
-          <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
-
-          <guid isPermaLink="false">Grounded 20181003a></guid>
-
-<!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3</guid> -->
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
+               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3</guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>30:07</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Michael Rickhoff, design, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
-
-
 
     <item>
              <!-- OUR RSS NUMBER 0011 -->
@@ -131,8 +108,6 @@
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
              <itunes:explicit>no</itunes:explicit>
-
-             <itunes:episodeType>bonus</itunes:episodeType>
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>Come on down and see (for) yourself | Heather Mac and Tim Parr</title>
