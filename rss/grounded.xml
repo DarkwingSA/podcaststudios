@@ -46,7 +46,7 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Fri, 23 Nov 2018 14:15:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 30 Nov 2018 17:00:00 +0200</lastBuildDate>
    
     <item>
           <!-- OUR RSS NUMBER 0013 -->
@@ -96,7 +96,9 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
           <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="0" />
 
-          <guid isPermaLink="false">Grounded 20181122a></guid>
+          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3?ver=2</guid>
+
+<!-- Spotify not showing this episode with this guid          <guid isPermaLink="false">Grounded 20181122a></guid>   -->
                                                          
     </item>
 
@@ -119,7 +121,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003a.jpg" />
 
-          <pubDate>Sat, 24 Nov 2018 08:01:00 +0200</pubDate>
+          <pubDate>Sat, 24 Nov 2018 08:02:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
