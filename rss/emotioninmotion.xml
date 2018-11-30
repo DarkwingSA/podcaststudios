@@ -6,7 +6,7 @@
        <ttl>30</ttl>
        <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
 
-       <lastBuildDate>Wed, 28 Nov 2018 08:15:00 +0200</lastBuildDate>
+       <lastBuildDate>Fri, 30 Nov 2018 06:40:00 +0200</lastBuildDate>
 
 
           <title>Emotion in Motion with Charlotte D Blignaut</title>
@@ -34,7 +34,7 @@
 
 
           <item>
-		 	<!-- Season 02 - episode 001b fix guid -->
+		 	<!-- Season 02 - episode 001 b fix guid and add ?ver=2 to audio for Sootify-->
 		 	<itunes:author>Charlotte D Blignaut | Solid Gold Studios</itunes:author>
 
 		 	<itunes:season>2</itunes:season>
@@ -62,10 +62,10 @@ Do you want to love and live openly with your Hidden Genius SuperPower?
 Your comments and feedback are encouraged!
 Together we can do anything! Together we are stronger!</itunes:summary>
             
-            <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3" type="audio/mpeg" length="0" />
-            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3</guid>
+            <enclosure url="http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3?ver=2" type="audio/mpeg" length="0" />
+            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3?ver=2</guid>
             
-            <pubDate>Tue, 27 Nov 2018 11:20:00 +0200</pubDate>
+            <pubDate>Tue, 27 Nov 2018 11:21:00 +0200</pubDate>
             <itunes:duration>45:09</itunes:duration>
             
             <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s02-0000.jpg" />
