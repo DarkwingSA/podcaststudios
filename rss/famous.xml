@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+
+     <channel>
+
+          <title>Lights, Cameras, Action! with Kimberleigh Stark</title>
+          <link>https://solidgoldstudios.co.za/famous</link>
+          <managingEditor>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <description>Kimberleigh Stark's conversations to help YOU become famous.</description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1</url>
+            <title>Lights, Cameras, Action! Podcast</title>
+            <link>https://solidgoldstudios.co.za/famous</link>
+          </image>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Kimberleigh Stark's podcast about the talent industry and how YOU can become famous.</itunes:subtitle>
+          <itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
+          <itunes:summary>Welcome to Lights, Cameras, Action! Kimberleigh Stark will help YOU to become famous.</itunes:summary>
+
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/famous.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <media:keywords>Kimberleigh Stark, Manager, Casting Director, Producer, Actress, Teacher, Set, Backstage, Televison, Movie, audition, Script, Celebrity, success, Stark Raving, another Solid Gold podcast, Gavin Kennedy, #BeHeard, #famous</media:keywords>
+
+          <itunes:category text="Arts">
+          <itunes:category text="Performing Arts" />
+          </itunes:category>
+
+          <itunes:owner>
+               <itunes:email>famous@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>Kimberleigh Stark | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>Kimberleigh Stark, Manager, Casting Director, Producer, Actress, Teacher, Set, Backstage, Televison, Movie, audition, Script, Celebrity, success, Stark Raving, another Solid Gold podcast, Gavin Kennedy, #BeHeard, #famous</itunes:keywords>
+
+          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+          <ttl>30</ttl>
+
+          <lastBuildDate>Sat, 01 Dec 2018 14:30:00 +0200</lastBuildDate>
+   
+    <item>
+          <!-- OUR RSS NUMBER 001 -->
+          <author>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</author>
+          <itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Secrets of Dimpho More’s success</title>
+          <itunes:title>Secrets of Dimpho More’s success</itunes:title>
+          <itunes:subtitle>Can you find fame overnight?</itunes:subtitle>
+          <itunes:duration>34:55</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>1</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+
+          <pubDate>Sat, 01 Dec 2018 14:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Learning about the journey of a young actress
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/famous.php">SolidGoldStudios.co.za/famous</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Learning about the journey of a young actress
+          </itunes:summary>
+
+          <itunes:keywords>Dimpho More, 7de Laan</itunes:keywords>
+
+          <media:content url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3" type="audio/mpeg" fileSize="33741415" />
+
+          <enclosure url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3" type="audio/mpeg" length="33741415" />
+
+          <guid>https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3</guid>
+                                                      
+    </item>
+
+     </channel>
+</rss>
