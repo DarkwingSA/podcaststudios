@@ -1,96 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
      <channel>
 
+          <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
+          <ttl>30</ttl>
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
           <link>http://solidgoldstudios.co.za/weekendreport</link>
-          <managingEditor>weekendreport@solidgoldstudios.co.za (Weekend Report | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
-          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <copyright>SoldGoldStudios.co.za</copyright>
           <description>Everything you need to know about the world of entertainment.</description>
-
-          <image>
-            <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
-            <title>Grounded Podcast</title>
-            <link>https://solidgoldstudios.co.za/grounded</link>
-          </image>
-
-          <itunes:explicit>no</itunes:explicit>
-          <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Stay in touch with the world of entertainment!</itunes:subtitle>
           <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
           <itunes:summary>Lance Zeeman gets you ready for the weekend's entertainment.</itunes:summary>
-
-          <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
-
-          <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
-
-          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
-          <media:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</media:keywords>
-          <media:category>Business</media:category>
-
-
-		  <itunes:owner>
-               <itunes:email>weekendparty@solidgoldstudios.co.za</itunes:email>
-               <itunes:name>Lance Zeeman | Solid Gold Studios</itunes:name>
-          </itunes:owner>
-
-          <itunes:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
-
+          
           <itunes:category text="Society &amp; Culture">
-          </itunes:category>  
+          </itunes:category>   
 
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>weekendparty@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          <itunes:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy</itunes:keywords>
 
-          <ttl>30</ttl>
-
-          <lastBuildDate>Sat, 01 Dec 2018 14:00:00 +0200</lastBuildDate>
-
-
-      <item>
-            <!-- 021 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
-
-            <itunes:episodeType>full</itunes:episodeType>
-
-            <title>Fight Night on Broadway</title>
-            <itunes:title>Fight Night on Broadway</itunes:title>
-            <itunes:subtitle>The Boss and The Boxing</itunes:subtitle>
-            <itunes:duration>02:29</itunes:duration>
-
-            <itunes:explicit>no</itunes:explicit>
-            <!-- <itunes:season>1</itunes:season> -->
-            <itunes:episode>21</itunes:episode>
-
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
-
-            <pubDate>Sat, 01 Dec 2018 14:00:00 +0200</pubDate>
-
-            <description><![CDATA[<p>
-            	Creed II punches above the belt on the big screen, the teaser trailer for the 'live action' remake of The Lion King racks up over 224 million hits in 24 hours, Bruce Springsteen on Broadway is coming to Netflix in December, Katy Perry is the highest earning female in music this year as Kenny G plays the stock market and its Wilder vs Fury for the WBC Championship Belt.
-            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
-
-            <itunes:summary>
-            	Creed II punches above the belt on the big screen, the teaser trailer for the 'live action' remake of The Lion King racks up over 224 million hits in 24 hours, Bruce Springsteen on Broadway is coming to Netflix in December, Katy Perry is the highest earning female in music this year as Kenny G plays the stock market and its Wilder vs Fury for the WBC Championship Belt.
-            </itunes:summary>
-
-            <itunes:keywords>Creed 2,Sylvester Stallone,Michael B Jordan,Boxing,Lion King,James Earl Jones,Lebo M,Circle of Life,Bruce Springsteen,Broadway,The Boss,Netflix,Forbes,Katy Perry,Taylor Swift,Pink,Beyonce,Lady Gaga,Kenny G,Starbucks,Deontay Wilder,Tyson Fury,WBC</itunes:keywords>
-
-            <media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-021.mp3" type="audio/mpeg" fileSize="5619112" />
-
-<!-- AUDIO ONLY -->
-            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-021.mp3" type="audio/mpeg" length="5619112" />
-
-<!-- if VIDEO then use this one
-            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-???.mp4" type="video/mp4" length="0" />
--->
-            <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-021.mp3</guid>               
-                                                            
-      </item>
-
+          <lastBuildDate>Thu, 29 Nov 2018 18:50:00 +0200</lastBuildDate>
 
       <item>
             <!-- 020 -->
