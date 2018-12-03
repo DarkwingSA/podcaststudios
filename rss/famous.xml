@@ -18,7 +18,7 @@ Let's get you famous!
           </description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1</url>
+            <url>https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2</url>
             <title>Lights, Cameras, Action! Podcast</title>
             <link>https://solidgoldstudios.co.za/famous</link>
           </image>
@@ -36,12 +36,12 @@ This is the place where you can ask all those questions that no-one ever seems t
 Let's get you famous!
           </itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/famous.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
           <media:keywords>Kimberleigh Stark, Manager, Casting Director, Producer, Actress, Teacher, Set, Backstage, Televison, Movie, audition, Script, Celebrity, success, Stark Raving, another Solid Gold podcast, Gavin Kennedy, #BeHeard, #famous</media:keywords>
 
           <itunes:category text="Arts">
@@ -78,7 +78,7 @@ Let's get you famous!
           <!-- <itunes:season>1</itunes:season> -->
           <itunes:episode>1</itunes:episode>
 
-          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
 
           <pubDate>Sat, 01 Dec 2018 14:30:00 +0200</pubDate>
           
