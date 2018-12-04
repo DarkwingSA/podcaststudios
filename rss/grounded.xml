@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 
      <channel>
 
@@ -7,6 +7,9 @@
           <link>https://solidgoldstudios.co.za/grounded</link>
           <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
+      <!--
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      -->
           <copyright>Solid Gold Studios - all rights reserved</copyright>
           <description>Melanie Walker's podcast exploring all things gardening.</description>
 
@@ -16,7 +19,7 @@
             <link>https://solidgoldstudios.co.za/grounded</link>
           </image>
 
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>clean</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Melanie Walker's podcast about gardening and adventure.</itunes:subtitle>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
@@ -46,8 +49,68 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Fri, 30 Nov 2018 17:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 04 Dec 2018 10:00:00 +0200</lastBuildDate>
+
+    
+    <item>
+          <!-- OUR RSS NUMBER 0014 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Get Your Life out into the Garden | Cary Goodwin</title>
+          <itunes:title>Get Your Life out into the Garden | Cary Goodwin</itunes:title>
+          <itunes:subtitle>At a loss as to how to keep your kids busy over the holidays?</itunes:subtitle>
+          <itunes:duration>30:20</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>14</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122b.jpg" />
+
+      <!--
+      	  <dcterms:valid/>
+          	start=2018-12-08T08:00+02:00
+          	end=3018-12-08T08:00+02:00
+          </dcterms:valid>
+      -->
+
+
+          <pubDate>Sat, 08 Dec 2018 08:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Life is a Garden is the publicity arm of the South African Nurseryman's Association, and is responsible for giving the SA gardening public great ideas, and necessary information on how to get your backyard in shape in every season.
+
+Cary Goodwin gives us great ideas on how to keep your kids entertained and busy in the garden during the summer festive holidays, and a quick rundown on how to get your garden looking entertainment worthy. 
+
+Especially for those who can handle the heat outside of the kitchen!
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Life is a Garden is the publicity arm of the South African Nurseryman's Association, and is responsible for giving the SA gardening public great ideas, and necessary information on how to get your backyard in shape in every season.
+
+Cary Goodwin gives us great ideas on how to keep your kids entertained and busy in the garden during the summer festive holidays, and a quick rundown on how to get your garden looking entertainment worthy. 
+
+Especially for those who can handle the heat outside of the kitchen!
+          </itunes:summary>
+
+          <itunes:keywords>Life is a Garden; Cary Goodwin, Colourful Group, Festive, Christmas, Kids, Garden</itunes:keywords>
+
+          <media:content url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="29272578" />
+
+          <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="29272578" />
+
+          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>
+
+<!-- Spotify not showing this episode with this guid          <guid isPermaLink="false">Grounded 20181122a></guid>   -->
+                                                         
+    </item>
    
+    
     <item>
           <!-- OUR RSS NUMBER 0013 -->
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
@@ -66,7 +129,7 @@
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122a.jpg" />
 
-          <pubDate>Sat, 01 Dec 2018 08:08:00 +0200</pubDate>
+          <pubDate>Sat, 01 Dec 2018 08:00:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
