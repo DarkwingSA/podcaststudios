@@ -20,7 +20,7 @@ Or, perhaps the thought of performing on stage in Ney York City makes your heart
           </description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1</url>
+            <url>https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2</url>
             <title>Lights, Cameras, Action! Podcast</title>
             <link>https://solidgoldstudios.co.za/famous</link>
           </image>
@@ -42,12 +42,12 @@ Let's get you famous!
 another Solid Gold podcast
           </itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/famous.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
           <media:keywords>Kimberleigh Stark, Manager, Casting Director, Producer, Actress, Teacher, Set, Backstage, Televison, Movie, audition, Script, Celebrity, success, Stark Raving, another Solid Gold podcast, Gavin Kennedy, #BeHeard, #famous</media:keywords>
 
           <itunes:category text="Arts">
@@ -66,7 +66,10 @@ another Solid Gold podcast
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 01 Dec 2018 14:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 03 Dec 2018 17:00:00 +0200</lastBuildDate>
+
+
+
    
     <item>
           <!-- OUR RSS NUMBER 001 -->
@@ -84,9 +87,9 @@ another Solid Gold podcast
           <!-- <itunes:season>1</itunes:season> -->
           <itunes:episode>1</itunes:episode>
 
-          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=1" />
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=2" />
 
-          <pubDate>Mon, 03 Dec 2018 09:00:00 +0200</pubDate>
+          <pubDate>Sat, 01 Dec 2018 09:01:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -95,7 +98,7 @@ Learning about the journey of a young actress
           </description>
 
           <itunes:summary>
-Learning about the journey of a young actress
+Learning about the personal journey of a young actress.
           </itunes:summary>
 
           <itunes:keywords>Dimpho More, 7de Laan</itunes:keywords>
