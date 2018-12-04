@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:dcterms="https://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 
      <channel>
 
@@ -70,12 +70,12 @@
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122b.jpg" />
 
-      <!--
-      	  <dcterms:valid/>
-          	start=2018-12-08T08:00+02:00
-          	end=3018-12-08T08:00+02:00
+      
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
           </dcterms:valid>
-      -->
+      
 
 
           <pubDate>Sat, 08 Dec 2018 08:00:00 +0200</pubDate>
@@ -209,6 +209,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
              <itunes:explicit>no</itunes:explicit>
+          	 <itunes:episode>11</itunes:episode>             
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>All the Deliciousness that is Jane! | Jane Griffiths</title>
