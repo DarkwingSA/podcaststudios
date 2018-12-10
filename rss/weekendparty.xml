@@ -46,7 +46,49 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 01 Dec 2018 14:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sat, 08 Dec 2018 11:00:00 +0200</lastBuildDate>
+
+      <item>
+            <!-- 022 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>Thriller, Bombs and Prince</title>
+            <itunes:title>Thriller, Bombs and Prince</itunes:title>
+            <itunes:subtitle>Foxx has a Licence to Thrill</itunes:subtitle>
+            <itunes:duration>02:07</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>22</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Sat, 08 Dec 2018 11:00:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+            	ROBIN HOOD at the movies again, is it any good? A movie on PRINCE'S songs is in the works, MICHAEL JACKSON'S THRILLER is how old? EDDIE MURPHY is a daddy again, DRAKE is the most streamed artist in 2018 and hit US television shows get licensed for the Far East.
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	ROBIN HOOD at the movies again, is it any good? A movie on PRINCE'S songs is in the works, MICHAEL JACKSON'S THRILLER is how old? EDDIE MURPHY is a daddy again, DRAKE is the most streamed artist in 2018 and hit US television shows get licensed for the Far East.
+            </itunes:summary>
+
+            <itunes:keywords>Robin Hood,Taron Eagerton,Jamie Foxx,Bono daughter,Arrow,Prince,Purple Rain,Thriller,Michael Jackson,Drake,Eddie Murphy,Sabrina,Apple music, Spotify,1908,Jamie Doran,Bomb,Last Man Standing,How I Met Your Mother,Coming to America 2Bevery Hills Cop</itunes:keywords>
+
+            <media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-022.mp3" type="audio/mpeg" fileSize="4899768" />
+
+<!-- AUDIO ONLY -->
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-022.mp3" type="audio/mpeg" length="4899768" />
+
+<!-- if VIDEO then use this one
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-???.mp4" type="video/mp4" length="0" />
+-->
+            <guid>http://podcaststudios.co.za/audio/weekendparty/weekendparty-022.mp3</guid>               
+                                                            
+      </item>
 
 
       <item>
