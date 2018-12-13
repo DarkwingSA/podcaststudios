@@ -47,11 +47,71 @@
           <itunes:category text="Outdoor" />
           </itunes:category> 
 
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Tue, 04 Dec 2018 10:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 13 Dec 2018 08:00:00 +0200</lastBuildDate>
+
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0015 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</title>
+          <itunes:title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</itunes:title>
+          <itunes:subtitle>How to get rid of pests without destroying the environment</itunes:subtitle>
+          <itunes:duration>30:01</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>15</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122d-cover.jpg" />
+
+      
+<!--      <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+-->
+
+          <pubDate>Sat, 15 Dec 2018 08:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+One of the most asked questions people in the Green Industry face (other than how to look after a lemon tree!) is how do you get rid of pests in the garden without getting rid of everything else too?
+
+Jonathan Haw of EcoSolutions Urban Ecology specialises in integrated pest management, focused on all areas of non-toxic, effective and sustainable pest control. From rats in your kitchen to bats in your belfry, they have measures that will ensure you don't poison your environment or all the good critters you'd like to invite in. 
+
+And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are>) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+One of the most asked questions people in the Green Industry face (other than how to look after a lemon tree!) is how do you get rid of pests in the garden without getting rid of everything else too?
+
+Jonathan Haw of EcoSolutions Urban Ecology specialises in integrated pest management, focused on all areas of non-toxic, effective and sustainable pest control. From rats in your kitchen to bats in your belfry, they have measures that will ensure you don't poison your environment or all the good critters you'd like to invite in. 
+
+And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are>) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
+          </itunes:summary>
+
+          <itunes:keywords>EcoSolutions, Jonathan Haw, Owls, rats, bats, cats, poison, environmentally friendly, pest control</itunes:keywords>
+
+          <media:content url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122d-jonathan-haw.mp3?ver=1" type="audio/mpeg" fileSize="28954049" />
+
+          <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122d-jonathan-haw.mp3?ver=1" type="audio/mpeg" length="28954049" />
+
+			<guid isPermaLink="false">grounded20181122d></guid>
+
+<!--     <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>	-->
+
+                                                         
+    </item>
 
     
     <item>
