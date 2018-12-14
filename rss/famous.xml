@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:dcterms="https://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 
      <channel>
 
@@ -66,9 +66,48 @@ another Solid Gold podcast
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Tue, 11 Dec 2018 14:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 14 Dec 2018 15:30:00 +0200</lastBuildDate>
 
 
+    <item>
+          <!-- OUR RSS NUMBER 002 -->
+          <author>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</author>
+          <itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Meet the woman who made it all the way | Connie Chiume</title>
+          <itunes:title>Meet the woman who made it all the way | Connie Chiume</itunes:title>
+          <itunes:subtitle>Connie Chiume held on to her dream taking her all the way to Wakanda!</itunes:subtitle>
+          <itunes:duration>39:53</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>2</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=6" />
+
+          <pubDate>Fri, 14 Dec 2018 15:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Learning from an actress who worked on Marvel’s record breaking ‘Black Panther‘. If you can dream it, you can live it!
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/famous.php">SolidGoldStudios.co.za/famous</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Learning from an actress who worked on Marvel’s record breaking ‘Black Panther‘. If you can dream it, you can live it!
+          </itunes:summary>
+
+          <itunes:keywords>connie chiume, marvel, black panther</itunes:keywords>
+
+          <media:content url="https://podcaststudios.co.za/audio/famous/famous-002-connie-chiume.mp3?ver=1" type="audio/mpeg" fileSize="38802649" />
+
+          <enclosure url="https://podcaststudios.co.za/audio/famous/famous-002-connie-chiume.mp3?ver=1" type="audio/mpeg" length="38802649" />
+
+          <guid isPermaLink="false">famous-002></guid>
+                                                      
+    </item>
 
    
     <item>
@@ -78,8 +117,8 @@ another Solid Gold podcast
           
           <itunes:episodeType>full</itunes:episodeType>
 
-          <title>Secrets of Dimpho More’s success</title>
-          <itunes:title>Secrets of Dimpho More’s success</itunes:title>
+          <title>Secrets of Dimpho More’s success | Dimpho More</title>
+          <itunes:title>Secrets of Dimpho More’s success | Dimpho More</itunes:title>
           <itunes:subtitle>Can you find fame overnight?</itunes:subtitle>
           <itunes:duration>34:55</itunes:duration>
 
@@ -103,11 +142,11 @@ Learning about the personal journey of a young actress.
 
           <itunes:keywords>Dimpho More, 7de Laan</itunes:keywords>
 
-          <media:content url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3" type="audio/mpeg" fileSize="33741415" />
+          <media:content url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3?ver=2" type="audio/mpeg" fileSize="34048411" />
 
-          <enclosure url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3" type="audio/mpeg" length="33741415" />
+          <enclosure url="https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3?ver=2" type="audio/mpeg" length="34048411" />
 
-          <guid>https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3</guid>
+          <guid>https://podcaststudios.co.za/audio/famous/famous-001-dimpho-more.mp3?ver=2</guid>
                                                       
     </item>
 
