@@ -6,13 +6,13 @@
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
-          <lastBuildDate>Tue, 20 Nov 2018 11:40:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 14 Dec 2018 19:00:00 +0200</lastBuildDate>
 
           <title>On Change with Petro du Pisani</title>
           <link>http://solidgoldstudios.co.za/onchange</link>
           <language>en-za</language>
           <copyright>SoldGoldStudios.co.za</copyright>
-          <description>The podcast that explores 'change that works' and the people who make it happen.</description>
+          <description>The podcast that explores 'change that works' - and the people who make it happen.</description>
           <itunes:subtitle>Let's talk about change - with integrity.</itunes:subtitle>
           <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
           <itunes:summary>Experienced change practioner, Petro du Pisani, explores 'change that works' and the people who make it happen. Recorded and produced at Solid Gold Studios.</itunes:summary>
@@ -28,6 +28,38 @@
                <itunes:email>onchange@solidgoldstudios.co.za</itunes:email>
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
+
+        <item>
+               <!-- 011 -->
+               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:explicit>no</itunes:explicit>
+               
+               <pubDate>Fri, 14 Dec 2018 19:0:00 +0200</pubDate>
+
+          <!-- episoded-specific artwork
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+
+               <title>Dusting off the bookshelf | Riaan Wolmarans</title>
+               <itunes:subtitle>Best friends Petro du Pisani and Riaan Wolmarans talk about the books they couldn't put down, the books they would read on holiday, books that shaped their lives, and much more.</itunes:subtitle>
+               
+               <description><![CDATA[<p>
+               In this episode we take inspiration from a cartoon by Grant Snider and discuss books in twelve categories; those we couldn't pick up or put down. Books we lent each other. Books we thought were about one thing, then turned out to be about something different.
+Books that changed us and shaped us through the years.
+               </p><p>Extensive show notes, with links to content from this episode, are available at <a href="http://www.solidgoldstudios.co.za/onchange.php">SolidGoldStudios.co.za/onchange</a></p>]]></description>
+               <itunes:summary>
+               In this episode we take inspiration from a cartoon by Grant Snider and discuss books in twelve categories; those we couldn't pick up or put down. Books we lent each other. Books we thought were about one thing, then turned out to be about something different.
+Books that changed us and shaped us through the years.
+               </itunes:summary>
+               
+               <enclosure url="http://podcaststudios.co.za/audio/onchange/on-change-011-riaan-wolmarans.mp3?ver=1" type="audio/mpeg" length="50640111" />
+               <guid isPermaLink="false">on-change-011></guid>
+               
+               <itunes:duration>51:49</itunes:duration>
+               
+               <itunes:keywords>Riaan Wolmarans, Tiso Blackstar, Star Trek, Kindle, Books, Reading list, Speculative Fiction, best friends, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
+                                                            
+        </item>
+
 
         <item>
                <!-- 010 -->
@@ -50,7 +82,7 @@
                
                <itunes:duration>36:28</itunes:duration>
                
-               <itunes:keywords>Mindfulness, Yoga, Steven Heyman, Yogaworks, Yoga Republic, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Mindfulness, Yoga, Steven Heyman, Yogaworks, Yoga Republic, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
                                                             
         </item>
 
