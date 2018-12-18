@@ -11,16 +11,16 @@
           <description>Everything you need to know about the world of entertainment.</description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
-            <title>Grounded Podcast</title>
-            <link>https://solidgoldstudios.co.za/grounded</link>
+            <url>https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg</url>
+            <title>Lance Zeeman's Weekend Party Entertainment Report</title>
+            <link>https://solidgoldstudios.co.za/weekendparty</link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Stay in touch with the world of entertainment!</itunes:subtitle>
           <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
-          <itunes:summary>Lance Zeeman gets you ready for the weekend's entertainment.</itunes:summary>
+          <itunes:summary>Lance Zeeman gets you ready for the week's entertainment.</itunes:summary>
 
           <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
 
@@ -46,7 +46,52 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 08 Dec 2018 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 18 Dec 2018 12:30:00 +0200</lastBuildDate>
+
+
+
+      <item>
+            <!-- 023 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>JLo teases Elvis with an Ice Cube</title>
+            <itunes:title>JLo teases Elvis with an Ice Cube</itunes:title>
+            <itunes:subtitle>The Movie and Music Biz are changing</itunes:subtitle>
+            <itunes:duration>02:21</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>23</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Tue, 18 Dec 2018 12:30:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+            	Jennifer Lopez is back for a SECOND ACT so is CELEBRITY DEATH MATCH thanks to ICE CUBE. Is the music industry heading for a BOOM? QUEEN song is the most streamed song of the 20th Century, ELVIS is back in Germany and Teaser Trailers are driving pop culture.
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	Jennifer Lopez is back for a SECOND ACT so is CELEBRITY DEATH MATCH thanks to ICE CUBE. Is the music industry heading for a BOOM? QUEEN song is the most streamed song of the 20th Century, ELVIS is back in Germany and Teaser Trailers are driving pop culture.
+            </itunes:summary>
+
+            <itunes:keywords>Jennifer Lopez, Second Act, Ice Cube, Celebrity Death Match, MTV, Date Night, Pink Floyd, Led Zeppelin, Queen, Ed Sheeran, Elvis, Freidberg, Germany, Vanessa Hudgens, Avengers: Endgame, Lion King,Lyor Cohen, Youtube, Streaming, 1998, fly-girl</itunes:keywords>
+
+<!-- AUDIO ONLY 
+            <media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0??.mp3" type="audio/mpeg" fileSize="???" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0??.mp3" type="audio/mpeg" length="???" />
+        -->
+
+<!-- if VIDEO then use this one -->
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-023.mp4" type="video/mp4" fileSize="11938557" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-023.mp4" type="video/mp4" length="11938557" />
+
+            <guid isPermaLink="false">weekendparty-023></guid>
+                                                            
+      </item>
 
       <item>
             <!-- 022 -->
