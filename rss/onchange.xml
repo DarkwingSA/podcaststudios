@@ -6,7 +6,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
-          <lastBuildDate>Fri, 14 Dec 2018 19:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 14 Dec 2018 19:30:00 +0200</lastBuildDate>
 
           <title>On Change with Petro du Pisani</title>
           <link>http://solidgoldstudios.co.za/onchange</link>
@@ -34,10 +34,10 @@
                <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
-               <pubDate>Fri, 14 Dec 2018 19:0:00 +0200</pubDate>
+               <pubDate>Fri, 14 Dec 2018 19:30:00 +0200</pubDate>
 
-          <!-- episoded-specific artwork
-               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
+          <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/onchange/on-change-011-cover.jpg?ver=1" />
 
                <title>Dusting off the bookshelf | Riaan Wolmarans</title>
                <itunes:subtitle>Best friends Petro du Pisani and Riaan Wolmarans talk about the books they couldn't put down, the books they would read on holiday, books that shaped their lives, and much more.</itunes:subtitle>
@@ -67,9 +67,6 @@ Books that changed us and shaped us through the years.
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Tue, 20 Nov 2018 11:40:00 +0200</pubDate>
-
-          <!-- episoded-specific artwork
-               <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-005.jpg" /> -->
 
                <title>Steven Heyman | Yoga and enabling change through mindfulness</title>
                <itunes:subtitle>How practicing yoga and mindfulness can make your mind more flexible and open to change.</itunes:subtitle>
