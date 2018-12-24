@@ -46,9 +46,50 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Tue, 18 Dec 2018 12:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 24 Dec 2018 10:30:00 +0200</lastBuildDate>
 
+      <item>
+            <!-- 024 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
 
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>Bumblebee, Beefs and Bruce</title>
+            <itunes:title>Bumblebee, Beefs and Bruce</itunes:title>
+            <itunes:subtitle>A VW Beetle transforms Die Hard</itunes:subtitle>
+            <itunes:duration>02:31</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>24</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Mon, 24 Dec 2018 10:30:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+            	A SPINOFF transforms the Movie House, is DIE HARD a Christmas movie? Can you resell your DIGITAL DOWNLOADS? LED ZEPPELIN'S JIMMY PAGE 'beefs' with ROBBIE WILLIAMS and the car from BACK TO THE FUTURE hits the water!
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	A SPINOFF transforms the Movie House, is DIE HARD a Christmas movie? Can you resell your DIGITAL DOWNLOADS? LED ZEPPELIN'S JIMMY PAGE 'beefs' with ROBBIE WILLIAMS and the car from BACK TO THE FUTURE hits the water!
+            </itunes:summary>
+
+            <itunes:keywords>Bumblebee, Transformers, 1987, VW Beetle, Hailee Steinfeld, John Cena, Angela Basset, Dylan O'Brein, Die Hard, Greatest Christmas Story, 4K, digital music, Redigi inc, Robbie Williams, Jimmy Page, Led Zeppelin, William Burges, Delorean, Hovercraft</itunes:keywords>
+
+<!-- AUDIO ONLY -->
+            <media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-024.mp3" type="audio/mpeg" fileSize="5677794" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-024.mp3" type="audio/mpeg" length="5677794" />
+
+<!-- if VIDEO then use this one
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-023.mp4" type="video/mp4" fileSize="11938557" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-023.mp4" type="video/mp4" length="11938557" />
+-->
+
+            <guid isPermaLink="false">weekendparty-024></guid>
+                                                            
+      </item>
 
       <item>
             <!-- 023 -->
