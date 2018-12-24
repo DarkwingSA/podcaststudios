@@ -50,8 +50,62 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 13 Dec 2018 08:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 20 Dec 2018 12:00:00 +0200</lastBuildDate>
 
+
+    <item>
+          <!-- OUR RSS NUMBER 0016 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</title>
+          <itunes:title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</itunes:title>
+          <itunes:subtitle>It's a bright and colourful - and oh so hot - time of the year. Make your garden reflect that!</itunes:subtitle>
+          <itunes:duration>29:23</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>16</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122c-cover.jpg" />
+
+      
+<!--      <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+-->
+
+          <pubDate>Thu, 21 Dec 2018 12:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Every month we find more and more beautiful bedding plants hitting the shelves in our garden centres. If you're a fan of annual colour in the garden, or just need to spice things up in your backyard for the festive season, or hankering for your own handkerchief potager filled with herbs and seasonal veg, then Peter Goodwin has all the hints and tips you need to create a veritable paradisical feast this summer. 
+
+And one of the stalwarts of the veggie and colour patch, the humble (but oh so bright) marigold is on the menu.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Every month we find more and more beautiful bedding plants hitting the shelves in our garden centres. If you're a fan of annual colour in the garden, or just need to spice things up in your backyard for the festive season, or hankering for your own handkerchief potager filled with herbs and seasonal veg, then Peter Goodwin has all the hints and tips you need to create a veritable paradisical feast this summer. 
+
+And one of the stalwarts of the veggie and colour patch, the humble (but oh so bright) marigold is on the menu.
+          </itunes:summary>
+
+          <itunes:keywords>Peter Goodwin, Bedding Plant Association, Colourful, Peebles, Annuals, bedding plants, colour, vegetables, marigold</itunes:keywords>
+
+          <media:content url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="28330686" />
+
+          <enclosure url="https://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=1" type="audio/mpeg" length="28330686" />
+
+			<guid isPermaLink="false">grounded20181122c></guid>
+
+<!--     <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/?????.mp3?ver=1</guid>	-->
+
+                                                         
+    </item>
 
 
     <item>
@@ -87,7 +141,7 @@ One of the most asked questions people in the Green Industry face (other than ho
 
 Jonathan Haw of EcoSolutions Urban Ecology specialises in integrated pest management, focused on all areas of non-toxic, effective and sustainable pest control. From rats in your kitchen to bats in your belfry, they have measures that will ensure you don't poison your environment or all the good critters you'd like to invite in. 
 
-And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are>) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
+And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are?) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
 </p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
           </description>
 
