@@ -7,7 +7,7 @@
         <ttl>30</ttl>
         <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
 
-        <lastBuildDate>Thu, 08 Nov 2018 08:40:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 27 Dec 2018 19:30:00 +0200</lastBuildDate>
 
 
         <title>Solid Gold Studios</title>
@@ -60,7 +60,7 @@
                <itunes:summary>Story-telling | Listen to this short excerpt from Petro du Pisani's podcast (On Change) where her guest, Corrie Pitzer, shares his story.</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="http://podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="0" />
                <guid>http://podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3</guid>
                
               <!-- GET FILE DURATION -->
