@@ -5,7 +5,7 @@
 
           <title>Garage Band by Adam Alexander</title>
           <link>https://solidgoldstudios.co.za/garageband</link>
-          <managingEditor>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</managingEditor>
+          <managingEditor>garageband@solidgoldstudios.co.za (Garage Band | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
           <description>
@@ -52,7 +52,7 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 27 Dec 2018 19:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0200</lastBuildDate>
 
 
 
@@ -85,7 +85,8 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
               <!-- UPDATE FILE NAME TWICE -->
                <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-001.mp3" type="audio/mpeg" fileSize="2990736" />                              
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-001.mp3" type="audio/mpeg" length="2990736" />
-               <guid>http://podcaststudios.co.za/audio/garageband/garage-band-001.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/garageband/garage-band-001.mp3</guid> -->
+               <guid isPermaLink="false">garageband01></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>01:51</itunes:duration>
@@ -124,7 +125,8 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
               <!-- UPDATE FILE NAME TWICE -->                            
                <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-002.mp3" type="audio/mpeg" fileSize="99486654" />  
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-002.mp3" type="audio/mpeg" length="99486654" />
-               <guid>http://podcaststudios.co.za/audio/garageband/garage-band-002.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/garageband/garage-band-002.mp3</guid> -->
+               <guid isPermaLink="false">garageband02></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>01:08:58</itunes:duration>
@@ -163,7 +165,8 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
               <!-- UPDATE FILE NAME THREE TIMES -->
                <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3" type="audio/mpeg" fileSize="36800300" />                            
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3" type="audio/mpeg" length="36800300" />
-               <guid>http://podcaststudios.co.za/audio/garageband/garage-band-003.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/garageband/garage-band-003.mp3</guid> -->
+               <guid isPermaLink="false">garageband03></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>25:22</itunes:duration>
