@@ -7,7 +7,7 @@
        <ttl>30</ttl>
        <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
 
-       <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0200</lastBuildDate>
+       <lastBuildDate>Sat, 29 Dec 2018 14:00:00 +0200</lastBuildDate>
 
           <title>Emotion in Motion with Charlotte D Blignaut</title>
           <link>https://solidgoldstudios.co.za/emotioninmotion</link>
@@ -65,7 +65,8 @@ Your comments and feedback are encouraged!
 Together we can do anything! Together we are stronger!</itunes:summary>
             
             <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3?ver=2" type="audio/mpeg" length="0" />
-            <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3?ver=2</guid>
+            <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/eim-s02-e001-hidden-genius-superpower.mp3?ver=2</guid> -->
+            <guid isPermaLink="false">emotioninmotion-s02-e001></guid>
             
             <pubDate>Tue, 27 Nov 2018 11:21:00 +0200</pubDate>
             <itunes:duration>45:09</itunes:duration>
@@ -93,7 +94,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
             <itunes:summary>The study relates to Leadership, how Leadership styles that are evolving, are coping in the 21st century, and what the trends are gearing towards. Starting from Biblical times!</itunes:summary>
             
             <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e016-christien-groothof.mp3" type="audio/mpeg" length="0" />
-            <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e016-christien-groothof.mp3</guid>
+            <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e016-christien-groothof.mp3</guid> -->
+            <guid isPermaLink="false">emotioninmotion-s01-e016></guid>
             
             <pubDate>Wed, 21 Nov 2018 09:16:00 +0200</pubDate>
             <itunes:duration>01:04:56</itunes:duration>
@@ -116,7 +118,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Learn to reverse-think your beliefs, 5 tips, psychology of ownership</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Learn to reverse-think your beliefs, 5 tips, psychology of ownership</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e013-douglas-kruger.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e013-douglas-kruger.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e013-douglas-kruger.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e013></guid>
                <pubDate>Wed, 21 Nov 2018 09:13:00 +0200</pubDate>
                <itunes:duration>00:47:38</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -133,7 +136,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Washing away the traditional templates for communication, business and matching the new trends</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Washing away the traditional templates for communication, business and matching the new trends</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e012-dion-chang.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e012-dion-chang.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e012-dion-chang.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e012></guid>
                <pubDate>Wed, 21 Nov 2018 09:12:00 +0200</pubDate>
                <itunes:duration>00:33:48</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -150,7 +154,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>The facts about pregnancy and birth. From body stress, from actions of the attending medical staff and trauma of emotional residual can affect motherhood, bonding of mother and child, PLUS the long term effects on the children and family.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>The facts about pregnancy and birth. From body stress, from actions of the attending medical staff and trauma of emotional residual can affect motherhood, bonding of mother and child, PLUS the long term effects on the children and family.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e011-itta-roussos.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e011-itta-roussos.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e011-itta-roussos.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e011></guid>
                <pubDate>Wed, 21 Nov 2018 09:11:00 +0200</pubDate>
                <itunes:duration>00:36:21</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -167,7 +172,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>How the trauma of sexual abuse impacted a woman's life. How fear, guilt and insecure emotions pave the way for new boundaries and a new life.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>How the trauma of sexual abuse impacted a woman's life. How fear, guilt and insecure emotions pave the way for new boundaries and a new life.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e010-adi-shakti.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e010-adi-shakti.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e010-adi-shakti.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e010></guid>
                <pubDate>Wed, 21 Nov 2018 09:10:00 +0200</pubDate>
                <itunes:duration>00:32:42</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -184,7 +190,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>How your body responds to imbalance of any kind, learning the nitty gritty, made simpler to understand how you can take charge of your health again</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>How your body responds to imbalance of any kind, learning the nitty gritty, made simpler to understand how you can take charge of your health again</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e009-colleen-dawson.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e009-colleen-dawson.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e009-colleen-dawson.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e009></guid>
                <pubDate>Wed, 21 Nov 2018 09:09:00 +0200</pubDate>
                <itunes:duration>00:43:21</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -201,7 +208,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>The beauty of the Angels and the gifts for you in 2013, per star sign</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>The beauty of the Angels and the gifts for you in 2013, per star sign</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e008-carol-vasconsoles.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e008-carol-vasconsoles.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e008-carol-vasconsoles.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e008></guid>
                <pubDate>Wed, 21 Nov 2018 09:08:00 +0200</pubDate>
                <itunes:duration>01:50:27</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -220,7 +228,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Discussion of what your hands can tell you about yourself, your journey and future, the knowledge, and hear sneak peak at an unusual feature on our presenters' hands too</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Discussion of what your hands can tell you about yourself, your journey and future, the knowledge, and hear sneak peak at an unusual feature on our presenters' hands too</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e006-jennifer-hirsch.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e006-jennifer-hirsch.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e006-jennifer-hirsch.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e006></guid>
                <pubDate>Wed, 21 Nov 2018 09:06:00 +0200</pubDate>
                <itunes:duration>01:37:15</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -237,7 +246,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Challenging Men, the Sun, The broken family, absence of parenting, and how the roles of leadership have been affected</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Challenging Men, the Sun, The broken family, absence of parenting, and how the roles of leadership have been affected</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e005-har-bhajan.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e005-har-bhajan.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e005-har-bhajan.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e005></guid>
                <pubDate>Wed, 21 Nov 2018 09:05:00 +0200</pubDate>
                <itunes:duration>02:01:28</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -254,7 +264,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>The exquisite marriage that exists between temperament, food, cellular nutrition and the effects of stress.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>The exquisite marriage that exists between temperament, food, cellular nutrition and the effects of stress.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e004-pritam-khalsa.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e004-pritam-khalsa.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e004-pritam-khalsa.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e004></guid>
                <pubDate>Wed, 21 Nov 2018 09:04:00 +0200</pubDate>
                <itunes:duration>01:52:43</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -271,7 +282,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Understanding the origins of NLP, from the 1970's where it was created and why it was created to assist people to shift and change behaviour. Creating clarity within.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Understanding the origins of NLP, from the 1970's where it was created and why it was created to assist people to shift and change behaviour. Creating clarity within.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e003-deon-groenewald.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e003-deon-groenewald.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e003-deon-groenewald.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e003></guid>
                <pubDate>Sat, 10 Nov 2018 17:03:00 +0200</pubDate>
                <itunes:duration>01:41:09</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -288,7 +300,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Learning how to connect with your Angels for your life support. Asking the name, Using and holding your Soul blueprint the job of your Angels.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Learning how to connect with your Angels for your life support. Asking the name, Using and holding your Soul blueprint the job of your Angels.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e002-carol-vasconcelos.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e002-carol-vasconcelos.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e002-carol-vasconcelos.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e002></guid>
                <pubDate>Sat, 10 Nov 2018 17:02:00 +0200</pubDate>
                <itunes:duration>01:45:54</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
@@ -305,7 +318,8 @@ Together we can do anything! Together we are stronger!</itunes:summary>
                <description><![CDATA[<p>Discussion with George, a natural and successful leader in various key businesses, both in South Africa, and internationally, how the corporate world is adopting change policies, transparency and embracing transformation.</p><p>For more information visit <a href="http://www.solidgoldstudios.co.za/emotioninmotion">SolidGoldStudios.co.za/emotioninmotion</a></p>]]></description>
                <itunes:summary>Discussion with George, a natural and successful leader in various key businesses, both in South Africa, and internationally, how the corporate world is adopting change policies, transparency and embracing transformation.</itunes:summary>
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-s01-e001-george-woods.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-001-george-woods.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/emotioninmotion/emotioninmotion-001-george-woods.mp3</guid> -->
+               <guid isPermaLink="false">emotioninmotion-s01-e001></guid>
                <pubDate>Sat, 10 Nov 2018 17:01:00 +0200</pubDate>
                <itunes:duration>01:25:00</itunes:duration>
                <itunes:image href="http://podcaststudios.co.za/images/emotioninmotion/emotioninmotion-cover-s01-0000.jpg" />
