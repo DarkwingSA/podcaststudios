@@ -50,7 +50,7 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 27 Dec 2018 19:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 28 Dec 2018 16:00:00 +0200</lastBuildDate>
 
 
     <item>
@@ -159,12 +159,10 @@ And keen to bring owls to your area? (You want to know hoo hoo who tells them wh
 
           <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122d-jonathan-haw.mp3?ver=1" type="audio/mpeg" length="28954049" />
 
-			<guid isPermaLink="false">grounded20181122d></guid>
-
-<!--     <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>	-->
-
-                                                         
+			    <guid isPermaLink="false">grounded20181122d></guid>
+                                                        
     </item>
+
 
     
     <item>
@@ -219,9 +217,8 @@ Especially for those who can handle the heat outside of the kitchen!
 
           <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="29272578" />
 
-          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>
-
-<!-- Spotify not showing this episode with this guid          <guid isPermaLink="false">Grounded 20181122a></guid>   -->
+          <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid> -->
+          <guid isPermaLink="false">grounded20181122b></guid>
                                                          
     </item>
    
@@ -274,9 +271,9 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
           <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="0" />
 
-          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3?ver=2</guid>
+          <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3?ver=2</guid> -->
+          <guid isPermaLink="false">grounded20181122a></guid>
 
-<!-- Spotify not showing this episode with this guid          <guid isPermaLink="false">Grounded 20181122a></guid>   -->
                                                          
     </item>
 
@@ -315,7 +312,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
           <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
 
-          <guid isPermaLink="false">Grounded 20181003a></guid>
+          <guid isPermaLink="false">grounded20181003a></guid>
                                                          
     </item>
 
@@ -345,7 +342,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
               <!-- UPDATE FILE NAME TWICE -->                            
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023a></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>26:03</itunes:duration>
@@ -383,7 +381,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
               <!-- UPDATE FILE NAME TWICE -->                            
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181115a></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>22:01</itunes:duration>
@@ -420,7 +419,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
               <!-- UPDATE FILE NAME TWICE -->                            
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023d></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>27:53</itunes:duration>
@@ -457,7 +457,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
               <!-- UPDATE FILE NAME TWICE -->                            
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023b></guid>
                
               <!-- GET FILE DURATION -->
                <itunes:duration>28:06</itunes:duration>
@@ -488,7 +489,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                             
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023c></guid>
                
 
                <itunes:duration>29:10</itunes:duration>
@@ -517,7 +519,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                             
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181003b></guid>
                
                <itunes:duration>31:42</itunes:duration>
                
@@ -545,7 +548,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                             
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181004a></guid>
                
                <itunes:duration>27:02</itunes:duration>
                
@@ -572,7 +576,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                             
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181003c></guid>
                
                <itunes:duration>26:23</itunes:duration>
                
@@ -597,7 +602,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid> -->
+               <guid isPermaLink="false">groundedold003></guid>
                
                <itunes:duration>28:13</itunes:duration>
                
@@ -622,7 +628,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid> -->
+               <guid isPermaLink="false">groundedold002></guid>
                
                <itunes:duration>28:13</itunes:duration>
                
@@ -648,7 +655,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="0" />
-               <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid>
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid> -->
+               <guid isPermaLink="false">groundedold001></guid>
                
                <itunes:duration>26:33</itunes:duration>
                

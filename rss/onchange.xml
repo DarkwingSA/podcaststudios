@@ -6,7 +6,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
-          <lastBuildDate>Thu, 27 Dec 2018 16:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 28 Dec 2018 16:00:00 +0200</lastBuildDate>
 
           <title>On Change with Petro du Pisani</title>
           <link>http://solidgoldstudios.co.za/onchange</link>
@@ -52,7 +52,7 @@ Books that changed us and shaped us through the years.
                </itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-011-riaan-wolmarans.mp3?ver=1" type="audio/mpeg" length="50640111" />
-               <guid isPermaLink="false">on-change-011></guid>
+               <guid isPermaLink="false">onchange011></guid>
                
                <itunes:duration>51:49</itunes:duration>
                
@@ -75,7 +75,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>My guest is Steven Heyman (owner of Yogaworks), whose Vinyasa Flow class is a firm favourite of mine at The Yoga Republic. In this episode we explore how he went from being the managing director of a logistics company to becoming a yoga teacher. We also talk about the practice of mindfulness.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-010-steven-heyman.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-010-steven-heyman.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-010-steven-heyman.mp3</guid> -->
+               <guid isPermaLink="false">onchange010></guid>
                
                <itunes:duration>36:28</itunes:duration>
                
@@ -100,7 +101,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Gail Cameron (MD of the Image Excellence Group) on how executive and life coaching has evolved over the past 30 years. They discuss excerpts from Gail's book "Authentic African Leadership," and touch on topics such as Emotional Intelligence, Social Intelligence, Resonant Leadership and the Quantum Physics of Leadership.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-009-gail-cameron.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-009-gail-cameron.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-009-gail-cameron.mp3</guid> -->
+               <guid isPermaLink="false">onchange009></guid>
                
                <itunes:duration>31:57</itunes:duration>
                
@@ -125,7 +127,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Corrie Pitzer, from Safemap International, about resilience engineering in safety.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-008-corrie-pitzer.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-008-corrie-pitzer.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-008-corrie-pitzer.mp3</guid> -->
+               <guid isPermaLink="false">onchange008></guid>
                
                <itunes:duration>50:19</itunes:duration>
                
@@ -150,7 +153,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Dr. Clifford Saunders (The Brain Reprogramming Doctor) about reprogramming your brain.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-007-clifford-saunders.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-007-clifford-saunders.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-007-clifford-saunders.mp3</guid> -->
+               <guid isPermaLink="false">onchange007></guid>
                
                <itunes:duration>36:59</itunes:duration>
                
@@ -175,7 +179,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Harry Sinko and Gary Lane, from Vuuma Collaborations, about mining simulations, digital twins and the people change required for Mining 4.0.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-006-harry-sinko-and-gary-lane-disruption.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-006-harry-sinko-and-gary-lane-disruption.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-006-harry-sinko-and-gary-lane-disruption.mp3</guid> -->
+               <guid isPermaLink="false">onchange006></guid>
                
                <itunes:duration>29:56</itunes:duration>
                
@@ -198,7 +203,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Noleen Pauls and Lindi Nakedi from 'Women in Mining South Africa (WiMSA) about gender diversity in the mining industry.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-005-wimsa-gender-diversity-in-mining.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-005-wimsa-gender-diversity-in-mining.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-005-wimsa-gender-diversity-in-mining.mp3</guid> -->
+               <guid isPermaLink="false">onchange005></guid>
                
                <itunes:duration>39:05</itunes:duration>
                
@@ -219,7 +225,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to George Lee Sye about the intersection between change management and business improvement.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-004-george-lee-sye.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-004-george-lee-sye.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-004-george-lee-sye.mp3</guid> -->
+               <guid isPermaLink="false">onchange004></guid>
                
                <itunes:duration>39:02</itunes:duration>
                
@@ -240,7 +247,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Dr. Barbra Trautline from 'Change Catalysts' about Change Intelligence (CQ).</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-003-barbara-trautlein.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-003-barbara-trautlein.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-003-barbara-trautlein.mp3</guid> -->
+               <guid isPermaLink="false">onchange003></guid>
                
                <itunes:duration>41:57</itunes:duration>
                
@@ -261,7 +269,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to Dr. Ryk Croukamp from 'Indigo Skye' about logotherapy and self-awareness in change.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-002-ryk-croukamp.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-002-ryk-croukamp.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-002-ryk-croukamp.mp3</guid> -->
+               <guid isPermaLink="false">onchange002></guid>
                
                <itunes:duration>48:32</itunes:duration>
                
@@ -282,7 +291,8 @@ Books that changed us and shaped us through the years.
                <itunes:summary>Petro du Pisani talks to 'And Change' owner, Tom Marsicano about change in a production environment.</itunes:summary>
                
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-001-tom-marsicano.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/onchange/on-change-001-tom-marsicano.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/onchange/on-change-001-tom-marsicano.mp3</guid> -->
+               <guid isPermaLink="false">onchange001></guid>
                
                <itunes:duration>26:42</itunes:duration>
                

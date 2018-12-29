@@ -4,7 +4,7 @@
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
 
-          <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 28 Dec 2018 16:00:00 +0200</lastBuildDate>
           <ttl>30</ttl>
 
           <title>Edu Inc Creative Arts and Languages</title>
@@ -42,7 +42,8 @@
                <itunes:summary>2 Things Every Parent Wishes They'd Known Sooner</itunes:summary>
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4" type="video/mp4" length="0" />
-               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
+               <guid isPermaLink="false">eduinc003></guid>
                
                <itunes:duration>27:30</itunes:duration>
                <itunes:keywords>Cognitive Levels, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -64,7 +65,8 @@
                <itunes:summary>We are a Boutique School in Fourways.</itunes:summary>
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3</guid> -->
+               <guid isPermaLink="false">eduinc002></guid>
                
                <itunes:duration>00:30</itunes:duration>
                <itunes:keywords>Malcolm Gooding, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy</itunes:keywords>
@@ -86,7 +88,8 @@
                <itunes:summary>From Education Incorporated Grade 9s (2018) comes a radio drama about a missing member of the Flat Earth Society.</itunes:summary>
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3" type="audio/mpeg" length="0" />
-               <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3</guid>
+               <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3</guid> -->
+               <guid isPermaLink="false">eduinc001></guid>
                
                <itunes:duration>2:54</itunes:duration>
                <itunes:keywords>Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
