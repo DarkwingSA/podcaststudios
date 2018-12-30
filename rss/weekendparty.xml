@@ -46,7 +46,51 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Mon, 24 Dec 2018 10:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Sun, 30 Dec 2018 10:00:00 +0200</lastBuildDate>
+
+
+      <item>
+            <!-- 025 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>SupercaliSuperBowlTVCarltonTheFloss</title>
+            <itunes:title>SupercaliSuperBowlTVCarltonTheFloss</itunes:title>
+            <itunes:subtitle>Mary Poppins does The Carlton</itunes:subtitle>
+            <itunes:duration>02:15</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>25</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Sun, 30 Dec 2018 10:00:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+            	MARY POPPINS is back, MAROON 5 and TRAVIS SCOTT are up for SUPERBOWL LIII. LG rolls out its flexible tech TV set and CARLTON BANKS from THE FRESH PRINCE sues FORTNITE Game producers.
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	MARY POPPINS is back, MAROON 5 and TRAVIS SCOTT are up for SUPERBOWL LIII. LG rolls out its flexible tech TV set and CARLTON BANKS from THE FRESH PRINCE sues FORTNITE Game producers.
+            </itunes:summary>
+
+            <itunes:keywords>Mary Poppins, Emily Blunt, Supercalifragilisticexpialidocious, Julie Andrews, Lin Manual Miranda, Maroon 5, Superbowl LIII, Travis Scott, OLED TV, LG, Alfonso Ribeiro, Fortnite, Epic Games, The Floss, The Carlton, Backpack Kid, 2 Milly, Fresh Price</itunes:keywords>
+
+<!-- AUDIO ONLY -->
+            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-025.mp3" type="audio/mpeg" fileSize="5174478" />
+            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-025.mp3" type="audio/mpeg" length="5174478" />
+
+<!-- if VIDEO then use this one
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" fileSize="XXXXX" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" length="XXXXX" />
+-->
+
+            <guid isPermaLink="false">weekendparty-025></guid>
+                                                            
+      </item>
 
       <item>
             <!-- 024 -->
