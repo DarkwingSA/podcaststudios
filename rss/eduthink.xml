@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dcterms="https://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
      
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/eduthink.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="http://mymate.co.za/podcasts/rss/eduthink001.xml" rel="self" type="application/rss+xml" /> -->
           <lastBuildDate>Thu, 27 Dec 2018 19:30:00 +0200</lastBuildDate>
           <title>EduThink with Gavin Kennedy</title>
-          <link>http://solidgoldstudios.co.za/eduthink</link>
+          <link>https://solidgoldstudios.co.za/eduthink.php</link>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
           <description>The podcast that explores Education in South Africa.</description>

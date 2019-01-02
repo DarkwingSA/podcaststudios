@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dcterms="https://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
      
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
@@ -8,7 +14,7 @@
           <ttl>30</ttl>
 
           <title>Edu Inc Creative Arts and Languages</title>
-          <link>https://podcaststudios.co.za/eduinc</link>
+          <link>https://podcaststudios.co.za/eduinc.php</link>
           <language>en-za</language>
           <copyright>Education Incorporated and Solid Gold Studios - all rights reserved</copyright>
           <description>Education Incorporated Boutique School : Creative Arts and Language Productions</description>
