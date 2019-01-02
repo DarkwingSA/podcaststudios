@@ -22,7 +22,7 @@ RewriteEngine On
 ## block bots ##
 RewriteEngine On
 ## RewriteCond %{HTTP_USER_AGENT} (googlebot|CFNetwork|python|python-urllib|core|favicon|ips-agent|commons-httpclient|Dalvik|simplepie|Googlebot-video|twitterbot|netcraft|Exabot|bingbot|Baiduspider) [NC] ##
-RewriteCond %{HTTP_USER_AGENT} (googlebot|Googlebot-video|twitterbot|Exabot|bingbot|Baiduspider) [NC]
+RewriteCond %{HTTP_USER_AGENT} (##googlebot|##Googlebot-video|twitterbot|Exabot|bingbot|Baiduspider) [NC]
 RewriteRule .* - [R=403,L]
 ## End ##
 
