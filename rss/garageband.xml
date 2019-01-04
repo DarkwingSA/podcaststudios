@@ -58,7 +58,7 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 03 Jan 2019 20:30:00 +0200</lastBuildDate>
 
 
 
@@ -152,7 +152,7 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
             
              <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
              <title>Chapter 3 | Making New Friends</title>
-             	<pubDate>Tue, 11 Dec 2018 14:50:00 +0200</pubDate>
+             	<pubDate>Tue, 11 Dec 2018 14:51:00 +0200</pubDate>
              <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
 
              <!-- IS THERE EPISODE-SPECIFIC ARTWORK?
@@ -169,13 +169,13 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
                <itunes:summary>Chapter 3 | Making New Friends | After helping to build the Eastland Insurance company for 17 years, Lanthus Trilby is retrenched without warning, to make way for “younger, brighter” minds. Angry and betrayed, the passive actuary wants to let his boss feel his rage. His initial plans of keying his boss’ car escalate beyond merely blowing it up. Lanthus is going to take down the entire company. But his plan needs a team with special skills. The hacker, the daredevil, the explosives expert and the acrobatic pair join Lanthus to pull off the most daring caper the world has ever seen to bring Eastland Insurance to its knees. But as soon as than the plan begins, trouble sets in. The police are closing in, and someone else wants a piece of the action. Can Lanthus keep it together long enough to pull off his master plan?</itunes:summary>
 
               <!-- UPDATE FILE NAME THREE TIMES -->
-               <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3" type="audio/mpeg" fileSize="36800300" />                            
-               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3" type="audio/mpeg" length="36800300" />
+               <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3?ver=2" type="audio/mpeg" fileSize="36327857" />                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/garageband/garage-band-003.mp3?ver=2" type="audio/mpeg" length="36327857" />
                <!-- <guid>http://podcaststudios.co.za/audio/garageband/garage-band-003.mp3</guid> -->
                <guid isPermaLink="false">garageband03></guid>
                
               <!-- GET FILE DURATION -->
-               <itunes:duration>25:22</itunes:duration>
+               <itunes:duration>25:16</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
                <itunes:keywords>Adam Alexander, Adam Rabinowitz, Garage Band, another Solid Gold Studios audiobook, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
