@@ -52,11 +52,54 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 05 Jan 2019 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 11 Jan 2019 22:00:00 +0200</lastBuildDate>
+
+      <item>
+            <!-- 027 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>An Old Man Boomerangs R Kelly</title>
+            <itunes:title>An Old Man Boomerangs R Kelly</itunes:title>
+            <itunes:subtitle>Halle Berry streams Looney Tunes</itunes:subtitle>
+            <itunes:duration>02:20</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>27</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Fri, 11 Jan 2019 22:00:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+            	Robert Redford's retires from acting with THE OLD MAN AND THE GUN, HALLE BERRY helps turn BOOMERANG into a TV show, JADA PINKETT SMITH just doesn't get it. Is Netflix's days of dominance comming to an end? And AXL ROSE launches a new song with some help from Bugs Bunny
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	Robert Redford's retires from acting with THE OLD MAN AND THE GUN, HALLE BERRY helps turn BOOMERANG into a TV show, JADA PINKETT SMITH just doesn't get it. Is Netflix's days of dominance comming to an end? And AXL ROSE launches a new song with some help from Bugs Bunny
+            </itunes:summary>
+
+            <itunes:keywords>Robert Redford, Old Man and the Gun, Danny Glover, Halle Berry, Boomerang, BET, Jada Pinkett Smith, Surviving R Kelly, Jimmy Nevis, Netflix, Disney, Warner Media, Guns and Roses, Axl Rose, Looney Tunes, Rock the Rock, Sissy Spacek</itunes:keywords>
+
+<!-- AUDIO ONLY -->
+            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-027.mp3" type="audio/mpeg" fileSize="30772890" />
+            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-027.mp3" type="audio/mpeg" length="30772890" />
+
+<!-- if VIDEO then use this one
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" fileSize="XXXXX" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" length="XXXXX" />
+-->
+
+            <guid isPermaLink="false">weekendparty-027></guid>
+                                                            
+      </item>
 
 
       <item>
-            <!-- 065 -->
+            <!-- 026 -->
             <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
             <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
 
@@ -64,7 +107,7 @@
 
             <title>Bautista a Drone and some Slippers!</title>
             <itunes:title>Bautista a Drone and some Slippers!</itunes:title>
-            <itunes:subtitle>Bronson listens to Aretha</itunes:subtitle>
+            <itunes:subtitle>Brosnon listens to Aretha</itunes:subtitle>
             <itunes:duration>02:18</itunes:duration>
 
             <itunes:explicit>no</itunes:explicit>
@@ -73,21 +116,21 @@
 
           	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
 
-            <pubDate>Sat, 05 Jan 2019 11:00:00 +0200</pubDate>
+            <pubDate>Sat, 05 Jan 2019 11:01:00 +0200</pubDate>
 
             <description><![CDATA[<p>
-            	DAVID BAUTISTA teams up with PIERCE BRONSON for the action picture FINAL SCORE. Horror comedy THE DRONE is getting a VOD release. Listening to your favorite album in a movie theater could be a thing and an ARETHA FRANKLIN tribute is coming to the tube with TYLER PERRY hosting. Finally THE HOUSE OF DREW AKA JUSTIN BIEBER has launched a low cost line of hotel slippers that sold out ASAP.
+            	DAVID BAUTISTA teams up with PIERCE BROSNON for the action picture FINAL SCORE. Horror comedy THE DRONE is getting a VOD release. Listening to your favorite album in a movie theater could be a thing and an ARETHA FRANKLIN tribute is coming to the tube with TYLER PERRY hosting. Finally THE HOUSE OF DREW AKA JUSTIN BIEBER has launched a low cost line of hotel slippers that sold out ASAP.
             </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
 
             <itunes:summary>
-            	DAVID BAUTISTA teams up with PIERCE BRONSON for the action picture FINAL SCORE. Horror comedy THE DRONE is getting a VOD release. Listening to your favorite album in a movie theater could be a thing and an ARETHA FRANKLIN tribute is coming to the tube with TYLER PERRY hosting. Finally THE HOUSE OF DREW AKA JUSTIN BIEBER has launched a low cost line of hotel slippers that sold out ASAP.
+            	DAVID BAUTISTA teams up with PIERCE BROSNON for the action picture FINAL SCORE. Horror comedy THE DRONE is getting a VOD release. Listening to your favorite album in a movie theater could be a thing and an ARETHA FRANKLIN tribute is coming to the tube with TYLER PERRY hosting. Finally THE HOUSE OF DREW AKA JUSTIN BIEBER has launched a low cost line of hotel slippers that sold out ASAP.
             </itunes:summary>
 
-            <itunes:keywords>David Bautista, Pierce Bronson, Final Score, The Drone, VOD, Playtime, Aretha Franklin, Tyler Perry, Janelle Monae, Alicia Keys, John Legend, Kelly Clarkson, Celine Dion,House of Drew, Justin Bieber, hotel slippers,CBS, 18, Sudden Death, JCVD</itunes:keywords>
+            <itunes:keywords>David Bautista, Pierce Brosnon, Final Score, The Drone, VOD, Playtime, Aretha Franklin, Tyler Perry, Janelle Monae, Alicia Keys, John Legend, Kelly Clarkson, Celine Dion,House of Drew, Justin Bieber, hotel slippers,CBS, 18, Sudden Death, JCVD</itunes:keywords>
 
 <!-- AUDIO ONLY -->
-            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-026.mp3" type="audio/mpeg" fileSize="3042385" />
-            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-026.mp3" type="audio/mpeg" length="3042385" />
+            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-026.mp3?ver=2" type="audio/mpeg" fileSize="3042385" />
+            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-026.mp3?ver=2" type="audio/mpeg" length="3042385" />
 
 <!-- if VIDEO then use this one
 			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" fileSize="XXXXX" />
