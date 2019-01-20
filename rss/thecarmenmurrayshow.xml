@@ -11,7 +11,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
           <ttl>30</ttl>
           <title>The Carmen Murray Show</title>
-          <link>https://solidgoldstudios.co.za/thecarmenmurrayshow.php</link>
+          <link>https://solidgoldstudios.co.za/carmenmurray.php</link>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
 
@@ -39,7 +39,7 @@
                <itunes:episode>14</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
-               <pubDate>Sun, 20 Jan 2019 20:00:00 +0200</pubDate>
+               <pubDate>Sun, 20 Jan 2019 20:30:00 +0200</pubDate>
                <title>#BookFit | Swimming with Sharks | Gavin Moffat</title>
 
                <itunes:subtitle>A book about the simple business guidelines for a complex world by author Gavin Moffat.</itunes:subtitle>
