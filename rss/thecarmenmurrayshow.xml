@@ -16,7 +16,7 @@
           <copyright>Solid Gold Studios - all rights reserved</copyright>
 
 
-          <lastBuildDate>Mon, 21 Jan 2019 20:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Wed, 23 Jan 2019 20:00:00 +0200</lastBuildDate>
 
 
           <description>From Solid Gold Studios, this is The Carmen Murray Show. Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!</description>
@@ -24,7 +24,16 @@
           <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>
           <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
           <itunes:summary>From Solid Gold Studios welcome to The Carmen Murray Show</itunes:summary>
-          <itunes:category text="Business" />
+          
+          <!-- <itunes:category text="Business" /> -->
+          <itunes:category text="Business">
+          <itunes:category text="Management &amp; Marketing" />
+          </itunes:category>
+          <itunes:category text="Technology">
+          <itunes:category text="Tech News" />
+          </itunes:category>
+
+
           <itunes:owner>
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
                <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
