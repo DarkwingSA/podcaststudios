@@ -20,7 +20,7 @@
           <description>Promoting safe, responsible and lawful firearm ownership.</description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg</url>
+            <url>https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2</url>
             <title>Gun Talk by GOSA</title>
             <link>https://solidgoldstudios.co.za/gosa</link>
           </image>
@@ -31,12 +31,12 @@
           <itunes:author>GOSA | Solid Gold Studios</itunes:author>
           <itunes:summary>Promoting safe, responsible and lawful firearm ownership.</itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/gosa.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
           <media:keywords>GOSA, gun owners south africa, firearms, Tim Flack, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
           <media:category>Society &amp; Culture</media:category>
 
@@ -53,7 +53,7 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 12 Jan 2019 16:05:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 24 Jan 2019 20:30:00 +0200</lastBuildDate>
 
     <item>
           <!-- S01 E002 -->
@@ -71,7 +71,7 @@
           <itunes:season>1</itunes:season>
           <itunes:episode>3</itunes:episode>
 
-          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
 
       <!--
       	  <dcterms:valid>

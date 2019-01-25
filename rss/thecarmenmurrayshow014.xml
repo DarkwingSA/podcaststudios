@@ -16,7 +16,7 @@
           <copyright>Solid Gold Studios - all rights reserved</copyright>
 
 
-          <lastBuildDate>Wed, 23 Jan 2019 20:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sun, 20 Jan 2019 20:00:00 +0200</lastBuildDate>
 
 
           <description>From Solid Gold Studios, this is The Carmen Murray Show. Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!</description>
@@ -24,16 +24,7 @@
           <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>
           <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
           <itunes:summary>From Solid Gold Studios welcome to The Carmen Murray Show</itunes:summary>
-          
-          <!-- <itunes:category text="Business" /> -->
-          <itunes:category text="Business">
-          <itunes:category text="Management &amp; Marketing" />
-          </itunes:category>
-          <itunes:category text="Technology">
-          <itunes:category text="Tech News" />
-          </itunes:category>
-
-
+          <itunes:category text="Business" />
           <itunes:owner>
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
                <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
@@ -42,66 +33,6 @@
           <itunes:keywords>Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 
-          <item>
-               <!-- 0015 -->
-               <itunes:episode>15</itunes:episode>
-               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
-
-               <pubDate>Mon, 21 Jan 2019 20:00:00 +0200</pubDate>
-               <title>How do you protect your ideas? | Marnus Broodryk, Shannon McLaughlin, Roy Taberer, Kimberleigh Stark</title>
-
-               <itunes:subtitle>What SMEs can learn from Ubuntu Baba's clash with Woolworths</itunes:subtitle>
-
-               <description>  <![CDATA[<p>
-                    In this episode Carmen Murray interviews victims of corporate bullying (Shannon Mclaughlan - Ubuntu Baba) and (Kimberleigh Stark - Stark Raving SA). Carmen Murray invited Marnus Broodryk, (Shark Tank South Africa, SME Investor, KykNet's Winslyn Hustler) and patent attornty, Roy Taberer, to weigh in on idea stealing and how SMEs can protect the future of their businesses. What are their rights? Is the law for SMEs or against them? What lessons can we learn from this? There was an incident in South Africa, specifically around a small Business owner, Shannon McLaughlin of Ubuntu Baba, who had to stand up to the retail giant, Woolworths, after she discovered that her original design was copied and even sold under the same name. Many South Africans got behind this story and reprimanded Woolworths for their unethical practice. The reality is, it is not the first time - this happens every day. This is a very informative session discussing Product, Marketing and Advertising, Technology, Film and TV.
-               </p>
-               <p>
-                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah</a>
-               </p>
-               <p>
-               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
-               </p>
-               <p>
-               	For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
-           	   </p>
-               <p>
-               Visit <a href="https://ubuntubaba.com/?utm_source=Podcast&utm_medium=Carmen%20Murray">Ubuntu Baba</a> for the (baby) support you need.
-               </p>
-               <p>
-               Thanks to <strong>DotSlashMusic</strong> for the wonderful track <a href="https://soundcloud.com/dotslashmusic/first-sunrise-of-spring">First Sunrise of Spring</a>
-               </p>
-               <p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a>
-                  </p>
-                  <p>
-                  <strong>#BeHeard</stong>
-                  </p>]]>
-                       
-                  </description>
-
-               <itunes:summary> In this episode Carmen Murray interviews victims of corporate bullying (Shannon Mclaughlan - Ubuntu Baba) and (Kimberleigh Stark - Stark Raving SA). Carmen Murray invited Marnus Broodryk, (Shark Tank South Africa, SME Investor, KykNet's Winslyn Hustler) and patent attornty, Roy Taberer, to weigh in on idea stealing and how SMEs can protect the future of their businesses. What are their rights? Is the law for SMEs or against them? What lessons can we learn from this? There was an incident in South Africa, specifically around a small Business owner, Shannon McLaughlin of Ubuntu Baba, who had to stand up to the retail giant, Woolworths, after she discovered that her original design was copied and even sold under the same name. Many South Africans got behind this story and reprimanded Woolworths for their unethical practice. The reality is, it is not the first time - this happens every day. This is a very informative session discussing Product, Marketing and Advertising, Technology, Film and TV.
-
-               Visit UbuntuBaba.com for the (baby) support you need.
-               
-               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
-
-               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
-
-               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
-
-               Thanks to DotSlashMusic for the wonderful track First Sunrise of Spring.
-               
-               For more episodes, visit SolidGoldStudios.co.za/carmenmurray
-
-                #BeHeard</itunes:summary>
-
-               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-015-shannon-mclaughlin.mp3" type="audio/mpeg" length="58283076" />
-               
-               <guid isPermaLink="false">thecarmenmurrayshow015</guid>               
-                  
-               <itunes:duration>01:00:33</itunes:duration>
-               <itunes:keywords>Ideas, Innovation, Products, Film, TV, Kimberleigh Stark, Marnus Broodryk, Roy Taberer, Woolworths, Ubuntu Baba, Shannon Mclaughlin, SME, small business, technology, patents</itunes:keywords>
-               
-          </item>
 
           <item>
                <!-- 0014 -->
