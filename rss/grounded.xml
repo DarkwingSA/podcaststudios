@@ -56,7 +56,53 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Fri, 28 Dec 2018 16:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sun, 27 Jan 2019 19:30:00 +0200</lastBuildDate>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0017 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Green for Good | Anthea Campbell</title>
+          <itunes:title>Green for Good | Anthea Campbell</itunes:title>
+          <itunes:subtitle>Green Ain't Just a Colour</itunes:subtitle>
+          <itunes:duration>26:12</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>17</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+
+
+          <pubDate>Sun, 27 Jan 2019 19:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+In this episode of Grounded, green doesn't just pertain to gardening. Anthea Campbell, publisher of a new eco-friendly publication about to hit the shelves - and Internet - tells us what let her to exhorting all humans to become more gentle with the way they treat the earth. 
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+In this episode of Grounded, green doesn't just pertain to gardening. Anthea Campbell, publisher of a new eco-friendly publication about to hit the shelves - and Internet - tells us what let her to exhorting all humans to become more gentle with the way they treat the earth. 
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>Eco-lifestyle, eco-friendly, green, environment, environmentally friendly, magazine, eco magazine, ecological, gardening, lifestyle</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124a-anthea-campbell?ver=1" type="audio/mpeg" fileSize="25489715" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124a-anthea-campbell.mp3?ver=1" type="audio/mpeg" length="25489715" />
+
+			<guid isPermaLink="false">grounded20190124a</guid>
+                                                         
+    </item>
 
 
     <item>
