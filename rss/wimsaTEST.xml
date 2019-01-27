@@ -38,7 +38,11 @@
           <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
           <media:keywords>WiMSA, women in mining, network,Petro du Pisani, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
-          <media:category>Business</media:category>
+          
+          <!-- <media:category>Business</media:category> -->
+          <itunes:category text="Business">
+          <itunes:category text="Careers" />
+          </itunes:category>
 
           <itunes:owner>
                <itunes:email>wimsa@solidgoldstudios.co.za</itunes:email>
@@ -62,47 +66,42 @@
           
           <itunes:episodeType>full</itunes:episodeType>
 
-          <title>Meet the chairs! | Lindi Nakedi and Thabile Makgala</title>
-          <itunes:title>Meet the chairs! | Lindi Nakedi and Thabile Makgala</itunes:title>
-          <itunes:subtitle>Talking to our outgoing and incoming chairpersons</itunes:subtitle>
-          <itunes:duration>12:26</itunes:duration>
+          <title>Meet the WiMSA Committee</title>
+          <itunes:title>Meet the WiMSA Committee</itunes:title>
+          <itunes:subtitle>Who is doing what this year?</itunes:subtitle>
+          <itunes:duration>18:27</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>1</itunes:episode>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>2</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
 
-      <!--
-      	  <dcterms:valid>
-          	start=2018-12-08T08:00+02:00;
-          	end=3018-12-08T08:00+02:00;
-          </dcterms:valid>
-      -->
-      
-          <pubDate>Thu, 06 Dec 2018 14:00:00 +0200</pubDate>
+          <pubDate>Sun, 27 Jan 2019 16:30:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
-WiMSA deputy chairperson, Petro du Pisani, talks to our outgoing chairperson, Lindi Nakedi, about WiMSA's accomplishments over the past two years. Incoming chairperson Thabile Makgala gives us a glimpse into what lies ahead for WiMSA over the next couple of years.
-</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/wimsa.php">SolidGoldStudios.co.za/wimsa</a></p>]]>
+The WiMSA Chair, Thabile Makgala, introduces the 2019 committee and their portfolios and discusses their objectives and specific requests for member assistance.
+</p>
+<p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/wimsa.php">SolidGoldStudios.co.za/wimsa</a>
+<p></p>
+<p>To become a member or supporter, visit <a href="https://wimsa.org.za">wimsa.org.za</a>
+</p>]]>
           </description>
 
           <itunes:summary>
-WiMSA deputy chairperson, Petro du Pisani, talks to our outgoing chairperson, Lindi Nakedi, about WiMSA's accomplishments over the past two years. Incoming chairperson Thabile Makgala gives us a glimpse into what lies ahead for WiMSA over the next couple of years.
+The WiMSA Chair, Thabile Makgala, introduces the 2019 committee and their portfolios and discusses their objectives and specific requests for member assistance.
+
+To become a member or supporter, visit wimsa.org.za
           </itunes:summary>
 
-          <itunes:keywords>Lindi Nakedi, Thabile Makgala, achievements, strategy</itunes:keywords>
+          <itunes:keywords>Lindi Nakedi, Thabile Makgala, Petro du Pisani</itunes:keywords>
 
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e001-meet-the-chairs.mp3?ver=1" type="audio/mpeg" fileSize="12522835" />
-              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e001-meet-the-chairs.mp3?ver=1" type="audio/mpeg" length="12522835" />
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e002-committee-members.mp3?ver=1" type="audio/mpeg" fileSize="18264340" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e002-committee-members.mp3?ver=1" type="audio/mpeg" length="18264340" />
 
-          <guid isPermaLink="false">wimsa-s01-e001</guid>guid>
-
-      <!--
-          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>
-      -->
-                                                        
+          <guid isPermaLink="false">wimsa-s01-e002</guid>
+                                                      
     </item>
 
 
@@ -120,7 +119,7 @@ WiMSA deputy chairperson, Petro du Pisani, talks to our outgoing chairperson, Li
           <itunes:duration>12:26</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>1</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
@@ -149,11 +148,7 @@ WiMSA deputy chairperson, Petro du Pisani, talks to our outgoing chairperson, Li
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e001-meet-the-chairs.mp3?ver=1" type="audio/mpeg" fileSize="12522835" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/wimsa/wimsa-s01-e001-meet-the-chairs.mp3?ver=1" type="audio/mpeg" length="12522835" />
 
-          <guid isPermaLink="false">wimsa-s01-e001</guid>guid>
-
-      <!--
-          <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid>
-      -->
+          <guid isPermaLink="false">wimsa-s01-e001</guid>
                                                         
     </item>
 
