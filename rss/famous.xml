@@ -73,7 +73,49 @@ another Solid Gold podcast
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 27 Dec 2018 19:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 29 Jan 2019 19:30:00 +0200</lastBuildDate>
+
+    <item>
+          <!-- OUR RSS NUMBER 003 -->
+          <author>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</author>
+          <itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>From Competing, to Fame | Jesse Suntele</title>
+          <itunes:title>From Competing, to Fame | Jesse Suntele</itunes:title>
+          <itunes:subtitle>Jesse Suntele’s complex, but successful, route to the walk of fame.</itunes:subtitle>
+          <itunes:duration>35:19</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=6" />
+
+          <pubDate>Tue, 29 Jan 2019 19:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Jesse started his journey by entering talent competitions - and it worked! He is signed with a top agent and is a well-known and -loved actor and presenter.
+</p>
+<p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/famous.php">SolidGoldStudios.co.za/famous</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Jesse started his journey by entering talent competitions - and it worked! He is signed with a top agent and is a well-known and -loved actor and presenter.
+          </itunes:summary>
+
+          <itunes:keywords>Competitions, actor, presenter, Jesse Suntele</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/famous/famous-003-jesse-suntele.mp3?ver=1" type="audio/mpeg" fileSize="34433320" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/famous/famous-003-jesse-suntele.mp3?ver=1" type="audio/mpeg" length="34433320" />
+
+          <guid isPermaLink="false">famous-003</guid>
+                                                      
+    </item>
+
 
 
     <item>
@@ -89,7 +131,7 @@ another Solid Gold podcast
           <itunes:duration>39:53</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>2</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=6" />
@@ -130,7 +172,7 @@ Learning from an actress who worked on Marvel’s record breaking ‘Black Panth
           <itunes:duration>34:55</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>1</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=5" />
