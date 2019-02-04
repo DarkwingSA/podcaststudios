@@ -13,13 +13,30 @@
           <title>The Carmen Murray Show</title>
           <link>https://solidgoldstudios.co.za/carmenmurray.php</link>
           <language>en-za</language>
-          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <copyright>© Solid Gold Studios - all rights reserved</copyright>
 
 
-          <lastBuildDate>Sun, 27 Jan 2019 16:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Mon, 04 Feb 2019 09:30:00 +0200</lastBuildDate>
 
 
-          <description>From Solid Gold Studios, this is The Carmen Murray Show. Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!</description>
+          <description><![CDATA[<p>
+          	Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!
+          </p>
+          <p>
+          	Visit <a href="https://www.boo-yah.co.za?utm_source=Podcast">Boo-Yah.co.za</a> to learn more about our training workshops designed to get you #TechFit # SkillsFit #InnovationFit #TrendFit and #MarketingFit
+          </p>
+          <p>
+			To book for the latest Future Fit Networking Event visit <a href="https://boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za/futurefit-events</a>
+		  </p>
+		  <p>
+		  	Need a Marketing or Motivational Speaker for your events? Contact <a href="http://www.carmenmurray.com/?utm_source=Podcast">CarmenMurray.com</a>
+		  </p>
+		  <p>
+		  	Read Carmen Murray's BizCommunity column to #FutureFit yourself at <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">BizCommunity.com</a>
+		  </p>
+          ]]>
+          </description>
+
           <itunes:explicit>no</itunes:explicit>
           <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>
           <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -42,23 +59,79 @@
           <itunes:keywords>Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
          <item>
+               <!-- 0018 #TrendFit 003  -->
+               <itunes:episode>18</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 04 Feb 2019 09:30:00 +0200</pubDate>
+               <title>#TrendFit | Bad Big Brother Seeds | Bronwyn Williams</title>
+
+               <itunes:subtitle>The good and bad seeds sowed by organisations will either blossom or die. The Big Brother Brand becomes the Judge, the Jury, the Priest and the Executioner.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                  Bronwyn Williams draws attention to the practice of the 'Big Brother Brands' and the consequences the good and the bad seeds could lead to in the 21st century. She unpacks censorship, propaganda, purpose and forecasts the rise of 'Clean Tech'.
+               </p>
+               <p>
+                Bronwyn recently spoke at <a href="https://www.bizcommunity.com/Article/196/424/186919.html?utm_source=Podcast&utm_medium=Carmen%20Murray">#BizTrends2019</a>
+              </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">another Solid Gold podcast</a>
+               </p>
+                  <p>
+                  <strong>#BeHeard</stong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Bronwyn Williams draws attention to the practice of the 'Big Brother Brands' and the consequences the good and the bad seeds could lead to in the 21st century.  She unpacks censorship, propaganda, purpose and forecasts the rise of 'Clean Tech'.
+
+               Bronwyn recently spoke at #BizTrends2019. Read more at https://www.bizcommunity.com/Article/196/424/186919.html
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-018-trendfit003-bronwyn-williams.mp3" type="audio/mpeg" length="11454955" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow018</guid>               
+                  
+               <itunes:duration>11:39</itunes:duration>
+               <itunes:keywords>purpose, clean tech, big brother, trend snacks, trend spotting, fluxtrends, bronwyn williams, governments, tech, propaganda, discrimination, 2019 trends</itunes:keywords>
+               
+          </item>
+
+         <item>
                <!-- 0017 #TrendFit 002  -->
                <itunes:episode>17</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Sun, 27 Jan 2019 16:40:00 +0200</pubDate>
-               <title>#TrendFit : Why Innovation Fails | Dion Chang</title>
+               <title>#TrendFit | Why Innovation Fails | Dion Chang</title>
 
                <itunes:subtitle>Dion Chang from Flux Trends explores why brands can't get innovation right, following his trip to Silicone Valley.</itunes:subtitle>
 
-               <description>  <![CDATA[<p>
+               <description><![CDATA[<p>
                     Dion Chang draws attention to a trend that needs a lot of TLC - Innovation. The success of Innovation requires scaling, and he touches on the daunting task that requires businesses to review, in order to make way for great innovation.
                </p>
                <p>
                 Watch Dion Chang's <a href="http://bit.ly/2Ua4l44">YouTube clip on this topic.</a>
               </p>
                <p>
-                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah</a>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
                </p>
                <p>
                For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
