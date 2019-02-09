@@ -14,7 +14,7 @@
           <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
-          <description>Everything you need to know about the world of entertainment.</description>
+          <description>Lance Zeeman and Shane "The Duke' Wellington update you on everything you need to know about the world of entertainment.</description>
 
           <image>
             <url>https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg</url>
@@ -32,7 +32,7 @@
 
           <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
 
-          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
           <media:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</media:keywords>
           <media:category>Business</media:category>
@@ -52,8 +52,52 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 02 Feb 2019 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sat, 09 Feb 2019 09:00:00 +0200</lastBuildDate>
 
+
+      <item>
+            <!-- 029 -->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>Forgiving Repeats Slowly</title>
+            <itunes:title>Forgiving Repeats Slowly</itunes:title>
+            <itunes:subtitle>Groundhog Day is no Game</itunes:subtitle>
+            <itunes:duration>02:05</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>29</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Sat, 09 Feb 2019 09:00:00 +0200</pubDate>
+
+            <description><![CDATA[<p>
+
+            	CAN YOU EVER FORGIVE ME delivers some Oscar nominated performances, GROUNDHOG DAY is back as a VR game, CELINE DION to get he biopic treatment, and it looks like HIT MUSIC are starting to slow down
+            </p><p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>]]></description>
+
+            <itunes:summary>
+            	CAN YOU EVER FORGIVE ME delivers some Oscar nominated performances, GROUNDHOG DAY is back as a VR game, CELINE DION to get he biopic treatment, and it looks like HIT MUSIC are starting to slow down
+            </itunes:summary>
+
+            <itunes:keywords>Can You Ever Forgive Me, Melissa McCarthy, Richard E Grant, Groundhog Day, Like Father Like Son, Bill Murray, Celine Dion, bpm, Chill, Solid Gold Studios, The Weekend Party, HOT 91.9FM Lance Zeeman, Shane The Duke Wellington</itunes:keywords>
+
+<!-- AUDIO ONLY -->
+            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-029.mp3" type="audio/mpeg" fileSize="2833058" />
+            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-029.mp3" type="audio/mpeg" length="2833058" />
+
+<!-- if VIDEO then use this one
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" fileSize="XXXXX" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" length="XXXXX" />
+-->
+
+            <guid isPermaLink="false">weekendparty-029</guid>
+                                                            
+      </item>
 
       <item>
             <!-- 028 -->
