@@ -57,8 +57,54 @@
           <ttl>30</ttl>
 
           <pubDate>Sat, 02 Dec 2017 12:00:00 +0200</pubDate>
-          <lastBuildDate>Sat, 02 Feb 2019 11:30:00 +0200</lastBuildDate>
+          
+          <lastBuildDate>Sat, 09 Feb 2019 09:40:00 +0200</lastBuildDate>
 
+
+    <item>
+          <!-- OUR RSS NUMBER 0019 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</title>
+          <itunes:title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</itunes:title>
+          <itunes:subtitle>Stomach issues are one of the greatest health problems plaguing society these days. How do we address this - and still enjoy living?</itunes:subtitle>
+          <itunes:duration>28:08</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:episode>19</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190124c-cover.jpg" />
+
+
+          <pubDate>Sat, 09 Feb 2019 09:45:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Known across South Africa as one of the most popular proponents of organic vegetable gardening, Linda Galvad of Sought After Seedlings gets to grips with why the Gut is often in the grips of crippling pain. Can eating healthy make you healthier? Are we just what we eat? Growing your own often leads to being owning your own being.
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+Known across South Africa as one of the most popular proponents of organic vegetable gardening, Linda Galvad of Sought After Seedlings gets to grips with why the Gut is often in the grips of crippling pain. Can eating healthy make you healthier? Are we just what we eat? Growing your own often leads to being owning your own being. 
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>Linda Galvad, Organic, organic vegetables, organic vegetable farming, veggies, gut health, healthy living</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124c-linda-galvad.mp3?ver=1" type="audio/mpeg" fileSize="27410699" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124c-linda-galvad.mp3?ver=1" type="audio/mpeg" length="27410699" />
+
+      <guid isPermaLink="false">grounded20190124c</guid>
+                                                         
+    </item>
 
     <item>
           <!-- OUR RSS NUMBER 0018 -->
@@ -104,7 +150,6 @@ To share in Mel's adventures, visit MelsTreasures.co.za
       <guid isPermaLink="false">grounded20190124b</guid>
                                                          
     </item>
-
 
     <item>
           <!-- OUR RSS NUMBER 0017 -->
