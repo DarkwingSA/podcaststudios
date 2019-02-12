@@ -16,7 +16,7 @@
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
 
 
-          <lastBuildDate>Mon, 04 Feb 2019 08:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 12 Feb 2019 11:30:00 +0200</lastBuildDate>
 
 
           <description><![CDATA[<p>
@@ -62,6 +62,57 @@
           <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
           <itunes:keywords>Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
+
+         <item>
+               <!-- 0020 Audition Crasher -->
+               <itunes:episode>19</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Tue, 12 Feb 2019 11:30:00 +0200</pubDate>
+               <title>Audition Crasher | Kimberleigh Stark</title>
+
+               <itunes:subtitle>Carmen Murray "crashed" one of Kimberleigh Stark's auditions to find new actors and this is what she discovered.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                  Carmen Murray is curious to see what happens in the world of "Kimberleigh Stark" and ambushed one of her auditions in pursuit to find new actors in South Africa. She wanted to have an understanding of what happens behind the scenes of Lights, Cameras, Action in preparation of the Future Fit Networking Events launch, powered by Boo-Yah! At the launch, the theme will be Storytelling and Kimberleigh will unpack storytelling secrets from the Hollywood Playground at this event, and Carmen wanted to see what the fuss was all about in order for her to share the "Behind The Scenes" of her day to day job. What she discovered was an eye-opener. Actors can't bring a bad story to life but give them a good story and you go on an emotional rollercoaster. Listen to this episode to learn more about #BehindTheScenes. 
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</stong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Carmen Murray is curious to see what happens in the world of "Kimberleigh Stark" and ambushed one of her auditions in pursuit to find new actors in South Africa. She wanted to have an understanding of what happens behind the scenes of Lights, Cameras, Action in preparation of the Future Fit Networking Events launch, powered by Boo-Yah! At the launch, the theme will be Storytelling and Kimberleigh will unpack storytelling secrets from the Hollywood Playground at this event, and Carmen wanted to see what the fuss was all about in order for her to share the "Behind The Scenes" of her day to day job. What she discovered was an eye-opener. Actors can't bring a bad story to life but give them a good story and you go on an emotional rollercoaster. Listen to this episode to learn more about #BehindTheScenes. 
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-020-audition-crasher.mp3" type="audio/mpeg" length="18350709" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow020</guid>               
+                  
+               <itunes:duration>18:51</itunes:duration>
+               <itunes:keywords>Kimberleigh Stark, Lights Cameras Action, Stark Raving, Acting, Storytelling, auditions, Future Fit Networking Events</itunes:keywords>
+               
+          </item>
 
          <item>
                <!-- 0019 #SalesFit 001 Mark Keating  -->
