@@ -57,7 +57,8 @@
                
                <itunes:duration>02:01</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:episode>7</itunes:episode>               
+               <itunes:episode>7</itunes:episode>   
+               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />            
                <itunes:keywords>Children need the structure and predictability, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
@@ -86,7 +87,8 @@
                
                <itunes:duration>03:04</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:episode>6</itunes:episode>               
+               <itunes:episode>6</itunes:episode>
+               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />               
                <itunes:keywords>finding the right school, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
@@ -145,7 +147,8 @@
                
                <itunes:duration>01:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:episode>4</itunes:episode>               
+               <itunes:episode>4</itunes:episode>
+               <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />               
                <itunes:keywords>Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
