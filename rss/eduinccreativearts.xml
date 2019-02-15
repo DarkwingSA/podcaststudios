@@ -10,7 +10,7 @@
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
 
-          <lastBuildDate>Thu, 14 Feb 2019 13:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Fri, 15 Feb 2019 07:00:00 +0200</lastBuildDate>
           <ttl>30</ttl>
 
           <title>Education Incorporated Boutique School</title>
@@ -53,7 +53,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-case-study-04-ronald-ja.mp3" type="audio/mpeg" length="2078290" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
-               <guid isPermaLink="false">eduinc007></guid>
+               <guid isPermaLink="false">eduinc007</guid>
                
                <itunes:duration>02:01</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -83,7 +83,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-case-study-03-charlie-ja.mp3" type="audio/mpeg" length="3081393" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
-               <guid isPermaLink="false">eduinc006></guid>
+               <guid isPermaLink="false">eduinc006</guid>
                
                <itunes:duration>03:04</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -113,7 +113,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-case-study-02-tech.mp3" type="audio/mpeg" length="2893311" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
-               <guid isPermaLink="false">eduinc005></guid>
+               <guid isPermaLink="false">eduinc005</guid>
                
                <itunes:duration>02:52</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -129,8 +129,8 @@
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
-               <title>Case Study | Neil's Story</title>
-               <itunes:title>Case Study | Neil's Story</itunes:title>
+               <title>EduInc Case Study | Neil's Story</title>
+               <itunes:title>EduInc Case Study | Neil's Story</itunes:title>
                <itunes:subtitle>Every child is unique and will perform in the right environment. We want to understand the individual.</itunes:subtitle>
 
                <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
@@ -143,7 +143,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-case-study-01-neil-ga.mp3" type="audio/mpeg" length="1968792" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
-               <guid isPermaLink="false">eduinc004></guid>
+               <guid isPermaLink="false">eduinc004</guid>
                
                <itunes:duration>01:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -173,7 +173,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4" type="video/mp4" length="49106175" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-2-things-parents-wish-theyd-known-sooner.mp4</guid> -->
-               <guid isPermaLink="false">eduinc003></guid>
+               <guid isPermaLink="false">eduinc003</guid>
                
                <itunes:duration>27:30</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -201,7 +201,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3" type="audio/mpeg" length="482623" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3</guid> -->
-               <guid isPermaLink="false">eduinc002></guid>
+               <guid isPermaLink="false">eduinc002</guid>
                
                <itunes:duration>00:30</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
@@ -231,7 +231,7 @@
 
                <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3" type="audio/mpeg" length="5720012" />
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3</guid> -->
-               <guid isPermaLink="false">eduinc001></guid>
+               <guid isPermaLink="false">eduinc001</guid>
                
                <itunes:duration>2:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
