@@ -6,7 +6,6 @@
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
 	xmlns:media="http://search.yahoo.com/mrss/">
-     
 
      <channel>
 
@@ -14,9 +13,6 @@
           <link>https://solidgoldstudios.co.za</link>
           <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
-      <!--
-          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
-      -->
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
           <description>Solid Gold Studios | Podcast Guest 101</description>
 
@@ -57,7 +53,7 @@
 
           <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
           
-          <lastBuildDate>Fri, 15 Feb 2019 10:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Sat, 16 Feb 2019 14:30:00 +0200</lastBuildDate>
 
     <item>
           <!-- OUR RSS NUMBER 005 -->
@@ -392,7 +388,11 @@ Once we have covered the podcast training, you can decide if you need a more int
 
 </p>
 <p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
-</p>]]>
+</p>
+</p>
+<p>Please ensure you complete the <a href="https://bit.ly/sgsmua">Media Usage Agreement</a> before your recording.
+</p>
+]]>
           </description>
 
           <itunes:summary>
@@ -403,11 +403,15 @@ Once we have explained the etiquette of studio use, we will take you through and
 Once we have covered the podcast training, you can decide if you need a more intense session to be able to handle any and all types of interviews in our MASTER CLASS session. We offer a more intense training one-day course including being interviewed by excellent, good, average and aggressive hosts. Thank you for attending Solid Gold’s broadcast training and we hope you find it relevant, rewarding and fun. 
 
 Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording
+https://bit.ly/sgsmua
+
           </itunes:summary>
 
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=1" type="audio/mpeg" fileSize="2199735" />
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=2" type="audio/mpeg" fileSize="4666530" />
 
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=1" type="audio/mpeg" length="2199735" />
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=2" type="audio/mpeg" length="4666530" />
 
       <guid isPermaLink="false">sgs-guest-101-01</guid>
                                                          
