@@ -17,18 +17,18 @@
           <description>Solid Gold Studios | Podcast Guest 101</description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg</url>
+            <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg?ver=2</url>
             <title>Solid Gold Studios | Podcast Guest 101</title>
             <link>https://solidgoldstudios.co.za</link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
           <itunes:type>serial</itunes:type>
-          <itunes:subtitle>How to be a great podcast guest</itunes:subtitle>
+          <itunes:subtitle>How to be an effective podcast guest</itunes:subtitle>
           <itunes:author>Solid Gold Studios</itunes:author>
-          <itunes:summary>Welcome to Solid Gold Studios. To help you be the best possible guest you can be, we've shared these basic hints, tips and guidelines.</itunes:summary>
+          <itunes:summary>Welcome to Solid Gold Studios. To help you be an effective podcast guest, we're sharing these basic hints, tips and guidelines. If you're going to be doing this more often in future, then ask us about our half day Master Class.</itunes:summary>
 
-          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
+          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/guest101.xml" rel="self" type="application/rss+xml" />
 
