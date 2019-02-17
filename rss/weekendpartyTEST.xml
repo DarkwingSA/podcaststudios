@@ -52,7 +52,55 @@
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Sat, 09 Feb 2019 09:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sat, 16 Feb 2019 15:00:00 +0200</lastBuildDate>
+
+
+      <item>
+            <!-- 030-->
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+            <itunes:episodeType>full</itunes:episodeType>
+
+            <title>Alita Hustles Bad Boy Blue</title>
+            <itunes:title>Alita Hustles Bad Boy Blue</itunes:title>
+            <itunes:subtitle>Grande Battles Vinyl</itunes:subtitle>
+            <itunes:duration>02:58</itunes:duration>
+
+            <itunes:explicit>no</itunes:explicit>
+            <!-- <itunes:season>1</itunes:season> -->
+            <itunes:episode>30</itunes:episode>
+
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+
+            <pubDate>Sat, 16 Feb 2019 15:00:00 +0200</pubDate>
+
+            <description><![CDATA[
+<p>
+ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YESTERDAY, a cinema take on the BEATLES that I cannot wait to see, FROZEN 2, HUSTLE and a blue WILL SMITH finally pops up in ALADDIN. EDDIE MURPHY is finally COMING TO AMERICA again along with a possible FATAL ATTRACTION remake. ARIANA GRANDE is the streaming Queen, PEARL JAM links up with WORLD RECORD DAY and finally The UNITED NATIONS asks you to turn it down.
+</p>
+<p>Another Solid Gold Podcast <a href="http://www.solidgoldstudios.co.za/weekendparty">SolidGoldStudios.co.za/weekendparty</a></p>
+            ]]></description>
+
+            <itunes:summary>
+ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YESTERDAY, a cinema take on the BEATLES that I cannot wait to see, FROZEN 2, HUSTLE and a blue WILL SMITH finally pops up in ALADDIN. EDDIE MURPHY is finally COMING TO AMERICA again along with a possible FATAL ATTRACTION remake. ARIANA GRANDE is the streaming Queen, PEARL JAM links up with WORLD RECORD DAY and finally The UNITED NATIONS asks you to turn it down.
+            </itunes:summary>
+
+            <itunes:keywords>Alita, Rosa Salazar, Mahershala Ali, Will Smith, Yesterday, Frozen 2, Fatal Attraction, Rabbit, Ariana Grande,World Record Store Day, UN, Anne Hathaway, Rebel Wilson, Hustle, Dirty Rotten Scoundrels,Beatles,Shane The Duke Wellington, Eddie Murphy</itunes:keywords>
+
+<!-- AUDIO ONLY -->
+            <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-030.mp3" type="audio/mpeg" fileSize="3678945" />
+            <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-030.mp3" type="audio/mpeg" length="3678945" />
+
+<!-- if VIDEO then use this one
+			<media:content url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" fileSize="XXXXX" />
+            <enclosure url="http://podcaststudios.co.za/audio/weekendparty/weekendparty-0XX.mp4" type="video/mp4" length="XXXXX" />
+-->
+
+            <guid isPermaLink="false">weekendparty-030</guid>
+                                                            
+      </item>
+
 
 
       <item>
