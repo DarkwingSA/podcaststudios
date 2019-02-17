@@ -26,7 +26,9 @@
           <itunes:type>serial</itunes:type>
           <itunes:subtitle>How to be an effective podcast guest</itunes:subtitle>
           <itunes:author>Solid Gold Studios</itunes:author>
-          <itunes:summary>Welcome to Solid Gold Studios. To help you be an effective podcast guest, we're sharing these basic hints, tips and guidelines. If you're going to be doing this more often in future, then ask us about our half day Master Class.</itunes:summary>
+          <itunes:summary>Welcome to Solid Gold Studios. To help you be a more effective podcast guest, and to ensure you get your story heard, we're sharing these basic hints, tips and guidelines. If you're going to be doing this more often in future, then drop us a mail to find out more about our Podcast Guest Master Class.
+
+          	training@solidgoldstudios.co.za</itunes:summary>
 
           <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg?ver=2" />
 
@@ -44,16 +46,16 @@
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
           </itunes:owner>
 
-          <itunes:keywords>training, guest, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+          <itunes:keywords>training, guest, another Solid Gold podcast, Cal Kennedy, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
           <ttl>30</ttl>
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:31:00 +0200</pubDate>
           
-          <lastBuildDate>Sun, 17 Feb 2019 11:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Sun, 17 Feb 2019 17:00:00 +0200</lastBuildDate>
 
     <item>
           <!-- OUR RSS NUMBER 005 -->
@@ -68,13 +70,13 @@
           <itunes:duration>02:17</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>5</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-05.jpg" />
 
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:30:05 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -157,13 +159,13 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
           <itunes:duration>02:48</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>4</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-04.jpg" />
 
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:30:04 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -250,13 +252,13 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
           <itunes:duration>00:43</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>3</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-03.jpg" />
 
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:30:03 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -306,13 +308,13 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
           <itunes:duration>01:33</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>2</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-02.jpg" />
 
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:30:02 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -370,13 +372,13 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
           <itunes:duration>00:43</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>1</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-01.jpg" />
 
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 10:31:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
