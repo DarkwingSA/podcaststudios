@@ -32,16 +32,17 @@
           <itunes:author>Solid Gold Studios</itunes:author>
           <itunes:summary>Welcome to Solid Gold Studios. To help you be the best possible guest you can be, we've shared these basic hints, tips and guidelines.</itunes:summary>
 
-          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
+          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg" />
 
           <atom:link href="https://podcaststudios.co.za/rss/guest101.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>© Solid Gold Studios - all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg" />
           <media:keywords>another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+
           <itunes:category text="Education">
-		  <itunes:category text="Training" />
-		  </itunes:category>
+		      <itunes:category text="Training" />
+		      </itunes:category>
 
           <itunes:owner>
                <itunes:email>gavin@solidgoldstudios.co.za</itunes:email>
@@ -233,9 +234,9 @@ Open-ended questions allow respondents to include more information, including fe
 Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
           </itunes:summary>
 
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=1" type="audio/mpeg" fileSize="6222426" />
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=2" type="audio/mpeg" fileSize="6132147" />
 
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=1" type="audio/mpeg" length="6222426" />
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=2" type="audio/mpeg" length="6132147" />
 
       <guid isPermaLink="false">sgs-guest-101-04</guid>
                                                          
