@@ -16,7 +16,7 @@
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
 
 
-          <lastBuildDate>Tue, 12 Feb 2019 11:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 19 Feb 2019 09:15:00 +0200</lastBuildDate>
 
 
           <description><![CDATA[<p>
@@ -61,6 +61,62 @@
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
           <itunes:keywords>Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+         <item>
+               <!-- 0021 #TrendFit 004  -->
+               <itunes:episode>21</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Tue, 19 Feb 2019 09:15:00 +0200</pubDate>
+               <title>#TrendFit | Rise of the African Barista | Khumo Theko</title>
+
+               <itunes:subtitle>Urban Tribes and the Township Coffee Culture</itunes:subtitle>
+
+               <description><![CDATA[
+                <p>
+                  Khumo Theko, researcher and cultural identity trend spotter at Flux Trends, draws attention to the rise of the township investor tribe that are categorised as the New Urban Tribes. She unpacks the rise of the growing ""coffee culture"" in various townships.
+
+                  To learn more about the "New Urban Tribes and the Township Investor: The African Barista", visit <a href="http://www.fluxtrends.com/introducing-the-african-barista/">Flux Trends</a>
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</stong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>  Khumo Theko, researcher and cultural identity trend spotter at Flux Trends, draws attention to the rise of the township investor tribe that are categorised as the New Urban Tribes. She unpacks the rise of the growing ""coffee culture"" in various townships.
+
+               To learn more about the "New Urban Tribes and the Township Investor: The African Barista", visit http://www.fluxtrends.com/introducing-the-african-barista/
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-021-trendfit004-khumo-theko.mp3" type="audio/mpeg" length="11852435" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow021</guid>               
+                  
+               <itunes:duration>12:04</itunes:duration>
+               <itunes:keywords>Urban Tribes, African Barista, sub tribe, flux trends, khumo theko, culture, Tourism</itunes:keywords>
+               
+          </item>
 
 
          <item>
