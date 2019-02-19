@@ -6,7 +6,6 @@
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
 	xmlns:media="http://search.yahoo.com/mrss/">
-     
 
      <channel>
 
@@ -14,51 +13,327 @@
           <link>https://solidgoldstudios.co.za</link>
           <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
-      <!--
-          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
-      -->
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
           <description>Solid Gold Studios | Podcast Guest 101</description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg</url>
+            <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg?ver=2</url>
             <title>Solid Gold Studios | Podcast Guest 101</title>
             <link>https://solidgoldstudios.co.za</link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
           <itunes:type>serial</itunes:type>
-          <itunes:subtitle>How to be a great podcast guest</itunes:subtitle>
+          <itunes:subtitle>How to be an effective podcast guest</itunes:subtitle>
           <itunes:author>Solid Gold Studios</itunes:author>
-          <itunes:summary>Welcome to Solid Gold Studios. To help you be the best possible guest you can be, we've shared these basic hints, tips and guidelines.</itunes:summary>
+          <itunes:summary>Welcome to Solid Gold Studios. To help you be a more effective podcast guest, and to ensure you get your story heard, we're sharing these basic hints, tips and guidelines. If you're going to be doing this more often in future, then drop us a mail to find out more about our Podcast Guest Master Class.
 
-          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg" />
+          	training@solidgoldstudios.co.za</itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/guest101.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>© Solid Gold Studios - all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-00.jpg" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
           <media:keywords>another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
-
           <itunes:category text="Education">
-		      <itunes:category text="Training" />
-		      </itunes:category>
+		  <itunes:category text="Training" />
+		  </itunes:category>
 
           <itunes:owner>
                <itunes:email>gavin@solidgoldstudios.co.za</itunes:email>
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
           </itunes:owner>
 
-          <itunes:keywords>training, guest, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+          <itunes:keywords>training, guest, another Solid Gold podcast, Cal Kennedy, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
           <ttl>30</ttl>
 
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Mon, 11 Feb 2019 08:00:00 +0200</pubDate>
           
-          <lastBuildDate>Fri, 15 Feb 2019 10:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Sun, 17 Feb 2019 17:40:00 +0200</lastBuildDate>
+
+    <item>
+          <!-- OUR RSS NUMBER 001 -->
+          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
+          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>1 | Introduction</title>
+          <itunes:title>1 | Introduction</itunes:title>
+          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:duration>00:43</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-01.jpg" />
+
+
+          <pubDate>Mon, 11 Feb 2019 09:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Welcome to Solid Gold podcast studios. Before we go through to the actual studio, here are a few tips to help you when you acclimatize yourself with the equipment and the studio surroundings. 
+
+Once we have explained the etiquette of studio use, we will take you through and get you settled. The object of the exercise is to help you become a refined and aware guest on your next broadcast interview. What you are about to experience is a short cut to being a guest on the broadcasting platform. 
+
+Once we have covered the podcast training, you can decide if you need a more intense session to be able to handle any and all types of interviews in our MASTER CLASS session. We offer a more intense training one-day course including being interviewed by excellent, good, average and aggressive hosts. Thank you for attending Solid Gold’s broadcast training and we hope you find it relevant, rewarding and fun. 
+
+</p>
+<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
+</p>
+</p>
+<p>Please ensure you complete the <a href="https://bit.ly/sgsmua">Media Usage Agreement</a> before your recording.
+</p>
+]]>
+          </description>
+
+          <itunes:summary>
+Welcome to Solid Gold podcast studios. Before we go through to the actual studio, here are a few tips to help you when you acclimatize yourself with the equipment and the studio surroundings. 
+
+Once we have explained the etiquette of studio use, we will take you through and get you settled. The object of the exercise is to help you become a refined and aware guest on your next broadcast interview. What you are about to experience is a short cut to being a guest on the broadcasting platform. 
+
+Once we have covered the podcast training, you can decide if you need a more intense session to be able to handle any and all types of interviews in our MASTER CLASS session. We offer a more intense training one-day course including being interviewed by excellent, good, average and aggressive hosts. Thank you for attending Solid Gold’s broadcast training and we hope you find it relevant, rewarding and fun. 
+
+Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording
+https://bit.ly/sgsmua
+
+          </itunes:summary>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=2" type="audio/mpeg" fileSize="4666530" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=2" type="audio/mpeg" length="4666530" />
+
+      <guid isPermaLink="false">sgs-guest-101-01</guid>
+                                                         
+    </item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 002 -->
+          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
+          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>2 | Getting Settled</title>
+          <itunes:title>2 | Getting Settled</itunes:title>
+          <itunes:subtitle>Headphones and microphones.</itunes:subtitle>
+          <itunes:duration>01:33</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>2</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-02.jpg" />
+
+
+          <pubDate>Tue, 12 Feb 2019 09:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+The methods we show you later can be used for television and radio interviews as the principles are exactly the same. There is no difference between live or recorded podcasts, radio and television programs. 
+
+How many times have you arrived at a studio for an interview not knowing what to do, where to go and how to approach the recording? Do you get nervous that you don’t really know how to use the equipment such as headphones, foldback levels or microphone technique and hate looking like an amateur guest? It’s not difficult to get to know the gear and let the host know that you are professional and they need not treat you like it’s your first time at attending a recording. 
+
+You'll probably be handed some headphones as you enter the studio. You will be shown what to do to make them as comfortable as possible. 
+Technically, the most important part is the use of the microphone.
+
+If your host is not professional enough to understand microphone technique, you will be able to guide them while at the same time letting them know that you are comfortable in the studio with whatever you need to use. There are many different types of microphones that are used in different studios around the world. It would help immensely if you could try and adapt to the type of the one you will be using. 
+
+You don’t necessarily need to know the make or specifications, but as you do a voice level test you will be able to hear whether you are too close or too far from the microphone. Not only that, you will be able to identify which part of the microphone will have the best sound response as some are live 360 degrees, and some are live at 90 degrees which means a smaller area to talk into. Secondly, your headphones need to be comfortable and at a premium level without distortion or too soft to concentrate. This will also help ascertain whether your voice is at a strong and commanding level. Your voice might sound different to you but don’t let it throw you as it is exactly how you sound to other people.
+
+</p>
+<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+The methods we show you later can be used for television and radio interviews as the principles are exactly the same. There is no difference between live or recorded podcasts, radio and television programs. 
+
+How many times have you arrived at a studio for an interview not knowing what to do, where to go and how to approach the recording? Do you get nervous that you don’t really know how to use the equipment such as headphones, foldback levels or microphone technique and hate looking like an amateur guest? It’s not difficult to get to know the gear and let the host know that you are professional and they need not treat you like it’s your first time at attending a recording. 
+
+You'll probably be handed some headphones as you enter the studio. You will be shown what to do to make them as comfortable as possible. 
+Technically, the most important part is the use of the microphone.
+
+If your host is not professional enough to understand microphone technique, you will be able to guide them while at the same time letting them know that you are comfortable in the studio with whatever you need to use. There are many different types of microphones that are used in different studios around the world. It would help immensely if you could try and adapt to the type of the one you will be using. 
+
+You don’t necessarily need to know the make or specifications, but as you do a voice level test you will be able to hear whether you are too close or too far from the microphone. Not only that, you will be able to identify which part of the microphone will have the best sound response as some are live 360 degrees, and some are live at 90 degrees which means a smaller area to talk into. Secondly, your headphones need to be comfortable and at a premium level without distortion or too soft to concentrate. This will also help ascertain whether your voice is at a strong and commanding level. Your voice might sound different to you but don’t let it throw you as it is exactly how you sound to other people.
+
+
+Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+          </itunes:summary>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-02.mp3?ver=1" type="audio/mpeg" fileSize="3806537" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-02.mp3?ver=1" type="audio/mpeg" length="3806537" />
+
+      <guid isPermaLink="false">sgs-guest-101-02</guid>
+                                                         
+    </item>
+
+
+
+
+
+
+    <item>
+          <!-- OUR RSS NUMBER 003 -->
+          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
+          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>3 | Do's and Don'ts</title>
+          <itunes:title>3 | Do's and Don'ts</itunes:title>
+          <itunes:subtitle>What to do and what to avoid.</itunes:subtitle>
+          <itunes:duration>00:43</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-03.jpg" />
+
+          <pubDate>Wed, 13 Feb 2019 09:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Firstly, do not enter the studio if you see a red light at the door. This means that a recording is in progress and we have to wait for a green light to show that the recording has either stopped or just paused. Either way, enter very cautiously and don’t say anything until you have established that the studio is not live.
+
+Stop the recording if you are uncomfortable with the situation or your speech, and if you know there is a technical glitch such as a drop in your voice level. Many hosts are blind to these occurrences so it helps if you can be aware. Do not be too far back where you have to lean into the microphone. It affects your voice negatively and as you move backwards and forwards, the sound level changes. 
+
+You might need to have a glass or bottle of water nearby if you feel your mouth or throat is getting a bit dry. Do not put the water anywhere near the electronic equipment as it might spill and damage the hardware. 
+
+
+</p>
+<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+Firstly, do not enter the studio if you see a red light at the door. This means that a recording is in progress and we have to wait for a green light to show that the recording has either stopped or just paused. Either way, enter very cautiously and don’t say anything until you have established that the studio is not live.
+
+Stop the recording if you are uncomfortable with the situation or your speech, and if you know there is a technical glitch such as a drop in your voice level. Many hosts are blind to these occurrences so it helps if you can be aware. Do not be too far back where you have to lean into the microphone. It affects your voice negatively and as you move backwards and forwards, the sound level changes. 
+
+You might need to have a glass or bottle of water nearby if you feel your mouth or throat is getting a bit dry. Do not put the water anywhere near the electronic equipment as it might spill and damage the hardware. 
+
+
+
+Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+          </itunes:summary>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-03.mp3?ver=1" type="audio/mpeg" fileSize="2210152" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-03.mp3?ver=1" type="audio/mpeg" length="2210152" />
+
+      <guid isPermaLink="false">sgs-guest-101-03</guid>
+                                                         
+    </item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 004 -->
+          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
+          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>4 | Hosts and Questions</title>
+          <itunes:title>4 | Hosts and Questions</itunes:title>
+          <itunes:subtitle>Dealing with good and bad hosts and understanding 'closed' and 'open' questions..</itunes:subtitle>
+          <itunes:duration>02:48</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>4</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-04.jpg" />
+
+
+          <pubDate>Thu, 14 Feb 2019 09:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Hosts
+A good host or interviewer will be there to help you through the process. They will understand the technical aspects of the studio and be able to put you in a comfort zone and settle any nerves you may have. They will know that their job is not to talk incessantly or over your speech. The host will prompt you and guide you through the topic always backing off to allow you to talk about whatever your expertise and message encompasses. They will also give you the maximum airtime to get your message across in the valuable time that is available. Time is money. 
+
+An average host will sometimes allow you the time to get your message across but may interrupt you to make a point – sometimes relevant and sometimes an irritant. They will also try and help you by prompting when there is no need.  If you need to interrupt or talk over the host, it’s your message so don’t be afraid to push the information. Do not allow the host to bombard you with questions and expect you to answer in the order they deliver. Answer one question at a time, and take your time. There is no rush. 
+
+
+Aggressive and bad Hosts
+Aggressive hosts are the most frustrating to deal with. They mostly like to hear their own voice and believe that they know your product or message better than you do. These are the ones you need to use your knowledge to move from his babble to your message. At this stage you will know how to handle the studio environment and the equipment. You will have to make sure the voice levels are correct and the sound is where it should be professionally. 
+
+A bad host will have done no homework on your product or message, and will try and sound competent to hide that fact. This is the worst-case scenario as he won’t be able to lead you to what’s important to your expertise.  You may have to take over a certain amount of control on the program.
+
+Open and Closed Questions
+A bad host will also ask closed questions. Closed-ended questions are those which can be answered by a simple "yes" or "no," while open-ended questions are those which require more thought and more than a simple one-word answer. Advantages of closed-ended questions are:
+It is easier and quicker for respondents to answer.
+The answers of different respondents are easier to compare.
+Answers are easier to code and statistically analyze.
+
+Closed-ended questions also do not allow the respondent to explain that they do not understand the question or do not have an opinion on the issue. 
+
+Closed ended questions start with verbs, such as “Are,” “Will,” “Is,” “Have,” “Did,” and even contractions such as “Aren't,” “Didn't,” and “Won't.”  It brings conversation gradually to a convergence on a single point or decision. It is answered with a “yes” or a “no.”
+
+An open-ended question is designed to encourage a full, meaningful answer using the subject's own knowledge and/or feelings. It is the opposite of a closed-ended question, which encourages a short or single-word answer. Open ended questions are usually the five “W’s”. “What, Where, Who, When, Why.” You could also use “How” and a multitude of the same type of words that cannot be answered with “yes or no.” 
+
+Open-ended questions allow respondents to include more information, including feelings, attitudes and understanding of the subject. 
+
+
+</p>
+<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+Hosts
+A good host or interviewer will be there to help you through the process. They will understand the technical aspects of the studio and be able to put you in a comfort zone and settle any nerves you may have. They will know that their job is not to talk incessantly or over your speech. The host will prompt you and guide you through the topic always backing off to allow you to talk about whatever your expertise and message encompasses. They will also give you the maximum airtime to get your message across in the valuable time that is available. Time is money. 
+
+An average host will sometimes allow you the time to get your message across but may interrupt you to make a point – sometimes relevant and sometimes an irritant. They will also try and help you by prompting when there is no need.  If you need to interrupt or talk over the host, it’s your message so don’t be afraid to push the information. Do not allow the host to bombard you with questions and expect you to answer in the order they deliver. Answer one question at a time, and take your time. There is no rush. 
+
+
+Aggressive and bad Hosts
+Aggressive hosts are the most frustrating to deal with. They mostly like to hear their own voice and believe that they know your product or message better than you do. These are the ones you need to use your knowledge to move from his babble to your message. At this stage you will know how to handle the studio environment and the equipment. You will have to make sure the voice levels are correct and the sound is where it should be professionally. 
+
+A bad host will have done no homework on your product or message, and will try and sound competent to hide that fact. This is the worst-case scenario as he won’t be able to lead you to what’s important to your expertise.  You may have to take over a certain amount of control on the program.
+
+
+Open and Closed Questions
+A bad host will also ask closed questions. Closed-ended questions are those which can be answered by a simple "yes" or "no," while open-ended questions are those which require more thought and more than a simple one-word answer. Advantages of closed-ended questions are:
+It is easier and quicker for respondents to answer.
+The answers of different respondents are easier to compare.
+Answers are easier to code and statistically analyze.
+
+Closed-ended questions also do not allow the respondent to explain that they do not understand the question or do not have an opinion on the issue. 
+
+Closed ended questions start with verbs, such as “Are,” “Will,” “Is,” “Have,” “Did,” and even contractions such as “Aren't,” “Didn't,” and “Won't.”  It brings conversation gradually to a convergence on a single point or decision. It is answered with a “yes” or a “no.”
+
+An open-ended question is designed to encourage a full, meaningful answer using the subject's own knowledge and/or feelings. It is the opposite of a closed-ended question, which encourages a short or single-word answer. Open ended questions are usually the five “W’s”. “What, Where, Who, When, Why.” You could also use “How” and a multitude of the same type of words that cannot be answered with “yes or no.” 
+
+Open-ended questions allow respondents to include more information, including feelings, attitudes and understanding of the subject. 
+
+
+Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+          </itunes:summary>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=1" type="audio/mpeg" fileSize="6222426" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=1" type="audio/mpeg" length="6222426" />
+
+      <guid isPermaLink="false">sgs-guest-101-04</guid>
+                                                         
+    </item>
+
 
     <item>
           <!-- OUR RSS NUMBER 005 -->
@@ -73,13 +348,12 @@
           <itunes:duration>02:17</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
+          <itunes:season>1</itunes:season>
           <itunes:episode>5</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-05.jpg" />
 
-
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
+          <pubDate>Fri, 15 Feb 2019 08:00:00 +0200</pubDate>
           
           <description>
             <![CDATA[<p>
@@ -147,274 +421,6 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
       <guid isPermaLink="false">sgs-guest-101-05</guid>
                                                          
     </item>
-
-
-    <item>
-          <!-- OUR RSS NUMBER 004 -->
-          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
-          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
-          
-          <itunes:episodeType>full</itunes:episodeType>
-
-          <title>4 | Hosts and Questions</title>
-          <itunes:title>4 | Hosts and Questions</itunes:title>
-          <itunes:subtitle>Dealing with good and bad hosts and understanding 'closed' and 'open' questions..</itunes:subtitle>
-          <itunes:duration>02:48</itunes:duration>
-
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>4</itunes:episode>
-
-          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-04.jpg" />
-
-
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
-          
-          <description>
-            <![CDATA[<p>
-Hosts
-A good host or interviewer will be there to help you through the process. They will understand the technical aspects of the studio and be able to put you in a comfort zone and settle any nerves you may have. They will know that their job is not to talk incessantly or over your speech. The host will prompt you and guide you through the topic always backing off to allow you to talk about whatever your expertise and message encompasses. They will also give you the maximum airtime to get your message across in the valuable time that is available. Time is money. 
-
-An average host will sometimes allow you the time to get your message across but may interrupt you to make a point – sometimes relevant and sometimes an irritant. They will also try and help you by prompting when there is no need.  If you need to interrupt or talk over the host, it’s your message so don’t be afraid to push the information. Do not allow the host to bombard you with questions and expect you to answer in the order they deliver. Answer one question at a time, and take your time. There is no rush. 
-
-
-Aggressive and bad Hosts
-Aggressive hosts are the most frustrating to deal with. They mostly like to hear their own voice and believe that they know your product or message better than you do. These are the ones you need to use your knowledge to move from his babble to your message. At this stage you will know how to handle the studio environment and the equipment. You will have to make sure the voice levels are correct and the sound is where it should be professionally. 
-
-A bad host will have done no homework on your product or message, and will try and sound competent to hide that fact. This is the worst-case scenario as he won’t be able to lead you to what’s important to your expertise.  You may have to take over a certain amount of control on the program.
-
-Open and Closed Questions
-A bad host will also ask closed questions. Closed-ended questions are those which can be answered by a simple "yes" or "no," while open-ended questions are those which require more thought and more than a simple one-word answer. Advantages of closed-ended questions are:
-It is easier and quicker for respondents to answer.
-The answers of different respondents are easier to compare.
-Answers are easier to code and statistically analyze.
-
-Closed-ended questions also do not allow the respondent to explain that they do not understand the question or do not have an opinion on the issue. 
-
-Closed ended questions start with verbs, such as “Are,” “Will,” “Is,” “Have,” “Did,” and even contractions such as “Aren't,” “Didn't,” and “Won't.”  It brings conversation gradually to a convergence on a single point or decision. It is answered with a “yes” or a “no.”
-
-An open-ended question is designed to encourage a full, meaningful answer using the subject's own knowledge and/or feelings. It is the opposite of a closed-ended question, which encourages a short or single-word answer. Open ended questions are usually the five “W’s”. “What, Where, Who, When, Why.” You could also use “How” and a multitude of the same type of words that cannot be answered with “yes or no.” 
-
-Open-ended questions allow respondents to include more information, including feelings, attitudes and understanding of the subject. 
-
-
-</p>
-<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
-</p>]]>
-          </description>
-
-          <itunes:summary>
-Hosts
-A good host or interviewer will be there to help you through the process. They will understand the technical aspects of the studio and be able to put you in a comfort zone and settle any nerves you may have. They will know that their job is not to talk incessantly or over your speech. The host will prompt you and guide you through the topic always backing off to allow you to talk about whatever your expertise and message encompasses. They will also give you the maximum airtime to get your message across in the valuable time that is available. Time is money. 
-
-An average host will sometimes allow you the time to get your message across but may interrupt you to make a point – sometimes relevant and sometimes an irritant. They will also try and help you by prompting when there is no need.  If you need to interrupt or talk over the host, it’s your message so don’t be afraid to push the information. Do not allow the host to bombard you with questions and expect you to answer in the order they deliver. Answer one question at a time, and take your time. There is no rush. 
-
-
-Aggressive and bad Hosts
-Aggressive hosts are the most frustrating to deal with. They mostly like to hear their own voice and believe that they know your product or message better than you do. These are the ones you need to use your knowledge to move from his babble to your message. At this stage you will know how to handle the studio environment and the equipment. You will have to make sure the voice levels are correct and the sound is where it should be professionally. 
-
-A bad host will have done no homework on your product or message, and will try and sound competent to hide that fact. This is the worst-case scenario as he won’t be able to lead you to what’s important to your expertise.  You may have to take over a certain amount of control on the program.
-
-
-Open and Closed Questions
-A bad host will also ask closed questions. Closed-ended questions are those which can be answered by a simple "yes" or "no," while open-ended questions are those which require more thought and more than a simple one-word answer. Advantages of closed-ended questions are:
-It is easier and quicker for respondents to answer.
-The answers of different respondents are easier to compare.
-Answers are easier to code and statistically analyze.
-
-Closed-ended questions also do not allow the respondent to explain that they do not understand the question or do not have an opinion on the issue. 
-
-Closed ended questions start with verbs, such as “Are,” “Will,” “Is,” “Have,” “Did,” and even contractions such as “Aren't,” “Didn't,” and “Won't.”  It brings conversation gradually to a convergence on a single point or decision. It is answered with a “yes” or a “no.”
-
-An open-ended question is designed to encourage a full, meaningful answer using the subject's own knowledge and/or feelings. It is the opposite of a closed-ended question, which encourages a short or single-word answer. Open ended questions are usually the five “W’s”. “What, Where, Who, When, Why.” You could also use “How” and a multitude of the same type of words that cannot be answered with “yes or no.” 
-
-Open-ended questions allow respondents to include more information, including feelings, attitudes and understanding of the subject. 
-
-
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
-          </itunes:summary>
-
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=2" type="audio/mpeg" fileSize="6132147" />
-
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-04.mp3?ver=2" type="audio/mpeg" length="6132147" />
-
-      <guid isPermaLink="false">sgs-guest-101-04</guid>
-                                                         
-    </item>
-
-    <item>
-          <!-- OUR RSS NUMBER 003 -->
-          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
-          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
-          
-          <itunes:episodeType>full</itunes:episodeType>
-
-          <title>3 | Do's and Don'ts</title>
-          <itunes:title>3 | Do's and Don'ts</itunes:title>
-          <itunes:subtitle>What to do and what to avoid.</itunes:subtitle>
-          <itunes:duration>00:43</itunes:duration>
-
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>3</itunes:episode>
-
-          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-03.jpg" />
-
-
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
-          
-          <description>
-            <![CDATA[<p>
-Firstly, do not enter the studio if you see a red light at the door. This means that a recording is in progress and we have to wait for a green light to show that the recording has either stopped or just paused. Either way, enter very cautiously and don’t say anything until you have established that the studio is not live.
-
-Stop the recording if you are uncomfortable with the situation or your speech, and if you know there is a technical glitch such as a drop in your voice level. Many hosts are blind to these occurrences so it helps if you can be aware. Do not be too far back where you have to lean into the microphone. It affects your voice negatively and as you move backwards and forwards, the sound level changes. 
-
-You might need to have a glass or bottle of water nearby if you feel your mouth or throat is getting a bit dry. Do not put the water anywhere near the electronic equipment as it might spill and damage the hardware. 
-
-
-</p>
-<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
-</p>]]>
-          </description>
-
-          <itunes:summary>
-Firstly, do not enter the studio if you see a red light at the door. This means that a recording is in progress and we have to wait for a green light to show that the recording has either stopped or just paused. Either way, enter very cautiously and don’t say anything until you have established that the studio is not live.
-
-Stop the recording if you are uncomfortable with the situation or your speech, and if you know there is a technical glitch such as a drop in your voice level. Many hosts are blind to these occurrences so it helps if you can be aware. Do not be too far back where you have to lean into the microphone. It affects your voice negatively and as you move backwards and forwards, the sound level changes. 
-
-You might need to have a glass or bottle of water nearby if you feel your mouth or throat is getting a bit dry. Do not put the water anywhere near the electronic equipment as it might spill and damage the hardware. 
-
-
-
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
-          </itunes:summary>
-
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-03.mp3?ver=1" type="audio/mpeg" fileSize="2210152" />
-
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-03.mp3?ver=1" type="audio/mpeg" length="2210152" />
-
-      <guid isPermaLink="false">sgs-guest-101-03</guid>
-                                                         
-    </item>
-
-
-    <item>
-          <!-- OUR RSS NUMBER 002 -->
-          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
-          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
-          
-          <itunes:episodeType>full</itunes:episodeType>
-
-          <title>2 | Getting Settled</title>
-          <itunes:title>2 | Getting Settled</itunes:title>
-          <itunes:subtitle>Headphones and microphones.</itunes:subtitle>
-          <itunes:duration>01:33</itunes:duration>
-
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>2</itunes:episode>
-
-          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-02.jpg" />
-
-
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
-          
-          <description>
-            <![CDATA[<p>
-The methods we show you later can be used for television and radio interviews as the principles are exactly the same. There is no difference between live or recorded podcasts, radio and television programs. 
-
-How many times have you arrived at a studio for an interview not knowing what to do, where to go and how to approach the recording? Do you get nervous that you don’t really know how to use the equipment such as headphones, foldback levels or microphone technique and hate looking like an amateur guest? It’s not difficult to get to know the gear and let the host know that you are professional and they need not treat you like it’s your first time at attending a recording. 
-
-You'll probably be handed some headphones as you enter the studio. You will be shown what to do to make them as comfortable as possible. 
-Technically, the most important part is the use of the microphone.
-
-If your host is not professional enough to understand microphone technique, you will be able to guide them while at the same time letting them know that you are comfortable in the studio with whatever you need to use. There are many different types of microphones that are used in different studios around the world. It would help immensely if you could try and adapt to the type of the one you will be using. 
-
-You don’t necessarily need to know the make or specifications, but as you do a voice level test you will be able to hear whether you are too close or too far from the microphone. Not only that, you will be able to identify which part of the microphone will have the best sound response as some are live 360 degrees, and some are live at 90 degrees which means a smaller area to talk into. Secondly, your headphones need to be comfortable and at a premium level without distortion or too soft to concentrate. This will also help ascertain whether your voice is at a strong and commanding level. Your voice might sound different to you but don’t let it throw you as it is exactly how you sound to other people.
-
-</p>
-<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
-</p>]]>
-          </description>
-
-          <itunes:summary>
-The methods we show you later can be used for television and radio interviews as the principles are exactly the same. There is no difference between live or recorded podcasts, radio and television programs. 
-
-How many times have you arrived at a studio for an interview not knowing what to do, where to go and how to approach the recording? Do you get nervous that you don’t really know how to use the equipment such as headphones, foldback levels or microphone technique and hate looking like an amateur guest? It’s not difficult to get to know the gear and let the host know that you are professional and they need not treat you like it’s your first time at attending a recording. 
-
-You'll probably be handed some headphones as you enter the studio. You will be shown what to do to make them as comfortable as possible. 
-Technically, the most important part is the use of the microphone.
-
-If your host is not professional enough to understand microphone technique, you will be able to guide them while at the same time letting them know that you are comfortable in the studio with whatever you need to use. There are many different types of microphones that are used in different studios around the world. It would help immensely if you could try and adapt to the type of the one you will be using. 
-
-You don’t necessarily need to know the make or specifications, but as you do a voice level test you will be able to hear whether you are too close or too far from the microphone. Not only that, you will be able to identify which part of the microphone will have the best sound response as some are live 360 degrees, and some are live at 90 degrees which means a smaller area to talk into. Secondly, your headphones need to be comfortable and at a premium level without distortion or too soft to concentrate. This will also help ascertain whether your voice is at a strong and commanding level. Your voice might sound different to you but don’t let it throw you as it is exactly how you sound to other people.
-
-
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
-          </itunes:summary>
-
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-02.mp3?ver=1" type="audio/mpeg" fileSize="3806537" />
-
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-02.mp3?ver=1" type="audio/mpeg" length="3806537" />
-
-      <guid isPermaLink="false">sgs-guest-101-02</guid>
-                                                         
-    </item>
-
-
-    <item>
-          <!-- OUR RSS NUMBER 001 -->
-          <author>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</author>
-          <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
-          
-          <itunes:episodeType>full</itunes:episodeType>
-
-          <title>1 | Introduction</title>
-          <itunes:title>1 | Introduction</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
-          <itunes:duration>00:43</itunes:duration>
-
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>1</itunes:episode>
-
-          <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-part-01.jpg" />
-
-
-          <pubDate>Fri, 15 Feb 2019 10:30:00 +0200</pubDate>
-          
-          <description>
-            <![CDATA[<p>
-Welcome to Solid Gold podcast studios. Before we go through to the actual studio, here are a few tips to help you when you acclimatize yourself with the equipment and the studio surroundings. 
-
-Once we have explained the etiquette of studio use, we will take you through and get you settled. The object of the exercise is to help you become a refined and aware guest on your next broadcast interview. What you are about to experience is a short cut to being a guest on the broadcasting platform. 
-
-Once we have covered the podcast training, you can decide if you need a more intense session to be able to handle any and all types of interviews in our MASTER CLASS session. We offer a more intense training one-day course including being interviewed by excellent, good, average and aggressive hosts. Thank you for attending Solid Gold’s broadcast training and we hope you find it relevant, rewarding and fun. 
-
-</p>
-<p>Find out more about Solid Gold Studios at <a href="https://solidgoldstudios.co.za">SolidGoldStudios.co.za</a>
-</p>]]>
-          </description>
-
-          <itunes:summary>
-Welcome to Solid Gold podcast studios. Before we go through to the actual studio, here are a few tips to help you when you acclimatize yourself with the equipment and the studio surroundings. 
-
-Once we have explained the etiquette of studio use, we will take you through and get you settled. The object of the exercise is to help you become a refined and aware guest on your next broadcast interview. What you are about to experience is a short cut to being a guest on the broadcasting platform. 
-
-Once we have covered the podcast training, you can decide if you need a more intense session to be able to handle any and all types of interviews in our MASTER CLASS session. We offer a more intense training one-day course including being interviewed by excellent, good, average and aggressive hosts. Thank you for attending Solid Gold’s broadcast training and we hope you find it relevant, rewarding and fun. 
-
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
-          </itunes:summary>
-
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=1" type="audio/mpeg" fileSize="2199735" />
-
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-part-01.mp3?ver=1" type="audio/mpeg" length="2199735" />
-
-      <guid isPermaLink="false">sgs-guest-101-01</guid>
-                                                         
-    </item>
-
-
 
      </channel>
 </rss>
