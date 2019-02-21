@@ -59,7 +59,7 @@
 
           <pubDate>Mon, 11 Feb 2019 08:00:00 +0200</pubDate>
           
-          <lastBuildDate>Tue, 19 Feb 2019 11:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 21 Feb 2019 10:30:00 +0200</lastBuildDate>
 
     <item>
           <!-- OUR RSS NUMBER 001 -->
@@ -83,7 +83,12 @@
           <pubDate>Tue, 19 Feb 2019 11:01:00 +0200</pubDate>
           
           <description>
-            <![CDATA[<p>
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
 Hello, I’m Gavin Kennedy, founder and CEO of Solid Gold Studios. You’re likely listening to this podcast because you’ve been invited to be a guest on one of the channels we produce. Congratulations! And welcome to the exciting world of podcasting.
 
 Our vision is to be the podcast partner of choice and our mission is to help people, like you, and the organisations you represent, to be heard, through quality, creative storytelling.
@@ -113,6 +118,9 @@ For now though, let’s get you ready for your interview...
 </p>
 <p>Please ensure you complete the <a href="https://bit.ly/sgsmua">Media Usage Agreement</a> before your recording.
 </p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
 ]]>
           </description>
 
@@ -372,7 +380,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>5 | Types of Questions</title>
           <itunes:title>5 | Types of Questions</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Open- and Closed-ended Questions</itunes:subtitle>
           <itunes:duration>01:28</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -437,7 +445,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>6 | Deliver Your Message</title>
           <itunes:title>6 | Deliver Your Message</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Ensure your message is heard</itunes:subtitle>
           <itunes:duration>01:05</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -493,7 +501,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>7 | Recording</title>
           <itunes:title>7 | Recording</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Sounding Professional</itunes:subtitle>
           <itunes:duration>02:28</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -597,7 +605,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>8 | That's a Wrap</title>
           <itunes:title>8 | That's a Wrap</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Congratulations! Ready for more?</itunes:subtitle>
           <itunes:duration>01:38</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>

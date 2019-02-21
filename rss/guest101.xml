@@ -9,7 +9,7 @@
 
      <channel>
 
-          <title>Podcast Guest 101</title>
+          <title>Solid Gold Studios | Podcast Guest 101</title>
           <link>https://solidgoldstudios.co.za</link>
           <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
@@ -59,7 +59,7 @@
 
           <pubDate>Mon, 11 Feb 2019 08:00:00 +0200</pubDate>
           
-          <lastBuildDate>Tue, 19 Feb 2019 11:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 21 Feb 2019 10:30:00 +0200</lastBuildDate>
 
     <item>
           <!-- OUR RSS NUMBER 001 -->
@@ -83,8 +83,13 @@
           <pubDate>Tue, 19 Feb 2019 11:01:00 +0200</pubDate>
           
           <description>
-            <![CDATA[<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-128.jpg?ver=1" height="64" width="64" />
-            <p>Hello, I’m Gavin Kennedy, founder and CEO of Solid Gold Studios. You’re likely listening to this podcast because you’ve been invited to be a guest on one of the channels we produce. Congratulations! And welcome to the exciting world of podcasting.
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
+Hello, I’m Gavin Kennedy, founder and CEO of Solid Gold Studios. You’re likely listening to this podcast because you’ve been invited to be a guest on one of the channels we produce. Congratulations! And welcome to the exciting world of podcasting.
 
 Our vision is to be the podcast partner of choice and our mission is to help people, like you, and the organisations you represent, to be heard, through quality, creative storytelling.
 
@@ -113,6 +118,9 @@ For now though, let’s get you ready for your interview...
 </p>
 <p>Please ensure you complete the <a href="https://bit.ly/sgsmua">Media Usage Agreement</a> before your recording.
 </p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
 ]]>
           </description>
 
@@ -139,18 +147,18 @@ What you are about to experience is a short-cut to being a guest on almost any b
 
 For now though, let’s get you ready for your interview...
 
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
 
-Find out more about Solid Gold Studios at https://solidgoldstudios.co.za
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
 
-Please ensure you complete the Media Usage Agreement before your recording
-https://bit.ly/sgsmua
 
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-01.mp3?ver=2" type="audio/mpeg" fileSize="2322094" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-01.mp3?ver=2" type="audio/mpeg" length="2322094" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-01</guid>
+      <guid isPermaLink="false">sgspodcastguest101-01</guid>
                                                          
     </item>
 
@@ -210,13 +218,18 @@ You don’t need to know the make or specifications, but as you do a voice level
 You'll be handed a set of headphones as you enter the studio. At Solid Gold Studios, all headsets are cleaned and tested after every use. You will be shown where to plug them in, how to adjust your volume and how to make them as comfortable as possible. Too loud and you’ll have distortion, too soft and you won’t be able to concentrate on the interview, so find your “Goldilocks” level - just right for you. This will also help you notice whether your voice is strong and commanding. The first time you hear your voice on headphones, you may think you sound a little different, relax, this is exactly how you usually sound to everyone else. Don’t change your voice, be yourself.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-02.mp3?ver=1" type="audio/mpeg" fileSize="2237769" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-02.mp3?ver=1" type="audio/mpeg" length="2237769" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-02</guid>
+      <guid isPermaLink="false">sgspodcastguest101-02</guid>
                                                          
     </item>
 
@@ -283,13 +296,18 @@ Please remove the lid from your water before you start so you’re not distracte
 It’s really important to keep your water away from any and all of the electronic equipment as a spill can disrupt your recording or even damage the hardware.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-03.mp3?ver=1" type="audio/mpeg" fileSize="2309954" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-03.mp3?ver=1" type="audio/mpeg" length="2309954" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-03</guid>
+      <guid isPermaLink="false">sgspodcastguest101-03</guid>
                                                          
     </item>
 
@@ -352,13 +370,18 @@ A good host or interviewer will be there to help you through the process. They w
 Irrespective of what type of host you have, or the environment you find yourself in, it’s your responsibility to ensure that your voice levels are correct and that you conduct yourself professionally.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=1" type="audio/mpeg" fileSize="2145567" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=1" type="audio/mpeg" length="2145567" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-04</guid>
+      <guid isPermaLink="false">sgspodcastguest101-04</guid>
                                                          
     </item>
 
@@ -372,7 +395,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>5 | Types of Questions</title>
           <itunes:title>5 | Types of Questions</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Open- and Closed-ended Questions</itunes:subtitle>
           <itunes:duration>01:28</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -417,13 +440,18 @@ An open-ended question is designed to encourage a full, meaningful, answer using
 Open-ended questions allow guests to include more information, feelings, attitudes and understanding of the subject. Remember, you are here to tell your story and to be heard.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-05.mp3?ver=1" type="audio/mpeg" fileSize="1870355" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-05.mp3?ver=1" type="audio/mpeg" length="1870355" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-05</guid>
+      <guid isPermaLink="false">sgspodcastguest101-05</guid>
                                                          
     </item>
 
@@ -437,7 +465,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>6 | Deliver Your Message</title>
           <itunes:title>6 | Deliver Your Message</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Ensure your message is heard</itunes:subtitle>
           <itunes:duration>01:05</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -474,13 +502,18 @@ You will find pens and notepads in the studio. You should use these to make note
 The best advice we can give is be yourself. Do not try and be a “wannabe” talk show host or presenter, you can focus on those skills if, or when, you decide to host your own podcast. The closer you can remain to talking in your regular voice, the better it sounds on air. Try not to force your voice, rather project at a decent level. Relax as much possible. Take your time to get the voice levels correct. Take your time and pace yourself. This is not a competition between you and the host, focus on telling your story effectively.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-06.mp3?ver=1" type="audio/mpeg" fileSize="1596906" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-06.mp3?ver=1" type="audio/mpeg" length="1596906" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-06</guid>
+      <guid isPermaLink="false">sgspodcastguest101-06</guid>
                                                          
     </item>    
 
@@ -493,7 +526,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>7 | Recording</title>
           <itunes:title>7 | Recording</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Sounding Professional</itunes:subtitle>
           <itunes:duration>02:28</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -578,13 +611,18 @@ What do you want your listeners to take away?
 If listeners only recall ONE thing from this interview, what do you want that to be?
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-07.mp3?ver=1" type="audio/mpeg" fileSize="2553890" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-07.mp3?ver=1" type="audio/mpeg" length="2553890" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-07</guid>
+      <guid isPermaLink="false">sgspodcastguest101-07</guid>
                                                          
     </item>
 
@@ -597,7 +635,7 @@ Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
 
           <title>8 | That's a Wrap</title>
           <itunes:title>8 | That's a Wrap</itunes:title>
-          <itunes:subtitle>Welcome to Solid Gold Studios</itunes:subtitle>
+          <itunes:subtitle>Congratulations! Ready for more?</itunes:subtitle>
           <itunes:duration>01:38</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
@@ -694,13 +732,18 @@ And focus on telling your story so that you can #BeHeard.
 Bye for now.
 
 
-Find out more about Solid Gold Studios at https://SolidGoldStudios.co.za
+Find out more about Solid Gold Studios at SolidGoldStudios.co.za
+
+Please ensure you complete the Media Usage Agreement before your recording.
+The link is bit.ly/sgsmua
+
+
           </itunes:summary>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-08.mp3?ver=1" type="audio/mpeg" fileSize="1971820" />
               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-08.mp3?ver=1" type="audio/mpeg" length="1971820" />
 
-      <guid isPermaLink="false">sgs-guest-101-v2-08</guid>
+      <guid isPermaLink="false">sgspodcastguest101-08</guid>
                                                          
     </item>    
 
