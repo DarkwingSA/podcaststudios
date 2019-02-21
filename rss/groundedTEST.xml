@@ -287,13 +287,6 @@ To share in Mel's adventures, visit MelsTreasures.co.za
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122c-cover.jpg" />
 
-      
-<!--      <dcterms:valid>
-          	start=2018-12-08T08:00+02:00;
-          	end=3018-12-08T08:00+02:00;
-          </dcterms:valid>
--->
-
           <pubDate>Thu, 21 Dec 2018 12:00:00 +0200</pubDate>
           
           <description>
@@ -313,8 +306,7 @@ And one of the stalwarts of the veggie and colour patch, the humble (but oh so b
           <itunes:keywords>Peter Goodwin, Bedding Plant Association, Colourful, Peebles, Annuals, bedding plants, colour, vegetables, marigold</itunes:keywords>
 
           <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=2" type="audio/mpeg" fileSize="28330686" />
-
-          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=1" type="audio/mpeg" length="28330686" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=1" type="audio/mpeg" length="28330686" />
 
 			<guid isPermaLink="false">grounded20181122c></guid>
 
@@ -398,14 +390,6 @@ And keen to bring owls to your area? (You want to know hoo hoo who tells them wh
           <itunes:episode>14</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122b.jpg" />
-
-      
-      	  <dcterms:valid>
-          	start=2018-12-08T08:00+02:00;
-          	end=3018-12-08T08:00+02:00;
-          </dcterms:valid>
-      
-
 
           <pubDate>Sat, 08 Dec 2018 08:00:00 +0200</pubDate>
           
