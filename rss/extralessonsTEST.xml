@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	      xmlns:atom="http://www.w3.org/2005/Atom"
+	   xmlns:spotify="https://www.spotify.com/ns/rss"
+	   xmlns:dcterms="https://purl.org/dc/terms/"
+	     xmlns:media="http://search.yahoo.com/mrss/">
+     
+<channel>
+
+<title>Understanding Extra Lessons</title>
+<link>https://solidgoldstudios.co.za/extralessons.php</link>
+<language>en-za</language>
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+<pubDate>Sun, 24 Feb 2019 12:00:00 +0200</pubDate>
+
+<ttl>30</ttl>
+
+<atom:link href="https://podcaststudios.co.za/rss/extralessonsTEST.xml" rel="self" type="application/rss+xml" />
+
+      <copyright>© Solid Gold Studios - all rights reserved</copyright>
+<media:copyright>© Solid Gold Studios - all rights reserved</media:copyright>
+<itunes:subtitle>Understanding Extra Lessons, whether your child really needs them, and how to choos the right tutor.</itunes:subtitle>
+
+<itunes:summary>If the words 'Extra Lessons' have recently surfaced in your family, it's likely you're experiencing some stress and confusion and are looking for some sensible, solid, sound advice.
+
+Stay calm! We're here to help.
+
+This series is aimed specifically at answering the most Frequently Asked Questions (FAQs) we encounter and will help you make the right choices for your child.
+
+If you have any questions we've missed, please drop an email to extralessons@solidgoldstudios.co.za
+</itunes:summary>
+
+
+<description><p>
+If the words 'Extra Lessons' have recently surfaced in your family, it's likely you're experiencing some stress and confusion and are looking for some sensible, solid, sound advice.
+
+Stay calm! We're here to help.
+
+This series is aimed specifically at answering the most Frequently Asked Questions (FAQs) we encounter and will help you make the right choices for your child.
+
+If you have any questions we've missed, please drop an email to extralessons@solidgoldstudios.co.za
+</p></description>
+
+<itunes:owner>
+<itunes:name>Kip McGrath | Solid Gold Studios</itunes:name>
+<itunes:email>extralessons@solidgoldstudios.co.za</itunes:email>
+</itunes:owner>
+
+<itunes:author>Kip McGrath | Solid Gold Studios</itunes:author>
+
+<managingEditor>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</managingEditor>
+<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+  <itunes:image href="http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1" />
+<media:thumbnail url="http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1" />
+          <image>
+                 <url>http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1</url>
+                 <title>Understanding Extra Lessons</title>
+                 <link>https://solidgoldstudios.co.za/extralessons</link>
+          </image>
+
+<itunes:explicit>clean</itunes:explicit>
+<itunes:type>serial</itunes:type>
+          
+<itunes:keywords>Paul Albrecht, Vishani Lukman, Kip McGrath, Kumon, Master Maths, Extra Lessons, maths, afrikaans, english, tutor, saturday school, Gavin Kennedy, Melanie Walker, another solid gold podcast, #BeHeard</itunes:keywords>
+
+<media:keywords>Paul Albrecht, Vishani Lukman, Kip McGrath, Kumon, Master Maths, Extra Lessons, maths, afrikaans, english, tutor, saturday school, Gavin Kennedy, Melanie Walker, another solid gold podcast, #BeHeard</media:keywords>
+
+<itunes:category text="Education"> 	
+<itunes:category text="K-12" />
+<itunes:category text="Langauge Courses" />
+<itunes:category text="Training" />
+</itunes:category>
+		          
+<itunes:category text="Health">  
+<itunes:category text="Self-Help" />
+</itunes:category>
+
+
+
+
+<!-- Update here -->
+
+<lastBuildDate>Sun, 24 Feb 2019 12:01:00 +0200</lastBuildDate>
+
+<!-- Update here -->
+
+
+
+
+    <item>
+          <!-- S01 E01 -->
+          <author>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</author>
+          <itunes:author>Kip McGrath | Solid Gold Studios</itunes:author>
+          
+                 <title>1 | Where to begin? | Stay Calm, we've got this</title>
+          <itunes:title>1 | Where to begin? | Stay Calm, we've got this</itunes:title>
+
+          <itunes:subtitle>If you never thought the words 'Extra Lessons' would be part of your world, we're here to help. Let's start with the 5 stages of coping, a reminder that there are no 'miracle cures', and an introduction to our two specialist guests. We'll also talk about baseline assessments.</itunes:subtitle>
+          
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>04:41</itunes:duration>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode>
+          <itunes:image href="http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1" />
+           
+          <pubDate>Thu, 21 Jan 2019 12:31:00 +0200</pubDate>
+          
+<description>
+<![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>If you never thought the words 'Extra Lessons' would be part of your world, we're here to help. Let's start with the 5 stages of coping, a reminder that there are no 'miracle cures', and an introduction to our two specialist guests. We'll also talk about baseline assessments. Stay calm! We've got this!
+</p>
+<p>In this welcome episode you'll meet Paul Albrecht and Vishani Lukman who will share their extensive knowlede and expertise in the field of Extra Lessons with you.<p>
+
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/kiplessons">please like us now</a>
+<p>You can also visit our website <a href="https://kiplessons.co.za/?utm_source=Extra%20Lessons%20Podcast">KipLessons.co.za</a> to locate your closest Extra Lessons centre.
+
+<p><strong>Presented by <a href="https://www.linkedin.com/in/melanie-walker-675a0413/">Melanie Walker</a>, Edited by <a href="mailto:shannon.kennedy@solidgoldstudios.co.za?subject=Query from Extra Lessons Podcast">Shannon Kennedy</a>, Produced by <a href="https://www.linkedin.com/in/vishani-lukman-msc-ab76084b/">Vishani Lukman</a>, <a href="https://www.linkedin.com/in/palbrecht/">Paul Albrecht</a>, and <a href="https://www.linkedin.com/in/gavinkennedy/">Gavin Kennedy</a></strong></p>
+
+<p>Join the conversation and <a href="https://twitter.com/solidgoldpods">#BeHeard</a></p>
+
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+]]>
+</description>
+
+<itunes:summary>
+If you never thought the words 'Extra Lessons' would be part of your world, we're here to help. Let's start with the 5 stages of coping, a reminder that there are no 'miracle cures', and an introduction to our two specialist guests. We'll also talk about baseline assessments. Stay calm! We've got this!
+
+In this welcome episode you'll meet Paul Albrecht and Vishani Lukman who will share their extensive knowlede and expertise in the field of Extra Lessons with you.
+
+Follow us on Facebook https://www.facebook.com/kiplessons
+
+You can also visit our website https://KipLessons.co.za to locate your closest Extra Lessons centre.
+
+Presented by Melanie Walker, Edited by Shannon Kennedy, Produced by Vishani Lukman, Paul Albrecht, and Gavin Kennedy
+
+Join the conversation and #BeHeard
+
+Another Solid Gold Podcast
+SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>5 stages, free assessment</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e01-welcome.mp3?ver=1" type="audio/mpeg" fileSize="4974255" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e01-welcome.mp3?ver=1" type="audio/mpeg" length="4974255" />
+
+          <guid isPermaLink="false">extralessons-s01-e01-DEMO</guid>
+                                                        
+    </item>
+
+
+
+
+    <item>
+          <!-- S01 E02 -->
+          <author>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</author>
+          <itunes:author>Kip McGrath | Solid Gold Studios</itunes:author>
+          
+                 <title>2 | How do I choose a Tutor? | Free Assessment</title>
+          <itunes:title>2 | How do I choose a Tutor? | Free Assessment</itunes:title>
+
+          <itunes:subtitle>There is so much new information, how do I make the right choices? How do I get an assessment? What does it cost?</itunes:subtitle>
+          
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>07:42</itunes:duration>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>2</itunes:episode>
+          <itunes:image href="http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1" />
+           
+          <pubDate>Thu, 21 Jan 2019 12:32:00 +0200</pubDate>
+          
+<description>
+<![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>In this episode we'll find out much more detail about how different Extra Lesson centres work, how many children are in a class, free assessments, how they work, how they individualise their programs, and what makes a centre the right fit for your family.
+</p>
+
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/kiplessons">please like us now</a>
+<p>You can also visit our website <a href="https://kiplessons.co.za/?utm_source=Extra%20Lessons%20Podcast">KipLessons.co.za</a> to locate your closest Extra Lessons centre.
+
+<p><strong>Presented by <a href="https://www.linkedin.com/in/melanie-walker-675a0413/">Melanie Walker</a>, Edited by <a href="mailto:shannon.kennedy@solidgoldstudios.co.za?subject=Query from Extra Lessons Podcast">Shannon Kennedy</a>, Produced by <a href="https://www.linkedin.com/in/vishani-lukman-msc-ab76084b/">Vishani Lukman</a>, <a href="https://www.linkedin.com/in/palbrecht/">Paul Albrecht</a>, and <a href="https://www.linkedin.com/in/gavinkennedy/">Gavin Kennedy</a></strong></p>
+
+<p>Join the conversation and <a href="https://twitter.com/solidgoldpods">#BeHeard</a></p>
+
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+]]>
+</description>
+
+<itunes:summary>
+In this episode we'll find out much more detail about how different Extra Lesson centres work, how many children are in a class, free assessments, how they work, how they individualise their programs, and what makes a centre the right fit for your family.
+
+Follow us on Facebook https://www.facebook.com/kiplessons
+
+You can also visit our website https://KipLessons.co.za to locate your closest Extra Lessons centre.
+
+Presented by Melanie Walker, Edited by Shannon Kennedy, Produced by Vishani Lukman, Paul Albrecht, and Gavin Kennedy
+
+Join the conversation and #BeHeard
+
+Another Solid Gold Podcast
+SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>specialised extra lessons</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e02-free-assessments.mp3?ver=1" type="audio/mpeg" fileSize="7858591" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e02-free-assessments.mp3?ver=1" type="audio/mpeg" length="7858591" />
+
+          <guid isPermaLink="false">extralessons-s01-e02-DEMO</guid>
+                                                        
+    </item>
+
+
+    <item>
+          <!-- S01 E03 -->
+          <author>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</author>
+          <itunes:author>Kip McGrath | Solid Gold Studios</itunes:author>
+          
+                 <title>3 | Focus on the Individual | Building Confidence</title>
+          <itunes:title>3 | Focus on the Individual | Building Confidence</itunes:title>
+
+          <itunes:subtitle>What is the difference that makes the difference?</itunes:subtitle>
+          
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:duration>11:56</itunes:duration>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>
+          <itunes:image href="http://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1" />
+           
+          <pubDate>Thu, 21 Jan 2019 12:33:00 +0200</pubDate>
+          
+<description>
+<![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>How do I know if my child really needs extra lessons? How is this different from ordinary school lessons? How long do we need to go for extra lessons? What's the difference between remedial and enrichment? Let the experts do what they're trained for.
+</p>
+
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/kiplessons">please like us now</a>
+<p>You can also visit our website <a href="https://kiplessons.co.za/?utm_source=Extra%20Lessons%20Podcast">KipLessons.co.za</a> to locate your closest Extra Lessons centre.
+
+<p><strong>Presented by <a href="https://www.linkedin.com/in/melanie-walker-675a0413/">Melanie Walker</a>, Edited by <a href="mailto:shannon.kennedy@solidgoldstudios.co.za?subject=Query from Extra Lessons Podcast">Shannon Kennedy</a>, Produced by <a href="https://www.linkedin.com/in/vishani-lukman-msc-ab76084b/">Vishani Lukman</a>, <a href="https://www.linkedin.com/in/palbrecht/">Paul Albrecht</a>, and <a href="https://www.linkedin.com/in/gavinkennedy/">Gavin Kennedy</a></strong></p>
+
+<p>Join the conversation and <a href="https://twitter.com/solidgoldpods">#BeHeard</a></p>
+
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+]]>
+</description>
+
+<itunes:summary>
+How do I know if my child really needs extra lessons? How is this different from ordinary school lessons? How long do we need to go for extra lessons? What's the difference between remedial and enrichment? Let the experts do what they're trained for.
+
+Follow us on Facebook https://www.facebook.com/kiplessons
+
+You can also visit our website https://KipLessons.co.za to locate your closest Extra Lessons centre.
+
+Presented by Melanie Walker, Edited by Shannon Kennedy, Produced by Vishani Lukman, Paul Albrecht, and Gavin Kennedy
+
+Join the conversation and #BeHeard
+
+Another Solid Gold Podcast
+SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>specialised extra lessons</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e03-building-confidence.mp3?ver=1" type="audio/mpeg" fileSize="11924080" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/extralessons/extralessons-s01-e03-building-confidence.mp3?ver=1" type="audio/mpeg" length="11924080" />
+
+          <guid isPermaLink="false">extralessons-s01-e03-DEMO</guid>
+                                                        
+    </item>
+
+
+
+     </channel>
+</rss>
