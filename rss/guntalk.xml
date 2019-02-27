@@ -12,7 +12,9 @@
           <title>Gun Talk by GOSA</title>
           <link>https://solidgoldstudios.co.za/guntalk.php</link>
           <managingEditor>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</managingEditor>
-          <language>en-za</language>
+          <language>en-ZA</language>
+          <generator>Solid GOld Podcast Studios 2.0</generator>
+          <docs>https://solidgoldstudios.co.za</docs>
       
           <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
       
@@ -34,7 +36,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1</url>
             <title>Gun Talk by GOSA (Gun Owners South Africa)</title>
-            <link>https://solidgoldstudios.co.za/guntalk</link>
+            <link><![CDATA[https://solidgoldstudios.co.za/guntalk]]></link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
