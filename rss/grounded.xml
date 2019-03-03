@@ -55,7 +55,52 @@
           <ttl>30</ttl>
         
           
-          <lastBuildDate>Thu, 21 Feb 2019 18:40:00 +0200</lastBuildDate>
+<lastBuildDate>Sun, 03 Mar 2019 09:90:00 +0200</lastBuildDate>
+
+<item>
+<!--grounded-20190228c-->
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+<title>Paris Lifestyle | Mike Rickhoff</title>
+<itunes:title>Paris Lifestyle | Mike Rickhoff</itunes:title>
+<itunes:subtitle>Experience the beauty of Parisienne gardens in Joburg</itunes:subtitle>
+<itunes:duration></itunes:duration>
+
+<itunes:explicit>no</itunes:explicit>
+<!-- <itunes:season>1</itunes:season> -->
+<itunes:episode>grounded-20190228c</itunes:episode>
+
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228c-cover.jpg" />
+
+<pubDate>Sun, 03 Mar 2019 09:90:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+</p>
+This year's Lifestyle Garden Show focuses on Paris.
+</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+</p>
+]]></description>
+
+<itunes:summary>
+This year's Lifestyle Garden Show focuses on Paris.
+</itunes:summary>
+<itunes:keywords>
+Lifestyle, Mike Rickhoff, garden show
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228c-mike-rickhoff-lifestyle-garden-show.mp3" type="audio/mpeg" fileSize="" />
+<enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228c-mike-rickhoff-lifestyle-garden-show.mp3" type="audio/mpeg" length="" />
+
+<guid isPermaLink="false">grounded-20190228c</guid>
+
+</item>
 
 
     <item>
