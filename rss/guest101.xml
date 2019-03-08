@@ -58,8 +58,18 @@
           <ttl>30</ttl>
 
           <pubDate>Mon, 11 Feb 2019 08:00:00 +0200</pubDate>
-          
-          <lastBuildDate>Tue, 26 Feb 2019 13:00:00 +0200</lastBuildDate>
+
+
+
+          <!-- LAST BUILD DATE FOR REGULAR UPDATES -->
+          <!-- LAST BUILD DATE FOR REGULAR UPDATES -->
+          <lastBuildDate>Fri, 08 Mar 2019 08:00:00 +0200</lastBuildDate>
+          <!-- LAST BUILD DATE FOR REGULAR UPDATES -->
+          <!-- LAST BUILD DATE FOR REGULAR UPDATES -->
+
+
+
+
 
     <item>
           <!-- OUR RSS NUMBER 001 -->
@@ -378,8 +388,8 @@ The link is bit.ly/sgsmua
 
           </itunes:summary>
 
-          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=1" type="audio/mpeg" fileSize="2145567" />
-              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=1" type="audio/mpeg" length="2145567" />
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=2" type="audio/mpeg" fileSize="2145567" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/sgs-podcast-guest-101-v2-part-04.mp3?ver=2" type="audio/mpeg" length="2145567" />
 
       <guid isPermaLink="false">sgspodcastguest101-04</guid>
                                                          
