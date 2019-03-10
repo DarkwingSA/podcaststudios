@@ -71,7 +71,9 @@
 
          <item>
                <!-- 0023 Fearless Girls -->
-               <itunes:episode>23</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>15</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Tue, 05 Mar 2019 09:00:00 +0200</pubDate>
@@ -171,7 +173,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0022 Goliath and Goliath  -->
-               <itunes:episode>22</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>14</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Mon, 25 Feb 2019 17:30:00 +0200</pubDate>
@@ -260,7 +264,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0021 #TrendFit 004  -->
-               <itunes:episode>21</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>13</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Tue, 19 Feb 2019 09:15:00 +0200</pubDate>
@@ -323,7 +329,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0020 Audition Crasher -->
-               <itunes:episode>19</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>12</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Tue, 12 Feb 2019 11:30:00 +0200</pubDate>
@@ -374,7 +382,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0019 #SalesFit 001 Mark Keating  -->
-               <itunes:episode>19</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>11</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Mon, 04 Feb 2019 18:00:00 +0200</pubDate>
@@ -430,7 +440,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0018 #TrendFit 003  -->
-               <itunes:episode>18</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>10</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Mon, 04 Feb 2019 09:30:00 +0200</pubDate>
@@ -486,7 +498,9 @@ another Solid Gold podcast
 
          <item>
                <!-- 0017 #TrendFit 002  -->
-               <itunes:episode>17</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>9</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Sun, 27 Jan 2019 16:40:00 +0200</pubDate>
@@ -543,7 +557,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0016 #TrendFit 001  -->
-               <itunes:episode>16</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>8</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Sun, 27 Jan 2019 16:30:00 +0200</pubDate>
@@ -595,7 +611,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0015 -->
-               <itunes:episode>15</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>7</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Mon, 21 Jan 2019 20:00:00 +0200</pubDate>
@@ -656,7 +674,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0014 -->
-               <itunes:episode>14</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>6</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Sun, 20 Jan 2019 20:30:00 +0200</pubDate>
@@ -712,7 +732,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0013 -->
-               <itunes:episode>13</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>5</itunes:episode>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
 
                <pubDate>Mon, 26 Nov 2018 09:01:00 +0200</pubDate>
@@ -736,7 +758,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0012 -->
-               <itunes:episode>12</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>4</itunes:episode>
                <pubDate>Mon, 19 Nov 2018 13:50:00 +0200</pubDate>
                <title>Smarter ways to disrupt you | Timothy Maurice Webster</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -753,7 +777,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0011 -->
-               <itunes:episode>11</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>3</itunes:episode>
                <pubDate>Mon, 12 Nov 2018 07:00:00 +0200</pubDate>
                <title>Where the ‘bot’ is my ‘voice’? | Godfrey Parkin</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -770,7 +796,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0010 -->
-               <itunes:episode>10</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>
+               <itunes:episode>2</itunes:episode>
                <pubDate>Fri, 26 Oct 2018 07:30:00 +0200</pubDate>
                <title>Let’s get Social  | Arthur Goldstuck</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -788,7 +816,9 @@ another Solid Gold podcast
 
           <item>
                <!-- 0009 -->
-               <itunes:episode>9</itunes:episode>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>1</itunes:episode>
                <pubDate>Sun, 07 Oct 2018 15:40:00 +0200</pubDate>
                <title>Eye of the (Trend) Storm | Dion Chang</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -806,6 +836,8 @@ another Solid Gold podcast
 
           <item>
                <!-- 0008 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>8</itunes:episode>
                <title>Disruptive Innovation | Herman Singh</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -824,6 +856,8 @@ another Solid Gold podcast
 
           <item>
                <!-- 0007 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>7</itunes:episode>
                <title>How the world is changing for Humans | Stafford Masie</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -843,6 +877,8 @@ another Solid Gold podcast
 
           <item>
                <!-- 0006 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>6</itunes:episode>
                <title>"MARS"terclass #MarsOne | Adriana Marais</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -861,6 +897,8 @@ another Solid Gold podcast
 
           <item>
                <!-- 0005 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>5</itunes:episode>
                <title>Fearless Women | Mandy Wiener</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -879,6 +917,8 @@ another Solid Gold podcast
 
           <item>
                <!-- 0004 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>4</itunes:episode>
                <title>Gender Equality | Jeremy Maggs</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -897,6 +937,8 @@ another Solid Gold podcast
 
            <item>
                <!-- 0003 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
                <itunes:episode>3</itunes:episode>
                <title>Fearless Women | Jenna Clifford</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -914,6 +956,8 @@ another Solid Gold podcast
 
            <item>
                <!-- 0002 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>
                <itunes:episode>2</itunes:episode>
                <title>Brain Dump | John Vlismas</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
@@ -931,7 +975,9 @@ another Solid Gold podcast
 
      	<item>
 		 	<!-- 0001 -->
-               <itunes:episode>1</itunes:episode>
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
                <title>GDPR and POPIA - What you need to know | Elizabeth de Stadler</title>
                <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
                <itunes:subtitle>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</itunes:subtitle>
