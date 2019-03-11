@@ -57,11 +57,7 @@
           
 
 
-
-
-
-
-<lastBuildDate>Sat, 09 Mar 2019 09:30:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 11 Mar 2019 08:00:00 +0200</lastBuildDate>
 
 
 
@@ -70,16 +66,16 @@
 <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
 <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
 
-<itunes:episodeType>full</itunes:episodeType>
-
 <title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</title>
 <itunes:title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</itunes:title>
 <itunes:subtitle>Time Marches on - make the most of the end of summertime in your backyard</itunes:subtitle>
 <itunes:duration>28:12</itunes:duration>
 
+<itunes:episodeType>full</itunes:episodeType>
 <itunes:explicit>no</itunes:explicit>
-<!-- <itunes:season>01</itunes:season> -->
-<itunes:episode>23</itunes:episode>
+<itunes:season>2</itunes:season>
+<itunes:episode>20</itunes:episode>
+
 
 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228a-cover.jpg" />
 
@@ -129,16 +125,15 @@ Life is a garden, trees, plants, Tulbaghia, Wild Garlic, Cary Goodwin, perennial
 <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
 <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
 
-<itunes:episodeType>full</itunes:episodeType>
-
 <title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</title>
 <itunes:title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</itunes:title>
 <itunes:subtitle>As beetle from South East Asia may bring down our Forests</itunes:subtitle>
 <itunes:duration>29:59</itunes:duration>
 
-<itunes:explicit>no</itunes:explicit>
-<!-- <itunes:season>01</itunes:season> -->
-<itunes:episode>22</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>19</itunes:episode>
 
 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228b-cover.jpg" />
 
@@ -185,16 +180,15 @@ Tree, trees, Tree Works, arborist, tree surgeon, arboriculture, Shothole borer, 
 <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
 <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
 
-<itunes:episodeType>full</itunes:episodeType>
-
 <title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</title>
 <itunes:title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</itunes:title>
 <itunes:subtitle>A whole lot of French Flair at the Lifestyle Show Gardens</itunes:subtitle>
 <itunes:duration>26:47</itunes:duration>
 
-<itunes:explicit>no</itunes:explicit>
-<!-- <itunes:season>1</itunes:season> -->
-<itunes:episode>21</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>18</itunes:episode>
 
 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228c-cover.jpg" />
 
@@ -232,16 +226,15 @@ Show gardens, France, gardening, French gardens, lavender, topiary, formal desig
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
                  <title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</title>
           <itunes:title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</itunes:title>
           <itunes:subtitle>All the flowers of all the tomorrows are in the seeds of today.</itunes:subtitle>
           <itunes:duration>28:35</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>20</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>17</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190213a-cover.jpg?ver=2" />
 
@@ -289,16 +282,15 @@ To share in Mel's adventures, visit MelsTreasures.co.za
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</title>
           <itunes:title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</itunes:title>
           <itunes:subtitle>Stomach issues are one of the greatest health problems plaguing society these days. How do we address this - and still enjoy living?</itunes:subtitle>
           <itunes:duration>28:08</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>19</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>16</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190124c-cover.jpg" />
 
@@ -340,16 +332,15 @@ To share in Mel's adventures, visit MelsTreasures.co.za
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</title>
           <itunes:title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</itunes:title>
           <itunes:subtitle>Do you need to know how to create the most desirable, biggest 'room' on your property? Look no further!</itunes:subtitle>
           <itunes:duration>26:50</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>18</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>15</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190124b-cover.jpg" />
 
@@ -391,16 +382,15 @@ To share in Mel's adventures, visit MelsTreasures.co.za
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Green for Good | Anthea Campbell</title>
           <itunes:title>Green for Good | Anthea Campbell</itunes:title>
           <itunes:subtitle>Green Ain't Just a Colour</itunes:subtitle>
           <itunes:duration>26:12</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>17</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>14</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
 
@@ -443,16 +433,15 @@ To share in Mel's adventures, visit MelsTreasures.co.za
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</title>
           <itunes:title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</itunes:title>
           <itunes:subtitle>It's a bright and colourful - and oh so hot - time of the year. Make your garden reflect that!</itunes:subtitle>
           <itunes:duration>29:23</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>16</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>13</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122c-cover.jpg" />
 
@@ -487,17 +476,16 @@ And one of the stalwarts of the veggie and colour patch, the humble (but oh so b
           <!-- OUR RSS NUMBER 0015 -->
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-          
-          <itunes:episodeType>full</itunes:episodeType>
 
           <title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</title>
           <itunes:title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</itunes:title>
           <itunes:subtitle>How to get rid of pests without destroying the environment</itunes:subtitle>
           <itunes:duration>30:01</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>15</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>12</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122d-cover.jpg" />
 
@@ -545,16 +533,15 @@ And keen to bring owls to your area? (You want to know hoo hoo who tells them wh
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Get Your Life out into the Garden | Cary Goodwin</title>
           <itunes:title>Get Your Life out into the Garden | Cary Goodwin</itunes:title>
           <itunes:subtitle>At a loss as to how to keep your kids busy over the holidays?</itunes:subtitle>
           <itunes:duration>30:20</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>14</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>11</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122b.jpg" />
 
@@ -603,16 +590,15 @@ Especially for those who can handle the heat outside of the kitchen!
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>Saving SA's Eco Heritage | Andrew Hankey</title>
           <itunes:title>Saving SA's Eco Heritage | Andrew Hankey</itunes:title>
           <itunes:subtitle>If we don't do it, we all lose out - Saving South Africa's sacred eco-resources</itunes:subtitle>
           <itunes:duration>27:20</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>13</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>10</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122a.jpg" />
 
@@ -658,16 +644,15 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
           <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
           <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
           
-          <itunes:episodeType>full</itunes:episodeType>
-
           <title>You Think Good Design is Expensive? | Michael Rickhoff</title>
           <itunes:title>You Think Good Design is Expensive? | Michael Rickhoff</itunes:title>
           <itunes:subtitle>Gardens work in four dimensions.</itunes:subtitle>
           <itunes:duration>30:07</itunes:duration>
 
-          <itunes:explicit>no</itunes:explicit>
-          <!-- <itunes:season>1</itunes:season> -->
-          <itunes:episode>12</itunes:episode>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>9</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003a.jpg" />
 
@@ -695,8 +680,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- OUR RSS NUMBER 0011 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-             <itunes:explicit>no</itunes:explicit>
-          	 <itunes:episode>11</itunes:episode>             
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>8</itunes:episode>
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>All the Deliciousness that is Jane! | Jane Griffiths</title>
@@ -732,9 +719,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- OUR RSS NUMBER 0010 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-             <itunes:explicit>no</itunes:explicit>
-
-             <itunes:episodeType>bonus</itunes:episodeType>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>7</itunes:episode>
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>Come on down and see (for) yourself | Heather Mac and Tim Parr</title>
@@ -772,7 +760,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- OUR RSS NUMBER 0009 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-             <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>6</itunes:episode>
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>Annual Flower Growing made easy | Peter Goodwin</title>
@@ -810,7 +801,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- OUR RSS NUMBER 0008 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-             <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>5</itunes:episode>
             
              <!-- UPDATE TITLE AND PUBLISHED DATE -->
                <title>What we put plants through before putting them in the garden! | Kathy Varney</title>
@@ -847,7 +841,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
              <!-- 0007 -->
              <!-- 20181023c -->
              <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-               <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>4</itunes:episode>
                
                <title>Life Is A Garden - The November Files | Cary Goodwin</title>
                <pubDate>Sat, 27 Oct 2018 10:00:00 +0200</pubDate>
@@ -877,7 +874,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
            <item>
         	   <!-- 0006 -->
         	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-               <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>3</itunes:episode>
                
                <title>Are You What You Eat? | Linda Galvad</title>
                <pubDate>Sat, 20 Oct 2018 08:00:00 +0200</pubDate>
@@ -906,7 +906,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
           <item>
         	   <!-- 0005 -->
         	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-               <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>2</itunes:episode>
                
                <title>Making Organic a Lifestyle, not a Duty | Jenny Slabber and Maureen Madiseng</title>
                <pubDate>Sat, 13 Oct 2018 08:00:00 +0200</pubDate>
@@ -935,7 +938,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
           <item>
         	   <!-- 0004 -->
                <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-               <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>1</itunes:episode>
                
                <title>The "Dagga" Debate | Quintin van Kerken</title>
                <pubDate>Sat, 06 Oct 2018 08:00:00 +0200</pubDate>
@@ -963,7 +969,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
           <item>
         	   <!-- 0003 -->          	
                <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
-               <itunes:explicit>no</itunes:explicit>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>1</itunes:season>               
+               <itunes:episode>3</itunes:episode>
                
                <title>Shirley Wallington</title>
                <pubDate>Sat, 09 Sep 2017 12:00:00 +0200</pubDate>
@@ -989,7 +998,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
          <item>
         	   <!-- 0002 -->
                <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
                <itunes:explicit>no</itunes:explicit>
+               <itunes:season>1</itunes:season>               
+               <itunes:episode>2</itunes:episode>
                
                <title>Gavin Heron</title>
                <pubDate>Sat, 23 Sep 2017 12:00:00 +0200</pubDate>
@@ -1015,7 +1027,10 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
         <item>
         	   <!-- 0001 -->
                <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
                <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>1</itunes:episode>
 
                <title>Misha Teasdale</title>               
                <pubDate>Sat, 02 Dec 2017 13:00:00 +0200</pubDate>
