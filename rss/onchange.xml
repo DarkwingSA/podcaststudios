@@ -12,8 +12,6 @@
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
-          <lastBuildDate>Wed, 23 Jan 2019 20:00:00 +0200</lastBuildDate>
-
           <title>On Change with Petro du Pisani</title>
           <link>https://solidgoldstudios.co.za/onchange.php</link>
           <language>en-za</language>
@@ -43,6 +41,9 @@
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
 
+          <lastBuildDate>Sat, 16 Mar 2019 10:00:00 +0200</lastBuildDate>
+
+
         <item>
                <!-- 011 -->
                <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
@@ -53,7 +54,7 @@
           <!-- episoded-specific artwork -->
                <itunes:image href="http://podcaststudios.co.za/images/onchange/on-change-011-cover.jpg?ver=1" />
 
-               <title>Dusting off the bookshelf | Riaan Wolmarans</title>
+               <title>Riaan Wolmarans | Dusting off the bookshelf</title>
                <itunes:subtitle>Best friends Petro du Pisani and Riaan Wolmarans talk about the books they couldn't put down, the books they would read on holiday, books that shaped their lives, and much more.</itunes:subtitle>
                
                <description><![CDATA[<p>
