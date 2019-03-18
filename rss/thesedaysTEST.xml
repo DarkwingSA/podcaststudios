@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>These Days</title>
+          <link>https://solidgoldstudios.co.za/thesedays.php</link>
+          <managingEditor>thesedays@solidgoldstudios.co.za (These Days | Solid Gold Studios)</managingEditor>
+          <language>en-ZA</language>
+          <generator>Solid Gold Podcast Studios 2.0</generator>
+          <docs>https://solidgoldstudios.co.za</docs>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <description>
+<p>Join three friends, Ilyaas, Zach and Awande, as they pick apart culture, politics and the latest happenings in human society.</p>
+<p>Sometimes they all agree, most of the time they don’t.</p>
+<p>WARNING: Opinions may vary</p>
+			</description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/thesedays/thesedays-cover-s01-e000.jpg?ver=2</url>
+            <title>These Days</title>
+            <link><![CDATA[https://solidgoldstudios.co.za/thesedays]]></link>
+          </image>
+
+          <itunes:explicit>yes</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Let's talk about whats going on - These Days</itunes:subtitle>
+          <itunes:author>Ilyaas, Zach and Awande | Solid Gold Studios</itunes:author>
+          <itunes:summary>
+Join three friends, Ilyaas, Zach and Awande, as they pick apart culture, politics and the latest happenings in human society.
+
+Sometimes they all agree, most of the time they don’t.
+
+WARNING: Opinions may vary
+          </itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/thesedays/thesedays-cover-s01-e000.jpg?ver=2" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/thesedays.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© SolidGoldStudios - all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/thesedays/thesedays-cover-s01-e000.jpg?ver=2" />
+          <media:keywords>Ilyaas, Zach, Awande, another Solid Gold podcast, #BeHeard</media:keywords>
+
+          <itunes:owner>
+               <itunes:email>thesedays@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>These Days | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>Ilyaas, Zach, Awande, another Solid Gold podcast, #BeHeard</itunes:keywords>
+
+          
+      <itunes:category text="Society &amp; Culture">   
+      <itunes:category text="History" />
+      <itunes:category text="Personal Journals" />
+      <itunes:category text="Philisophy" />
+      </itunes:category>
+
+      <itunes:category text="Comedy" />
+
+      <itunes:category text="News &amp; Politics" />
+
+		          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <ttl>30</ttl>
+          <pubDate>Sun, 17 Mar 2019 18:00:00 +0200</pubDate>
+
+
+<lastBuildDate>Sun, 17 Mar 2019 18:30:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 001 - Raised from the dead (Pilot) -->
+<author>thesedays@solidgoldstudios.co.za (Ilyaas, Zach and Awande | Solid Gold Studios)</author>
+<itunes:author>Ilyaas, Zach and Awande | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Raised from the dead (Pilot) | Ilyaas, Zach and Awande</title>
+<itunes:title>Raised from the dead (Pilot) | Ilyaas, Zach and Awande</itunes:title>
+<itunes:subtitle>And God said: let them rise from the dead and perform miracles</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>58:50</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thesedays/thesedays-cover-s01-e000.jpg?ver=2" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 17 Mar 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In this episode, Ilyaas, Zach and Awande discuss the fanatical rise of evangelical pastors across South Africa while dissecting religion, law and social order.
+</p>
+<br />
+<p>The infamous “doom” pastor is now embroiled in another scandal-feeding his congregants dog meat. Source: 702 <a href="http://bit.ly/thesedays001?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Pastor Alph Lukau’s “miracle” seems to have been debunked. Source: TimesLive <a href="http://bit.ly/thesedays002?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+In this episode, Ilyaas, Zach and Awande discuss the fanatical rise of evangelical pastors across South Africa while dissecting religion, law and social order.
+
+ 
+The infamous “doom” pastor is now embroiled in another scandal-feeding his congregants dog meat. Source: 702 http://bit.ly/thesedays001
+
+Pastor Alph Lukau’s “miracle” seems to have been debunked. Source: TimesLive http://bit.ly/thesedays002
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+ 
+
+</itunes:summary>
+<itunes:keywords>
+Religion, politics, law, miracles, #raisedfromthedead, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/thesedays/thesedays-001-raised-from-the-dead-pilot.mp3?ver=1" type="audio/mpeg" fileSize="56552873" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thesedays/thesedays-001-raised-from-the-dead-pilot.mp3?ver=1" type="audio/mpeg" length="56552873" />
+
+<guid isPermaLink="false">thesedays-001</guid>
+
+</item>
+
+          
+
+
+     </channel>
+</rss>
