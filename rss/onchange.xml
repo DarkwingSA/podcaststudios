@@ -19,9 +19,11 @@
           <description>The podcast that explores 'change that works' - and the people who make it happen.</description>
           <itunes:subtitle>Let's talk about change - with integrity.</itunes:subtitle>
           <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
-          <itunes:summary>Experienced change practioner, Petro du Pisani, explores 'change that works' and the people who make it happen. Recorded and produced at Solid Gold Studios.</itunes:summary>
+          <itunes:summary>Experienced change practioner, Petro du Pisani, explores 'change that works' and the people who make it happen.</itunes:summary>
           
           <itunes:category text="Business">
+          <itunes:category text="Business News" />
+          <itunes:category text="Careers" />
           <itunes:category text="Management &amp; Marketing" />
           </itunes:category>
           <itunes:category text="Education">
@@ -35,7 +37,8 @@
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
 
-<lastBuildDate>Mon, 18 Mar 2019 19:25:26 +0200</lastBuildDate>
+
+<lastBuildDate>Tue, 19 Mar 2019 08:06:41 +0200</lastBuildDate>
 
 
 
@@ -68,13 +71,8 @@
 In this episode Denis Beckett (journalist, adventurer, TV presenter, radio host and author) talks to host Petro du Pisani about his story and how life has changed for ordinary South African citizens over the years. We talk about his life as a journalist, writing, politics and reading newspapers, and in true Denis Beckett style we go off on a couple of tangents.
 </p>
 <br />
-
-
-
-<br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Extensive show notes, with links to content from this episode, are available at <a href="https://onchangeblog.tumblr.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description"></a></p>
-
+<p>Extensive show notes, with links to content from this episode, are available at <a href="https://onchangeblog.tumblr.com">onchangeblog.tumblr.com</a></p>
 
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -89,23 +87,23 @@ In this episode Denis Beckett (journalist, adventurer, TV presenter, radio host 
 
 <itunes:summary>
 In this episode Denis Beckett (journalist, adventurer, TV presenter, radio host and author) talks to host Petro du Pisani about his story and how life has changed for ordinary South African citizens over the years. We talk about his life as a journalist, writing, politics and reading newspapers, and in true Denis Beckett style we go off on a couple of tangents.
- 
-Extensive show notes, with links to content from this episode, are available at https://onchangeblog.tumblr.com
 
+Extensive show notes, with links to content from this episode, are available at onchangeblog.tumblr.com
+ 
 Find out more about making your own podcast at SolidGoldStudios.co.za
- 
-
 </itunes:summary>
+
 <itunes:keywords>
 Denis Beckett, Journalist, Beckett's Trek, Frontline, Politics, #onchangepodcast, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
-																				
+
 <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=1" type="audio/mpeg" fileSize="47799939" />
     <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=1" type="audio/mpeg" length="47799939" />
-    
+
 <guid isPermaLink="false">onchange-012</guid>
 
 </item>
+
 
 
         <item>
