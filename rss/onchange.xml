@@ -38,7 +38,7 @@
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
 
 
-<lastBuildDate>Tue, 19 Mar 2019 08:06:41 +0200</lastBuildDate>
+<lastBuildDate>Fri, 22 Mar 2019 15:00:00 +0200</lastBuildDate>
 
 
 
@@ -56,7 +56,7 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>12</itunes:episode>
-<itunes:duration>49:31</itunes:duration>
+<itunes:duration>49:18</itunes:duration>
 
 <!-- Use DEFAULT image -->
 <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
@@ -97,8 +97,8 @@ Find out more about making your own podcast at SolidGoldStudios.co.za
 Denis Beckett, Journalist, Beckett's Trek, Frontline, Politics, #onchangepodcast, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=1" type="audio/mpeg" fileSize="47799939" />
-    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=1" type="audio/mpeg" length="47799939" />
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=2" type="audio/mpeg" fileSize="47704110" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/onchange/on-change-012-denis-beckett.mp3?ver=2" type="audio/mpeg" length="47704110" />
 
 <guid isPermaLink="false">onchange-012</guid>
 
