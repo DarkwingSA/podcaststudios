@@ -27,7 +27,7 @@
 		   </description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=1</url>
+            <url>https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2</url>
             <title>Lift As You Rise</title>
             <link><![CDATA[https://solidgoldstudios.co.za/liftasyourise]]></link>
           </image>
@@ -46,12 +46,12 @@ In this series we reveal why this project is close to them, who uplifted them on
 Recorded at SolidGoldStudios.co.za and Edited by Willem Nel
           </itunes:summary>
 
-          <itunes:image href="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=1" />
+          <itunes:image href="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/liftasyourise.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>© Red Bull Music and Tall Racks Records - all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=1" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2" />
           <media:keywords>Lift As You Rise, Tall Racks Records, Redbull Music, another Solid Gold podcast, #BeHeard</media:keywords>
 
           <itunes:owner>
@@ -84,7 +84,7 @@ Recorded at SolidGoldStudios.co.za and Edited by Willem Nel
           <pubDate>Mon, 08 Apr 2019 18:30:00 +0200</pubDate>
 
 
-<lastBuildDate>Mon, 08 Apr 2019 18:27:22 +0200</lastBuildDate>
+<lastBuildDate>Tue, 09 Apr 2019 10:00:00 +0200</lastBuildDate>
 
 
 
@@ -105,7 +105,7 @@ Recorded at SolidGoldStudios.co.za and Edited by Willem Nel
 <itunes:duration>53:49</itunes:duration>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=1" />
+<itunes:image href="http://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Mon, 08 Apr 2019 00:06:00 +0200</pubDate>
