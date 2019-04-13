@@ -53,7 +53,82 @@
           <ttl>30</ttl>
 
 
-<lastBuildDate>Sat, 30 Mar 2019 10:38:03 +0200</lastBuildDate>
+<lastBuildDate>Sat, 13 Apr 2019 10:32:52 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 036 - Who Let the Grease Divorce? - Season 1 Episode 36 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Who Let the Grease Divorce?</title>
+<itunes:title>Who Let the Grease Divorce?</itunes:title>
+<itunes:subtitle>Eddie, The Boss and Lil Nas X</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>36</itunes:episode>
+<itunes:duration>02:35</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sat, 13 Apr 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+An adorable hound comes to the movies this week as A DOG'S WAY HOME hits the big screen and pulls at the heart strings. GREASE is still the word as a prequel is announced. EDDIE MURPHY and ARSENIO HALL COME BACK TO AMERICA. BRUCE SPRINGSTEEN'S unused HARRY POTTER song finds a home and SLASH'S personal belongings go under the hammer courtesy of an un-coupling auction. The Music Industry struggles to categorise genre-blending tracks featuring Country and Hip Hop.
+</p>
+<br />
+<p>Summer Lovin' had me a Blast - a prequel to the smash hit GREASE is on the way! <a href="https://www.empireonline.com/movies/news/grease-prequel-summer-lovin-works/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>A DOG'S WAY HOME tells the true story of a puppy that traveled over 600km to find it owner. <a href="https://numetro.co.za/movie/5057/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>GUNS N' ROSES lead guitarist SLASH'S personal affects are under the hammer courtesy of an uncoupling auction. <a href="https://www.juliensauctions.com/exhibition-press-release?id=286?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Are you ready to produce your own podcast? <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+An adorable hound comes to the movies this week as A DOG'S WAY HOME hits the big screen and pulls at the heart strings. GREASE is still the word as a prequel is announced. EDDIE MURPHY and ARSENIO HALL COME BACK TO AMERICA. BRUCE SPRINGSTEEN'S unused HARRY POTTER song finds a home and SLASH'S personal belongings go under the hammer courtesy of an un-coupling auction. The Music Industry struggles to categorise genre-blending tracks featuring Country and Hip Hop.
+ 
+Summer Lovin' had me a Blast - a prequel to the smash hit GREASE is on the way! https://www.empireonline.com/movies/news/grease-prequel-summer-lovin-works/
+
+A DOG'S WAY HOME tells the true story of a puppy that traveled over 600km to find it owner. https://numetro.co.za/movie/5057/
+
+GUNS N' ROSES lead guitarist SLASH'S personal affects are under the hammer courtesy of an uncoupling auction. https://www.juliensauctions.com/exhibition-press-release?id=286
+
+
+Are you ready to produce your own podcast? - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Grease prequel,Coming to America 2,Slash,uncoupling,A Dogs Way Home,Country Trap, Lil Nas X,Potter,Springsteen,Solid Gold Studios, Shane The Duke Wellington,HOT91.9FM, Weekend Party,Lance Zeeman, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-036.mp3?ver=1" type="audio/mpeg" fileSize="2871143" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-036.mp3?ver=1" type="audio/mpeg" length="2871143" />
+
+<guid isPermaLink="false">weekendparty-036</guid>
+
+</item>
 
 
 
@@ -122,8 +197,8 @@ Find out more about making your own podcast at SolidGoldStudios.co.za
 Jordan Peele, US, Denzel Washington,Tom Hanks Sting, Algorithm, Madame Tussaud's, Steve Taylor, Macbeth, John Lennon, UFO, Colonel Tom Parker, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-035.mp3?ver=1" type="audio/mpeg" fileSize="4629295" />
-    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-035.mp3?ver=1" type="audio/mpeg" length="4629295" />
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-035.mp3?ver=2" type="audio/mpeg" fileSize="4629295" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/weekendparty/weekendparty-035.mp3?ver=2" type="audio/mpeg" length="4629295" />
 
 <guid isPermaLink="false">weekendparty-035</guid>
 
