@@ -9,6 +9,11 @@
 
      <channel>
 
+<itunes:new-feed-url>
+  https://podcaststudios.co.za/rss/sgspodcastguest101.xml
+</itunes:new-feed-url>
+
+
           <title>Solid Gold Studios : Podcast Guest 101</title>
           <link>https://solidgoldstudios.co.za</link>
           <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</managingEditor>
