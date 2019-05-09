@@ -66,7 +66,7 @@
                <itunes:summary>Story-telling | Listen to this short excerpt from Petro du Pisani's podcast (On Change) where her guest, Corrie Pitzer, shares his story.</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="0" />
                <!-- <guid>http://podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3</guid> -->
                <guid isPermaLink="false">solidgoldstudios001></guid>
                
