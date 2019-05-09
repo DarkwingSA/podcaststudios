@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+     	<atom:link href="https://podcaststudios.co.za/rss/solidgoldstudios.xml" rel="self" type="application/rss+xml" />
+        <ttl>30</ttl>
+        <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+        <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</managingEditor>
+        <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0200</lastBuildDate>
+
+
+        <title>Solid Gold Studios</title>
+        <link>https://www.solidgoldstudios.co.za/solidgoldstudios.php</link>
+        <language>en-za</language>
+          <copyright>Solid Gold Studios - all rights reserved</copyright>
+
+        <description>Solid Gold Podcast Studios | Sample and Demonstration Episodes</description>
+        <itunes:subtitle>Solid Gold Podcast Studios | Sample and Demonstration Episodes</itunes:subtitle>
+        <itunes:author>Solid Gold Studios</itunes:author>
+        <itunes:summary>Solid Gold Podcast Studios | Sample and Demonstration Episodes</itunes:summary>
+
+          <itunes:category text="Technology">
+          <itunes:category text="Podcasting" />
+      	  </itunes:category> 
+        
+        <itunes:owner>
+            <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>gavin@solidgoldstudios.co.za</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
+
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>no</itunes:explicit>
+
+
+        <item>
+
+             <!-- Episode 001 -->
+             <itunes:episode>1</itunes:episode>             
+             <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+             <itunes:explicit>no</itunes:explicit>
+            
+             <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
+             <title>Demo 1 | Telling a Story - Corrie Pitzer</title>
+             <pubDate>Thu, 08 Nov 2018 08:45:00 +0200</pubDate>
+             <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK?
+               <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/?????.jpg" />
+             IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>Story-telling</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Story-telling | Listen to this short excerpt from Petro du Pisani's podcast (On Change) where her guest, Corrie Pitzer, shares his story.</p><p>Are you ready to tell YOUR story? Then visit us at <a href="https://solidgoldstudios.co.za/">SolidGoldStudios.co.za</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Story-telling | Listen to this short excerpt from Petro du Pisani's podcast (On Change) where her guest, Corrie Pitzer, shares his story.</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3</guid> -->
+               <guid isPermaLink="false">solidgoldstudios001></guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>02:21</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Corrie Pitzer, Story-telling, another Solid Gold Studios porcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+
+        </item>
+
+    </channel>
+</rss>

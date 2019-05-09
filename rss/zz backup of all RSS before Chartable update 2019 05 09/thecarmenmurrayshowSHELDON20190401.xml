@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
+          <ttl>30</ttl>
+          <title>The Carmen Murray Show</title>
+          <link>https://solidgoldstudios.co.za/carmenmurray.php</link>
+          <language>en-za</language>
+          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+
+          <description><![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+          	<p>
+          	Are you looking to broaden your horizons, to stay relevant and become Future Fit? Do you want to fuel your creativity and inspire Innovation? or… are you simply looking to put the “kapow” back into your business? Then look no further. Join Carmen Murray, Entrepreneur, Innovator and Tech Fundi, with her big personality and presentation style, as she interviews celebrities, alchemist, news-makers and business experts to discover the stories behind their success. The Carmen Murray Show will open your mind and help you turn knowledge into magic. Let knowledge be your Super Power!
+          </p>
+          <p>
+          	Visit <a href="https://www.boo-yah.co.za?utm_source=Podcast">Boo-Yah.co.za</a> to learn more about our training workshops designed to get you #TechFit # SkillsFit #InnovationFit #TrendFit and #MarketingFit
+          </p>
+          <p>
+			To book for the latest Future Fit Networking Event visit <a href="https://boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za/futurefit-events</a>
+		  </p>
+		  <p>
+		  	Need a Marketing or Motivational Speaker for your events? Contact <a href="http://www.carmenmurray.com/?utm_source=Podcast">CarmenMurray.com</a>
+		  </p>
+		  <p>
+		  	Read Carmen Murray's BizCommunity column to #FutureFit yourself at <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">BizCommunity.com</a>
+		  </p>
+		  <p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">another Solid Gold podcast</a>
+          </p>
+          <p><strong>#BeHeard</strong>
+      	  </p>
+          ]]>
+          </description>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:subtitle>Let Knowledge be Your Super Power!</itunes:subtitle>
+          <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Solid Gold Studios welcome to The Carmen Murray Show</itunes:summary>
+          
+          <!-- <itunes:category text="Business" /> -->
+          <itunes:category text="Business">
+          <itunes:category text="Management &amp; Marketing" />
+          </itunes:category>
+          <itunes:category text="Technology">
+          <itunes:category text="Tech News" />
+          </itunes:category>
+
+
+          <itunes:owner>
+               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
+          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+          <itunes:keywords>Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+
+
+
+<lastBuildDate>Tue, 02 Apr 2019 06:00:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 027 - A Smart Ask of Barry Hilton | Barry Hilton (Comedian, Actor, TV Personality, Motivational Speaker and Creator of the Game Smart Ask) -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>A Smart Ask | Barry Hilton (Comedian, Actor, TV Personality, Motivational Speaker and Creator of the Game Smart Ask)</title>
+<itunes:title>A Smart Ask | Barry Hilton (Comedian, Actor, TV Personality, Motivational Speaker and Creator of the Game Smart Ask)</itunes:title>
+<itunes:subtitle>We talk about Barry’s career, mentoring and paying it forward.</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>19</itunes:episode>
+<itunes:duration>35:39</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 02 Apr 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Carmen Murray chats with one of South Africa's renowned comedians, Barry Hilton.
+
+They unpack everything from why he chose comedy as a vessel to express himself to all the lessons learned along the way.  One of the interesting discussions is all about the realization that every performance might not be a great one, but you grow to greatness by learning from each experience and to pick yourself up and have the courage to stand tall and show up.  So many of us face this in our lives, and it is comforting to learn from the best of the best in our country that this happens to us all.  
+
+It is no secret that Johnny Noble and Barry Hilton had a special relationship and he saw potential in Barry and mentored him in his career.  He created opportunities to propel Barry's career forward.   
+
+In this episode we talk about paying it forward, mentoring and creating opportunities for the next generation.  Surrounding yourself with the right mentors that uplift you.  We also touch on the role of a mentee when opportunities present itself.
+
+Last but not least, Carmen Murray gets to play Barry Hilton's new game called Smart Ask where he is gifted the 'game time' of The Carmen Murray Show and get's to put her up for the challenge.
+</p>
+<br />
+<p>Visit Barry Hilton's website <a href="http://www.barryhilton.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events">Boo-Yah.co.za</a></p>
+<p>For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Carmen Murray chats with one of South Africa's renowned comedians, Barry Hilton.  
+
+They unpack everything from why he chose comedy as a vessel to express himself to all the lessons learned along the way.  One of the interesting discussions is all about the realization that every performance might not be a great one, but you grow to greatness by learning from each experience and to pick yourself up and have the courage to stand tall and show up.  So many of us face this in our lives, and it is comforting to learn from the best of the best in our country that this happens to us all.  
+
+It is no secret that Johnny Noble and Barry Hilton had a special relationship and he saw potential in Barry and mentored him in his career.  He created opportunities to propel Barry's career forward.   
+
+In this episode we talk about paying it forward, mentoring and creating opportunities for the next generation.  Surrounding yourself with the right mentors that uplift you.  We also touch on the role of a mentee when opportunities present itself.
+
+Last but not least, Carmen Murray gets to play Barry Hilton's new game called Smart Ask where he is gifted the 'game time' of The Carmen Murray Show and get's to put her up for the challenge.
+ 
+Visit Barry Hilton's website http://www.barryhilton.co.za/
+
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit Boo-Yah.co.za
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Barry Hilton, Smart Ask, Mentorship, mentee, training, upliftment, comedy, Comedy Central, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-027-barry-hilton.mp3?ver=1" type="audio/mpeg" fileSize="34433780" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-027-barry-hilton.mp3?ver=1" type="audio/mpeg" length="34433780" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-027</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 026 - #Cr8Fit | A catalyst for Innovation | Lana Leas-Roy (MD Goats2Unicorns), Taryn Marcus (Human Capital and Strategy Integration Specialist) and Marc Hirschowitz (CEO Conceptspark) -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>#Cr8Fit | A catalyst for Innovation | Lana Leas-Roy (MD Goats2Unicorns), Taryn Marcus (Human Capital and Strategy Integration Specialist) and Marc Hirschowitz (CEO Conceptspark)</title>
+<itunes:title>#Cr8Fit | A catalyst for Innovation | Lana Leas-Roy (MD Goats2Unicorns), Taryn Marcus (Human Capital and Strategy Integration Specialist) and Marc Hirschowitz (CEO Conceptspark)</itunes:title>
+<itunes:subtitle>The narrative is framed around a modern world where businesses have equal access to various expertise from legal to marketing. The one skill they don't have, is the skill of creative thinking. How do we enable critical creative thinking?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>18</itunes:episode>
+<itunes:duration>36:37</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 25 Mar 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+"Why is creativity a crucial competency for businesses and their employees? 
+Can you Access Creativity?
+How do you foster a culture of creativity?
+How do you harness the creative energies of all business and stakeholders?
+
+These are some of the pressing questions that Carmen Murray explores with the Creative Catalyst and Enablers Lana Leas-Roy, Taryn Marcus and Marc Hirschowitz to understand how we as creative beings lose our creativity as we are raised in society and how to claim it back to restore innovation within our organisations.
+
+
+The combination of these creative energies, bring a fresh perspective to the need for critical creative skills and confidence to push a business forward into the modern age."
+</p>
+
+
+
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events">Boo-Yah.co.za</a></p>
+<p>For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Why is creativity a crucial competency for businesses and their employees? 
+Can you Access Creativity?
+How do you foster a culture of creativity?
+How do you harness the creative energies of all business and stakeholders?
+
+These are some of the pressing questions that Carmen Murray explores with the Creative Catalyst and Enablers Lana Leas-Roy, Taryn Marcus and Marc Hirschowitz to understand how we as creative beings lose our creativity as we are raised in society and how to claim it back to restore innovation within our organisations.
+
+
+The combination of these creative energies, bring a fresh perspective to the need for critical creative skills and confidence to push a business forward into the modern age.
+ 
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit Boo-Yah.co.za
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+ 
+
+</itunes:summary>
+
+<itunes:keywords>
+Lana Leas-Roy, Marc Hirschowitz, Taryn Marcus, creativity, innovation hubs, goats2unicorns, conventional thinking, creative agency, creative confidence, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-026-catalyst-for-innovation.mp3?ver=1" type="audio/mpeg" fileSize="35362981" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-026-catalyst-for-innovation.mp3?ver=1" type="audio/mpeg" length="35362981" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-026</guid>
+
+</item>
+
+
+
+
+<item>
+<!-- Sequence 025 - #CultureFit | Diversity sticks with Inclusion -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>#CultureFit | Diversity sticks with Inclusion | Gavin Moffat (Author and co-founder of Hers and His), Ingrid Lotze (co-founder of Hers and His), and Mo Malele (Performance Artist, Entrepreneur)</title>
+<itunes:title>#CultureFit | Diversity sticks with Inclusion | Gavin Moffat (Author and co-founder of Hers and His), Ingrid Lotze (co-founder of Hers and His), and Mo Malele (Performance Artist, Entrepreneur)</itunes:title>
+<itunes:subtitle>Every business is trying to solve the diversity inclusion conundrum, but the reality is the lines have become so blurred, especially in a “WOKE” society.  What is the underlying issue?  Why can businesses not get this right? Is knowing really doing?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:duration>01:10:07</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 17 Mar 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Carmen Murray, modern-day Feminist, and Mo Malele, a Performance Artist, Entrepreneur and a proud member of LGBT Community have a candid conversation with Diversity Inclusion Specialist and Coaches Ingrid Lotze and Gavin Moffat, co-founders of Hers and His. As Verna Myers famously said, "Diversity is being invited to the party, inclusion is being asked to dance"  In this episode, they highlight the problematic behavior conditioned by society, real-life scenario's, and cultural issues that stem from diversity and rears its ugly head in the workspace. The candid conversation covers everything from the inappropriate handshake to corrective rape, Equality vs Equity, Curiosity and Polarization. We also unpack the blueprint to Inclusion and how to improve the inclusive policy within your organisation and create a safe environment for everyone.
+</p>
+<br />
+<p>The Uncomfortable Handshake <a href="http://bit.ly/TCMShandshake?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Teacher allows kids to choose their own greeting <a href="http://bit.ly/TCMSchoosegreeting?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Bonus Material. #FutureFit Yourself: Why Diversity inclusion requires a restoration strategy <a href="http://bit.ly/TCMS001?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Boo-Yah.co.za</a></p>
+<p>For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Carmen Murray, modern-day Feminist, and Mo Malele, a Performance Artist, Entrepreneur and a proud member of LGBT Community have a candid conversation with Diversity Inclusion Specialist and Coaches Ingrid Lotze and Gavin Moffat, co-founders of Hers and His. As Verna Myers famously said, "Diversity is being invited to the party, inclusion is being asked to dance"  In this episode, they highlight the problematic behavior conditioned by society, real-life scenario's, and cultural issues that stem from diversity and rears its ugly head in the workspace. The candid conversation covers everything from the inappropriate handshake to corrective rape, Equality vs Equity, Curiosity and Polarization. We also unpack the blueprint to Inclusion and how to improve the inclusive policy within your organisation and create a safe environment for everyone.
+ 
+The Uncomfortable Handshake http://bit.ly/TCMShandshake
+
+Teacher allows kids to choose their own greeting http://bit.ly/TCMSchoosegreeting
+
+Bonus Material. #FutureFit Yourself: Why Diversity inclusion requires a restoration strategy http://bit.ly/TCMS001
+
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit Boo-Yah.co.za
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+ 
+
+</itunes:summary>
+<itunes:keywords>
+gavin moffat, swimming with sharks, complex world, diversity inclusion, equality vs Equity, Ingrid Lotze, Mo Malele, LGBT Community, Polarization, Polarisation, hers and his, the will to change;, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-025-diversity-inclusion.mp3?ver=2" type="audio/mpeg" fileSize="67820461" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-025-diversity-inclusion.mp3?ver=2" type="audio/mpeg" length="67820461" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-025</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 024 - #TrendFit | Wokepreneurs -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>#TrendFit | Wokepreneurs | Khumo Theko</title>
+<itunes:title>#TrendFit | Wokepreneurs | Khumo Theko</itunes:title>
+<itunes:subtitle>Khumo Theko, researcher and a cultural identity trendspotter at Flux Trends introduces us to the wokepreneur tribe that falls under the umbrella of South Africa's Urban Tribes and give is a very interesting insight to this new rising tribe.</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>16</itunes:episode>
+<itunes:duration>12:37</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 12 Mar 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Khumo Theko, researcher and a cultural identity trendspotter at Flux Trends introduces us to the wokepreneur tribe that falls under the umbrella of South Africa's Urban Tribes and give is a very interesting insight to this new rising tribe. In the age of being "WOKE" this is a very important trend to pay attention to for businesses and how they can adapt to this emerging tribe.  We are seeing a rise in brand activism from smaller entrepreneurs that are making huge strides in the age of the consumer.
+</p>
+
+<br />
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Boo-Yah.co.za</a></p>
+<p>For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Khumo Theko, researcher and a cultural identity trendspotter at Flux Trends introduces us to the wokepreneur tribe that falls under the umbrella of South Africa's Urban Tribes and give is a very interesting insight to this new rising tribe. In the age of being "WOKE" this is a very important trend to pay attention to for businesses and how they can adapt to this emerging tribe.  We are seeing a rise in brand activism from smaller entrepreneurs that are making huge strides in the age of the consumer.
+ 
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit Boo-Yah.co.za
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+ 
+
+</itunes:summary>
+<itunes:keywords>
+Wokefit, brand activism, wokepreneurs, dion chang, khumo theko, fluxtrends, sub tribes, tribes, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-024-trendfit005-khumo-wokepreneurs.mp3?ver=1" type="audio/mpeg" fileSize="12373591" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-024-trendfit005-khumo-wokepreneurs.mp3?ver=1" type="audio/mpeg" length="12373591" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-024</guid>
+
+</item>
+
+
+
+         <item>
+               <!-- 0023 Fearless Girls -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>15</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Tue, 05 Mar 2019 09:00:00 +0200</pubDate>
+               <title>What is an African Fearless Girl? | Linda Kachingwe-Sisya and Dharshni Padayachee</title>
+               <itunes:subtitle>RMB welcomed Africa's Fearless Girl. Carmen Murray interviews Linda Kachingwe-Sisya and Dharshni Padayachee from RMB to talk about Africa's Fearless Girl Statue and understand what makes her different, and what she symbolises.</itunes:subtitle>
+
+               <description><![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+
+<p>
+In this Episode Carmen Murray sits down with Linda Kachingwe-Sisya, Head of Marketing: Africa and Private Equity (RMB Ventures) and Dharshni Padayachee (Inclusion and equality at RMB) to discuss the Fearless Girl of Africa. RMB was inspired by the Wall Street's Fearless Girl and envisioned a life-sized and Afro-centric version of the artwork that would speak to the values of individuality, courage, and strength. The Original Fearless Girl from Wall Street, came with a lot of controversies, after discovering that the State Street Corporation, the firm that commissioned the popular "Fearless Girl" statue in New York's financial district was accused by the United States Labour Department of Payment Discrimination against female employees.
+</p>
+
+<p>
+Carmen asks the hard questions. Why did RMB create the Africa Fearless Girl, and what message were they sending out to the world with the African Version. 
+> Is their Backyard clean? 
+> The Behind the Scenes of creating Africa's Fearless Girl? 
+> Why a Girl and not a Woman?
+> What is the message and do they live the message at RMB?
+</p>
+
+<p>
+Read more about the original Fearless Girl <a href="https://www.nytimes.com/2017/10/06/business/fearless-girl-settlement.html">READ MORE</a>
+</p>
+
+<p>
+Learn more about Africa's Fearless Girl <a href="https://www.rmb.co.za/page/rmb-welcomes-africas-fearless-girl">LEARN MORE</a>
+</p>
+
+<p>
+To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+</p>
+
+<p>
+To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+</p>
+<p>
+For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+</p>
+<p>
+For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+</p>
+<p>
+<strong>#BeHeard</strong>
+</p>
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+                  ]]>
+                       
+                  </description>
+
+               <itunes:summary>
+In this Episode Carmen Murray sits down with Linda Kachingwe-Sisya, Head of Marketing: Africa and Private Equity (RMB Ventures) and Dharshni Padayachee (Inclusion and equality at RMB) to discuss the Fearless Girl of Africa. RMB was inspired by the Wall Street's Fearless Girl and envisioned a life-sized and Afro-centric version of the artwork that would speak to the values of individuality, courage, and strength. The Original Fearless Girl from Wall Street, came with a lot of controversies, after discovering that the State Street Corporation, the firm that commissioned the popular "Fearless Girl" statue in New York's financial district was accused by the United States Labour Department of Payment Discrimination against female employees.
+
+Carmen asks the hard questions. Why did RMB create the Africa Fearless Girl, and what message were they sending out to the world with the African Version. 
+
+Is their Backyard clean? 
+> The Behind the Scenes of creating Africa's Fearless Girl? 
+> Why a Girl and not a Woman?
+> What is the message and do they live the message at RMB?
+
+Read more about the original Fearless Girl
+https://www.nytimes.com/2017/10/06/business/fearless-girl-settlement.html
+
+Learn more about Africa's Fearless Girl
+https://www.rmb.co.za/page/rmb-welcomes-africas-fearless-girl
+
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+another Solid Gold podcast
+
+#BeHeard
+</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-023-fearless-girl.mp3" type="audio/mpeg" length="38669969" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow023</guid>               
+                  
+               <itunes:duration>40:04</itunes:duration>
+               <itunes:keywords>Linda Kachingwe-Sisya, Dharshni Padayachee, Africa's Fearless Girl,Fearless women, RMB, Africa Rising, 16 days of Activism, Marieke Prinsloo-Rowe, Investment Banking, femininity, Art, Corporate Art, Equality</itunes:keywords>
+               
+          </item>
+
+
+
+         <item>
+               <!-- 0022 Goliath and Goliath  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>14</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 25 Feb 2019 17:30:00 +0200</pubDate>
+               <title>#ColabFit | The GOliath Way | Jason, Donovan and Nicholas Goliath</title>
+               <itunes:subtitle>Carmen Murray interviews the Goliath Brothers, The 3 giants of SA Comedy on The Carmen Murray Show. They are known for being a force to be reckoned with in business and she wants to understand how they make collaboration work in a family business.</itunes:subtitle>
+
+               <description><![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+
+<p>
+This is not going to be your typical episode. Get ready to learn and laugh for this one. Yes, Funny is a Serious Business, but who said you can't have fun and learn from the incredible Goliath Family. Collaboration has become a buzzword everyone uses, but for some reason, it is something very few businesses can master in business. The Goliath Brothers are disrupting the Comedy World and they are known for running an incredible business. Here is the catch, it's only Family. They say never go into business with family. So why can the Goliath Brothers make it work? What is the secret and what lessons can we learn from them? During the show, Donovan Goliath was doodling and we ended the show, with a challenge for all the listeners. #GoliathDoodle Challenge - Doodle the 3 brothers and tweet #GoliathDoodle and you can win one year access to the Goliath and Goliath Comedy Club for 2 people and get amazing T-Shirts.
+</p>
+
+<p>
+Learn More about The Goliath Comedy Clubs at <a href="https://www.goliathandgoliath.com/?utm_source=%Solid%20Gold%Podcasts">GoliathAndGoliath.com</a>
+</p>
+
+<p>
+Here is a video with the <a href="https://www.youtube.com/watch?v=gmjfbhjaLVM">Goliath Brothers Challenge</a>
+</p>
+
+<p>
+This is a behind-the-scenes look at one of the funniest games played in studio - <a href="https://www.youtube.com/watch?v=8mUaoabKihE">WatchYoMouth</a>
+</p>
+
+<p>
+To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+</p>
+
+<p>
+To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+</p>
+<p>
+For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+</p>
+<p>
+For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+</p>
+<p>
+<strong>#BeHeard</strong>
+</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+                  ]]>
+                       
+                  </description>
+
+               <itunes:summary>
+This is not going to be your typical episode. Get ready to learn and laugh for this one. Yes, Funny is a Serious Business, but who said you can't have fun and learn from the incredible Goliath Family. Collaboration has become a buzzword everyone uses, but for some reason, it is something very few businesses can master in business. The Goliath Brothers are disrupting the Comedy World and they are known for running an incredible business. Here is the catch, it's only Family. They say never go into business with family. So why can the Goliath Brothers make it work? What is the secret and what lessons can we learn from them? During the show, Donovan Goliath was doodling and we ended the show, with a challenge for all the listeners. #GoliathDoodle Challenge - Doodle the 3 brothers and tweet #GoliathDoodle and you can win one year access to the Goliath and Goliath Comedy Club for 2 people and get amazing T-Shirts.
+
+Learn More about The Goliath Comedy Clubs at - https://GoliathAndGoliath.com
+
+Here is a video with the Goliath Brothers Challenge - https://www.youtube.com/watch?v=gmjfbhjaLVM
+
+This is a behind-the-scenes look at one of the funniest games, WatchYoMouth, played in studio - https://www.youtube.com/watch?v=8mUaoabKihE
+
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+another Solid Gold podcast
+
+#BeHeard
+</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-022-goliath-and-goliath.mp3" type="audio/mpeg" length="55516100" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow022</guid>               
+                  
+               <itunes:duration>57:39</itunes:duration>
+               <itunes:keywords>Jason Goliath, Donovan Goliath, Kate Goliath, Momager Goliath, Nicholas Goliath, Comedy Club, how to be a comedian, How to run a family business, Goliath Comedy Club, Collaboration, games, Funniest Podcast,</itunes:keywords>
+               
+          </item>
+
+
+
+         <item>
+               <!-- 0021 #TrendFit 004  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>13</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Tue, 19 Feb 2019 09:15:00 +0200</pubDate>
+               <title>#TrendFit | Rise of the African Barista | Khumo Theko</title>
+
+               <itunes:subtitle>Urban Tribes and the Township Coffee Culture</itunes:subtitle>
+
+               <description><![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+
+                <p>
+                  Khumo Theko, researcher and cultural identity trend spotter at Flux Trends, draws attention to the rise of the township investor tribe that are categorised as the New Urban Tribes. She unpacks the rise of the growing ""coffee culture"" in various townships.
+
+                  To learn more about the "New Urban Tribes and the Township Investor: The African Barista", visit <a href="http://www.fluxtrends.com/introducing-the-african-barista/">Flux Trends</a>
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Khumo Theko, researcher and cultural identity trend spotter at Flux Trends, draws attention to the rise of the township investor tribe that are categorised as the New Urban Tribes. She unpacks the rise of the growing ""coffee culture"" in various townships.
+
+               To learn more about the "New Urban Tribes and the Township Investor: The African Barista", visit http://www.fluxtrends.com/introducing-the-african-barista/
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-021-trendfit004-khumo-theko.mp3" type="audio/mpeg" length="11852435" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow021</guid>               
+                  
+               <itunes:duration>12:04</itunes:duration>
+               <itunes:keywords>Urban Tribes, African Barista, sub tribe, flux trends, khumo theko, culture, Tourism</itunes:keywords>
+               
+          </item>
+
+
+         <item>
+               <!-- 0020 Audition Crasher -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>12</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Tue, 12 Feb 2019 11:30:00 +0200</pubDate>
+               <title>Audition Crasher | Kimberleigh Stark</title>
+
+               <itunes:subtitle>Carmen Murray "crashed" one of Kimberleigh Stark's auditions to find new actors and this is what she discovered.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                  Carmen Murray is curious to see what happens in the world of "Kimberleigh Stark" and ambushed one of her auditions in pursuit to find new actors in South Africa. She wanted to have an understanding of what happens behind the scenes of Lights, Cameras, Action in preparation of the Future Fit Networking Events launch, powered by Boo-Yah! At the launch, the theme will be Storytelling and Kimberleigh will unpack storytelling secrets from the Hollywood Playground at this event, and Carmen wanted to see what the fuss was all about in order for her to share the "Behind The Scenes" of her day to day job. What she discovered was an eye-opener. Actors can't bring a bad story to life but give them a good story and you go on an emotional rollercoaster. Listen to this episode to learn more about #BehindTheScenes. 
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Carmen Murray is curious to see what happens in the world of "Kimberleigh Stark" and ambushed one of her auditions in pursuit to find new actors in South Africa. She wanted to have an understanding of what happens behind the scenes of Lights, Cameras, Action in preparation of the Future Fit Networking Events launch, powered by Boo-Yah! At the launch, the theme will be Storytelling and Kimberleigh will unpack storytelling secrets from the Hollywood Playground at this event, and Carmen wanted to see what the fuss was all about in order for her to share the "Behind The Scenes" of her day to day job. What she discovered was an eye-opener. Actors can't bring a bad story to life but give them a good story and you go on an emotional rollercoaster. Listen to this episode to learn more about #BehindTheScenes. 
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-020-audition-crasher.mp3" type="audio/mpeg" length="18350709" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow020</guid>               
+                  
+               <itunes:duration>18:51</itunes:duration>
+               <itunes:keywords>Kimberleigh Stark, Lights Cameras Action, Stark Raving, Acting, Storytelling, auditions, Future Fit Networking Events</itunes:keywords>
+               
+          </item>
+
+         <item>
+               <!-- 0019 #SalesFit 001 Mark Keating  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>11</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 04 Feb 2019 18:00:00 +0200</pubDate>
+               <title>#SalesFit | How to prospect like a Pro | Mark Keating (CEO Sales Guru)</title>
+
+               <itunes:subtitle>The passionate, humorous, legendary and charasmatic Mark Keating, CEO of Sales Guru, shares his valuable blueprint for successful selling.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                  Carmen Murray sit down with the passionate, humorous, legendary and charasmatic Mark Keating, (CEO of Sales Guru, Top Sales Management Training and Keynote Speaker), to give the blue print for successful selling. He has built a phenomenal business focussed on one thing: to help South Africa's salespeople embrace professionalism and great selling practices to help businesses grow. In this episode Carmen and Mark unpacks the dreaded sales calls and the art of getting meetings and how to waste less time on unqualified leads. He teaches us the secrets of his "Boiler room" environment in London and gives us real world tips. Some people thrive by picking up the phone and calling a stranger to get a meeting and others absolutely hate it. Let's face it, cold calling is not for everyone. The only way your business will succeed is by doing sales the right way. When we try and get meetings do we hide behind emails? Is there a better way of writing an email and still yield results? Reaching out to someone on LinkedIn? What is the best way to cold call, be respectful, and land that meeting that could change your life? Mark Keating and Carmen Murray Role Plays some scenarios how to and unpack prospecting in detail to give the audiences an understanding of the right way and the wrong way of prospecting. This episode was so successful, that we decided to bring you a series of #SalesFit episodes to Future Fit your business by building a healthy pipeline, how to rebuttal, diagnose and set your business up for success.
+               </p>
+               <p>
+                Find out more about our guest <a href="https://markkeating.co.za?utm_source=Podcast&utm_medium=Carmen%20Murray">Mark Keating</a> and his business <a href="https://salesguru.co.za?utm_source=Podcast&utm_medium=Carmen%20Murray">Sales Guru</a>
+              </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Carmen Murray sit down with the passionate, humorous, legendary and charasmatic Mark Keating, (CEO of Sales Guru, Top Sales Management Training and Keynote Speaker), to give the blue print for successful selling. He has built a phenomenal business focussed on one thing: to help South Africa's salespeople embrace professionalism and great selling practices to help businesses grow. In this episode Carmen and Mark unpacks the dreaded sales calls and the art of getting meetings and how to waste less time on unqualified leads. He teaches us the secrets of his "Boiler room" environment in London and gives us real world tips. Some people thrive by picking up the phone and calling a stranger to get a meeting and others absolutely hate it. Let's face it, cold calling is not for everyone. The only way your business will succeed is by doing sales the right way. When we try and get meetings do we hide behind emails? Is there a better way of writing an email and still yield results? Reaching out to someone on LinkedIn? What is the best way to cold call, be respectful, and land that meeting that could change your life? Mark Keating and Carmen Murray Role Plays some scenarios how to and unpack prospecting in detail to give the audiences an understanding of the right way and the wrong way of prospecting. This episode was so successful, that we decided to bring you a series of #SalesFit episodes to Future Fit your business by building a healthy pipeline, how to rebuttal, diagnose and set your business up for success.
+
+               Find out more about our guest at markkeating.co.za and his business at salesguru.co.za
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-019-salesfit001-mark-keating.mp3" type="audio/mpeg" length="380038677" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow019</guid>               
+                  
+               <itunes:duration>39:24</itunes:duration>
+               <itunes:keywords>#salesfit, mark keating, sales, canvassing, prospecting, how to do a sales call, leads, rebuttal, diagnosis, sales guru</itunes:keywords>
+               
+          </item>
+
+         <item>
+               <!-- 0018 #TrendFit 003  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>10</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 04 Feb 2019 09:30:00 +0200</pubDate>
+               <title>#TrendFit | Bad Big Brother Seeds | Bronwyn Williams</title>
+
+               <itunes:subtitle>The good and bad seeds sowed by organisations will either blossom or die. The Big Brother Brand becomes the Judge, the Jury, the Priest and the Executioner.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                  Bronwyn Williams draws attention to the practice of the 'Big Brother Brands' and the consequences the good and the bad seeds could lead to in the 21st century. She unpacks censorship, propaganda, purpose and forecasts the rise of 'Clean Tech'.
+               </p>
+               <p>
+                Bronwyn recently spoke at <a href="https://www.bizcommunity.com/Article/196/424/186919.html?utm_source=Podcast&utm_medium=Carmen%20Murray">#BizTrends2019</a>
+              </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Bronwyn Williams draws attention to the practice of the 'Big Brother Brands' and the consequences the good and the bad seeds could lead to in the 21st century.  She unpacks censorship, propaganda, purpose and forecasts the rise of 'Clean Tech'.
+
+               Bronwyn recently spoke at #BizTrends2019. Read more at https://www.bizcommunity.com/Article/196/424/186919.html
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               another Solid Gold podcast
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-018-trendfit003-bronwyn-williams.mp3" type="audio/mpeg" length="11454955" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow018</guid>               
+                  
+               <itunes:duration>11:39</itunes:duration>
+               <itunes:keywords>purpose, clean tech, big brother, trend snacks, trend spotting, fluxtrends, bronwyn williams, governments, tech, propaganda, discrimination, 2019 trends</itunes:keywords>
+               
+          </item>
+
+         <item>
+               <!-- 0017 #TrendFit 002  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>9</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Sun, 27 Jan 2019 16:40:00 +0200</pubDate>
+               <title>#TrendFit | Why Innovation Fails | Dion Chang</title>
+
+               <itunes:subtitle>Dion Chang from Flux Trends explores why brands can't get innovation right, following his trip to Silicone Valley.</itunes:subtitle>
+
+               <description><![CDATA[<p>
+                    Dion Chang draws attention to a trend that needs a lot of TLC - Innovation. The success of Innovation requires scaling, and he touches on the daunting task that requires businesses to review, in order to make way for great innovation.
+               </p>
+               <p>
+                Watch Dion Chang's <a href="http://bit.ly/2Ua4l44">YouTube clip on this topic.</a>
+              </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah.co.za</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>Dion Chang draws attention to a trend that needs a lot of TLC - Innovation. The success of Innovation requires scaling, and he touches on the daunting task that requires businesses to review, in order to make way for great innovation.
+
+              Watch Dion Chang's YouTube clip on this topic at http://bit.ly/2Ua4l44
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               For more episodes, visit SolidGoldStudios.co.za/carmenmurray
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-017-trendfit002-dion-chang.mp3" type="audio/mpeg" length="11512854" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow017</guid>               
+                  
+               <itunes:duration>11:43</itunes:duration>
+               <itunes:keywords>culture, business model, scale, hierarchy, silos, b corporation listing, Innovation, dion chang, fluxtrends, State of Flux</itunes:keywords>
+               
+          </item>
+
+
+          <item>
+               <!-- 0016 #TrendFit 001  -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>8</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Sun, 27 Jan 2019 16:30:00 +0200</pubDate>
+               <title>#TrendFit with FluxTrends launches | Dion Chang, Bronwyn Williams, Khumo Theko</title>
+
+               <itunes:subtitle>We have teamed up with Flux Trends, the Afro Futurist of Africa, to keep you on the cutting edge of trends so you can stay Future Fit.</itunes:subtitle>
+
+               <description>  <![CDATA[<p>
+                    In our premier edition of #TrendFit, Dion Chang, Bronwyn Williams and Khumo Theko enlighten us about the way they will contribute to our listeners becoming #TrendFit. We commit to keeping our audience Future Fit and provide them with more clarity regarding the future trends are going. The Question is... "Is your business fit for the future and does the future fit in your business?" Get your business #TrendFit with The Carmen Murray Show as Flux Trends offer you 'Tend Snacks' throughout the year.
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+               </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>In our premier edition of #TrendFit, Dion Chang, Bronwyn Williams and Khumo Theko enlighten us about the way they will contribute to our listeners becoming #TrendFit. We commit to keeping our audience Future Fit and provide them with more clarity regarding the future trends are going. The Question is... "Is your business fit for the future and does the future fit in your business?" Get your business #TrendFit with The Carmen Murray Show as Flux Trends offer you 'Tend Snacks' throughout the year.
+
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               For more episodes, visit SolidGoldStudios.co.za/carmenmurray
+
+               #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-016-trendfit001-intro.mp3" type="audio/mpeg" length="11219392" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow016</guid>               
+                  
+               <itunes:duration>11:24</itunes:duration>
+               <itunes:keywords>Debt bubble, trendfit, trend snacks, innovation, woke, urban tribes, big brother, Gen-Z, trend spotting, Dion Chang, Bronwyn Williams, FluxTrends, Khumo Theko</itunes:keywords>
+               
+          </item>
+
+
+          <item>
+               <!-- 0015 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>7</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 21 Jan 2019 20:00:00 +0200</pubDate>
+               <title>How do you protect your ideas? | Marnus Broodryk, Shannon McLaughlin, Roy Taberer, Kimberleigh Stark</title>
+
+               <itunes:subtitle>What SMEs can learn from Ubuntu Baba's clash with Woolworths</itunes:subtitle>
+
+               <description>  <![CDATA[<p>
+                    In this episode Carmen Murray interviews victims of corporate bullying (Shannon Mclaughlan - Ubuntu Baba) and (Kimberleigh Stark - Stark Raving SA). Carmen Murray invited Marnus Broodryk, (Shark Tank South Africa, SME Investor, KykNet's Winslyn Hustler) and patent attornty, Roy Taberer, to weigh in on idea stealing and how SMEs can protect the future of their businesses. What are their rights? Is the law for SMEs or against them? What lessons can we learn from this? There was an incident in South Africa, specifically around a small Business owner, Shannon McLaughlin of Ubuntu Baba, who had to stand up to the retail giant, Woolworths, after she discovered that her original design was copied and even sold under the same name. Many South Africans got behind this story and reprimanded Woolworths for their unethical practice. The reality is, it is not the first time - this happens every day. This is a very informative session discussing Product, Marketing and Advertising, Technology, Film and TV.
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events?utm_source=Podcast">Boo-Yah</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               	For any inquiries, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+           	   </p>
+               <p>
+               Visit <a href="https://ubuntubaba.com/?utm_source=Podcast&utm_medium=Carmen%20Murray">Ubuntu Baba</a> for the (baby) support you need.
+               </p>
+               <p>
+               Thanks to <strong>DotSlashMusic</strong> for the wonderful track <a href="https://soundcloud.com/dotslashmusic/first-sunrise-of-spring">First Sunrise of Spring</a>
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+                  </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary> In this episode Carmen Murray interviews victims of corporate bullying (Shannon Mclaughlan - Ubuntu Baba) and (Kimberleigh Stark - Stark Raving SA). Carmen Murray invited Marnus Broodryk, (Shark Tank South Africa, SME Investor, KykNet's Winslyn Hustler) and patent attornty, Roy Taberer, to weigh in on idea stealing and how SMEs can protect the future of their businesses. What are their rights? Is the law for SMEs or against them? What lessons can we learn from this? There was an incident in South Africa, specifically around a small Business owner, Shannon McLaughlin of Ubuntu Baba, who had to stand up to the retail giant, Woolworths, after she discovered that her original design was copied and even sold under the same name. Many South Africans got behind this story and reprimanded Woolworths for their unethical practice. The reality is, it is not the first time - this happens every day. This is a very informative session discussing Product, Marketing and Advertising, Technology, Film and TV.
+
+               Visit UbuntuBaba.com for the (baby) support you need.
+               
+               To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+               For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+               For any inquiries, or requests to appear on the show, you can contact hello@carmenmurray.com for more information.
+
+               Thanks to DotSlashMusic for the wonderful track First Sunrise of Spring.
+               
+               For more episodes, visit SolidGoldStudios.co.za/carmenmurray
+
+                #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-015-shannon-mclaughlin.mp3" type="audio/mpeg" length="58283076" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow015</guid>               
+                  
+               <itunes:duration>01:00:33</itunes:duration>
+               <itunes:keywords>Ideas, Innovation, Products, Film, TV, Kimberleigh Stark, Marnus Broodryk, Roy Taberer, Woolworths, Ubuntu Baba, Shannon Mclaughlin, SME, small business, technology, patents</itunes:keywords>
+               
+          </item>
+
+          <item>
+               <!-- 0014 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>6</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Sun, 20 Jan 2019 20:30:00 +0200</pubDate>
+               <title>#BookFit | Swimming with Sharks | Gavin Moffat</title>
+
+               <itunes:subtitle>A book about the simple business guidelines for a complex world by author Gavin Moffat.</itunes:subtitle>
+
+               <description>  <![CDATA[<p>
+                    In this episode, Carmen Murray sits down with Author Gavin Moffat, the Author of Swimming with Sharks. Gavin has worked with companies that have hit Silicon Valley, international brands, one-man outfits, and fledgling small businesses. These businesses each have their unique natures, as though they are living coral reefs, "Moffat ads. He spent nearly three decades helping leaders build their business, plan their growth, and engage with their audiences. About the Book: Drowning in the business deep? This book is the line you need, packaged in quick, bite-sized reference points. Gavin Moffat uses his passion for Scuba Diving to navigate the reader through the complex business world, using powerful analogies, providing point guidelines to empower any business. It is a pocket guide packed with nuggets and gems. In this interview, we talk about Customer Experience, Beta Culture, change of management style, consultants that sucks and those that make a good consultant and much more.
+               </p>
+               <p>
+                    If you would like to purchase the book by Gavin Moffat, you can visit <a href="http://exclusivebooks.co.za">exclusivebooks.co.za</a> or reach out to <a href="mailto:hello@carmenmurray.com">hello@carmenmurray.com</a> for more information.
+               </p>
+               <p>
+                    To book your ticket to the <strong>#FutureFit Networking Events</strong> in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events">Boo-Yah</a>
+               </p>
+               <p>
+               For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1&utm_source=Podcast&utm_medium=Carmen%20Murray">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a>
+               </p>
+               <p>
+               Thanks to <strong>DotSlashMusic</strong> for the wonderful track <a href="https://soundcloud.com/dotslashmusic/first-sunrise-of-spring">First Sunrise of Spring</a>
+               </p>
+               <p>another <a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Carmen%20Murray">Solid Gold</a> podcast
+                  </p>
+                  <p>
+                  <strong>#BeHeard</strong>
+                  </p>]]>
+                       
+                  </description>
+
+               <itunes:summary>    In this episode, Carmen Murray sits down with Author Gavin Moffat, the Author of Swimming with Sharks. Gavin has worked with companies that have hit Silicon Valley, international brands, one-man outfits, and fledgling small businesses. These businesses each have their unique natures, as though they are living coral reefs, "Moffat ads. He spent nearly three decades helping leaders build their business, plan their growth, and engage with their audiences. About the Book: Drowning in the business deep? This book is the line you need, packaged in quick, bite-sized reference points. Gavin Moffat uses his passion for Scuba Diving to navigate the reader through the complex business world, using powerful analogies, providing point guidelines to empower any business. It is a pocket guide packed with nuggets and gems. In this interview, we talk about Customer Experience, Beta Culture, change of management style, consultants that sucks and those that make a good consultant and much more.
+
+                    If you would like to purchase the book by Gavin Moffat, you can visit exclusivebooks.co.za or reach out to hello@carmenmurray.com for more information.
+
+                    To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit https://www.boo-yah.co.za/futurefit-events
+
+                    For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+                    Thanks to DotSlashMusic for the wonderful track First Sunrise of Spring.
+               
+                For more episodes, visit SolidGoldStudios.co.za/carmenmurray
+
+                #BeHeard</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-014-gavin-moffat.mp3" type="audio/mpeg" length="38138279" />
+               
+               <guid isPermaLink="false">thecarmenmurrayshow014</guid>               
+                  
+               <itunes:duration>39:31</itunes:duration>
+               <itunes:keywords>Gavin Moffat, Swimming with Sharks, author, business books, Beta Culture, CX, Consultants, Business Management</itunes:keywords>
+               
+          </item>
+
+          <item>
+               <!-- 0013 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>5</itunes:episode>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+               <pubDate>Mon, 26 Nov 2018 09:01:00 +0200</pubDate>
+               <title>Growing your own Greatness | Pepe Marais</title>
+
+               <itunes:subtitle>Learn about Pepe's raw story and how a misfit grows one of the most successful advertising agencies in South Africa.</itunes:subtitle>
+
+               <description><![CDATA[<p>We sit down and chat with author of the ‘must read’ book of the year : Growing Greatness. Pepe’s latent talent for art was developed and honed at an art school in Cape Town, where he finished top of his class each year, which in turn led him to discover his passion for advertising. After 6 years in the industry he, and his business partner Gareth Leck, launched their enterprising Take-Away Advertising Agency and success seemed a foregone conclusion. However in 2006, Pepe’s business career and personal life began to disintegrate. at the lowest point of his life, he would discover a fundamental insight that became the foundation on which he would rebuild everything. It would also inspire the development of his purpose for Business methodology and his deep interest in unlocking both human and business potential. Growing Greatness contains many lessons for aspiring entrepreneurs, perhaps what is more important is the deep wisdom it offers. He gives us deep wisdom to decode the methodology to reach your full potential in business and as an individual.</p><p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+
+               <itunes:summary>We sit down and chat with author of the ‘must read’ book of the year : Growing Greatness. Pepe’s latent talent for art was developed and honed at an art school in Cape Town, where he finished top of his class each year, which in turn led him to discover his passion for advertising. After 6 years in the industry he, and his business partner Gareth Leck, launched their enterprising Take-Away Advertising Agency and success seemed a foregone conclusion. However in 2006, Pepe’s business career and personal life began to disintegrate. at the lowest point of his life, he would discover a fundamental insight that became the foundation on which he would rebuild everything. It would also inspire the development of his purpose for Business methodology and his deep interest in unlocking both human and business potential. Growing Greatness contains many lessons for aspiring entrepreneurs, perhaps what is more important is the deep wisdom it offers. He gives us deep wisdom to decode the methodology to reach your full potential in business and as an individual.</itunes:summary>
+
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-013-pepe-marais.mp3" type="audio/mpeg" length="50819397" />
+			<!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-013-pepe-marais.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow013></guid>               
+			   
+               <itunes:duration>52:45</itunes:duration>
+               <itunes:keywords>Alexa, Pepe Marais, growing greatness, advertising agency, creativity, Joe Public</itunes:keywords>
+               
+          </item>
+
+
+          <item>
+               <!-- 0012 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>4</itunes:episode>
+               <pubDate>Mon, 19 Nov 2018 13:50:00 +0200</pubDate>
+               <title>Smarter ways to disrupt you | Timothy Maurice Webster</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Timothy Maurice Webster joins Carmen Murray for a fun and inspiring discussion about life, evolving yourself and the importance of The Brain and Brand Science to develop your own personal brand intelligence.</itunes:subtitle>
+               <description><![CDATA[<p>Timothy Maurice Webster, Author, Radio Host, TV Presenter, Podcaster, columnist, International Speaker,  Brain and Brand expert, introduces bold thinking that questions the value of personal branding and how to navigate the complexity of measuring your identity in varying leadership environments.  Like EQ/Emotional Intelligence, PBQ is a way to create heightened awareness of your personal brand potential that shares research, case studies and Timothy’s personal experience with leaders and influencers around the world. Learn more on Www.timothymaurice.com</p><p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Timothy Maurice Webster, Author, Radio Host, TV Presenter, Podcaster, columnist, International Speaker,  Brain and Brand expert, introduces bold thinking that questions the value of personal branding and how to navigate the complexity of measuring your identity in varying leadership environments.  Like EQ/Emotional Intelligence, PBQ is a way to create heightened awareness of your personal brand potential that shares research, case studies and Timothy’s personal experience with leaders and influencers around the world. Learn more on Www.timothymaurice.com</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-012-timothy-maurice-webster.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-012-timothy-maurice-webster.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow012></guid>
+               <itunes:duration>42:48</itunes:duration>
+               <itunes:keywords>Timothy Maurice Webster, disrupt evolve yourself, diversity, author, personal brand building, neuroscience, leadership, Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, AI, marketing, mobile, speaker, Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+          <item>
+               <!-- 0011 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>3</itunes:episode>
+               <pubDate>Mon, 12 Nov 2018 07:00:00 +0200</pubDate>
+               <title>Where the ‘bot’ is my ‘voice’? | Godfrey Parkin</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>I chat to Godfrey Parkin about bots, voice and experimenting with AI which turns out to be fun and affordable.</itunes:subtitle>
+               <description><![CDATA[<p>Do you think bots are everything? Turns out it’s about to evolve into something very different? Godfrey gives us some useful tips how we can experiment with AI and voice. We demonstrate some real voice interactions that will give you goosebumps. You won’t be able to tell the difference.</p><p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Do you think bots are everything? Turns out it’s about to evolve into something very different? Godfrey gives us some useful tips how we can experiment with AI and voice. We demonstrate some real voice interactions that will give you goosebumps. You won’t be able to tell the difference.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-011-godfrey-parkin.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-011-godfrey-parkin.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow011></guid>
+               <itunes:duration>39:13</itunes:duration>
+               <itunes:keywords>Voice , AI, Godfrey Parkin, chatbots, bots, Carmen Murray, Boo-Yah, innovation, alchemist, future-fit yourself, AI, marketing, mobile, speaker, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+          <item>
+               <!-- 0010 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>
+               <itunes:episode>2</itunes:episode>
+               <pubDate>Fri, 26 Oct 2018 07:30:00 +0200</pubDate>
+               <title>Let’s get Social  | Arthur Goldstuck</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Insights from the annual Social Media Landscape for 2019.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray (with her assistant Alexa) sits down with the legendary Arthur Goldstuck to unpack some of the insights from his Annual Social Media report. They take a look at the growth of social media and discuss the controversy of all the social media scandals and ethos matters that should concern social media users. Arthur also shares how a young Free State boy from a small town becomes the leader in Technology Research.</p><p>For more episodes, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray (with her assistant Alexa) sits down with the legendary Arthur Goldstuck to unpack some of the insights from his Annual Social Media report. They take a look at the growth of social media and discuss the controversy of all the social media scandals and ethos matters that should concern social media users. Arthur also shares how a young Free State boy from a small town becomes the leader in Technology Research.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-010-arthur-goldstuck.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-010-arthur-goldstuck.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow010></guid>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>54:10</itunes:duration>
+               <itunes:keywords>Arthur Goldstuck, Social Media, Carmen Murray, Boo-Tah, innovation, alchemist, future-fit, AI, marketing, mobile, speaker, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+          <item>
+               <!-- 0009 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>2</itunes:season>               
+               <itunes:episode>1</itunes:episode>
+               <pubDate>Sun, 07 Oct 2018 15:40:00 +0200</pubDate>
+               <title>Eye of the (Trend) Storm | Dion Chang</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Futurist, Cage Rattler and Owner of Flux Trends.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Dion Chang (Futurist, Cage Rattler and Owner of Flux Trends.) | Eye of the (Trend) Storm.</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Dion Chang (Futurist, Cage Rattler and Owner of Flux Trends.) | Eye of the (Trend) Storm.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-009-dion-chang.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-009-dion-chang.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow009></guid>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>47:31</itunes:duration>
+               <itunes:keywords>Dion Chang, Flux Trends, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+          <item>
+               <!-- 0008 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>8</itunes:episode>
+               <title>Disruptive Innovation | Herman Singh</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Group Executive for Innovation Strategy at MTN Africa.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Herman Singh (Group Executive for Innovation Strategy at MTN Africa.) | Disruptive Innovation.</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Herman Singh (Group Executive for Innovation Strategy at MTN Africa.) | Disruptive Innovation.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-008-herman-singh.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-008-herman-singh.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow008></guid>
+               <pubDate>Tue, 02 Oct 2018 11:00:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>26:48</itunes:duration>
+               <itunes:keywords>Herman Singh, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>       
+
+          <item>
+               <!-- 0007 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>7</itunes:episode>
+               <title>How the world is changing for Humans | Stafford Masie</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Man of the Future, tech entrepreneur and futurist with a conscience that drives everything he does.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Stafford Masie (Man of the Future, tech entrepreneur and futurist with a conscience that drives everything he does.) | How the world is changing for Humans</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Stafford Masie (Man of the Future, tech entrepreneur and futurist with a conscience that drives everything he does.) | How the world is changing for Humans</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-007-stafford-masie.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-007-stafford-masie.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow007></guid>
+               <pubDate>Wed, 12 Sep 2018 16:00:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>32:21</itunes:duration>
+               <itunes:keywords>Stafford Masie, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>          
+
+
+          <item>
+               <!-- 0006 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>6</itunes:episode>
+               <title>"MARS"terclass #MarsOne | Adriana Marais</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Adriana Marais (South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project) | "MARS"terclass #MarsOne</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Adriana Marais (South African shortlisted to the top 100 to pack her bags and take a one-way ticket to Mars to establish a human colony. #MarsOne Project) | "MARS"terclass #MarsOne</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-006-adriana-marais.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-006-adriana-marais.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow006></guid>
+               <pubDate>Tue, 21 Aug 2018 08:25:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>35:45</itunes:duration>
+               <itunes:keywords>Adriana Marais, #MarsOne, Fearless Women, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>          
+
+          <item>
+               <!-- 0005 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>5</itunes:episode>
+               <title>Fearless Women | Mandy Wiener</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Mandy Wiener (One of South Africa's best known, most credible, and multi award-winning, journalists and authors.) | Fearless Women</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-005-mandy-wiener.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-005-mandy-wiener.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow005></guid>
+               <pubDate>Wed, 15 Aug 2018 16:50:00 +0200</pubDate>
+               <!-- <itunes:episodeType>Bonus</itunes:episodeType> -->
+               <itunes:duration>25:51</itunes:duration>
+               <itunes:keywords>Mandy Wiener, Fearless Women, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>          
+
+          <item>
+               <!-- 0004 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>4</itunes:episode>
+               <title>Gender Equality | Jeremy Maggs</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Jeremy Maggs (South African journalist, radio host, and television presenter of his own show "Maggs On Media" on the eNews Channel.) | Gender Equality.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-004-maggs-on-media-gender-equality.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-004-maggs-on-media-gender-equality.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow004></guid>
+               <pubDate>Fri, 10 Aug 2018 12:00:00 +0200</pubDate>
+               <itunes:episodeType>Bonus</itunes:episodeType>
+               <itunes:duration>6:41</itunes:duration>
+               <itunes:keywords>Jeremy Maggs, Maggs on Media eNews, Gender Equality, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+           <item>
+               <!-- 0003 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>3</itunes:episode>
+               <title>Fearless Women | Jenna Clifford</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Jenna Clifford (Founder and Head Designer of Bespoke Jewellery at Jenna Clifford Design Jewellers) | Fearless Women.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-003-jenna-clifford.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-003-jenna-clifford.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow003></guid>
+               <pubDate>Mon, 06 Aug 2018 18:10:00 +0200</pubDate>
+               <itunes:duration>21:54</itunes:duration>
+               <itunes:keywords>Jenna Clifford, Jewellery, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+           <item>
+               <!-- 0002 -->
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>
+               <itunes:episode>2</itunes:episode>
+               <title>Brain Dump | John Vlismas</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to John Vlismas (Comedian, entrepreneur, and disruptive influence) | Brain Dump.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-002-john-vlismas.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-002-john-vlismas.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow002></guid>
+               <pubDate>Fri, 27 Jul 2018 08:00:00 +0200</pubDate>
+               <itunes:duration>33:25</itunes:duration>
+               <itunes:keywords>John VLismas, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- category>Technology</category> -->
+          </item>
+
+     	<item>
+		 	<!-- 0001 -->
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+               <title>GDPR and POPIA - What you need to know | Elizabeth de Stadler</title>
+               <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+               <itunes:subtitle>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</itunes:subtitle>
+               <description><![CDATA[<p>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</p><p>For show notes and more podcasts, visit <a href="http://www.solidgoldstudios.co.za/carmenmurray.php">SolidGoldStudios.co.za/carmenmurray</a></p>]]></description>
+               <itunes:summary>Carmen Murray speaks to Elizabeth de Stadler (Plain language and privacy law expert) | GDPR and POPIA - What you need to know.</itunes:summary>
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-001-gdpr-and-popia.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-001-gdpr-and-popia.mp3</guid> -->
+               <guid isPermaLink="false">thecarmenmurrayshow001></guid>
+               <pubDate>Thu, 26 Jul 2018 08:00:00 +0200</pubDate>
+               <itunes:duration>36:54</itunes:duration>
+               <itunes:keywords>Elizabeth de Stadler, IAB, Carmen Murray, technology, Solid Gold Podcast Studios, Gavin Kennedy, another Solid Gold podcast</itunes:keywords>
+               <!-- <category>Technology</category> -->
+          </item>
+
+     </channel>
+</rss>
