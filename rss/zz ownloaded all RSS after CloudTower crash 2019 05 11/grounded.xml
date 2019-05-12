@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+
+     <channel>
+
+          <title>Melanie Walker's Grounded</title>
+          <link>https://solidgoldstudios.co.za/grounded.php</link>
+          <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <pubDate>Sat, 02 Dec 2017 12:00:00 +0200</pubDate>
+          <description>Melanie Walker's podcast exploring all things gardening.</description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
+            <title>Grounded Podcast</title>
+            <link>https://solidgoldstudios.co.za/grounded</link>
+          </image>
+
+          <itunes:explicit>clean</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Melanie Walker's podcast about gardening and adventure.</itunes:subtitle>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <itunes:summary>Welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening, nature, adventure, and all things Grounded.</itunes:summary>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+          <media:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+          <media:category>Business</media:category>
+
+          <itunes:owner>
+               <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+          <itunes:category text="Sports &amp; Recreation">
+          <itunes:category text="Outdoor" />
+          </itunes:category> 
+
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+          <ttl>30</ttl>
+        
+
+
+<lastBuildDate>Fri, 03 May 2019 09:37:59 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 028 - Make Your Garden Your Life | Cary Goodwin (PRO Life Is A Garden) - Season 2 Episode 25 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Make Your Garden Your Life | Cary Goodwin (PRO Life Is A Garden)</title>
+<itunes:title>Make Your Garden Your Life | Cary Goodwin (PRO Life Is A Garden)</itunes:title>
+<itunes:subtitle>Life is always better in a garden</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>25</itunes:episode>
+<itunes:duration>25:41</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-028-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 03 May 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Getting ready for winter doesn't have to be a mission. The kind folk at Life is a Garden, the PR arm of the biggest Green Industry group, make it easy for even the novice gardener to get all the information you could need for making gardening no pain in the... anything! Whether you're looking for the latest plants to get your hands on, to find out what you should be doing in your backyard, or looking for projects to keep 'little hands' busy, this is the best resource.
+</p>
+<br />
+<p>Where you need to go for further info after listening to what Cary and Mel have to say about Strawberries, Aloes and Mother's Day. <a href="lifeisagarden.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Getting ready for winter doesn't have to be a mission. The kind folk at Life is a Garden, the PR arm of the biggest Green Industry group, make it easy for even the novice gardener to get all the information you could need for making gardening no pain in the... anything! Whether you're looking for the latest plants to get your hands on, to find out what you should be doing in your backyard, or looking for projects to keep 'little hands' busy, this is the best resource.
+ 
+Where you need to go for further info after listening to what Cary and Mel have to say about Strawberries, Aloes and Mother's Day. lifeisagarden.co.za
+
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Life is a Garden, aloes, children, kids' gardening, winter, autumn, autumn colour, trees, garden health, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-028-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="24855936" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-028-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="24855936" />
+
+<guid isPermaLink="false">grounded-028</guid>
+
+</item>
+
+
+
+
+
+
+
+<item>
+<!-- Sequence 027 - Waste Not, Want Not | Yasmine Miemiec (MD 5Inc) - Season 2 Episode 24 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Waste Not, Want Not | Yasmine Miemiec (MD 5Inc)</title>
+<itunes:title>Waste Not, Want Not | Yasmine Miemiec (MD 5Inc)</itunes:title>
+<itunes:subtitle>Get with the Recycling Revolution</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>24</itunes:episode>
+<itunes:duration>29:17</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-027-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Sat, 27 Apr 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+According to the SA State of Waste Report, in 2017 South Africans generated 42 million tons of general waste. Only 4.9 million tons of that were recycled. We have one of the worst recycling rates in the world. It's no longer up to the government or municipalities to deal with the waste WE'RE creating - it's up to us to get with the recycling programme. But do you know the difference between reusing, recycling and upcycling? Not? Then listen here! You can be the difference you want to see in the world...
+</p>
+<br />
+<p>5inc offers project management and consulting services designed to provide customized solutions for clients’ environmental considerations. <a href="http://5inc.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+According to the SA State of Waste Report, in 2017 South Africans generated 42 million tons of general waste. Only 4.9 million tons of that were recycled. We have one of the worst recycling rates in the world. It's no longer up to the government or municipalities to deal with the waste WE'RE creating - it's up to us to get with the recycling programme. But do you know the difference between reusing, recycling and upcycling? Not? Then listen here! You can be the difference you want to see in the world...
+ 
+5inc offers project management and consulting services designed to provide customized solutions for clients’ environmental considerations. http://5inc.co.za/
+
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+5Inc, Yasmine Miemiec, waste, upcycling, recycling, reusing, corporate waste management, landfill, eco-bricks, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-027-yasmine-miemiec.mp3?ver=1" type="audio/mpeg" fileSize="28283739" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-027-yasmine-miemiec.mp3?ver=1" type="audio/mpeg" length="28283739" />
+
+<guid isPermaLink="false">grounded-027</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 026 - Warming up for Winter! | Peter Goodwin (Spokesperson : Bedding Plant Association) - Season 2 Episode 23 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Warming up for Winter! | Peter Goodwin (Spokesperson : Bedding Plant Association)</title>
+<itunes:title>Warming up for Winter! | Peter Goodwin (Spokesperson : Bedding Plant Association)</itunes:title>
+<itunes:subtitle>Forget brown and grey - Colour is in.</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>23</itunes:episode>
+<itunes:duration>29:01</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Wed, 17 Apr 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+No longer the preserve of the green and greyish brown, the winter garden will warm even the most stony cockles of the heart. If you're wondering how to bring colour and warmth back into your life during the drab colder months, look no further than the 4 Ps. Poppies, pansies, primulas and petunias will be your best bets... Well, through in a few other Ps, like Sweet Peas and a VIP - violas - and you've got a smorgasbord of deliciousness. Peter gives us all the tips you need to ensure floriferousness and longevity from all these very giving and forgiving beauties.
+</p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Are you ready to produce your own podcast? <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+No longer the preserve of the green and greyish brown, the winter garden will warm even the most stony cockles of the heart. If you're wondering how to bring colour and warmth back into your life during the drab colder months, look no further than the 4 Ps. Poppies, pansies, primulas and petunias will be your best bets... Well, through in a few other Ps, like Sweet Peas and a VIP - violas - and you've got a smorgasbord of deliciousness. Peter gives us all the tips you need to ensure floriferousness and longevity from all these very giving and forgiving beauties.
+ 
+Are you ready to produce your own podcast? - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Winter, winter annuals, annuals, bedding plants, gardening, poppy, pansy, viola, petunia, primula, calendula, primrose, bulbs, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-026-peter-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="27790105" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-026-peter-goodwin.mp3?ver=1" type="audio/mpeg" length="27790105" />
+
+<guid isPermaLink="false">grounded-026</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 025 - Are you a Beastie? | Marcus Wyatt (Chief Beast) - Season 2 Episode 22 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Are you a Beastie? | Marcus Wyatt (Chief Beast)</title>
+<itunes:title>Are you a Beastie? | Marcus Wyatt (Chief Beast)</itunes:title>
+<itunes:subtitle>Meet the originator of the Madcap Afrobalkan-Skadubhall band</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>22</itunes:episode>
+<itunes:duration>31:09</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-025-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Mon, 08 Apr 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Bombshelter Beast are hot favourites bringing some madcap energy to SA music.  The group, originally formed by South African jazz legend Marcus Wyatt in 2015, has grown to include a real mengelmoes of musicians playing everything from jazzy-classical with an operatic aria twist, to kwaito rock mix and Zulu rap. This is an immersive experience, not just going to listen to another band! Marcus let's us know what it's all about and what they're up to next. Don't miss it.
+</p>
+<br />
+<p>Bombshelter Beast in a Oom with their first music vid, Fire <a href="http://bit.ly/grounded02501?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+<p>Music Used : Bombshelter Beast : Basement Anthem, Fire, and Man Or Mouse</p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Bombshelter Beast are hot favourites bringing some madcap energy to SA music.  The group, originally formed by South African jazz legend Marcus Wyatt in 2015, has grown to include a real mengelmoes of musicians playing everything from jazzy-classical with an operatic aria twist, to kwaito rock mix and Zulu rap. This is an immersive experience, not just going to listen to another band! Marcus let's us know what it's all about and what they're up to next. Don't miss it.
+ 
+Bombshelter Beast in a Oom with their first music vid, Fire http://bit.ly/grounded02501
+
+Music Used : Bombshelter Beast : Basement Anthem, Fire, and Man Or Mouse
+ 
+Find out more about making your own podcast at SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Marcus Wyatt, Bombshelter Beast, music, musical experience, Kwaito, Zulu Rap, onesies, musical eccentricities, Fire, AfroBalkan, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-025-bombshelter-beast.mp3?ver=1" type="audio/mpeg" fileSize="30264452" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-025-bombshelter-beast.mp3?ver=1" type="audio/mpeg" length="30264452" />
+
+<guid isPermaLink="false">grounded-025</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 024 - SA flora goes International! | Mike Sham (Event Organiser) -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>SA flora goes International! | Mike Sham (Event Organiser)</title>
+<itunes:title>SA flora goes International! | Mike Sham (Event Organiser)</itunes:title>
+<itunes:subtitle>The Johannesburg International Flower Show is going to be huge</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>21</itunes:episode>
+<itunes:duration>26:33</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190328a-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Sat, 30 Mar 2019 00:06:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+We're used to hearing about how well our Kirstenbosch and Durban exhibits have done at events like the Chelsea Flower Show. Now it's time to bring them home - and make the Joburg Flower Show an event to make other countries green with envy. For five glorious days, Waterfall City will be hosting some of the top garden designers and plant and floral experts from not just all around SA, but from the garden stars overseas. Mike Sham, organised of the event, lets us know here on Grounded just how it's all going to work, and what we can expect in late October. Www.joburgflowershow.co.za
+</p>
+<br />
+<p>Johannesburg International Flower Show <a href="https://johannesburgflowershow.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>Find out more about making your own podcast at <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+We're used to hearing about how well our Kirstenbosch and Durban exhibits have done at events like the Chelsea Flower Show. Now it's time to bring them home - and make the Joburg Flower Show an event to make other countries green with envy. For five glorious days, Waterfall City will be hosting some of the top garden designers and plant and floral experts from not just all around SA, but from the garden stars overseas. Mike Sham, organised of the event, lets us know here on Grounded just how it's all going to work, and what we can expect in late October. Www.joburgflowershow.co.za
+ 
+Johannesburg International Flower Show https://johannesburgflowershow.com
+
+Find out more about making your own podcast at SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Proudly South African, flower show, botanical art, flower pavilion, flower arranging, show gardens, live entertainment, gourmet food, event, lifestyle experience, waterfall city, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190328a-mike-sham.mp3?ver=2" type="audio/mpeg" fileSize="13035650" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190328a-mike-sham.mp3?ver=2" type="audio/mpeg" length="13035650" />
+
+<guid isPermaLink="false">grounded-024</guid>
+
+</item>
+
+
+
+<item>
+<!-- grounded-20190228a -->
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</title>
+<itunes:title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</itunes:title>
+<itunes:subtitle>Time Marches on - make the most of the end of summertime in your backyard</itunes:subtitle>
+<itunes:duration>28:12</itunes:duration>
+
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>20</itunes:episode>
+
+
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228a-cover.jpg" />
+
+<pubDate>Sat, 09 Mar 2019 09:30:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Slightly cooler mornings and evenings may be heralding the beginning of autumn around the country, but the sun is still hot and sitting high in the sky, with no great hurry to set at the end of the day, so we should make the most of this beautiful weather by nurturing our gardens. If you can't wait to get your hands dirty, Cary Goodwin of Life is a Garden has a great guide to what you should be planting and doing in your outdoor rooms. Stars of the month are Tulbaghia (wild garlic). Pride of India and Hibiscus. There's hints on how to get and keep your pets healthy with herbs, and tips on how to keep little hands busy during the school holidays. www.lifeisagarden.co.za
+</p>
+<p>Find out more about Mel's guest at <a href="http://www.peeblesplants.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">PeeblesPlants.co.za/<a></p>
+
+<p>To share in Mel's Adventures, visit <a href="https://melstreasures.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">MelsTreasures.co.za</a></p>
+<p>To find out more about making your own podcast, visit <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+
+]]></description>
+
+<itunes:summary>
+Slightly cooler mornings and evenings may be heralding the beginning of autumn around the country, but the sun is still hot and sitting high in the sky, with no great hurry to set at the end of the day, so we should make the most of this beautiful weather by nurturing our gardens. If you can't wait to get your hands dirty, Cary Goodwin of Life is a Garden has a great guide to what you should be planting and doing in your outdoor rooms. Stars of the month are Tulbaghia (wild garlic). Pride of India and Hibiscus. There's hints on how to get and keep your pets healthy with herbs, and tips on how to keep little hands busy during the school holidays. www.lifeisagarden.co.za
+
+Find out more about Mel's guest at PeeblesPlants.co.za
+
+To share in Mel's Adventures, visit MelsTreasures.co.za
+
+To find out more about making your own podcast, visit SolidGoldStudios.co.za
+</itunes:summary>
+<itunes:keywords>
+Life is a garden, trees, plants, Tulbaghia, Wild Garlic, Cary Goodwin, perennials, annuals, flowers, Plant a Flower Day, pets
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228a-cary-goodwin.mp3" type="audio/mpeg" fileSize="27225086" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228a-cary-goodwin.mp3" type="audio/mpeg" length="27225086" />
+
+<guid isPermaLink="false">grounded-20190228a</guid>
+
+</item>
+
+
+
+
+<item>
+<!-- grounded-20190228b -->
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</title>
+<itunes:title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</itunes:title>
+<itunes:subtitle>As beetle from South East Asia may bring down our Forests</itunes:subtitle>
+<itunes:duration>29:59</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>19</itunes:episode>
+
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228b-cover.jpg" />
+
+<pubDate>Tue, 05 Mar 2019 12:00:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+The Polyphagus Shothole Borer (PSHB) (Euwallacea fornicatus - and isn't that just a fitting name for the little fornicator) - or the Vietnamese borer as many know it - has been causing the death of many trees, not just in Johannesburg, but around the rest of the country. And it’s finally getting serious ‘airtime’ in the press and social media, even though Johannesburg City Parks and Zoo have put forward a press release which was published recently in the Rosebank Killarney Gazette to say that ‘it’s too early to classify the outbreak of PSHB as a disaster’ due to a lack of data, and that they reckon we’re at the ‘tail-end of the outbreak’... and guided by research findings they hope to confirm that this outbreak is on its way out. Well, unfortunately that’s not so. The ‘outbreak’ was given wide coverage a year or more ago, and unfortunately, no cure for it has been found, and even more disturbingly, CoJ has yet to identify a place or put in place plans to get rid of infected wood. We are looking at what could potentially be one of SA’s largest ecological tragedies. The private sector has done so much in creating public awareness. Arborists are also getting on board to help find a solution. And it’s time for us to do our part too. One of SA's top arborists and tree surgeons, Julian Ortlepp gives us the background, and advice on how we can help to minimise this potential disaster.
+</p>
+<p>Find out more about Mel's guest at <a href="http://www.treeworks.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">TreeWorks.co.za</a></p>
+
+<p>To share in Mel's Adventures, visit <a href="https://melstreasures.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">MelsTreasures.co.za</a></p>
+<p>To find out more about making your own podcast, visit <a href="https://solidgoldstudios.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+
+]]></description>
+
+<itunes:summary>
+The Polyphagus Shothole Borer (PSHB) (Euwallacea fornicatus - and isn't that just a fitting name for the little fornicator) - or the Vietnamese borer as many know it - has been causing the death of many trees, not just in Johannesburg, but around the rest of the country. And it’s finally getting serious ‘airtime’ in the press and social media, even though Johannesburg City Parks and Zoo have put forward a press release which was published recently in the Rosebank Killarney Gazette to say that ‘it’s too early to classify the outbreak of PSHB as a disaster’ due to a lack of data, and that they reckon we’re at the ‘tail-end of the outbreak’... and guided by research findings they hope to confirm that this outbreak is on its way out. Well, unfortunately that’s not so. The ‘outbreak’ was given wide coverage a year or more ago, and unfortunately, no cure for it has been found, and even more disturbingly, CoJ has yet to identify a place or put in place plans to get rid of infected wood. We are looking at what could potentially be one of SA’s largest ecological tragedies. The private sector has done so much in creating public awareness. Arborists are also getting on board to help find a solution. And it’s time for us to do our part too. One of SA's top arborists and tree surgeons, Julian Ortlepp gives us the background, and advice on how we can help to minimise this potential disaster.
+
+Find out more about Mel's guest at TreeWorks.co.za
+
+To share in Mel's Adventures, visit MelsTreasures.co.za
+
+To find out more about making your own podcast, visit SolidGoldStudios.co.za
+</itunes:summary>
+<itunes:keywords>
+Tree, trees, Tree Works, arborist, tree surgeon, arboriculture, Shothole borer, forest
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228b-julian-ortlepp-pshb.mp3" type="audio/mpeg" fileSize="28986964" />
+    <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228b-julian-ortlepp-pshb.mp3" type="audio/mpeg" length="28986964" />
+
+<guid isPermaLink="false">grounded-20190228b</guid>
+
+</item>
+
+<item>
+<!--grounded-20190228c-->
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</title>
+<itunes:title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</itunes:title>
+<itunes:subtitle>A whole lot of French Flair at the Lifestyle Show Gardens</itunes:subtitle>
+<itunes:duration>26:47</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>18</itunes:episode>
+
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190228c-cover.jpg" />
+
+<pubDate>Sun, 03 Mar 2019 11:00:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Show gardens are probably the best way for people to get great ideas on how to bling up their outdoor spaces. And a touch of je ne  sais quois is on offer in this year's 7 French inspired spaces. Celebrating the 500th anniversary of the Renaissance, students under the tutelage of master designer Mike Rickhoff have encapsulated various aspects of French joie de vivre. From the rolling lavender fields, to pavement cafes around a town square and contemporary rooftop living, there's inspiration aplenty. The gardens are on show until the end of May, so plenty of time to visit them. And if you aren't able to, we discuss ways to bring that special esprit into your backyard
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za?utm_source=Podcast&utm_medium=Episode%20Description">MelsTreasures.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+
+]]></description>
+
+<itunes:summary>
+Show gardens are probably the best way for people to get great ideas on how to bling up their outdoor spaces. And a touch of je ne  sais quois is on offer in this year's 7 French inspired spaces. Celebrating the 500th anniversary of the Renaissance, students under the tutelage of master designer Mike Rickhoff have encapsulated various aspects of French joie de vivre. From the rolling lavender fields, to pavement cafes around a town square and contemporary rooftop living, there's inspiration aplenty. The gardens are on show until the end of May, so plenty of time to visit them. And if you aren't able to, we discuss ways to bring that special esprit into your backyard
+</itunes:summary>
+<itunes:keywords>
+Show gardens, France, gardening, French gardens, lavender, topiary, formal design, design, garden design, outdoor living, potager, balcony gardening
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228c-mike-rickhoff-lifestyle-garden-show.mp3" type="audio/mpeg" fileSize="25650154" />
+<enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190228c-mike-rickhoff-lifestyle-garden-show.mp3" type="audio/mpeg" length="25650154" />
+
+<guid isPermaLink="false">grounded-20190228c</guid>
+
+</item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0020 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+                 <title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</title>
+          <itunes:title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</itunes:title>
+          <itunes:subtitle>All the flowers of all the tomorrows are in the seeds of today.</itunes:subtitle>
+          <itunes:duration>28:35</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>17</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190213a-cover.jpg?ver=2" />
+
+
+          <pubDate>Thu, 21 Feb 2019 19:05:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>
+If you ever wondered if magic happens, all you need to do is look to seeds. That's what Sean Freeman of <a href=https://livingseeds.co.za/?utm_source=Solid%20Gold%20Podcast">Living Seeds</a> found out and is spreading the word on his internet based resource. The story behind Livingseeds goes back over 30 years. As a young boy Sean remembers collecting seeds, if he came across a tree that was shedding seed pods or wild flower in seed, he’d collect the seeds and store them in a small wooden box. This wooden box (which he still has) amassed a surprisingly large collection of assorted and unknown seeds over many years.  None were catalogued or named and he could only identify a handful of the really distinctive ones, the rest were indiscriminate and held his dream of germinating them.... one day. He kept them just for the idea that they could literally grow into trees or plants that could one day be used in his garden. It was the romance of ‘growing a garden from scratch’ that kept him collecting. That and the idea that there exists the potential of life and the ability of giving sustenance in every single seed. Fast forward, and the fascination became a life. Livingseeds started off in 2009 with only 34 varieties on their website (although there were only 17 in stock). They now list over 400 varieties and grow well over 600 varieties on their own property every year. If you're fascinated by the possiblities of growing your own, using open pollinated varieties, don't miss this episode of Grounded...
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+]]>
+          </description>
+
+          <itunes:summary>
+If you ever wondered if magic happens, all you need to do is look to seeds. That's what Sean Freeman of Living Seeds found out and is spreading the word on his internet based resource. The story behind Livingseeds goes back over 30 years. As a young boy Sean remembers collecting seeds, if he came across a tree that was shedding seed pods or wild flower in seed, he’d collect the seeds and store them in a small wooden box. This wooden box (which he still has) amassed a surprisingly large collection of assorted and unknown seeds over many years.  None were catalogued or named and he could only identify a handful of the really distinctive ones, the rest were indiscriminate and held his dream of germinating them.... one day. He kept them just for the idea that they could literally grow into trees or plants that could one day be used in his garden. It was the romance of ‘growing a garden from scratch’ that kept him collecting. That and the idea that there exists the potential of life and the ability of giving sustenance in every single seed. Fast forward, and the fascination became a life. Livingseeds started off in 2009 with only 34 varieties on their website (although there were only 17 in stock). They now list over 400 varieties and grow well over 600 varieties on their own property every year. If you're fascinated by the possiblities of growing your own, using open pollinated varieties, don't miss this episode of Grounded...
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>Linda Galvad, Organic, organic vegetables, organic vegetable farming, veggies, gut health, healthy living</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190213a-seean-freeman.mp3?ver=1" type="audio/mpeg" fileSize="27593013" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190213a-seean-freeman.mp3?ver=1" type="audio/mpeg" length="27593013" />
+
+      <guid isPermaLink="false">grounded20190213a</guid>
+                                                         
+    </item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0019 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</title>
+          <itunes:title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</itunes:title>
+          <itunes:subtitle>Stomach issues are one of the greatest health problems plaguing society these days. How do we address this - and still enjoy living?</itunes:subtitle>
+          <itunes:duration>28:08</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>16</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190124c-cover.jpg" />
+
+
+          <pubDate>Sat, 09 Feb 2019 09:45:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>
+Known across South Africa as one of the most popular proponents of organic vegetable gardening, Linda Galvad of Sought After Seedlings gets to grips with why the Gut is often in the grips of crippling pain. Can eating healthy make you healthier? Are we just what we eat? Growing your own often leads to being owning your own being.
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+Known across South Africa as one of the most popular proponents of organic vegetable gardening, Linda Galvad of Sought After Seedlings gets to grips with why the Gut is often in the grips of crippling pain. Can eating healthy make you healthier? Are we just what we eat? Growing your own often leads to being owning your own being. 
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>Linda Galvad, Organic, organic vegetables, organic vegetable farming, veggies, gut health, healthy living</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124c-linda-galvad.mp3?ver=1" type="audio/mpeg" fileSize="27410699" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124c-linda-galvad.mp3?ver=1" type="audio/mpeg" length="27410699" />
+
+      <guid isPermaLink="false">grounded20190124c</guid>
+                                                         
+    </item>
+
+    <item>
+          <!-- OUR RSS NUMBER 0018 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</title>
+          <itunes:title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</itunes:title>
+          <itunes:subtitle>Do you need to know how to create the most desirable, biggest 'room' on your property? Look no further!</itunes:subtitle>
+          <itunes:duration>26:50</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>15</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20190124b-cover.jpg" />
+
+
+          <pubDate>Sat, 02 Feb 2019 11:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>
+Creating green and gorgeous places is what Grounded is all about - and why leave the largest space of your home as a green desert, when you could, for less than the amount involved in remodeling your kitchen or bathroom, enjoy an outdoor dining/cooking/relaxation area the whole family can enjoy year round. Whatever the space you have! 
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+Creating green and gorgeous places is what Grounded is all about - and why leave the largest space of your home as a green desert, when you could, for less than the amount involved in remodeling your kitchen or bathroom, enjoy an outdoor dining/cooking/relaxation area the whole family can enjoy year round. Whatever the space you have! 
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>garden design, fire pit, outdoor room, outdoor space, family, home entertainment, garden planning, craig de necker, friendly plant</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124b-craig-de-necker.mp3?ver=1" type="audio/mpeg" fileSize="25947735" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124b-craig-de-necker.mp3?ver=1" type="audio/mpeg" length="25947735" />
+
+      <guid isPermaLink="false">grounded20190124b</guid>
+                                                         
+    </item>
+
+    <item>
+          <!-- OUR RSS NUMBER 0017 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Green for Good | Anthea Campbell</title>
+          <itunes:title>Green for Good | Anthea Campbell</itunes:title>
+          <itunes:subtitle>Green Ain't Just a Colour</itunes:subtitle>
+          <itunes:duration>26:12</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>14</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+
+
+          <pubDate>Sun, 27 Jan 2019 19:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<p>
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" />
+</a>
+</p>
+<p>
+In this episode of Grounded, green doesn't just pertain to gardening. Anthea Campbell, publisher of a new eco-friendly publication about to hit the shelves - and Internet - tells us what let her to exhorting all humans to become more gentle with the way they treat the earth. 
+</p>
+<p>To share in Mel's adventures, visit <a href="https://melstreasures.co.za">MelsTreasures.co.za</a>
+</p>]]>
+          </description>
+
+          <itunes:summary>
+In this episode of Grounded, green doesn't just pertain to gardening. Anthea Campbell, publisher of a new eco-friendly publication about to hit the shelves - and Internet - tells us what let her to exhorting all humans to become more gentle with the way they treat the earth. 
+
+To share in Mel's adventures, visit MelsTreasures.co.za
+          </itunes:summary>
+
+          <itunes:keywords>Eco-lifestyle, eco-friendly, green, environment, environmentally friendly, magazine, eco magazine, ecological, gardening, lifestyle</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124a-anthea-campbell.mp3?ver=2" type="audio/mpeg" fileSize="25489715" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20190124a-anthea-campbell.mp3?ver=1" type="audio/mpeg" length="25489715" />
+
+			<guid isPermaLink="false">grounded20190124a</guid>
+                                                         
+    </item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0016 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</title>
+          <itunes:title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</itunes:title>
+          <itunes:subtitle>It's a bright and colourful - and oh so hot - time of the year. Make your garden reflect that!</itunes:subtitle>
+          <itunes:duration>29:23</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>13</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122c-cover.jpg" />
+
+          <pubDate>Thu, 21 Dec 2018 12:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Every month we find more and more beautiful bedding plants hitting the shelves in our garden centres. If you're a fan of annual colour in the garden, or just need to spice things up in your backyard for the festive season, or hankering for your own handkerchief potager filled with herbs and seasonal veg, then Peter Goodwin has all the hints and tips you need to create a veritable paradisical feast this summer. 
+
+And one of the stalwarts of the veggie and colour patch, the humble (but oh so bright) marigold is on the menu.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Every month we find more and more beautiful bedding plants hitting the shelves in our garden centres. If you're a fan of annual colour in the garden, or just need to spice things up in your backyard for the festive season, or hankering for your own handkerchief potager filled with herbs and seasonal veg, then Peter Goodwin has all the hints and tips you need to create a veritable paradisical feast this summer. 
+
+And one of the stalwarts of the veggie and colour patch, the humble (but oh so bright) marigold is on the menu.
+          </itunes:summary>
+
+          <itunes:keywords>Peter Goodwin, Bedding Plant Association, Colourful, Peebles, Annuals, bedding plants, colour, vegetables, marigold</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=2" type="audio/mpeg" fileSize="28330686" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122c-peter-goodwin.mp3?ver=1" type="audio/mpeg" length="28330686" />
+
+			<guid isPermaLink="false">grounded20181122c></guid>
+                                                         
+    </item>
+
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0015 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+          <title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</title>
+          <itunes:title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</itunes:title>
+          <itunes:subtitle>How to get rid of pests without destroying the environment</itunes:subtitle>
+          <itunes:duration>30:01</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>12</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-20181122d-cover.jpg" />
+
+      
+<!--      <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+-->
+
+          <pubDate>Sat, 15 Dec 2018 08:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+One of the most asked questions people in the Green Industry face (other than how to look after a lemon tree!) is how do you get rid of pests in the garden without getting rid of everything else too?
+
+Jonathan Haw of EcoSolutions Urban Ecology specialises in integrated pest management, focused on all areas of non-toxic, effective and sustainable pest control. From rats in your kitchen to bats in your belfry, they have measures that will ensure you don't poison your environment or all the good critters you'd like to invite in. 
+
+And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are?) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+One of the most asked questions people in the Green Industry face (other than how to look after a lemon tree!) is how do you get rid of pests in the garden without getting rid of everything else too?
+
+Jonathan Haw of EcoSolutions Urban Ecology specialises in integrated pest management, focused on all areas of non-toxic, effective and sustainable pest control. From rats in your kitchen to bats in your belfry, they have measures that will ensure you don't poison your environment or all the good critters you'd like to invite in. 
+
+And keen to bring owls to your area? (You want to know hoo hoo who tells them where the boxes are>) Jonathan is full of great information and ideas on how to be eco-sensitive and a friend to all feathered (and furry) friends.
+          </itunes:summary>
+
+          <itunes:keywords>EcoSolutions, Jonathan Haw, Owls, rats, bats, cats, poison, environmentally friendly, pest control</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122d-jonathan-haw.mp3?ver=1" type="audio/mpeg" fileSize="28954049" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122d-jonathan-haw.mp3?ver=1" type="audio/mpeg" length="28954049" />
+
+			    <guid isPermaLink="false">grounded20181122d></guid>
+                                                        
+    </item>
+
+
+    
+    <item>
+          <!-- OUR RSS NUMBER 0014 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Get Your Life out into the Garden | Cary Goodwin</title>
+          <itunes:title>Get Your Life out into the Garden | Cary Goodwin</itunes:title>
+          <itunes:subtitle>At a loss as to how to keep your kids busy over the holidays?</itunes:subtitle>
+          <itunes:duration>30:20</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>11</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122b.jpg" />
+
+      
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+      
+
+
+          <pubDate>Sat, 08 Dec 2018 08:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Life is a Garden is the publicity arm of the South African Nurseryman's Association, and is responsible for giving the SA gardening public great ideas, and necessary information on how to get your backyard in shape in every season.
+
+Cary Goodwin gives us great ideas on how to keep your kids entertained and busy in the garden during the summer festive holidays, and a quick rundown on how to get your garden looking entertainment worthy. 
+
+Especially for those who can handle the heat outside of the kitchen!
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Life is a Garden is the publicity arm of the South African Nurseryman's Association, and is responsible for giving the SA gardening public great ideas, and necessary information on how to get your backyard in shape in every season.
+
+Cary Goodwin gives us great ideas on how to keep your kids entertained and busy in the garden during the summer festive holidays, and a quick rundown on how to get your garden looking entertainment worthy. 
+
+Especially for those who can handle the heat outside of the kitchen!
+          </itunes:summary>
+
+          <itunes:keywords>Life is a Garden; Cary Goodwin, Colourful Group, Festive, Christmas, Kids, Garden</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="29272578" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="29272578" />
+
+          <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122b-cary-goodwin.mp3?ver=1</guid> -->
+          <guid isPermaLink="false">grounded20181122b></guid>
+                                                         
+    </item>
+   
+    
+    <item>
+          <!-- OUR RSS NUMBER 0013 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>Saving SA's Eco Heritage | Andrew Hankey</title>
+          <itunes:title>Saving SA's Eco Heritage | Andrew Hankey</itunes:title>
+          <itunes:subtitle>If we don't do it, we all lose out - Saving South Africa's sacred eco-resources</itunes:subtitle>
+          <itunes:duration>27:20</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>10</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181122a.jpg" />
+
+          <pubDate>Sat, 01 Dec 2018 08:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+The Walter Sisulu National Botanical Garden is not only one of our country's top SANBI sites, but also a hotbed of one-hit wonders!
+
+Exactly 100 years after its first discovery, the Brachychorythis conica subspecies transvaalensis - which only has a handful of breeding sites left and has been placed on the Red List of critically endangered species - was officially named the Albertina Sisulu Orchid earlier this year.
+
+First discovered in Pretoria in 1918, the same year the world discovered a woman who would rock the Apartheid struggle to its core,The Krugersdorp population is now under threat of obliteration if plans to develop a 3000 unit complex on the ridges above the Walter Sisulu Botanical gardens go ahead.
+
+Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a breakdown of how the Bot Gardens work and advice on how to help save this endangered species.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+The Walter Sisulu National Botanical Garden is not only one of our country's top SANBI sites, but also a hotbed of one-hit wonders!
+
+Exactly 100 years after its first discovery, the Brachychorythis conica subspecies transvaalensis - which only has a handful of breeding sites left and has been placed on the Red List of critically endangered species - was officially named the Albertina Sisulu Orchid earlier this year.
+
+First discovered in Pretoria in 1918, the same year the world discovered a woman who would rock the Apartheid struggle to its core,The Krugersdorp population is now under threat of obliteration if plans to develop a 3000 unit complex on the ridges above the Walter Sisulu Botanical gardens go ahead.
+
+Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a breakdown of how the Bot Gardens work and advice on how to help save this endangered species.
+          </itunes:summary>
+
+          <itunes:keywords>Andrew Hankey, Walter Sisulu Botanical Gardens, Albertina Sisulu Orchid, redlist, plants, horticulture</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" fileSize="26587054" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="0" />
+
+          <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3?ver=2</guid> -->
+          <guid isPermaLink="false">grounded20181122a></guid>
+
+                                                         
+    </item>
+
+
+    <item>
+          <!-- OUR RSS NUMBER 0012 -->
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          
+          <title>You Think Good Design is Expensive? | Michael Rickhoff</title>
+          <itunes:title>You Think Good Design is Expensive? | Michael Rickhoff</itunes:title>
+          <itunes:subtitle>Gardens work in four dimensions.</itunes:subtitle>
+          <itunes:duration>30:07</itunes:duration>
+
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>9</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003a.jpg" />
+
+          <pubDate>Sat, 24 Nov 2018 08:02:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]>
+          </description>
+
+          <itunes:summary>
+            If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.
+          </itunes:summary>
+
+          <itunes:keywords>Michael Rickhoff, design, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" fileSize="29243442" />
+
+          <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
+
+          <guid isPermaLink="false">grounded20181003a></guid>
+                                                         
+    </item>
+
+    <item>
+             <!-- OUR RSS NUMBER 0011 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>8</itunes:episode>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>All the Deliciousness that is Jane! | Jane Griffiths</title>
+               <pubDate>Sat, 17 Nov 2018 08:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023a.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>All the Deliciousness that is Jane! | Melanie Walker and Michael Rickhoff with Jane Griffiths (Author of Jane's Delicious Garden/Kitchen/Herbs/Urban Gardening and A-Z of vegetables)</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>The well-known veggie garden girl has branched out into a range of fantastic skincare products, specifically created with the avid gardener in mind. Sore back from bending over your floral beauties? There's a muscle rub for that. Fingers and hands grubby and chafed from planting? There's a balm to soothe your frustrated fingers. Tired of getting bitten by the garden bugs - not the good variety? She's created a bug-off spray for that too! The perfect way to keep your body in the same great shape your mind is in after gardening, and the perfect gift for the special gardener in your life.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>The well-known veggie garden girl has branched out into a range of fantastic skincare products, specifically created with the avid gardener in mind. Sore back from bending over your floral beauties? There's a muscle rub for that. Fingers and hands grubby and chafed from planting? There's a balm to soothe your frustrated fingers. Tired of getting bitten by the garden bugs - not the good variety? She's created a bug-off spray for that too! The perfect way to keep your body in the same great shape your mind is in after gardening, and the perfect gift for the special gardener in your life.</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023a></guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>26:03</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Jane Griffiths, Veggie Garden, herbs, vegetables, skincare, natural, organic, delicious, Jane Griffiths, Mike Rickhoff, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+    <item>
+             <!-- OUR RSS NUMBER 0010 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>7</itunes:episode>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>Come on down and see (for) yourself | Heather Mac and Tim Parr</title>
+               <pubDate>Thu, 15 Nov 2018 19:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+			 <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181115a.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>Join Heather Mac and Tim Parr as they talk to Melanie Walker about their up-coming reunion tour in Joburg</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Come on down and see (for) yourself | Melanie Walker with Heather Mac and Tim Parr</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Come on down and see (for) yourself | Melanie Walker with Heather Mac and Tim Parr</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181115a></guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>22:01</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Heather Mac and Tim Parr, Heather Mac, Tim Parr, Ella Mental, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+
+    <item>
+             <!-- OUR RSS NUMBER 0009 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>6</itunes:episode>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>Annual Flower Growing made easy | Peter Goodwin</title>
+               <pubDate>Sat, 10 Nov 2018 10:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+<!--               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-???????.jpg" /> -->
+             <!-- IS THERE EPISODE-SPECIFIC ARTWORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>It's time for the stars of the November Garden to take centre stage</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Melanie Walker and Michael Rickhoff | Following on the disastrous decimation of Impatiens walleriana crops worldwide a couple of years ago, there's good news for the 'busy lizzie' fans - they're back and in good shape. We also discuss the differences between those and New Guinea Impatiens, and the SunPatiens. Anything you need to know on where to plant them, how to plant them and how to care for them is on the menu!</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Melanie Walker and Michael Rickhoff | Following on the disastrous decimation of Impatiens walleriana crops worldwide a couple of years ago, there's good news for the 'busy lizzie' fans - they're back and in good shape. We also discuss the differences between those and New Guinea Impatiens, and the SunPatiens. Anything you need to know on where to plant them, how to plant them and how to care for them is on the menu!</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023d></guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>27:53</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Peter Goodwin, Bedding plants, New Guinea impatiens, SunPatiens, begonia, shade garden, full sun, Busy Lizzie, annuals, perennials, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+
+    <item>
+             <!-- OUR RSS NUMBER 0008 -->
+             <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>5</itunes:episode>
+            
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+               <title>What we put plants through before putting them in the garden! | Kathy Varney</title>
+               <pubDate>Sat, 03 Nov 2018 10:00:00 +0200</pubDate>
+             <!-- UPDATE TITLE AND PUBLISHED DATE -->
+
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023b.jpg" />
+             <!-- IS THERE EPISODE-SPECIFIC ARTEORK? -->
+
+             <!-- COPY SUBTITLTE FROM GOOGLE SHEET-->
+               <itunes:subtitle>We find out more about the process of plant trialing and how plants make it to the consumer in retail garden centres.</itunes:subtitle>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->               
+               <description><![CDATA[<p>Melanie Walker and Michael Rickhoff | Who doesn’t love to walk through a retail garden center and ogle all of the new plants that have made it to market each year? Ever ask how and why certain varieties make it to market and others don’t. The process of trialing is how. Plant trialing is not only an integral part of the green industry but it’s important for the consumer. Testing plants in varying parts of the country allows the breeders to make better decisions about what will look good and grow in the landscape and also allows the growers to decide what works best for their business and their cultural practices. We take a 'walk' through the process and highlight the upcoming plant trials at Ball Straathof. </p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+
+             <!-- COPY DESCRIPTION FROM GOOGLE SHEET-->                              
+               <itunes:summary>Melanie Walker and Michael Rickhoff | Who doesn’t love to walk through a retail garden center and ogle all of the new plants that have made it to market each year? Ever ask how and why certain varieties make it to market and others don’t. The process of trialing is how. Plant trialing is not only an integral part of the green industry but it’s important for the consumer. Testing plants in varying parts of the country allows the breeders to make better decisions about what will look good and grow in the landscape and also allows the growers to decide what works best for their business and their cultural practices. We take a 'walk' through the process and highlight the upcoming plant trials at Ball Straathof.</itunes:summary>
+
+              <!-- UPDATE FILE NAME TWICE -->                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023b></guid>
+               
+              <!-- GET FILE DURATION -->
+               <itunes:duration>28:06</itunes:duration>
+               
+               <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
+               <itunes:keywords>Kathy Varney, plants, new varieties, trials, plant trials, Ball Straathof, gardening, flowers, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+ 		<item>
+             <!-- 0007 -->
+             <!-- 20181023c -->
+             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>4</itunes:episode>
+               
+               <title>Life Is A Garden - The November Files | Cary Goodwin</title>
+               <pubDate>Sat, 27 Oct 2018 10:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181023c.jpg" />
+
+               <itunes:subtitle>Life is a Garden is the marketing arm of SANA, the South African Nursery Association. This is the place to find out what to do and when in your backyard.</itunes:subtitle>
+               
+               <description><![CDATA[<p>Melanie Walker & Michael Rickhoff | The main aim of Life is a Garden is to bring relevant, industry-endorsed information to interested gardeners across Southern Africa. November is a busy time in the garden, and we take a look at some of the plants and activities we should be taking in hand. The star of the veggie garden is beetroot, the trend is still to grow vertically, containers are coming back into vogue with smaller spaces being utilised, and brachyscome, yucca, plumbago and Inca lilies are the flowers creating loads of colour.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Melanie Walker and Michael Rickhoff | The main aim of Life is a Garden is to bring relevant, industry-endorsed information to interested gardeners across Southern Africa. November is a busy time in the garden, and we take a look at some of the plants and activities we should be taking in hand. The star of the veggie garden is beetroot, the trend is still to grow vertically, containers are coming back into vogue with smaller spaces being utilised, and brachyscome, yucca, plumbago and Inca lilies are the flowers creating loads of colour.</itunes:summary>
+
+                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181023c></guid>
+               
+
+               <itunes:duration>29:10</itunes:duration>
+               
+               <itunes:keywords>Cary Goodwin, brachyscome, yucca, plumbago, Inca lilies, alstroemeria, vertical, container, beetroot, health, flowers, vegetables, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+           <item>
+        	   <!-- 0006 -->
+        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>3</itunes:episode>
+               
+               <title>Are You What You Eat? | Linda Galvad</title>
+               <pubDate>Sat, 20 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003b.jpg" />               
+
+
+			   <itunes:subtitle>Are You What You Eat? | Melanie Walker and Michael Rickhoff with Linda Galvad (Founder Sought After Seedlings)</itunes:subtitle>
+               
+               <description><![CDATA[<p>Continuing with the theme, You are what You Eat, Linda Galvad explores the subject of heirloom seeds, what GMO foods mean for the person and the environment, and how to Grow Your Own to the best of your ability. Sought After Seedlings is South Africa's home of organic seeds and stockist of high quality authentic Italian Franchi Sementi seeds.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Continuing with the theme, You are what You Eat, Linda Galvad explores the subject of heirloom seeds, what GMO foods mean for the person and the environment, and how to Grow Your Own to the best of your ability. Sought After Seedlings is South Africa's home of organic seeds and stockist of high quality authentic Italian Franchi Sementi seeds.</itunes:summary>
+
+                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181003b></guid>
+               
+               <itunes:duration>31:42</itunes:duration>
+               
+               <itunes:keywords>Vegetables, Linda Galvad, Sought After Seedlings, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+          <item>
+        	   <!-- 0005 -->
+        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>2</itunes:episode>
+               
+               <title>Making Organic a Lifestyle, not a Duty | Jenny Slabber and Maureen Madiseng</title>
+               <pubDate>Sat, 13 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181004a.jpg" />               
+
+
+			   <itunes:subtitle>Making Organic a Lifestyle, not a Duty | Melanie Walker with Jenny Slabber (Sales Manager) and Maureen Madiseng (horticulturalist) at Talborne Organics</itunes:subtitle>
+               
+               <description><![CDATA[<p>Going green doesn’t start with doing green acts - it starts with a shift in consciousness. And the first shift is making sure that what you put into your garden, your home grown veggies and yourself is as natural as can be. Talborne Organics offers healthy, safe and sustainable organic options that will perform to professional standards on all projects, whether for the Big Agri farmer, or the home gardener.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>Going green doesn’t start with doing green acts - it starts with a shift in consciousness. And the first shift is making sure that what you put into your garden, your home grown veggies and yourself is as natural as can be. Talborne Organics offers healthy, safe and sustainable organic options that will perform to professional standards on all projects, whether for the Big Agri farmer, or the home gardener.</itunes:summary>
+
+                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181004a></guid>
+               
+               <itunes:duration>27:02</itunes:duration>
+               
+               <itunes:keywords>Talborne Organics, Jenny Slabber, Maureen Madiseng, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>          
+
+          <item>
+        	   <!-- 0004 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>2</itunes:season>               
+               <itunes:episode>1</itunes:episode>
+               
+               <title>The "Dagga" Debate | Quintin van Kerken</title>
+               <pubDate>Sat, 06 Oct 2018 08:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20181003c.jpg" />
+
+			   <itunes:subtitle>The "Dagga" Debate | Melanie Walker and Michael Rickhoff with Quintin van Kerken (Chief Executive Clear Option on Cannabis)</itunes:subtitle>
+               
+               <description><![CDATA[<p>On this episode, Melanie and Mike Rickhoff (senior lecturer at Lifestyle college) chat to Quintin van Kerken, CEO of Clear Option on Cannabis, about what implications the recent rulings on Marijuana in SA have for people.</p><p>For more podcasts, visit <a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a></p>]]></description>
+               
+               <itunes:summary>On this episode, Melanie and Mike Rickhoff (senior lecturer at Lifestyle college) chat to Quintin van Kerken, CEO of Clear Option on Cannabis, about what implications the recent rulings on Marijuana in SA have for people.</itunes:summary>
+
+                            
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3</guid> -->
+               <guid isPermaLink="false">grounded20181003c></guid>
+               
+               <itunes:duration>26:23</itunes:duration>
+               
+               <itunes:keywords>Dagga, Quintin van Kerken, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+          
+          <item>
+        	   <!-- 0003 -->          	
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+			   <itunes:explicit>no</itunes:explicit>
+               <itunes:season>1</itunes:season>               
+               <itunes:episode>3</itunes:episode>
+               
+               <title>Shirley Wallington</title>
+               <pubDate>Sat, 09 Sep 2017 12:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:summary>
+               
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid> -->
+               <guid isPermaLink="false">groundedold003></guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Shirley Wallington, Open Gardens Meander, Johannesburg Garden Club, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>
+
+         <item>
+        	   <!-- 0002 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+               <itunes:explicit>no</itunes:explicit>
+               <itunes:season>1</itunes:season>               
+               <itunes:episode>2</itunes:episode>
+               
+               <title>Gavin Heron</title>
+               <pubDate>Sat, 23 Sep 2017 12:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+
+               <itunes:subtitle>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:subtitle>
+               
+               <description>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth. Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+
+               <itunes:summary>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:summary>
+               
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid> -->
+               <guid isPermaLink="false">groundedold002></guid>
+               
+               <itunes:duration>28:13</itunes:duration>
+               
+               <itunes:keywords>Gavin Heron, Earth Probiotic, Bokashi, compost, topsoil, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>          
+
+        <item>
+        	   <!-- 0001 -->
+               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+			   <itunes:episodeType>full</itunes:episodeType>
+               <itunes:explicit>no</itunes:explicit>
+			   <itunes:season>1</itunes:season>               
+               <itunes:episode>1</itunes:episode>
+
+               <title>Misha Teasdale</title>               
+               <pubDate>Sat, 02 Dec 2017 13:00:00 +0200</pubDate>
+
+               <!-- episoded-specific artwork -->
+               <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-20171202.jpg" />
+               
+               <itunes:subtitle>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:subtitle>
+               
+               <description>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting... Show notes are available at <![CDATA[<a href="http://www.solidgoldstudios.co.za/grounded.php">SolidGoldStudios.co.za/grounded</a>]]></description>
+               
+               <itunes:summary>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:summary>
+               
+               <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="0" />
+               <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid> -->
+               <guid isPermaLink="false">groundedold001></guid>
+               
+               <itunes:duration>26:33</itunes:duration>
+               
+               <itunes:keywords>Misha Teasdale, GreenPop, Treevolution, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+                                                            
+          </item>   
+
+     </channel>
+</rss>

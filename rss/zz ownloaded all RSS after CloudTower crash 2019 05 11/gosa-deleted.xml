@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>Gun Talk by GOSA</title>
+          <link>https://solidgoldstudios.co.za/gosa.php</link>
+          <managingEditor>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <description>Promoting safe, responsible and lawful firearm ownership.</description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg</url>
+            <title>Gun Talk by GOSA</title>
+            <link>https://solidgoldstudios.co.za/gosa</link>
+          </image>
+
+          <itunes:explicit>clean</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Promoting safe, responsible and lawful firearm ownership.</itunes:subtitle>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <itunes:summary>Promoting safe, responsible and lawful firearm ownership.</itunes:summary>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/gosa.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+          <media:keywords>GOSA, gun owners south africa, firearms, Tim Flack, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+          <media:category>Society &amp; Culture</media:category>
+
+          <itunes:owner>
+               <itunes:email>guntalk@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>GOSA | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>GOSA, gun owners south africa, firearms, Tim Flack, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+          <itunes:category text="Society &amp; Culture" />
+
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+          <ttl>30</ttl>
+
+          <lastBuildDate>Sat, 12 Jan 2019 16:05:00 +0200</lastBuildDate>
+
+    <item>
+          <!-- S01 E002 -->
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Is my licence still valid?</title>
+          <itunes:title>Is my licence still valid?</itunes:title>
+          <itunes:subtitle>White, Green, Card... we clarify them all for you.</itunes:subtitle>
+          <itunes:duration>2:19</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+
+      <!--
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+      -->
+      
+          <pubDate>Sat, 12 Jan 2019 16:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Welcome to Gun Talk, the podcast by Gun Owners South Africa to keep members informed about their rights, as well as news and edvelopments that may affect them.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/gosa.php">SolidGoldStudios.co.za/gosa</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Welcome to Gun Talk, the podcast by Gun Owners South Africa to keep members informed about their rights, as well as news and edvelopments that may affect them.
+          </itunes:summary>
+
+          <itunes:keywords>Melanie Walker, Tim Flack, St James massacre, APLA</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/gosa/gosa-s01-e003-green-is-gold.mp3" type="audio/mpeg" fileSize="3575334" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/gosa/gosa-s01-e003-green-is-gold.mp3" type="audio/mpeg" length="3575334" />
+
+          <guid isPermaLink="false">gosa-s01-e003-v2</guid>
+                                                        
+    </item>
+
+    
+    <item>
+          <!-- S01 E001 -->
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Who is GOSA?</title>
+          <itunes:title>Who is GOSA?</itunes:title>
+          <itunes:subtitle>Why does GOSA exist and what do they do?</itunes:subtitle>
+          <itunes:duration>3:39</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+
+      <!--
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+      -->
+      
+          <pubDate>Sat, 12 Jan 2019 15:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[<p>
+Welcome to Gun Talk, the podcast by Gun Owners South Africa to keep members informed about their rights, as well as news and edvelopments that may affect them.
+</p><p>For more podcasts, visit <a href="https://www.solidgoldstudios.co.za/gosa.php">SolidGoldStudios.co.za/gosa</a></p>]]>
+          </description>
+
+          <itunes:summary>
+Welcome to Gun Talk, the podcast by Gun Owners South Africa to keep members informed about their rights, as well as news and edvelopments that may affect them.
+          </itunes:summary>
+
+          <itunes:keywords>Melanie Walker, Tim Flack, St James massacre, APLA</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/podcaststudios.co.za/audio/gosa/gosa-s01-e001-who-is-gosa.mp3" type="audio/mpeg" fileSize="5722633" />
+              <enclosure url="https://chtbl.com/track/podcaststudios.co.za/audio/gosa/gosa-s01-e001-who-is-gosa.mp3" type="audio/mpeg" length="5722633" />
+
+          <guid isPermaLink="false">gosa-s01-e001</guid>
+                                                        
+    </item>
+
+     </channel>
+</rss>
