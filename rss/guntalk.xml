@@ -78,7 +78,7 @@
           <ttl>30</ttl>
           <pubDate>Thu, 21 Feb 2019 12:00:00 +0200</pubDate>
           
-          <lastBuildDate>Thu, 21 Feb 2019 12:00:00 +0200</lastBuildDate>
+          <lastBuildDate>Tue, 28 May 2019 10:00:00 +0200</lastBuildDate>
 
 
 
@@ -98,11 +98,11 @@
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:season>1</itunes:season>
-          <itunes:episode>5</itunes:episode>
+          <itunes:episode>4</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
            
-          <pubDate>Thu, 21 Jan 2019 12:35:00 +0200</pubDate>
+          <pubDate>Thu, 21 Jan 2019 13:01:00 +0200</pubDate>
           
           <description>
 <![CDATA[
@@ -217,11 +217,11 @@ SolidGoldStudios.co.za
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:season>1</itunes:season>
-          <itunes:episode>4</itunes:episode>
+          <itunes:episode>3</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
            
-          <pubDate>Thu, 21 Jan 2019 12:34:00 +0200</pubDate>
+          <pubDate>Thu, 21 Jan 2019 13:02:00 +0200</pubDate>
           
           <description>
 <![CDATA[
@@ -337,11 +337,11 @@ SolidGoldStudios.co.za
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:season>1</itunes:season>
-          <itunes:episode>3</itunes:episode>
+          <itunes:episode>2</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
            
-          <pubDate>Thu, 21 Jan 2019 12:33:00 +0200</pubDate>
+          <pubDate>Thu, 21 Jan 2019 13:03:00 +0200</pubDate>
           
           <description>
 <![CDATA[
@@ -456,11 +456,11 @@ SolidGoldStudios.co.za
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:season>1</itunes:season>
-          <itunes:episode>2</itunes:episode>
+          <itunes:episode>1</itunes:episode>
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
            
-          <pubDate>Thu, 21 Jan 2019 12:32:00 +0200</pubDate>
+          <pubDate>Thu, 21 Jan 2019 13:04:00 +0200</pubDate>
           
           <description>
 <![CDATA[
@@ -566,7 +566,7 @@ SolidGoldStudios.co.za
           <!-- S01 E01 -->
           <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
           <itunes:author>GOSA | Solid Gold Studios</itunes:author>
-          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:episodeType>bonus</itunes:episodeType>
 
                  <title>Who is GOSA? What do you do?</title>
           <itunes:title>Who is GOSA? What do you do?</itunes:title>
@@ -574,12 +574,12 @@ SolidGoldStudios.co.za
           <itunes:duration>13:33</itunes:duration>
 
           <itunes:explicit>no</itunes:explicit>
-          <itunes:season>1</itunes:season>
-          <itunes:episode>1</itunes:episode>
+          <!-- <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode> -->
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
            
-          <pubDate>Thu, 21 Jan 2019 12:31:00 +0200</pubDate>
+          <pubDate>Thu, 21 Jan 2019 13:05:00 +0200</pubDate>
           
           <description>
 <![CDATA[
