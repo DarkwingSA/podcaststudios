@@ -20,8 +20,19 @@
           <itunes:summary>From Solid Gold Studios, this is EduThink - the podcast that explores Education in South Africa. If you're a parent, a pupil, a teacher, a principal, or interested in any aspect of education, then this podcast is for you. Hosted by entrepreneur, pragmatic optimist, small business improvement consultant, and podcast producer - Gavin Kennedy.</itunes:summary>
           <itunes:keywords>EduThink, Edu Thin, Think about education, EduInc, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
           
-          <itunes:category text="Education" />
-          
+          <!-- <itunes:category text="Education" /> -->
+
+<itunes:category text="Business">
+  <itunes:category text="Entrepreneurship" />
+</itunes:category>
+
+<itunes:category text="Education" />
+
+<itunes:category text="Kids &amp; Family">
+  <itunes:category text="Parenting" />
+</itunes:category>
+
+         
           <itunes:explicit>no</itunes:explicit>
 
           <itunes:owner>
@@ -32,7 +43,7 @@
           <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg?ver=2" />
 
 
-<lastBuildDate>Wed, 15 May 2019 12:19:37 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2019 11:00:00 +0200</lastBuildDate>
 
 
 
@@ -50,7 +61,7 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>8</itunes:episode>
-<itunes:duration>2.34583333333333</itunes:duration>
+<itunes:duration>56:18</itunes:duration>
 
 <!-- Use DEFAULT image -->
 <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000.jpg" />
