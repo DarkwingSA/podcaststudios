@@ -45,15 +45,106 @@
 
           <itunes:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
-          <itunes:category text="Society &amp; Culture">
-          </itunes:category>  
+          <!-- <itunes:category text="Society &amp; Culture">
+          </itunes:category>   -->
+
+<itunes:category text="Arts" />
+<itunes:category text="Comedy" />
+<itunes:category text="Fiction" />
+<itunes:category text="Leisure" />
+
+<itunes:category text="Music">
+  <itunes:category text="Music Commentary" />
+</itunes:category>
+
+<itunes:category text="News">
+  <itunes:category text="Entertainment News" />
+</itunes:category>
+
+<itunes:category text="TV &amp; Film">
+  <itunes:category text="Film Reviews" />
+  <itunes:category text="TV Reviews" />
+</itunes:category>
+
+<itunes:category text="Technology" />          
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
           <ttl>30</ttl>
 
 
-<lastBuildDate>Sat, 01 Jun 2019 14:50:36 +0200</lastBuildDate>
+
+<lastBuildDate>Sat, 08 Jun 2019 10:26:54 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 44 - Elton's Magic Shaft - Season 1 Episode 44 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Elton's Magic Shaft</title>
+<itunes:title>Elton's Magic Shaft</itunes:title>
+<itunes:subtitle>Pat Man Knocks Apple</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>44</itunes:episode>
+<itunes:duration>02:45</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sat, 08 Jun 2019 10:26:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+ELTON THE EAGLE takes flight in ROCKETMAN the musical fantasy about Reginald Dwight's rise to stardom. ROBERT PATTERSON sinks his teeth into THE BATMAN TRILOGY. MATTEL are trying to turn the MAGIC 8 BALL into a movie. The Red Band trailer that unites 3 generations of SHAFT is out. Comedy legends voice new characters in TOY STORY 4. JAY-Z is HIP HOP'S first billionaire. It's the end of an era as iTunes gets split into three.
+</p>
+<br />
+<p>SHAFT Red Band Trailer <a href="https://www.youtube.com/watch?v=KoR9P198fRk?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>A MAGIC 8 BALL movie is in the works <a href="https://www.cracked.com/article_26450_does-magic-8-ball-movie-sound-watchable-ask-again.html?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>APPLE kills iTunes. <a href="https://abcnews.go.com/US/rip-itunes-apple-music-safe/story?id=63476713?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+ELTON THE EAGLE takes flight in ROCKETMAN the musical fantasy about Reginald Dwight's rise to stardom. ROBERT PATTERSON sinks his teeth into THE BATMAN TRILOGY. MATTEL are trying to turn the MAGIC 8 BALL into a movie. The Red Band trailer that unites 3 generations of SHAFT is out. Comedy legends voice new characters in TOY STORY 4. JAY-Z is HIP HOP'S first billionaire. It's the end of an era as iTunes gets split into three.
+ 
+SHAFT Red Band Trailer https://www.youtube.com/watch?v=KoR9P198fRk
+
+A MAGIC 8 BALL movie is in the works https://www.cracked.com/article_26450_does-magic-8-ball-movie-sound-watchable-ask-again.html
+
+APPLE kills iTunes. https://abcnews.go.com/US/rip-itunes-apple-music-safe/story?id=63476713
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Elton John,Rocketman,Bernie Taupin,Batman,Magic 8 Ball,Shaft,Jay-Z,View Master,Robert Patterson,Taron Egerton,Jamie Bell,Toy Story 4, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-044.mp3?ver=1" type="audio/mpeg" fileSize="3021372" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-044.mp3?ver=1" type="audio/mpeg" length="3021372" />
+
+<guid isPermaLink="false">weekendparty-44</guid>
+
+</item>
 
 
 
