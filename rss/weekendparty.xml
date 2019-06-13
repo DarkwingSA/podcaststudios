@@ -10,7 +10,7 @@
      <channel>
 
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-          <link>https://solidgoldstudios.co.za/weekendparty.php</link>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
           <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -19,7 +19,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg</url>
             <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-            <link>https://solidgoldstudios.co.za/weekendparty</link>
+            <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>

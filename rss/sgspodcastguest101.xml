@@ -10,7 +10,7 @@
      <channel>
 
           <title>Solid Gold Studios | Podcast Guest 101</title>
-          <link>https://solidgoldstudios.co.za</link>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=podcast-guest-101</link>
           <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -19,7 +19,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-podcast-guest-101-v2-part-00.jpg?ver=1</url>
             <title>Solid Gold Studios | Podcast Guest 101</title>
-            <link>https://solidgoldstudios.co.za</link>
+            <link>https://solidgoldstudios.co.za/channel-template.php?channel=podcast-guest-101</link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>

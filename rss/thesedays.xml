@@ -10,7 +10,7 @@
      <channel>
 
           <title>These Days</title>
-          <link>https://solidgoldstudios.co.za/thesedays.php</link>
+          <link>https://solidgoldstudios.co.za</link>
           <managingEditor>thesedays@solidgoldstudios.co.za (These Days | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/thesedays/thesedays-cover-s01-e000.jpg?ver=2</url>
             <title>These Days</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/thesedays]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za]]></link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>

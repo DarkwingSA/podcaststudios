@@ -11,7 +11,7 @@
      <channel>
 
           <title>Melanie Walker's Grounded</title>
-          <link>https://solidgoldstudios.co.za/grounded.php</link>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=grounded.xml</link>
           <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -21,7 +21,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
             <title>Grounded Podcast</title>
-            <link>https://solidgoldstudios.co.za/grounded</link>
+            <link>https://solidgoldstudios.co.za/channel-template.php?channel=grounded.xml</link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
