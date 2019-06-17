@@ -10,7 +10,7 @@
      <channel>
 
           <title>VOX | Andy Klee | Entertainer</title>
-          <link>https://solidgoldstudios.co.za/andyklee.php</link>
+          <link>https://solidgoldstudios.co.za</link>
           <managingEditor>andyklee@solidgoldstudios.co.za (VOX | Andy Klee Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -26,7 +26,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/andyklee/andyklee-cover-000.jpg?ver=1</url>
             <title>VOX | Andy Klee | Entertainer</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/andyklee]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za]]></link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>

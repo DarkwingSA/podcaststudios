@@ -10,7 +10,7 @@
      <channel>
 
           <title>Understanding Extra Lessons</title>
-          <link>https://solidgoldstudios.co.za/extralessons.php</link>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=understanding-extra-lessons.xml</link>
           <managingEditor>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1</url>
             <title>Understanding Extra Lessons</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/extralessons]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=understanding-extra-lessons.xml]]></link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
