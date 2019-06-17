@@ -93,19 +93,87 @@ another Solid Gold podcast
 
 
 
-<lastBuildDate>Sun, 09 Jun 2019 12:04:00 +0200</lastBuildDate>
-
+<lastBuildDate>Sun, 16 Jun 2019 17:11:39 +0200</lastBuildDate>
 
 
 <item>
-<!-- Sequence 005 - Being authentically successful | Khotso Ram - Season 1 Episode 5 -->
+<!-- Sequence 006 - Stars On The Rise | Stark Raving Actor’s Club - Season 1 Episode 6 -->
 <author>famous@solidgoldstudios.co.za (Kimberleigh Stark | Solid Gold Studios)</author>
 <itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Being authentically successful | Khotso Ram</title>
-<itunes:title>Being authentically successful | Khotso Ram</itunes:title>
+       <title>Stars On The Rise | Stark Raving Actor’s Club</title>
+<itunes:title>Stars On The Rise | Stark Raving Actor’s Club</itunes:title>
+<itunes:subtitle>Uncovering YOUR talent</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:duration>35:13</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 16 Jun 2019 17:11:39 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Stark Ravings Actor’s Club come together to discuss finding their way to achieving their dreams of being actors. Today Kimberleigh explores the topic with her students Daniel Suttner, Danny Madisha, Hlengiwe Dlomo, Monicah Molale, Lebogang Dhlamini, Mashudu Malepo and Olebogeng Nokana.
+</p>
+
+<p>Music Used : Lights | Sappheiros</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Kimberleigh on Twitter <a href="https://twitter.com/StarkRavingProd">@StarkRavingProd</a></p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Stark Ravings Actor’s Club come together to discuss finding their way to achieving their dreams of being actors. Today Kimberleigh explores the topic with her students Daniel Suttner, Danny Madisha, Hlengiwe Dlomo, Monicah Molale, Lebogang Dhlamini, Mashudu Malepo and Olebogeng Nokana.
+
+
+Music Used : Lights | Sappheiros
+
+Follow Kimberleigh on Twitter @StarkRavingProd
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Daniel Suttner, Danny Madisha, Hlengiwe Dlomo, Monicah Molale, Lebogang Dhlamini, Mashudu Malepo, Olebogeng Nokana, Rising Stars, Actors Club, Discovery, Believing, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-006-stars-on-the-rise.mp3?ver=1" type="audio/mpeg" fileSize="34412268" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-006-stars-on-the-rise.mp3?ver=1" type="audio/mpeg" length="34412268" />
+
+<guid isPermaLink="false">famous-006</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 005 - Being authentically successful | Khotso Rams - Season 1 Episode 5 -->
+<author>famous@solidgoldstudios.co.za (Kimberleigh Stark | Solid Gold Studios)</author>
+<itunes:author>Kimberleigh Stark | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Being authentically successful | Khotso Rams</title>
+<itunes:title>Being authentically successful | Khotso Rams</itunes:title>
 <itunes:subtitle>Keeping it real</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
@@ -155,11 +223,11 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 </itunes:summary>
 
 <itunes:keywords>
-Khotso Ram, Authentic, gay, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+Khotso Rams, Authentic, gay, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-005-khotso-ram.mp3?ver=1" type="audio/mpeg" fileSize="26623217" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-005-khotso-ram.mp3?ver=1" type="audio/mpeg" length="26623217" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-005-khotso-rams.mp3?ver=2" type="audio/mpeg" fileSize="26623217" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-005-khotso-rams.mp3?ver=2" type="audio/mpeg" length="26623217" />
 
 <guid isPermaLink="false">famous-005</guid>
 
