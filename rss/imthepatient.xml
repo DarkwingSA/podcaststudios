@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+    <channel>
+
+          <title>I'm the Patient, not the Shrink! by Cal Kennedy</title>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=garage-band.xml</link>
+          <managingEditor>imthepatient@solidgoldstudios.co.za (I'm the Patient, not the Shrink! | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <description>
+            <![CDATA[<p>
+Just how do you navigate life with a mental illness? What effect does it have on day-to-day activities and future plans? I’m the Patient Not the Shrink takes you on a journey through an ordinary life lived against extraordinary odds. You won’t find easy answers in this book, but you’ll be given a unique insight into the raw and devastating pain of a mental breakdown. Author Cal Kennedy opens a window to the daily struggle of living with polar disorders and dyspraxia. With humor and honesty, Cal explores his own experiences and offers up a rare perspective on the few highs and devastating lows of of these disorders.</p>
+
+        </<p>p><p>another <a href="https://www.solidgoldstudios.co.za">Solid Gold</a> audiobook</p>]]>
+          </description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/imthepatient/imthepatient-cover-1400.jpg?ver=1</url>
+            <title>I'm the Patient, not the Shrink! by Cal Kennedy</title>
+            <link>https://solidgoldstudios.co.za/channel-template.php?channel=im-the-patient</link>
+          </image>
+
+          <itunes:explicit>yes</itunes:explicit>
+          <itunes:type>serial</itunes:type>
+          <itunes:subtitle>A true story about living with bipolar, unipolar and dyspraxia.</itunes:subtitle>
+          <itunes:author>I'm the Patient, not the Shrink! by Cal Kennedy</itunes:author>
+          <itunes:summary>
+Just how do you navigate life with a mental illness? What effect does it have on day-to-day activities and future plans? I’m the Patient Not the Shrink takes you on a journey through an ordinary life lived against extraordinary odds. You won’t find easy answers in this book, but you’ll be given a unique insight into the raw and devastating pain of a mental breakdown. Author Cal Kennedy opens a window to the daily struggle of living with polar disorders and dyspraxia. With humor and honesty, Cal explores his own experiences and offers up a rare perspective on the few highs and devastating lows of of these disorders.
+Can Lanthus keep it together long enough to pull off his master plan?</itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/imthepatient/imthepatient-cover-1400.jpg?ver=1" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/imthepatient.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/imthepatient/imthepatient-cover-1400.jpg?ver=1" />
+          <media:keywords>Cal Kennedy, Malcolm Gooding, biploar, unipolar, dyspraxia, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</media:keywords>
+
+<itunes:category text="Arts">
+  <itunes:category text="Books" />
+</itunes:category>
+
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+
+<itunes:category text="Health">
+  <itunes:category text="Mental Health" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Relationships" />
+</itunes:category>
+
+          <itunes:owner>
+               <itunes:email>imthepatient@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>Cal Kennedy | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>Cal Kennedy, Malcolm Gooding, biploar, unipolar, dyspraxia, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+          <ttl>30</ttl>
+
+          <lastBuildDate>Thu, 03 Jan 2019 20:30:00 +0200</lastBuildDate>
+
+
+
+        <item>
+
+
+        </item>
+
+    </channel>
+</rss>
