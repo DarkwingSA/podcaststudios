@@ -71,14 +71,76 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 03 Jan 2019 20:30:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2019 15:06:03 +0200</lastBuildDate>
 
 
 
-        <item>
+<item>
+<!-- Sequence 001 - Foreword | Cal Kennedy (Author) and Malcolm Gooding (Narrator) - Season 1 Episode 1 -->
+<author>imthepatient@solidgoldstudios.co.za (Cal Kennedy | Solid Gold Studios)</author>
+<itunes:author>Cal Kennedy | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Foreword | Cal Kennedy (Author) and Malcolm Gooding (Narrator)</title>
+<itunes:title>Foreword | Cal Kennedy (Author) and Malcolm Gooding (Narrator)</itunes:title>
+<itunes:subtitle>A true story about living with bipolar, unipolar and dyspraxia</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>11:39</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/imthepatient/imthepatient-cover-1400.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Wed, 19 Jun 2019 15:06:03 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Just how do you navigate life with a mental illness? What effect does it have on day-to-day activities and future plans? I’m the Patient Not the Shrink takes you on a journey through an ordinary life lived against extraordinary odds. You won’t find easy answers in this book, but you’ll be given a unique insight into the raw and devastating pain of a mental breakdown. Author Cal Kennedy opens a window to the daily struggle of living with polar disorders and dyspraxia. With humor and honesty, Cal explores his own experiences and offers up a rare perspective on the few highs and devastating lows of of these disorders.
+</p>
+<br />
+<p>Buy and download the full Audible version now! <a href="https://www.audible.com/pd/Im-the-Patient-Not-the-Shrink-Audiobook/0639960847?qid=1560843522&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=CHDJ8P14T29N7TMV5ADB?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
 
 
-        </item>
 
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Just how do you navigate life with a mental illness? What effect does it have on day-to-day activities and future plans? I’m the Patient Not the Shrink takes you on a journey through an ordinary life lived against extraordinary odds. You won’t find easy answers in this book, but you’ll be given a unique insight into the raw and devastating pain of a mental breakdown. Author Cal Kennedy opens a window to the daily struggle of living with polar disorders and dyspraxia. With humor and honesty, Cal explores his own experiences and offers up a rare perspective on the few highs and devastating lows of of these disorders.
+ 
+Buy and download the full version from Audible.com
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Cal Kennedy, Malcolm Gooding, biploar, unipolar, dyspraxia, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/imthepatient/im-the-patient-001-foreword.mp3?ver=1" type="audio/mpeg" fileSize="16818837" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/imthepatient/im-the-patient-001-foreword.mp3?ver=1" type="audio/mpeg" length="16818837" />
+
+<guid isPermaLink="false">imthepatient-001</guid>
+
+</item>
     </channel>
 </rss>
