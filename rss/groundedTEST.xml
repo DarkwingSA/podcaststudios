@@ -46,9 +46,26 @@
 
           <itunes:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
-          <itunes:category text="Sports &amp; Recreation">
+<!--          <itunes:category text="Sports &amp; Recreation">
           <itunes:category text="Outdoor" />
-          </itunes:category> 
+          </itunes:category>  -->
+
+<itunes:category text="Education">
+  <itunes:category text="How To" />
+</itunes:category>
+
+<itunes:category text="Leisure">
+  <itunes:category text="Hobbies" />
+  <itunes:category text="Home &amp; Garden" />
+</itunes:category>
+
+<itunes:category text="Music">
+  <itunes:category text="Music Interviews" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Places &amp; Travel" />
+</itunes:category>          
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
@@ -56,7 +73,73 @@
         
 
 
-<lastBuildDate>Fri, 14 Jun 2019 07:55:52 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Jun 2019 09:50:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 034 - Hidden Treasures | Charles Barnhoorn (Director Hadeco Bulbs and author of The Bulb Book) - Season 2 Episode 31 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Hidden Treasures | Charles Barnhoorn (Director Hadeco Bulbs and author of The Bulb Book)</title>
+<itunes:title>Hidden Treasures | Charles Barnhoorn (Director Hadeco Bulbs and author of The Bulb Book)</itunes:title>
+<itunes:subtitle>Let plant bulbs light up your life</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>31</itunes:episode>
+<itunes:duration>26:27</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 20 Jun 2019 09:38:57 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+One of the exciting times for ardent gardeners is when carefully hidden bulbs start popping out all over. In This episode of Grounded, Charles Barnhoorn gives us all the info we need to ensure a bumper display come spring.
+</p>
+<br />
+<p>Hadeco <a href="https://www.hadeco.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Buy "The Bulb Book" from Exclusive Books now <a href="https://www.exclusivebooks.co.za/product/9781920289768?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+One of the exciting times for ardent gardeners is when carefully hidden bulbs start popping out all over. In This episode of Grounded, Charles Barnhoorn gives us all the info we need to ensure a bumper display come spring.
+ 
+Hadeco https://www.hadeco.co.za
+
+Buy "The Bulb Book" from Exclusive Books now https://www.exclusivebooks.co.za/product/9781920289768
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Hadeco, bulbs, flower bulbs, daffodils, tulips, spring, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-034-charles-barnhoorn.mp3?ver=1" type="audio/mpeg" fileSize="25618093" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-034-charles-barnhoorn.mp3?ver=1" type="audio/mpeg" length="25618093" />
+
+<guid isPermaLink="false">grounded-034</guid>
+
+</item>
 
 
 
