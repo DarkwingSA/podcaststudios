@@ -11,7 +11,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
           <ttl>30</ttl>
           <title>The Carmen Murray Show</title>
-          <link>https://solidgoldstudios.co.za/carmenmurray.php</link>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=the-carmen-murray-show.xml</link>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
 
@@ -90,7 +90,84 @@
 
 
 
-<lastBuildDate>Tue, 11 Jun 2019 07:40:02 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Jun 2019 13:26:55 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 038 - #WellnessFit: The well of Wellness and WellBeing | Tarryn Pickup (Non-medical Hypnotherapist and SleepTalk® Consultant) - Season 2 Episode 29 -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>#WellnessFit: The well of Wellness and WellBeing | Tarryn Pickup (Non-medical Hypnotherapist and SleepTalk® Consultant)</title>
+<itunes:title>#WellnessFit: The well of Wellness and WellBeing | Tarryn Pickup (Non-medical Hypnotherapist and SleepTalk® Consultant)</itunes:title>
+<itunes:subtitle>Understanding the 7 principles of wellness and what they are</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>29</itunes:episode>
+<itunes:duration>19:53</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 20 Jun 2019 13:26:55 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+What are the seven dimensions of wellness and well-being? Overall well-being is a life-long process and responsibility. How can you become more conscious and aware of your own self-care?
+</p>
+<br />
+<p>Visit The Wellness Space website <a href="https://www.thewellnessspace.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit <a href="https://www.boo-yah.co.za/futurefit-events">Boo-Yah.co.za</a></p>
+<p>For additional reading material, you can follow <a href="https://www.bizcommunity.com/Profile/CarmenMurray_1">Carmen Murray's Column #FutureFit Yourself on BizCommunity.com</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+What are the seven dimensions of wellness and well-being? Overall well-being is a life-long process and responsibility. How can you become more conscious and aware of your own self-care?
+ 
+Visit The Wellness Space website https://www.thewellnessspace.co.za/
+
+
+To book your ticket to the #FutureFit Networking Events in Johannesburg, please visit Boo-Yah.co.za
+
+For additional reading material, you can follow Carmen Murray's Column #FutureFit Yourself on BizCommunity.com
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Tarryn Pickup, hypnotherapy, hypnotherapist, hypnosis, subconscious mind, selfcare, mental wellness, mind-body connection, mind, anxiety, depression. Wellnessfit, wellbeing, wellness, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-038-wellfit01-wellbeing-tarryn.mp3?ver=1" type="audio/mpeg" fileSize="19381413" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/thecarmenmurrayshow-038-wellfit01-wellbeing-tarryn.mp3?ver=1" type="audio/mpeg" length="19381413" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-038</guid>
+
+</item>
 
 
 
