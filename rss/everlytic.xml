@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>Connect with Everlytic</title>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=everlytic.xml</link>
+          <managingEditor>everlytic@solidgoldstudios.co.za (Lift As You Rise | Solid Gold Studios)</managingEditor>
+          <language>en-ZA</language>
+          <generator>Solid Gold Podcast Studios 2.0</generator>
+          <docs>https://solidgoldstudios.co.za</docs>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>© Everlytic - all rights reserved</copyright>
+          <description>
+<p>"We wanted to be the masters of our own destiny and build our own product." – Everlytic CIO and Founder, Sam Hutchinson</p>
+<p>Everlytic was established in 2004, in the garage of a Parktown home. Since then, we’ve seen our product develop into the sophisticated business marketing tool that it is today. We now employ over 60 staff members, with offices in Johannesburg and Cape Town.</p>
+<p>We’re Awesome and We Know It! Everlytic is a level 4 BEE contributor and our software is 100% South African, built by our team of talented software engineers. We’ve been ranked the fastest growing tech company in South Africa and the third fastest in Africa by Deloitte. Most recently, Everlytic was also nominated as a Top 10 finalist in PWC’s 2015 Vision to Reality Awards.</p>
+<p>Recorded and produced at SolidGoldStudios.co.za</p>
+		   </description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg?ver=1</url>
+            <title>Connect with Everlytic</title>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=everlytic.xml]]></link>
+          </image>
+
+          <itunes:explicit>yes</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Everlytic is a digital messaging platform that helps your business communicate personally, reliably, and automatically over email and SMS. At scale.</itunes:subtitle>
+          <itunes:author>Everlytic | Solid Gold Studios</itunes:author>
+          <itunes:summary>
+"We wanted to be the masters of our own destiny and build our own product." – Everlytic CIO and Founder, Sam Hutchinson.
+Everlytic was established in 2004, in the garage of a Parktown home. Since then, we’ve seen our product develop into the sophisticated business marketing tool that it is today. We now employ over 60 staff members, with offices in Johannesburg and Cape Town.
+We’re Awesome and We Know It! Everlytic is a level 4 BEE contributor and our software is 100% South African, built by our team of talented software engineers. We’ve been ranked the fastest growing tech company in South Africa and the third fastest in Africa by Deloitte. Most recently, Everlytic was also nominated as a Top 10 finalist in PWC’s 2015 Vision to Reality Awards.
+Recorded and produced at SolidGoldStudios.co.za
+          </itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg?ver=1" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/everlytic.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© Everlytic - all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg?ver=1" />
+          <media:keywords>everlytic, sam hutchinson, business communication, email, sms, another Solid Gold podcast, #BeHeard</media:keywords>
+
+          <itunes:owner>
+               <itunes:email>everlytic@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>Connect with Everlytic</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>everlytic, sam hutchinson, business communication, email, sms, another Solid Gold podcast, #BeHeard</itunes:keywords>
+
+          
+<itunes:category text="Business">
+  <itunes:category text="Marketing" />
+</itunes:category>
+
+<itunes:category text="News">
+  <itunes:category text="Business News" />
+  <itunes:category text="Tech News" />
+</itunes:category>
+
+<itunes:category text="Technology" />
+  	      	  
+		          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <ttl>30</ttl>
+          <pubDate>Fri, 21 Jun 2019 12:00:00 +0200</pubDate>
+
+
+<lastBuildDate>Fri, 21 Jun 2019 11:40:22 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 001 - Masters of our own destiny | Sam Hutchinson (CIO and Founder) - Season 1 Episode 1 -->
+<author>everlytic@solidgoldstudios.co.za (Everlytic | Solid Gold Studios)</author>
+<itunes:author>Everlytic | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Masters of our own destiny | Sam Hutchinson (CIO and Founder)</title>
+<itunes:title>Masters of our own destiny | Sam Hutchinson (CIO and Founder)</itunes:title>
+<itunes:subtitle>Welcome to Everlytic</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>16:02</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/everlytic/" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 21 Jun 2019 11:40:22 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company started, its values, it's people, its products, and where the company is on its way to.
+</p>
+<br />
+<p>Have a look at Everlytic's newest features <a href="https://www.everlytic.co.za/new-features/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">click here</a></p>
+
+
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Schedule a Demo <a href="https://www.everlytic.co.za/request-a-demo/"></a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://www.everlytic.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">
+<img src="https://podcaststudios.co.za/images/everlytic/everlytic-32.jpg?ver=1" alt="Everlytic" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company started, its values, it's people, its products, and where the company is on its way to.
+ 
+Have a look at Everlytic's newest features https://www.everlytic.co.za/new-features/
+
+
+Schedule a Demo www.everlytic.co.za
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+everlytic, sam hutchinson, karyn strybos, email, mailing list, communication, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/everlytic/everlytic-001-origin-story.mp3?ver=1" type="audio/mpeg" fileSize="15464432" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/everlytic/everlytic-001-origin-story.mp3?ver=1" type="audio/mpeg" length="15464432" />
+
+<guid isPermaLink="false">everlytic-001</guid>
+
+</item>
+
+
+
+
+     </channel>
+</rss>
