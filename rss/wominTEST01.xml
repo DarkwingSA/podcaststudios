@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>WOMiN | Women in Namibia</title>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=womin.xml</link>
+          <managingEditor>womin@solidgoldstudios.co.za (WOMiN | Solid Gold Studios)</managingEditor>
+          <language>en-ZA</language>
+          <generator>Solid Gold Podcast Studios 2.0</generator>
+          <docs>https://solidgoldstudios.co.za</docs>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>© Elizabeth Viljoen | Celebreate - all rights reserved</copyright>
+          <description>
+<p>Celebrate and Elizabeth Viljoen present "Women in Namibia"</p>
+<p>Conversations with women making an impact and a difference in Namibia today.</p>
+		   </description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/womin/womin-cover-00.jpg?ver=1</url>
+            <title>WOMiN | Women in Namibia</title>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=womin.xml]]></link>
+          </image>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:type>serial</itunes:type>
+          <itunes:subtitle>Celebrate and Elizabeth Viljoen present "Women in Namibia"</itunes:subtitle>
+          <itunes:author>Celebrate | Solid Gold Studios</itunes:author>
+          <itunes:summary>
+Celebrate and Elizabeth Viljoen present "Women in Namibia"
+Conversations with women making an impact and a difference in Namibia today.
+          </itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/everlytic/WOMiN-cover-00.jpg?ver=1" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/womin.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© Elizabeth Viljoen | Celebrate - all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/everlytic/womin-cover-00.jpg?ver=1" />
+          <media:keywords>elizabeth viljoen, namibia, women, womin, another Solid Gold podcast, #BeHeard</media:keywords>
+
+          <itunes:owner>
+               <itunes:email>womin@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>WOMiN | Women in Namibia</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>elizabeth viljoen, namibia, women, womin, another Solid Gold podcast, #BeHeard</itunes:keywords>
+
+          
+<itunes:category text="Arts" />
+
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+  <itunes:category text="Entrepreneurship" />
+  <itunes:category text="Non-profit" />
+</itunes:category>
+
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Documentary" />
+  <itunes:category text="Personal Journals" />
+  <itunes:category text="Places &amp; Travel" />
+  <itunes:category text="Relationships" />
+</itunes:category>
+
+		          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <ttl>30</ttl>
+          <pubDate>Fri, 21 Jun 2019 15:00:00 +0200</pubDate>
+
+
+<lastBuildDate>Fri, 21 Jun 2019 11:40:22 +0200</lastBuildDate>
+
+
+
+
+
+
+
+     </channel>
+</rss>

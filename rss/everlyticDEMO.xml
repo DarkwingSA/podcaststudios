@@ -11,7 +11,7 @@
 
           <title>Connect with Everlytic</title>
           <link>https://solidgoldstudios.co.za/channel-template.php?channel=everlytic.xml</link>
-          <managingEditor>everlytic@solidgoldstudios.co.za (Lift As You Rise | Solid Gold Studios)</managingEditor>
+          <managingEditor>everlytic@solidgoldstudios.co.za (Everlytic | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
           <docs>https://solidgoldstudios.co.za</docs>
@@ -33,7 +33,7 @@
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
-          <itunes:type>episodic</itunes:type>
+          <itunes:type>seriaal</itunes:type>
           <itunes:subtitle>Everlytic is a digital messaging platform that helps your business communicate personally, reliably, and automatically over email and SMS. At scale.</itunes:subtitle>
           <itunes:author>Everlytic | Solid Gold Studios</itunes:author>
           <itunes:summary>
