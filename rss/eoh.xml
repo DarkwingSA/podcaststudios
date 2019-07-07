@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	
+<channel>	
+	
+<title>EOH Conversations</title>	
+<link>https://solidgoldstudios.co.za/channel-template.php?channel=eoh.xml</link>	
+<managingEditor>eoh@solidgoldstudios.co.za (EOH | Solid Gold Studios)</managingEditor>	
+<language>en-ZA</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© EOH - all rights reserved</copyright>	
+	<description>
+<p>Conversations with the EOH Group CEO Stephen Van Coller</p>	
+<p></p>	
+<p></p>	
+<p>Recorded and produced at SolidGoldStudios.co.za</p>	
+	</description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=1</url>
+	<title>EOH Conversations</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=eoh.xml]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>To provide the technology, knowledge, skills, and organisational ability critical to the development and growth of the markets we serve. To be an ethical, relevant force for good and to play a positive role in our society, beyond normal business practice.</itunes:subtitle>	
+<itunes:author>EOH | Solid Gold Studios</itunes:author>	
+	<itunes:summary>
+Conversations with the EOH Group CEO Stephen Van Coller	
+	
+Recorded and produced at SolidGoldStudios.co.za	
+	</itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/eoh.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© EOH - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=1" />
+	<media:keywords>Elan Ressel, Orient8, , Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>eoh@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>EOH Conversations</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Elan Ressel, Orient8, , Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Business" />
+	<itunes:category text="News">
+	<itunes:category text="Business News" />
+	<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Technology" />
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Sun, 07 Jul 2019 06:00:00 +0200</pubDate>
+
+	<lastBuildDate>Sun, 07 Jul 2019 15:13:30 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 01 - Exponential Organisation | Stephen Van Coller (Group CEO) - Season 1 Episode 1 -->
+<author>eoh@solidgoldstudios.co.za (EOH | Solid Gold Studios)</author>
+<itunes:author>EOH | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Exponential Organisation | Stephen Van Coller (Group CEO)</title>
+<itunes:title>Exponential Organisation | Stephen Van Coller (Group CEO)</itunes:title>
+<itunes:subtitle>Group CEO Stephen Van Coller talks about the Exponential Organisation</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>05:07</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 27 Jun 2019 15:13:30 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Group CEO Stephen Van Coller talks about the Exponential Organisation
+</p>
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Learn more about the top IT Service Provider in South Africa <a href="https://www.eoh.co.za/">www.eoh.co.za</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://www.eoh.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
+<img src="https://podcaststudios.co.za/images/eoh/eoh-64.jpg?ver=1" alt="EOH" height="64px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Group CEO Stephen Van Coller talks about the Exponential Organisation
+ 
+Learn more about the top IT Service Provider in South Africa www.eoh.co.za
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+EOH, Stephen Van Coller, CEOElan Ressel, Orient8, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-01-exponential-organisation.mp3?ver=1" type="audio/mpeg" fileSize="4911073" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-01-exponential-organisation.mp3?ver=1" type="audio/mpeg" length="4911073" />
+
+<guid isPermaLink="false">eoh-01</guid>
+
+</item>
+
+     </channel>
+</rss>
