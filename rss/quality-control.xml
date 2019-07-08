@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>QC : The Podcast</title>
+          <link>https://solidgoldstudios.co.za/channel-template.php?channel=qc-the-podcast.xml</link>
+          <managingEditor>qc@solidgoldstudios.co.za (QC : The Podcast)</managingEditor>
+          <language>en-ZA</language>
+          <generator>Solid Gold Podcast Studios 2.0</generator>
+          <docs>https://solidgoldstudios.co.za</docs>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>© Ilyaas Mayet and Awande Buthelezi - all rights reserved</copyright>
+          <description>
+<p>Join Ilyaas and Awande (and sometimes Zach too) as they pick apart culture, politics and the latest happenings in human society.</p>
+<p>Sometimes they all agree, most of the time they don’t.</p>
+<p>WARNING: Opinions may vary</p>
+          </description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/quality-control/qc-000-cover.jpg?ver=1</url>
+            <title>QC : The Podcast</title>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=qc.xml]]></link>
+          </image>
+
+          <itunes:explicit>yes</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Let's talk about it</itunes:subtitle>
+          <itunes:author>QC : The Podcast | Solid Gold Studios</itunes:author>
+          <itunes:summary>
+Join Ilyaas and Awande (and sometimes Zach too) as they pick apart culture, politics and the latest happenings in human society.
+Sometimes they all agree, most of the time they don’t.
+WARNING: Opinions may vary
+          </itunes:summary>
+
+          <itunes:image href="https://podcaststudios.co.za/images/qc/qc-000-cover.jpg?ver=1" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/quality-control.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>© Ilyaas mayet and Awande Buthelezi - all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/qc/qc-000-cover.jpg?ver=1" />
+          <media:keywords>ilyaas mayet, awande buthelezi, qc, quality control, politics, conversations, another Solid Gold podcast, #BeHeard</media:keywords>
+
+          <itunes:owner>
+               <itunes:email>qc@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>QC : The Podcast</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>ilyaas mayet, awande buthelezi, qc, quality control, politics, conversations, another Solid Gold podcast, #BeHeard</itunes:keywords>
+
+          
+<itunes:category text="News">
+  <itunes:category text="Business News" />
+  <itunes:category text="News Commentary" />
+  <itunes:category text="Politics" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture" />
+	          
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <ttl>30</ttl>
+          <pubDate>Sat, 29 Jun 2019 19:30:00 +0200</pubDate>
+
+
+
+<lastBuildDate>Sat, 06 Jun 2019 16:20:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 001 - The Sequel - Season 1 Episode 1 -->
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Sequel</title>
+<itunes:title>The Sequel</itunes:title>
+<itunes:subtitle>The State of our Nation</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>01:02:10</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/qc/qc-001-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 27 Jun 2019 19:52:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In our maiden episode, we look at the State of the Nation Address given by the president of South Africa on 21 June 2019 and discuss and debate whether or not it hit the mark given South Africa's current political climate.
+
+Ilyaas and Awande dissect and debate the president's second SONA for the year and decide whether or not anything has been achieved by the government and ponder on whether or not the future is bright for the people of South Africa.
+</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+In our maiden episode, we look at the State of the Nation Address given by the president of South Africa on 21 June 2019 and discuss and debate whether or not it hit the mark given South Africa's current political climate.
+
+Ilyaas and Awande dissect and debate the president's second SONA for the year and decide whether or not anything has been achieved by the government and ponder on whether or not the future is bright for the people of South Africa.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Ilyaas Mayet, Awande, Quality Control, SONA, Cyril Ramaphosa, South Africa, the president, politics, ANC, smart cities, #SONA, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-001-the-sequel.mp3?ver=1" type="audio/mpeg" fileSize="60001989" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-001-the-sequel.mp3?ver=1" type="audio/mpeg" length="60001989" />
+
+<guid isPermaLink="false">qc-001</guid>
+
+</item>
+
+
+
+     </channel>
+</rss>
