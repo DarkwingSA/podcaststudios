@@ -18,10 +18,10 @@
       
           <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
       
-          <copyright>© Elizabeth Viljoen | Celebreate - all rights reserved</copyright>
+          <copyright>© Elizabeth Viljoen | Cerebrate - all rights reserved</copyright>
           <description>
-<p>CELEBRATE and Elizabeth Viljoen present "Women in Namibia"</p>
-<p>CELEBRATE means to think deeply.</p>
+<p>Cerebrate and Elizabeth Viljoen present "Women in Namibia"</p>
+<p>Cerebrate : to think deeply.</p>
 <p>Join in the conversation about women of influence making an impact, and difference, in Namibia.</p>
 		   </description>
 
@@ -33,11 +33,11 @@
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:type>serial</itunes:type>
-          <itunes:subtitle>Celebrate and Elizabeth Viljoen present "Women in Namibia"</itunes:subtitle>
-          <itunes:author>Celebrate | Solid Gold Studios</itunes:author>
+          <itunes:subtitle>Cerebrate and Elizabeth Viljoen present "Women in Namibia"</itunes:subtitle>
+          <itunes:author>Cerebrate | Solid Gold Studios</itunes:author>
           <itunes:summary>
-CELEBRATE and Elizabeth Viljoen present "Women in Namibia"
-CELEBRATE means to think deeply.
+Cerebrate and Elizabeth Viljoen present "Women in Namibia"
+Cerebrate : to think deeply.
 Join in the conversation about women of influence making an impact, and difference, in Namibia.
           </itunes:summary>
 
@@ -45,7 +45,7 @@ Join in the conversation about women of influence making an impact, and differen
 
           <atom:link href="https://podcaststudios.co.za/rss/womin.xml" rel="self" type="application/rss+xml" />
 
-          <media:copyright>© Elizabeth Viljoen | Celebrate - all rights reserved</media:copyright>
+          <media:copyright>© Elizabeth Viljoen | Cerebrate - all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/womin/womin-cover-00.jpg?ver=1" />
           <media:keywords>elizabeth viljoen, namibia, women, womin, another Solid Gold podcast, #BeHeard</media:keywords>
 
@@ -83,7 +83,7 @@ Join in the conversation about women of influence making an impact, and differen
 
 
 
-<lastBuildDate>Tue, 09 Jul 2019 09:21:34 +0200</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2019 09:40:00 +0200</lastBuildDate>
 
 
 
@@ -169,7 +169,7 @@ Talesindano Nangolo, Biotechnologist, lupus, autoimmune disease, play, games, ob
 <itunes:duration>10:21</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/womin/womin-003-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/womin/womin-cover-00.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Sat, 06 Jul 2019 12:31:14 +0200</pubDate>
@@ -226,7 +226,7 @@ Linea Haufiky, Anglican Church of Namibia, patriarchy, gender based violence, fr
 
        <title>Passionate Teachers | Marianina Coetzee (Teacher at Namib High School, Swakopmund)</title>
 <itunes:title>Passionate Teachers | Marianina Coetzee (Teacher at Namib High School, Swakopmund)</itunes:title>
-<itunes:subtitle>Celebrating passionate teachers in Namibia</itunes:subtitle>
+<itunes:subtitle>Recognising passionate teachers in Namibia</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
