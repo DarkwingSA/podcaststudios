@@ -13,7 +13,7 @@
         <ttl>30</ttl>
         <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
         <managingEditor>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</managingEditor>
-        <lastBuildDate>Fri, 28 Dec 2018 11:10:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 28 Dec 2018 11:20:00 +0200</lastBuildDate>
 
 
         <title>Solid Gold Studios</title>
@@ -34,7 +34,7 @@
             <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
                <itunes:email>gavin@solidgoldstudios.co.za</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg" />
+        <itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/solid-gold-studios-cover-0000.jpg?ver=2" />
 
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
