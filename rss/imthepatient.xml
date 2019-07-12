@@ -10,7 +10,7 @@
     <channel>
 
           <title>I'm the Patient, not the Shrink! by Cal Kennedy | Solid Gold Studios</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=im-the-patient-not-the-shrink.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=im-the-patient-not-the-shrink</link>
           <managingEditor>imthepatient@solidgoldstudios.co.za (I'm the Patient, not the Shrink! | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -26,7 +26,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/imthepatient/imthepatient-cover-1400.jpg?ver=1</url>
             <title>I'm the Patient, not the Shrink! by Cal Kennedy | Solid GOld Studios</title>
-            <link>https://solidgoldstudios.co.za/channel-template.php?channel=im-the-patient</link>
+            <link>https://solidgoldstudios.co.za/channel.php?title=im-the-patient-not-the-shrink</link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
@@ -79,7 +79,7 @@ Another Solid Gold Podcast
 
           <ttl>30</ttl>
 
-<lastBuildDate>Mon, 24 Jun 2019 11:30:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2019 11:40:00 +0200</lastBuildDate>
 
 
 

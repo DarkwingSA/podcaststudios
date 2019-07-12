@@ -10,7 +10,7 @@
      <channel>
 
           <title>Lift As You Rise</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=lift-as-you-rise.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=lift-as-you-rise</link>
           <managingEditor>liftasyourise@solidgoldstudios.co.za (Lift As You Rise | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -29,7 +29,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2</url>
             <title>Lift As You Rise</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=lift-as-you-rise.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=lift-as-you-rise]]></link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
@@ -84,7 +84,7 @@ Recorded at SolidGoldStudios.co.za and Edited by Willem Nel
           <pubDate>Mon, 08 Apr 2019 18:30:00 +0200</pubDate>
 
 
-<lastBuildDate>Tue, 09 Apr 2019 10:00:00 +0200</lastBuildDate>
+<lastBuildDate>Tue, 09 Apr 2019 10:10:00 +0200</lastBuildDate>
 
 
 

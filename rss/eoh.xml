@@ -10,7 +10,7 @@
 <channel>	
 	
 <title>EOH Conversations</title>	
-<link>https://solidgoldstudios.co.za/channel-template.php?channel=eoh.xml</link>	
+<link>https://solidgoldstudios.co.za/channel.php?title=eoh</link>	
 <managingEditor>eoh@solidgoldstudios.co.za (EOH | Solid Gold Studios)</managingEditor>	
 <language>en-ZA</language>	
 <generator>Solid Gold Podcast Studios 2.0</generator>	
@@ -29,7 +29,7 @@
 <image>	
 	<url>https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=1</url>
 	<title>EOH Conversations</title>
-	<link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=eoh.xml]]></link>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=eoh]]></link>
 </image>	
 	
 <itunes:explicit>no</itunes:explicit>	
@@ -68,7 +68,7 @@ Recorded and produced at SolidGoldStudios.co.za
 	<ttl>30</ttl>
 	<pubDate>Sun, 07 Jul 2019 06:00:00 +0200</pubDate>
 
-	<lastBuildDate>Sun, 07 Jul 2019 15:13:30 +0200</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jul 2019 15:20:00 +0200</lastBuildDate>
 
 
 

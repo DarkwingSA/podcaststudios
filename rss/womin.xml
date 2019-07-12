@@ -10,7 +10,7 @@
      <channel>
 
           <title>WOMiN | Women in Namibia</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=womin.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=womin</link>
           <managingEditor>womin@solidgoldstudios.co.za (WOMiN | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/womin/womin-cover-00.jpg?ver=2</url>
             <title>WOMiN | Women in Namibia</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=womin.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=womin]]></link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>
@@ -83,7 +83,7 @@ Join in the conversation about women of influence making an impact, and differen
 
 
 
-<lastBuildDate>Tue, 09 Jul 2019 09:40:00 +0200</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2019 09:50:00 +0200</lastBuildDate>
 
 
 

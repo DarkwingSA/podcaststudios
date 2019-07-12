@@ -10,7 +10,7 @@
      <channel>
 
           <title>Lights, Cameras, Action! with Kimberleigh Stark</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=lights-cameras-action.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=lights-cameras-action</link>
           <managingEditor>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
@@ -93,7 +93,7 @@ another Solid Gold podcast
 
 
 
-<lastBuildDate>Sun, 16 Jun 2019 17:11:39 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Jun 2019 17:20:00 +0200</lastBuildDate>
 
 
 <item>

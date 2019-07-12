@@ -10,7 +10,7 @@
      <channel>
 
           <title>Connect with Everlytic</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=everlytic.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=connect-everlytic</link>
           <managingEditor>everlytic@solidgoldstudios.co.za (Everlytic | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -29,7 +29,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg?ver=1</url>
             <title>Connect with Everlytic</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=everlytic.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=connect-everlytic]]></link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
@@ -79,7 +79,7 @@ Recorded and produced at SolidGoldStudios.co.za
           <pubDate>Fri, 21 Jun 2019 12:00:00 +0200</pubDate>
 
 
-<lastBuildDate>Fri, 21 Jun 2019 14:50:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Jun 2019 15:00:00 +0200</lastBuildDate>
 
 
 

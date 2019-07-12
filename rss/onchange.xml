@@ -13,7 +13,7 @@
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
           <title>On Change with Petro du Pisani</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=on-change.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=on-change</link>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
           <description>The podcast that explores 'change that works' - and the people who make it happen.</description>
@@ -38,7 +38,7 @@
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
 
 
-<lastBuildDate>Thu, 13 Jun 2019 08:30:00 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Jun 2019 08:40:00 +0200</lastBuildDate>
 
 
 <item>
