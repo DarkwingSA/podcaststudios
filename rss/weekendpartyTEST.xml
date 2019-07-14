@@ -10,7 +10,7 @@
      <channel>
 
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
           <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -19,7 +19,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg</url>
             <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-            <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
+            <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>
@@ -74,7 +74,81 @@
 
 
 
-<lastBuildDate>Sun, 07 Jul 2019 19:53:32 +0200</lastBuildDate>
+<lastBuildDate>Sun, 14 Jul 2019 09:07:55 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 049 - MAD Uber SAW's Weed - Season 1 Episode 49 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>MAD Uber SAW's Weed</title>
+<itunes:title>MAD Uber SAW's Weed</itunes:title>
+<itunes:subtitle>FF9 Pops Up Sheerios</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>49</itunes:episode>
+<itunes:duration>03:15</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 14 Jul 2019 09:07:55 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+UBER as a theme debuts at the movies in the action comedy STUBER, SAMUEL L JACKSON joins the CHRIS ROCK reboot of the SAW horror franchise, VIN DIESEL takes to social media to announce cast members for FAST and FURIOUS part 9, ED SHEERAN pops up all over the world, JAY Z enters the weed business, The DURBAN film festival kicks off with a boxing movie and surf fans are in for a treat at THE WAVESCAPE and OCEAN FESTIVAL. The digital age takes no prisoners as MAD MAGAZINE slows down after 67 years.
+</p>
+<br />
+<p>The Durban Film Festival opens with Knuckle Ciy <a href="http://ccadiff.ukzn.ac.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Surfs Up at The Wavescape Surf and Ocean Festival <a href="http://www.wavescapefestival.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>MAD Magazine to have the last laugh <a href="https://www.smithsonianmag.com/smart-news/last-laugh-mad-magazine-will-soon-disappear-newsstands-180972572/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+UBER as a theme debuts at the movies in the action comedy STUBER, SAMUEL L JACKSON joins the CHRIS ROCK reboot of the SAW horror franchise, VIN DIESEL takes to social media to announce cast members for FAST and FURIOUS part 9, ED SHEERAN pops up all over the world, JAY Z enters the weed business, The DURBAN film festival kicks off with a boxing movie and surf fans are in for a treat at THE WAVESCAPE and OCEAN FESTIVAL. The digital age takes no prisoners as MAD MAGAZINE slows down after 67 years.
+ 
+The Durban Film Festival opens with Knuckle Ciy http://ccadiff.ukzn.ac.za/
+
+Surfs Up at The Wavescape Surf and Ocean Festival http://www.wavescapefestival.com/
+
+MAD Magazine to have the last laugh https://www.smithsonianmag.com/smart-news/last-laugh-mad-magazine-will-soon-disappear-newsstands-180972572/
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Stuber,Mad Magazine,Knuckle City,Satori,Andy Irons,Lisa Andersen,White Rhino,Jay-Z,Saw,No6 Collaborations Project,Durban Film Festival, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-049.mp3?ver=1" type="audio/mpeg" fileSize="3512131" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-049.mp3?ver=1" type="audio/mpeg" length="3512131" />
+
+<guid isPermaLink="false">weekendparty-049</guid>
+
+</item>
 
 
 
@@ -144,6 +218,9 @@ Yesterday,Snoop Dogg, Walk of Fame, Charlie's Angels,Elvis,The Walkman,Will Smit
 <guid isPermaLink="false">weekendparty-048</guid>
 
 </item>
+=======
+<lastBuildDate>Sat, 29 Jun 2019 08:50:00 +0200</lastBuildDate>
+>>>>>>> c1a4580fa50c18bea3c96df7c0a28712805d9175
 
 
 
