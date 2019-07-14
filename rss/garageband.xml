@@ -10,7 +10,7 @@
     <channel>
 
           <title>Garage Band by Adam Alexander</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=garage-band.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=garage-band</link>
           <managingEditor>garageband@solidgoldstudios.co.za (Garage Band | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -24,7 +24,7 @@ After helping to build the Eastland Insurance company for 17 years, Lanthus Tril
           <image>
             <url>https://podcaststudios.co.za/images/garageband/garage-band-cover-0000.jpg?ver=2</url>
             <title>Garage Band by Adam Alexander</title>
-            <link>https://solidgoldstudios.co.za/channel-template.php?channel=garage-band.xml</link>
+            <link>https://solidgoldstudios.co.za/channel.php?title=garage-band</link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
@@ -58,7 +58,7 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Thu, 03 Jan 2019 21:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 03 Jan 2019 21:40:00 +0200</lastBuildDate>
 
 
 

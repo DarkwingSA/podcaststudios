@@ -10,7 +10,7 @@
      <channel>
 
           <title>QC : The Podcast</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=qc-the-podcast.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast</link>
           <managingEditor>qc@solidgoldstudios.co.za (QC : The Podcast)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/quality-control/qc-000-cover.jpg?ver=1</url>
             <title>QC : The Podcast</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=qc.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast]]></link>
           </image>
 
           <itunes:explicit>yes</itunes:explicit>
@@ -71,7 +71,7 @@ WARNING: Opinions may vary
 
 
 
-<lastBuildDate>Sat, 06 Jun 2019 16:20:00 +0200</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2019 16:30:00 +0200</lastBuildDate>
 
 
 

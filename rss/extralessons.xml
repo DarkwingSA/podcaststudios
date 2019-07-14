@@ -10,7 +10,7 @@
      <channel>
 
           <title>Understanding Extra Lessons</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=understanding-extra-lessons.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show</link>
           <managingEditor>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1</url>
             <title>Understanding Extra Lessons</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=understanding-extra-lessons.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show]]></link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
@@ -78,7 +78,7 @@ You'll hear Extra Lessons specialists answer parents' frequently asked question.
           <pubDate>Thu, 07 Mar 2019 09:00:00 +0200</pubDate>
 
           
-<lastBuildDate>Wed, 05 Jun 2019 13:00:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2019 13:10:00 +0200</lastBuildDate>
 
 
 <item>

@@ -10,7 +10,7 @@
      <channel>
 
           <title>Kip McGrath Extra Lessons FAQ</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=kip-mcgrath-extra-lessons-faq.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=kip-mcgrath-extra-lessons-faq</link>
           <managingEditor>kipmcgrath@solidgoldstudios.co.za (Kip McGrath Extra Lessons | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -29,7 +29,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/kipmcgrath/kipmcgrath-cover-s01-0000.jpg?ver=1</url>
             <title>Kip McGrath Extra Lessons FAQ</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=kip-mcgrath-extra-lessons-faq.xml]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=kip-mcgrath-extra-lessons-faq]]></link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
@@ -85,7 +85,7 @@ You'll hear Kip McGrath specialists answer parents' frequently asked question. T
 
 
           
-<lastBuildDate>Wed, 05 Jun 2019 13:00:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2019 13:10:00 +0200</lastBuildDate>
 
 
 

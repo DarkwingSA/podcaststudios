@@ -11,7 +11,7 @@
           <atom:link href="https://podcaststudios.co.za/rss/eduthink.xml" rel="self" type="application/rss+xml" />
           <!-- <atom:link href="http://mymate.co.za/podcasts/rss/eduthink001.xml" rel="self" type="application/rss+xml" /> -->
           <title>EduThink with Gavin Kennedy</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=eduthink.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=eduthink</link>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
           <description>The podcast that explores Education in South Africa.</description>
@@ -43,7 +43,7 @@
           <itunes:image href="http://podcaststudios.co.za/images/eduthink/eduthink-cover-000b.jpg?ver=2" />
 
 
-<lastBuildDate>Wed, 05 Jun 2019 11:00:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Jun 2019 11:10:00 +0200</lastBuildDate>
 
 
 

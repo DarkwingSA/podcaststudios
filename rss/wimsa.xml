@@ -10,7 +10,7 @@
      <channel>
 
           <title>Network | Women in Mining South Africa (WiMSA)</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=network.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=network</link>
           <managingEditor>wimsa@solidgoldstudios.co.za (WiMSA Network | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
       
@@ -35,7 +35,7 @@ To become a member or supporter, visit <a href="https://wimsa.org.za">wimsa.org.
           <image>
             <url>https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg</url>
             <title>WiMSA Network Podcast</title>
-            <link>https://solidgoldstudios.co.za/channel-template.php?channel=network.xml</link>
+            <link>https://solidgoldstudios.co.za/channel.php?title=network</link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
@@ -71,7 +71,7 @@ To become a member or supporter, visit <a href="https://wimsa.org.za">wimsa.org.
           <ttl>30</ttl>
 
 
-<lastBuildDate>Sat, 01 Jun 2019 14:39:41 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Jun 2019 14:40:00 +0200</lastBuildDate>
 
 
 
