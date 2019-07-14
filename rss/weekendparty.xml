@@ -10,7 +10,7 @@
      <channel>
 
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-          <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
           <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>© Solid Gold Studios - all rights reserved</copyright>
@@ -19,7 +19,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg</url>
             <title>Lance Zeeman's Weekend Party Entertainment Report</title>
-            <link>https://solidgoldstudios.co.za/channel-template.php?channel=weekend-party-entertainment-report.xml</link>
+            <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
           </image>
 
           <itunes:explicit>no</itunes:explicit>
@@ -74,6 +74,7 @@
 
 
 
+<<<<<<< HEAD
 <lastBuildDate>Sun, 07 Jul 2019 19:53:32 +0200</lastBuildDate>
 
 
@@ -144,6 +145,9 @@ Yesterday,Snoop Dogg, Walk of Fame, Charlie's Angels,Elvis,The Walkman,Will Smit
 <guid isPermaLink="false">weekendparty-048</guid>
 
 </item>
+=======
+<lastBuildDate>Sat, 29 Jun 2019 08:50:00 +0200</lastBuildDate>
+>>>>>>> c1a4580fa50c18bea3c96df7c0a28712805d9175
 
 
 
