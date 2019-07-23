@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	
+<channel>	
+	
+<title>SalesGuru with Mark Keating</title>	
+<link>https://solidgoldstudios.co.za/channel-template.php?channel=salesguru.xml</link>	
+<managingEditor>salesguru@solidgoldstudios.co.za (Mark Keating | Solid Gold Studios)</managingEditor>	
+<language>en-ZA</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Mark Keating - all rights reserved</copyright>	
+	<description>
+<p>Get motivated and inspired to win.</p>	
+<p></p>	
+<p></p>	
+<p>Recorded and produced at SolidGoldStudios.co.za</p>	
+	</description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/salesguru/salesguru-000-cover.jpg?ver=2</url>
+	<title>SalesGuru with Mark Keating</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=salesguru.xml]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>SALESGURU is a Sales Training and Development company. We are passionate about sales and more specifically sales success, we assist companies with achieving their sales targets and developing their sales managers and their teams.</itunes:subtitle>	
+<itunes:author>Mark Keating | Solid Gold Studios</itunes:author>	
+	<itunes:summary>
+Get motivated and inspired to win.	
+	
+Recorded and produced at SolidGoldStudios.co.za	
+	</itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/salesguru/salesguru-000-cover.jpg?ver=2" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/salesguru.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Mark Keating - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/salesguru/salesguru-000-cover.jpg?ver=2" />
+	<media:keywords>Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>salesguru@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>SalesGuru with Mark Keating</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+  <itunes:category text="Entrepreneurship" />
+  <itunes:category text="Marketing" />
+</itunes:category>
+
+<itunes:category text="Education">
+  <itunes:category text="How To" />
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Sun, 21 Jul 2019 20:00:00 +0200</pubDate>
+	
+	
+<lastBuildDate>Sun, 21 Jul 2019 20:30:00 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 01 - SA's legendary vehicle salesman | Robbie Robberts - Season 1 Episode 1 -->
+<author>salesguru@solidgoldstudios.co.za (Mark Keating | Solid Gold Studios)</author>
+<itunes:author>Mark Keating | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>SA's legendary vehicle salesman | Robbie Robberts</title>
+<itunes:title>SA's legendary vehicle salesman | Robbie Robberts</itunes:title>
+<itunes:subtitle>South Africa's Number 1 motor vehicle salesman</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>25:54</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/salesguru/salesguru-000-cover.jpg?ver=2" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 21 Jul 2019 20:17:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+SalesGuru CEO, Mark Keating, has a conversation with the legendary Ford salesman, Robbie Robberts, days before he left to go sell vehicles in the USA.
+</p>
+
+
+
+
+<p>Music Used : SAVFK | The Inevitable and Short but Strong!</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Let us help you to Build Better Sales People <a href="http://www.salesguru.co.za/?utm_source=Solid%20Gold%20Podcast">salesguru.co.za</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+SalesGuru CEO, Mark Keating, has a conversation with the legendary Ford salesman, Robbie Robberts, days before he left to go sell vehicles in the USA.
+
+Music Used : SAVFK | The Inevitable and Short but Strong!
+
+Let us help you to Build Better Sales People salesguru.co.za
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+robbie robberts, ford, sales, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/salesguru/salesguru-001-robbie-robberts.mp3?ver=1" type="audio/mpeg" fileSize="24944315" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/salesguru/salesguru-001-robbie-robberts.mp3?ver=1" type="audio/mpeg" length="24944315" />
+
+<guid isPermaLink="false">salesguru-01</guid>
+
+</item>
+	
+	</channel>
+	</rss>
