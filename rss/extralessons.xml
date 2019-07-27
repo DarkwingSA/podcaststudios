@@ -10,7 +10,7 @@
      <channel>
 
           <title>Understanding Extra Lessons</title>
-          <link>https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=understanding-extra-lessons</link>
           <managingEditor>extralessons@solidgoldstudios.co.za (Extra Lessons | Solid Gold Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid Gold Podcast Studios 2.0</generator>
@@ -28,7 +28,7 @@
           <image>
             <url>https://podcaststudios.co.za/images/extralessons/extralessons-cover-s01-0000.jpg?ver=1</url>
             <title>Understanding Extra Lessons</title>
-            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show]]></link>
+            <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=understanding-extra-lessons]]></link>
           </image>
 
           <itunes:explicit>clean</itunes:explicit>
@@ -57,21 +57,18 @@ You'll hear Extra Lessons specialists answer parents' frequently asked question.
           <itunes:keywords>Future Proof Your Child, Paul Albrecht, Vishani Lukman, Kip McGrath, Kumon, Master Maths, Extra Lessons, Saturday School, Tutor, Teach, remedial, another Solid Gold podcast, #BeHeard</itunes:keywords>
 
           
-<!--       <itunes:category text="Education">   
-      <itunes:category text="K-12" />
-      <itunes:category text="Language Courses" />
-      </itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Courses" />
 
-		  <itunes:category text="Health">
-      <itunes:category text="Kids &amp; Family" />
-      </itunes:category>            -->
-
-<itunes:category text="Education" />
+  <itunes:category text="Language Learning" />
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
 
 <itunes:category text="Kids &amp; Family">
   <itunes:category text="Education for Kids" />
   <itunes:category text="Parenting" />
-</itunes:category>      
+</itunes:category>
+      
 		          
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
           <ttl>30</ttl>
