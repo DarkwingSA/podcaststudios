@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	
+<channel>	
+	
+<title>Sinmon Sinek | Start With Why</title>	
+<link>https://solidgoldstudios.co.za/channel-template.php?channel=book-simon-sinek-start-with-why.xml</link>	
+<managingEditor>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</managingEditor>	
+<language>en-ZA</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Simon Sinek - all rights reserved</copyright>	
+	<description>
+<p>How Great Leaders Inspire Everyone to Take Action</p>	
+<p></p>	
+<p></p>	
+<p>Recorded and produced at SolidGoldStudios.co.za</p>	
+	</description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg?ver=1</url>
+	<title>Sinmon Sinek | Start With Why</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel-template.php?channel=book-simon-sinek-start-with-why.xml]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>serial</itunes:type>	
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>	
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>	
+	<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action	
+	
+	
+	
+	
+	
+Recorded and produced at SolidGoldStudios.co.za	
+	</itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/book-simon-sinek-start-with-why.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Simon Sinek - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg?ver=1" />
+	<media:keywords></media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>book-simon-sinek-start-with-why@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>Sinmon Sinek | Start With Why</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords></itunes:keywords>
+	
+	<itunes:category text="Business" />
+	<itunes:category text="News">
+	<itunes:category text="Business News" />
+	<itunes:category text="Tech News" />
+	</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Mon, 29 Jul 2019 12:00:00 +0200</pubDate>
+	
+	
+<lastBuildDate>Mon, 29 Jul 2019 12:15:37 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 001 - Start With Why | Simon Sinek - Season 1 Episode 1 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>01:04:28</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:15:37 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-001.mp3?ver=1" type="audio/mpeg" fileSize="61824931" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-001.mp3?ver=1" type="audio/mpeg" length="61824931" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-001</guid>
+
+</item>	
+
+
+<item>
+<!-- Sequence 002 - Start With Why | Simon Sinek - Season 1 Episode 2 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>55:17</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:23:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-002.mp3?ver=1" type="audio/mpeg" fileSize="53029150" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-002.mp3?ver=1" type="audio/mpeg" length="53029150" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - Start With Why | Simon Sinek - Season 1 Episode 3 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>30:54</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:23:40 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-003.mp3?ver=1" type="audio/mpeg" fileSize="29664640" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-003.mp3?ver=1" type="audio/mpeg" length="29664640" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-003</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 004 - Start With Why | Simon Sinek - Season 1 Episode 4 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>01:07:48</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:24:03 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-004.mp3?ver=1" type="audio/mpeg" fileSize="65009143" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-004.mp3?ver=1" type="audio/mpeg" length="65009143" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 005 - Start With Why | Simon Sinek - Season 1 Episode 5 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>01:14:21</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:24:32 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-005.mp3?ver=1" type="audio/mpeg" fileSize="71283742" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-005.mp3?ver=1" type="audio/mpeg" length="71283742" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-005</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 006 - Start With Why | Simon Sinek - Season 1 Episode 6 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:duration>51:34</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:25:27 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-006.mp3?ver=1" type="audio/mpeg" fileSize="49471723" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-006.mp3?ver=1" type="audio/mpeg" length="49471723" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-006</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 007 - Start With Why | Simon Sinek - Season 1 Episode 7 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>52:30</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:25:59 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-007.mp3?ver=1" type="audio/mpeg" fileSize="50364937" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-007.mp3?ver=1" type="audio/mpeg" length="50364937" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-007</guid>
+
+</item>
+
+<item>
+<!-- Sequence 008 - Start With Why | Simon Sinek - Season 1 Episode 8 -->
+<author>book-simon-sinek-start-with-why@solidgoldstudios.co.za (Simon Sinek | Solid Gold Studios)</author>
+<itunes:author>Simon Sinek | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Start With Why | Simon Sinek</title>
+<itunes:title>Start With Why | Simon Sinek</itunes:title>
+<itunes:subtitle>How Great Leaders Inspire Everyone to Take Action</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:duration>35:12</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 29 Jul 2019 12:26:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+How Great Leaders Inspire Everyone to Take Action, is a book by Simon Sinek that appeared on The New York Times Best Seller list. Originally published 29 October 2009.
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+simon sinek, start with why, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-008.mp3?ver=1" type="audio/mpeg" fileSize="33798361" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/book-simon-sinek-start-with-why/book-simon-sinek-start-with-why-008.mp3?ver=1" type="audio/mpeg" length="33798361" />
+
+<guid isPermaLink="false">book-simon-sinek-start-with-why-008</guid>
+
+</item>
+
+	</channel>
+	</rss>
