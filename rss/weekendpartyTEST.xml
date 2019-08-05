@@ -28,12 +28,12 @@
           <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
           <itunes:summary>Lance Zeeman gets you ready for the week's entertainment.</itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          <media:thumbnail url="https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
           <media:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</media:keywords>
           <media:category>Business</media:category>
 
@@ -48,25 +48,20 @@
           <!-- <itunes:category text="Society &amp; Culture">
           </itunes:category>   -->
 
-<itunes:category text="Arts" />
-<itunes:category text="Comedy" />
-<itunes:category text="Fiction" />
-<itunes:category text="Leisure" />
-
 <itunes:category text="Music">
-  <itunes:category text="Music Commentary" />
+  <itunes:category text="Music Interviews" />
 </itunes:category>
 
 <itunes:category text="News">
   <itunes:category text="Entertainment News" />
 </itunes:category>
 
+<itunes:category text="Society &amp; Culture" />
+
 <itunes:category text="TV &amp; Film">
   <itunes:category text="Film Reviews" />
   <itunes:category text="TV Reviews" />
-</itunes:category>
-
-<itunes:category text="Technology" />          
+</itunes:category>       
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
@@ -74,7 +69,64 @@
 
 
 
-<lastBuildDate>Sun, 28 Jul 2019 15:17:11 +0200</lastBuildDate>
+<lastBuildDate>Sun, 04 Aug 2019 11:09:23 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 052 - Victoria's Upper East Side Secret - Season 1 Episode 52 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Victoria's Upper East Side Secret</title>
+<itunes:title>Victoria's Upper East Side Secret</itunes:title>
+<itunes:subtitle>Miss SA's Versace Sex Toy</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>52</itunes:episode>
+<itunes:duration>03:40</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 04 Aug 2019 11:09:23 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Bring the tissues along for JOHNNY DEPP'S latest film.Is VICTORIA hiding a SECRET this year? A GOSSIP GIRL reboot is in the works, MINNIE MOUSE passes away,MISS SOUTH AFRICA set to rock WOMEN'S DAY. Pop star LILY ALLEN is set to endorse some toys of an adult nature. PRINCE'S estate to reissue a collection that was previously only available on cassette, and do we finally have an answer to that age old question, WHAT DO WOMEN WANT?
+</p>
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+Bring the tissues along for JOHNNY DEPP'S latest film.Is VICTORIA hiding a SECRET this year? A GOSSIP GIRL reboot is in the works, MINNIE MOUSE passes away,MISS SOUTH AFRICA set to rock WOMEN'S DAY. Pop star LILY ALLEN is set to endorse some toys of an adult nature. PRINCE'S estate to reissue a collection that was previously only available on cassette, and do we finally have an answer to that age old question, WHAT DO WOMEN WANT?
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Johnny Depp,Richard Says Goodbye,Victoria's Secret,Gossip Girl,reboot,Minnie Mouse,Miss SA,Eloise Ven Der Westhuizen,Prince, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-052.mp3?ver=1" type="audio/mpeg" fileSize="3905882" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-052.mp3?ver=1" type="audio/mpeg" length="3905882" />
+
+<guid isPermaLink="false">weekendparty-052</guid>
+
+</item>
 
 
 
@@ -1391,7 +1443,7 @@ FIGHTING WITH MY FAMILY,Baby Powder,Britney Spears,Elton John,Rocket Man,Once Up
 <!-- <itunes:season>1</itunes:season> -->
 <itunes:episode>33</itunes:episode>
 
-<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
 <pubDate>Sat, 09 Mar 2019 09:30:00 +0200</pubDate>
 
@@ -1440,7 +1492,7 @@ Captain Marvel,Teddy Pendergrass,Alec Baldwin,DeLorean,Hello Kitty,ViewMaster,Ty
 <!-- <itunes:season>1</itunes:season> -->
 <itunes:episode>32</itunes:episode>
 
-<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
 <pubDate>Sat, 02 Mar 2019 10:50:00 +0200</pubDate>
 
@@ -1486,7 +1538,7 @@ Chris Pratt,Elizabeth Banks,Tiffany Haddish,Lego Movie 2,Shatterhand,Bond 25,MMA
 <!-- <itunes:season>1</itunes:season> -->
 <itunes:episode>31</itunes:episode>
 
-<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
 <pubDate>Sat, 23 Feb 2019 14:30:00 +0200</pubDate>
 
@@ -1536,7 +1588,7 @@ Taraji P Henson, What Men Want, Joan Collins, Jackie Collins VHS, Urban Outfitte
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>30</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 16 Feb 2019 15:00:00 +0200</pubDate>
 
@@ -1587,7 +1639,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>29</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 09 Feb 2019 09:00:00 +0200</pubDate>
 
@@ -1631,7 +1683,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>28</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 02 Feb 2019 11:00:00 +0200</pubDate>
 
@@ -1675,7 +1727,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>27</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Fri, 11 Jan 2019 22:00:00 +0200</pubDate>
 
@@ -1719,7 +1771,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>26</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 05 Jan 2019 11:01:00 +0200</pubDate>
 
@@ -1762,7 +1814,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>25</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sun, 30 Dec 2018 10:00:00 +0200</pubDate>
 
@@ -1805,7 +1857,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>24</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Mon, 24 Dec 2018 10:30:00 +0200</pubDate>
 
@@ -1848,7 +1900,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>23</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Tue, 18 Dec 2018 12:30:00 +0200</pubDate>
 
@@ -1891,7 +1943,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>22</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 08 Dec 2018 11:00:00 +0200</pubDate>
 
@@ -1934,7 +1986,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             <!-- <itunes:season>1</itunes:season> -->
             <itunes:episode>21</itunes:episode>
 
-          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000b.jpg" />
+          	<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
             <pubDate>Sat, 01 Dec 2018 14:00:00 +0200</pubDate>
 
