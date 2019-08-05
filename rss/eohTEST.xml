@@ -27,7 +27,7 @@
 	</description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=4</url>
+	<url>https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=3</url>
 	<title>EOH Conversations</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=eoh]]></link>
 </image>	
@@ -42,12 +42,12 @@ Conversations with the EOH Group CEO Stephen Van Coller
 Recorded and produced at SolidGoldStudios.co.za	
 	</itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=4" />
+	<itunes:image href="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=3" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/eoh.xml" rel="self" type="application/rss+xml" />
 	
 	<media:copyright>© EOH - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=4" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/eoh/eoh-000-cover.jpg?ver=3" />
 	<media:keywords>Elan Ressel, Orient8, , Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -69,7 +69,7 @@ Recorded and produced at SolidGoldStudios.co.za
 	<pubDate>Sun, 07 Jul 2019 06:00:00 +0200</pubDate>
 
 
-<lastBuildDate>Mon, 05 Aug 2019 11:10:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 05 Aug 2019 11:00:00 +0200</lastBuildDate>
 
 
 
@@ -90,7 +90,7 @@ Recorded and produced at SolidGoldStudios.co.za
 <itunes:duration>02:53</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-003-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-003-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Mon, 05 Aug 2019 09:09:10 +0200</pubDate>
@@ -154,7 +154,7 @@ Stephen van Coller, Colin Iles, Innovation Catalysts, Neil Jacobsohn, FutureWorl
 <itunes:duration>30:29</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-002-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-002-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Sun, 04 Aug 2019 09:08:51 +0200</pubDate>
@@ -217,7 +217,7 @@ Stephen van Coller, Colin Iles, Innovation Catalysts, Neil Jacobsohn, FutureWorl
 <itunes:duration>05:07</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-001-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-001-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Thu, 27 Jun 2019 09:08:09 +0200</pubDate>
