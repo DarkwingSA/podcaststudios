@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -71,19 +71,87 @@ WARNING: Opinions may vary
 
 
 
-<lastBuildDate>Tue, 06 Aug 2019 11:36:28 +0200</lastBuildDate>
+<lastBuildDate>Fri, 09 Aug 2019 12:23:34 +0200</lastBuildDate>
 
 
 
 <item>
-<!-- Sequence 003 - Only God Can Judge Me (Part 1) | Tad Khoza (Legal Resources Centre) - Season 1 Episode 3 -->
+<!-- Sequence 004 - Vague, Contradictory and Nonsensical (Part 2) - Season 1 Episode 4 -->
 <author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
 <itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Only God Can Judge Me (Part 1) | Tad Khoza (Legal Resources Centre)</title>
-<itunes:title>Only God Can Judge Me (Part 1) | Tad Khoza (Legal Resources Centre)</itunes:title>
+       <title>Vague, Contradictory and Nonsensical (Part 2)</title>
+<itunes:title>Vague, Contradictory and Nonsensical (Part 2)</itunes:title>
+<itunes:subtitle>A look into the public protector’s road of (wins and) losses</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>44:58</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/qc/qc-004-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 09 Aug 2019 12:23:34 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In Part 2, we’re rejoined by Tad Khosa and we deconstruct the public protector’s crusade against the president and try to figure out whether or not she’s good enough to keep her job. Awande also shows his love for Mmusi Maimane and we look into different conspiracies surrounding the government.
+</p>
+
+
+
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+In Part 2, we’re rejoined by Tad Khosa and we deconstruct the public protector’s crusade against the president and try to figure out whether or not she’s good enough to keep her job. Awande also shows his love for Mmusi Maimane and we look into different conspiracies surrounding the government.
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+public protector, the president, estina, only fans, mmusi, government, politics, society, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-004-vague-contradictory-2.mp3?ver=1" type="audio/mpeg" fileSize="43481327" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-004-vague-contradictory-2.mp3?ver=1" type="audio/mpeg" length="43481327" />
+
+<guid isPermaLink="false">qc-004</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 003 - Only God Can Judge Me (Part 1) - Season 1 Episode 3 -->
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Only God Can Judge Me (Part 1)</title>
+<itunes:title>Only God Can Judge Me (Part 1)</itunes:title>
 <itunes:subtitle>A deep dive into the drama that is the office of the Public Protector</itunes:subtitle>
 
 <itunes:explicit>yes</itunes:explicit>
