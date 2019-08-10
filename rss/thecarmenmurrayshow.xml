@@ -48,15 +48,25 @@
           <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
           <itunes:summary>From Solid Gold Studios welcome to The Carmen Murray Show</itunes:summary>
           
-<itunes:category text="Arts">
-  <itunes:category text="Fashion &amp; Beauty" />
-</itunes:category>
-
 <itunes:category text="Business">
   <itunes:category text="Careers" />
   <itunes:category text="Entrepreneurship" />
   <itunes:category text="Management" />
   <itunes:category text="Marketing" />
+</itunes:category>
+
+<itunes:category text="Technology" />   
+
+<itunes:category text="Science">
+  <itunes:category text="Social Sciences" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>
+
+<itunes:category text="Arts">
+  <itunes:category text="Fashion &amp; Beauty" />
 </itunes:category>
 
 <itunes:category text="Comedy">
@@ -77,16 +87,6 @@
   <itunes:category text="Tech News" />
 </itunes:category>
 
-<itunes:category text="Science">
-  <itunes:category text="Social Sciences" />
-</itunes:category>
-
-<itunes:category text="Society &amp; Culture">
-  <itunes:category text="Personal Journals" />
-</itunes:category>
-
-<itunes:category text="Technology" />   
-
 
           <itunes:owner>
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
@@ -97,7 +97,100 @@
 
 
 
-<lastBuildDate>Wed, 07 Aug 2019 08:12:53 +0200</lastBuildDate>
+<lastBuildDate>Fri, 09 Aug 2019 15:50:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 044 - Stories behind the camera | Michelle Craig (News anchor on eNCA), Mmanaledi Mataboge-Mashetla (eNCA senior Researcher) and Helene Nieuwenhuis (eNCA's Special Project Producer) - Season 3 Episode 02 -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Stories behind the camera | Michelle Craig (News anchor on eNCA), Mmanaledi Mataboge-Mashetla (eNCA senior Researcher) and Helene Nieuwenhuis (eNCA's Special Project Producer)</title>
+<itunes:title>Stories behind the camera | Michelle Craig (News anchor on eNCA), Mmanaledi Mataboge-Mashetla (eNCA senior Researcher) and Helene Nieuwenhuis (eNCA's Special Project Producer)</itunes:title>
+<itunes:subtitle>The role of female journalists in bringing female stories to life</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>3</itunes:season>
+<itunes:episode>02</itunes:episode>
+<itunes:duration>01:00:35</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-044-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 09 Aug 2019 15:55:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In this episode eNCA journalists Michelle Craig, with almost 13 years experience in the broadcast industry,Mmanaledi Mataboge-Mashetla, former Mail & Guardian's political editor and now eNCA's senior researcher, together with Helene Nieuwenhuis, a seasoned broadcast producer, currently eNCA's Special Project Producer joins Carmen Murray to discuss the stories of the apartheid struggle of the women and families of the Cradock 4, and the stories that happened behind the camera filming the documentary series: Women of the Liberation.
+
+The role of female journalists in bringing female stories to life:
+
+It requires a certain level of sensitivity, and 'soft skills' to gain people's trust and to allow them to open up to you.  Also, they literally shot the series in people's homes, in their personal space and had to dig through their family archives.
+
+The thinking behind featuring specifically the women of the liberation movement.
+
+Background about the stories that lived behind the camera.  These are PEOPLE, not just a story - in fast moving media cycle we often seem to forget this...
+</p>
+<br />
+<p>VIDEO | Women of the Liberation <a href="https://www.youtube.com/playlist?list=PLe2yxeVX87awFdbHM1O_B8B0hcOhT2gEJ">click here</a></p>
+
+
+
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>To book Carmen Murray for MC or Public Speaking engagements visit <a href="https://www.carmenmurray.com">www.CarmenMurray.com</a></p>
+<p>To learn more about Boo Yah Modern Marketing Services and the services they offer, from CX Audits, Strategy and Experience Innovation, visit <a href="https://www.boo-yah.co.za">www.Boo-Yah.co.za</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+<itunes:summary>
+In this episode eNCA journalists Michelle Craig, with almost 13 years experience in the broadcast industry,Mmanaledi Mataboge-Mashetla, former Mail and Guardian's political editor and now eNCA's senior researcher, together with Helene Nieuwenhuis, a seasoned broadcast producer, currently eNCA's Special Project Producer joins Carmen Murray to discuss the stories of the apartheid struggle of the women and families of the Cradock 4, and the stories that happened behind the camera filming the documentary series: Women of the Liberation.
+
+The role of female journalists in bringing female stories to life:
+
+It requires a certain level of sensitivity, and 'soft skills' to gain people's trust and to allow them to open up to you.  Also, they literally shot the series in people's homes, in their personal space and had to dig through their family archives.
+
+The thinking behind featuring specifically the women of the liberation movement.
+
+Background about the stories that lived behind the camera.  These are PEOPLE, not just a story - in fast moving media cycle we often seem to forget this...
+ 
+VIDEO | Women of the Liberation https://www.youtube.com/playlist?list=PLe2yxeVX87awFdbHM1O_B8B0hcOhT2gEJ
+
+
+To book Carmen Murray for MC or Public Speaking engagements visit www.CarmenMurray.com
+
+To learn more about Boo Yah Modern Marketing Services and the services they offer, from CX Audits, Strategy and Experience Innovation, visit www.Boo-Yah.co.za
+
+For any inquiries, more details, or requests to appear on the show, you can contact hello@carmenmurray.com
+ 
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+</itunes:summary>
+
+<itunes:keywords>
+Michelle Craig, Mmanaledi Mataboge-Mashetla, Helene Nieuwenhuis, Women of the Liberation, apartheid, Cradock 4, the struggle, south africa history, eNCA, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/tcms-044-women-of-the-liberation.mp3?ver=1" type="audio/mpeg" fileSize="58467204" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/tcms-044-women-of-the-liberation.mp3?ver=1" type="audio/mpeg" length="58467204" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-044</guid>
+
+</item>
 
 
 
