@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
-     
-     <channel>
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
 
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
@@ -48,9 +49,10 @@
           <!-- <itunes:category text="Society &amp; Culture">
           </itunes:category>   -->
 
-<itunes:category text="Music">
-  <itunes:category text="Music Interviews" />
-</itunes:category>
+<itunes:category text="TV &amp; Film">
+  <itunes:category text="Film Reviews" />
+  <itunes:category text="TV Reviews" />
+</itunes:category>       
 
 <itunes:category text="News">
   <itunes:category text="Entertainment News" />
@@ -58,10 +60,10 @@
 
 <itunes:category text="Society &amp; Culture" />
 
-<itunes:category text="TV &amp; Film">
-  <itunes:category text="Film Reviews" />
-  <itunes:category text="TV Reviews" />
-</itunes:category>       
+<itunes:category text="Music">
+  <itunes:category text="Music Interviews" />
+</itunes:category>
+
 
           <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 
@@ -69,7 +71,109 @@
 
 
 
-<lastBuildDate>Sun, 04 Aug 2019 11:09:23 +0200</lastBuildDate>
+<lastBuildDate>Sun, 11 Aug 2019 19:37:19 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 053 - The Art of Eddie Blanc - Season 1 Episode 53 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Art of Eddie Blanc</title>
+<itunes:title>The Art of Eddie Blanc</itunes:title>
+<itunes:subtitle>Swayze races SJP</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>53</itunes:episode>
+<itunes:duration>03:20</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 11 Aug 2019 19:37:19 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+A Dog is going to make you howl at the cinema, PATRICK SWAYZE gets the doccie treatment, The COMING TO AMERICA 2 cast just keeps getting better, CAMILLA CABELLO takes on CINDERELLA, ARIANA GRANDE has a DIVA as a new bestie and SARA JESSICA PARKER hits the Savignon Blanc.
+</p>
+<br />
+<p>Patrick Swayze Documentary. <a href="https://www.paramountnetwork.com/shows/i-am?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Sara Jessica Parker launches her own wine label. <a href="https://www.news.com.au/entertainment/celebrity-life/sex-the-city-star-sarah-jessica-parker-announces-exciting-new-venture/news-story/25ceb87f01c85930cbf6484d40a85fa6?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+A Dog is going to make you howl at the cinema, PATRICK SWAYZE gets the doccie treatment, The COMING TO AMERICA 2 cast just keeps getting better, CAMILLA CABELLO takes on CINDERELLA, ARIANA GRANDE has a DIVA as a new bestie and SARA JESSICA PARKER hits the Savignon Blanc.
+</p>
+<br />
+<p>Patrick Swayze Documentary. <a href="https://www.paramountnetwork.com/shows/i-am?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<p>Sara Jessica Parker launches her own wine label. <a href="https://www.news.com.au/entertainment/celebrity-life/sex-the-city-star-sarah-jessica-parker-announces-exciting-new-venture/news-story/25ceb87f01c85930cbf6484d40a85fa6?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></content:encoded>
+
+
+<itunes:summary><![CDATA[
+A Dog is going to make you howl at the cinema, PATRICK SWAYZE gets the doccie treatment, The COMING TO AMERICA 2 cast just keeps getting better, CAMILLA CABELLO takes on CINDERELLA, ARIANA GRANDE has a DIVA as a new bestie and SARA JESSICA PARKER hits the Savignon Blanc.
+ 
+Patrick Swayze Documentary. https://www.paramountnetwork.com/shows/i-am
+
+Sara Jessica Parker launches her own wine label. https://www.news.com.au/entertainment/celebrity-life/sex-the-city-star-sarah-jessica-parker-announces-exciting-new-venture/news-story/25ceb87f01c85930cbf6484d40a85fa6
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+]]></itunes:summary>
+
+<itunes:keywords>
+The Art of Racing in the Rain,I Am Patrick Swayze,SJP,Savignon Blanc,Ariana Grande,Barbra Streisand,Camilla Cabello,Cinderella,Kevin Costner,Coming to America 2,, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-053.mp3?ver=1" type="audio/mpeg" fileSize="3587478" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-053.mp3?ver=1" type="audio/mpeg" length="3587478" />
+
+<guid isPermaLink="false">weekendparty-053</guid>
+
+</item>
 
 
 
