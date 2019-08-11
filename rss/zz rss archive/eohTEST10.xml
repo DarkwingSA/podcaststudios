@@ -5,11 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	xmlns:media="http://search.yahoo.com/mrss/">
 	
 <channel>	
-
+	
 <title>EOH Conversations</title>	
 <link>https://solidgoldstudios.co.za/channel.php?title=eoh</link>	
 <managingEditor>eoh@solidgoldstudios.co.za (EOH | Solid Gold Studios)</managingEditor>	
@@ -58,23 +57,19 @@ Recorded and produced at SolidGoldStudios.co.za
 	
 	<itunes:keywords>Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 	
-<itunes:category text="Business">
-  <itunes:category text="Management" />
-</itunes:category>
-
-<itunes:category text="News">
-  <itunes:category text="Tech News" />
-</itunes:category>
-
-<itunes:category text="Technology" />
-	
+	<itunes:category text="Business" />
+	<itunes:category text="News">
+	<itunes:category text="Business News" />
+	<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Technology" />
 	
 	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
 	<ttl>30</ttl>
 	<pubDate>Sun, 07 Jul 2019 06:00:00 +0200</pubDate>
 
 
-<lastBuildDate>Sat, 10 Aug 2019 13:14:28 +0200</lastBuildDate>
+<lastBuildDate>Sat, 10 Aug 2019 11:20:00 +0200</lastBuildDate>
 
 
 
@@ -98,7 +93,7 @@ Recorded and produced at SolidGoldStudios.co.za
 <itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-002-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
-<pubDate>Mon, 05 Aug 2019 13:14:28 +0200</pubDate>
+<pubDate>Mon, 05 Aug 2019 11:12:36 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
@@ -119,44 +114,21 @@ Stephen Van Coller (EOH | Group CEO), Colin Iles (Innovation Catalysts | Founder
 
 ]]></description>
 
-
-<content:encoded><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p>
-Stephen Van Coller (EOH | Group CEO), Colin Iles (Innovation Catalysts | Founder) and Neil Jacobsohn (FutureWorld International | Senior Partner) discuss what you can expect from the up-coming Two Day Sprint sessions.
-</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about the top IT Service Provider in South Africa <a href="https://www.eoh.co.za/">www.eoh.co.za</a></p>
-
-
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">SolidGoldStudios.co.za</a></p>
-<!-- SELECTED FOOTER LOGO -->
-<p><a href="https://www.eoh.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
-<img src="https://podcaststudios.co.za/images/eoh/eoh-64.jpg?ver=1" alt="EOH" height="64px" /></a></p>
-<!-- SELECTED FOOTER LOGO -->
-
-]]></content:encoded>
-
-
-<itunes:summary><![CDATA[
+<itunes:summary>
 Stephen Van Coller (EOH | Group CEO), Colin Iles (Innovation Catalysts | Founder) and Neil Jacobsohn (FutureWorld International | Senior Partner) discuss what you can expect from the up-coming Two Day Sprint sessions.
 
 Learn more about the top IT Service Provider in South Africa www.eoh.co.za
 
- 
+
 If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
-]]></itunes:summary>
+</itunes:summary>
 
 <itunes:keywords>
 Stephen Van Coller, EOH, Group CEO, Colin Iles, Innovation Catalysts, Neil Jacobsohn, FutureWorld International, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-002-two-day-sprints-preview.mp3?ver=1" type="audio/mpeg" fileSize="29543654" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-002-two-day-sprints-preview.mp3?ver=1" type="audio/mpeg" length="29543654" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-002-two-day-sprints-preview.mp3?ver=2" type="audio/mpeg" fileSize="29543654" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-002-two-day-sprints-preview.mp3?ver=2" type="audio/mpeg" length="29543654" />
 
 <guid isPermaLink="false">eoh-conversations-002</guid>
 
@@ -165,14 +137,14 @@ Stephen Van Coller, EOH, Group CEO, Colin Iles, Innovation Catalysts, Neil Jacob
 
 
 <item>
-<!-- Sequence 001 - Create Our Exponential Future | Stephen Van Coller (Group CEO) - Season 1 Episode 1 -->
+<!-- Sequence 001 - Create Our Exponential Future | Stephen Van Coller (EOH | Group CEO) - Season 1 Episode 1 -->
 <author>eoh@solidgoldstudios.co.za (EOH | Solid Gold Studios)</author>
 <itunes:author>EOH | Solid Gold Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Create Our Exponential Future | Stephen Van Coller (Group CEO)</title>
-<itunes:title>Create Our Exponential Future | Stephen Van Coller (Group CEO)</itunes:title>
+       <title>Create Our Exponential Future | Stephen Van Coller (EOH | Group CEO)</title>
+<itunes:title>Create Our Exponential Future | Stephen Van Coller (EOH | Group CEO)</itunes:title>
 <itunes:subtitle>Group CEO Stephen Van Coller talks about the Exponential Organisation</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
@@ -184,10 +156,9 @@ Stephen Van Coller, EOH, Group CEO, Colin Iles, Innovation Catalysts, Neil Jacob
 <itunes:image href="http://podcaststudios.co.za/images/eoh/eoh-001-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
-<pubDate>Thu, 27 Jun 2019 13:02:52 +0200</pubDate>
+<pubDate>Thu, 27 Jun 2019 11:11:41 +0200</pubDate>
 
-<description>
-<![CDATA[
+<description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 <p>
@@ -203,54 +174,27 @@ EOH Group CEO Stephen Van Coller talks about the Exponential Organisation.
 <p><a href="https://www.eoh.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
 <img src="https://podcaststudios.co.za/images/eoh/eoh-64.jpg?ver=1" alt="EOH" height="64px" /></a></p>
 <!-- SELECTED FOOTER LOGO -->
-]]>	
-</description>
 
-
-<content:encoded>
-<![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p>
-EOH Group CEO Stephen Van Coller talks about the Exponential Organisation.
-</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about the top IT Service Provider in South Africa <a href="https://www.eoh.co.za/">www.eoh.co.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">SolidGoldStudios.co.za</a></p>
-<!-- SELECTED FOOTER LOGO -->
-<p><a href="https://www.eoh.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EOH">
-<img src="https://podcaststudios.co.za/images/eoh/eoh-64.jpg?ver=1" alt="EOH" height="64px" /></a></p>
-<!-- SELECTED FOOTER LOGO -->
-]]>
-</content:encoded>
-
+]]></description>
 
 <itunes:summary>
-<![CDATA[
 EOH Group CEO Stephen Van Coller talks about the Exponential Organisation.
 
 Learn more about the top IT Service Provider in South Africa www.eoh.co.za
- 
+
 If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
-]]>
 </itunes:summary>
 
 <itunes:keywords>
 EOH, Stephen Van Coller, Group CEO, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-001-exponential-organisation.mp3?ver=1" type="audio/mpeg" fileSize="5219232" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-001-exponential-organisation.mp3?ver=1" type="audio/mpeg" length="5219232" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-001-exponential-organisation.mp3?ver=2" type="audio/mpeg" fileSize="5219232" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eoh/eoh-podcast-001-exponential-organisation.mp3?ver=2" type="audio/mpeg" length="5219232" />
 
 <guid isPermaLink="false">eoh-conversations-001</guid>
 
 </item>
-
-
-
 
 
 

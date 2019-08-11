@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>	
-<rss version="2.0"	
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	
-<channel>	
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
 
           <title>Connect with Everlytic</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=connect-everlytic</link>
@@ -80,7 +79,7 @@ Recorded and produced at SolidGoldStudios.co.za
           <pubDate>Fri, 21 Jun 2019 12:00:00 +0200</pubDate>
 
 
-<lastBuildDate>Sat, 10 Aug 2019 15:00:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Jun 2019 15:00:00 +0200</lastBuildDate>
 
 
 
@@ -101,27 +100,23 @@ Recorded and produced at SolidGoldStudios.co.za
 <itunes:duration>16:02</itunes:duration>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/everlytic/everlytic-cover-00.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 21 Jun 2019 14:08:24 +0200</pubDate>
+<pubDate>Fri, 21 Jun 2019 11:40:22 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p><a href="https://api.whatsapp.com/send?phone=27793400886&text=%5BPodcast%5D%20Hello%20Karyn..">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
 Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company started, its values, it's people, its products, and where the company is on its way to.
 </p>
-<br />
 <p>Have a look at Everlytic's newest features <a href="https://www.everlytic.co.za/new-features/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">click here</a></p>
-<br />
+
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <p>Schedule a Demo <a href="https://www.everlytic.co.za/request-a-demo/">www.everlytic.co.za</a></p>
-
-
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+
 <br />
 <p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">SolidGoldStudios.co.za</a></p>
 <!-- SELECTED FOOTER LOGO -->
@@ -131,30 +126,7 @@ Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company
 
 ]]></description>
 
-
-<content:encoded><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p>
-Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company started, its values, it's people, its products, and where the company is on its way to.
-</p>
-<br />
-<p>Have a look at Everlytic's newest features <a href="https://www.everlytic.co.za/new-features/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">click here</a></p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Schedule a Demo <a href="https://www.everlytic.co.za/request-a-demo/">www.everlytic.co.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">SolidGoldStudios.co.za</a></p>
-<!-- SELECTED FOOTER LOGO -->
-<p><a href="https://www.everlytic.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Everlytic">
-<img src="https://podcaststudios.co.za/images/everlytic/everlytic-64.jpg?ver=1" alt="Everlytic" height="64px" /></a></p>
-<!-- SELECTED FOOTER LOGO -->
-
-]]></content:encoded>
-
-
-<itunes:summary><![CDATA[
+<itunes:summary>
 Today Karyn Strybos talks to the Everlytic CIO and Founder about how the company started, its values, it's people, its products, and where the company is on its way to.
  
 Have a look at Everlytic's newest features https://www.everlytic.co.za/new-features/
@@ -164,7 +136,7 @@ Schedule a Demo www.everlytic.co.za
  
  
 If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
-]]></itunes:summary>
+</itunes:summary>
 
 <itunes:keywords>
 everlytic, sam hutchinson, karyn strybos, email, mailing list, communication, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
@@ -176,6 +148,9 @@ everlytic, sam hutchinson, karyn strybos, email, mailing list, communication, An
 <guid isPermaLink="false">everlytic-001</guid>
 
 </item>
+
+
+
 
      </channel>
 </rss>
