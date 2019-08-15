@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
-     
-
-     <channel>
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
 
           <title>Melanie Walker's Grounded</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
@@ -73,7 +73,101 @@
         
 
 
-<lastBuildDate>Sun, 04 Aug 2019 16:03:21 +0200</lastBuildDate>
+<lastBuildDate>Wed, 14 Aug 2019 19:22:10 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 039 - Get Connected | Paul Müller (Connect Earth | co-founder and CEO) - Season 2 Episode 36 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Get Connected | Paul Müller (Connect Earth | co-founder and CEO)</title>
+<itunes:title>Get Connected | Paul Müller (Connect Earth | co-founder and CEO)</itunes:title>
+<itunes:subtitle>Communication is for all</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>36</itunes:episode>
+<itunes:duration>21:06</itunes:duration>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-039-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Wed, 14 Aug 2019 19:22:10 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Communication is key to development, both personal and societal. As ways of communicating have become more technologically inclined, there are still those who are unconnected and missing Out on this valuable tool for learning. 
+
+Paul Müller of Connect Earth has a vision for Africa, in bringing the world to them, while using communication tech as a vehicle for teaching and sharing of ideas. Free wifi for unconnected communities? Let's see what the future brings.
+</p>
+<br />
+<p>ConnectEarth.com <a href="https://connectearth.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></description>
+
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Communication is key to development, both personal and societal. As ways of communicating have become more technologically inclined, there are still those who are unconnected and missing Out on this valuable tool for learning. 
+
+Paul Müller of Connect Earth has a vision for Africa, in bringing the world to them, while using communication tech as a vehicle for teaching and sharing of ideas. Free wifi for unconnected communities? Let's see what the future brings.
+</p>
+<br />
+<p>ConnectEarth.com <a href="https://connectearth.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+
+]]></content:encoded>
+
+
+<itunes:summary><![CDATA[
+Communication is key to development, both personal and societal. As ways of communicating have become more technologically inclined, there are still those who are unconnected and missing Out on this valuable tool for learning. 
+
+Paul Müller of Connect Earth has a vision for Africa, in bringing the world to them, while using communication tech as a vehicle for teaching and sharing of ideas. Free wifi for unconnected communities? Let's see what the future brings.
+ 
+ConnectEarth.com https://connectearth.com/
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+]]></itunes:summary>
+
+<itunes:keywords>
+Paul Muller, conenct earth, Communication, technology, wifi, data, internet, interconnectedness, upliftment, community, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-039-paul-muller.mp3?ver=1" type="audio/mpeg" fileSize="20422248" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-039-paul-muller.mp3?ver=1" type="audio/mpeg" length="20422248" />
+
+<guid isPermaLink="false">grounded-039</guid>
+
+</item>
 
 
 
