@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
-     
-     <channel>
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
 
           <title>WOMiN | Women in Namibia</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=womin</link>
@@ -83,7 +84,97 @@ Join in the conversation about women of influence making an impact, and differen
 
 
 
-<lastBuildDate>Fri, 02 Aug 2019 17:29:31 +0200</lastBuildDate>
+<lastBuildDate>Mon, 19 Aug 2019 09:20:00 +0200</lastBuildDate>
+
+
+
+<item>
+<!-- Sequence 008 - Imposter Syndrome | Martha Abner (Industrial Psychologist) - Season 1 Episode 8 -->
+<author>womin@solidgoldstudios.co.za (Elizabeth Viljoen | Solid Gold Studios)</author>
+<itunes:author>Elizabeth Viljoen | Solid Gold Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Imposter Syndrome | Martha Abner (Industrial Psychologist)</title>
+<itunes:title>Imposter Syndrome | Martha Abner (Industrial Psychologist)</itunes:title>
+<itunes:subtitle>Women in Namibia on imposter syndrome</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:duration>45:16</itunes:duration>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/womin/womin-cover-00.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 19 Aug 2019 09:16:51 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Martha Abner (president of Walvis Bay Toastmasters Club) is an industrial psychologist who talks about overcoming 'imposter syndrome', finding your worth, essential skills and support system. She tells Elizabeth Viljoen of Cerebrate NZ about her vision for Namibia, such as starting a creative hub for future leaders.
+</p>
+<br />
+<p>Connect with Martha Abner on LinkedIn <a href="https://www.linkedin.com/in/martha-abner-393415134/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">click here</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Elizabeth <a href="https://www.linkedin.com/in/elizabeth-v-77a148146/">on LinkedIn</a></p>
+<p>Cerebrate NZ | Deep thinking events and podcasts <a href="https://cerebratenz.com?utm_source=Solid%20Gold%20Studios">https://cerebratenz.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+Martha Abner (president of Walvis Bay Toastmasters Club) is an industrial psychologist who talks about overcoming 'imposter syndrome', finding your worth, essential skills and support system. She tells Elizabeth Viljoen of Cerebrate NZ about her vision for Namibia, such as starting a creative hub for future leaders.
+</p>
+<br />
+<p>Connect with Martha Abner on LinkedIn <a href="https://www.linkedin.com/in/martha-abner-393415134/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">click here</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Elizabeth <a href="https://www.linkedin.com/in/elizabeth-v-77a148146/">on LinkedIn</a></p>
+<p>Cerebrate NZ | Deep thinking events and podcasts <a href="https://cerebratenz.com?utm_source=Solid%20Gold%20Studios">https://cerebratenz.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20WOMiN">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:summary><![CDATA[
+Martha Abner (president of Walvis Bay Toastmasters Club) is an industrial psychologist who talks about overcoming 'imposter syndrome', finding your worth, essential skills and support system. She tells Elizabeth Viljoen of Cerebrate NZ about her vision for Namibia, such as starting a creative hub for future leaders.
+ 
+Connect with Martha Abner on LinkedIn https://www.linkedin.com/in/martha-abner-393415134/
+
+Connect with Elizabeth on LinkedIn
+
+Cerebrate NZ | Deep thinking events and podcasts https://cerebratenz.com
+
+ 
+If you're ready to produce your own podcast, contact the podcast experts at - SolidGoldStudios.co.za
+]]></itunes:summary>
+
+<itunes:keywords>
+Martha Abner, President Walvis Bay Toastmasters Club, industrial psychology, HR, imposter syndrome, creative hub, essential skills, play, games, rituals, women, Namibia, community, obstacles, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-008-martha-abner.mp3?ver=1" type="audio/mpeg" fileSize="43499300" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-008-martha-abner.mp3?ver=1" type="audio/mpeg" length="43499300" />
+
+<guid isPermaLink="false">womin-008</guid>
+
+</item>
 
 
 
@@ -152,8 +243,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Monika von Wietersheim, Division 74 D2 Area Director Toastmasters, Systemic Constellations, educational gap, bookkeeper, leadership, confidence, public speaking, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-007-monika-von-wietersheim.mp3?ver=1" type="audio/mpeg" fileSize="7653618" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-007-monika-von-wietersheim.mp3?ver=1" type="audio/mpeg" length="7653618" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-007-monika-von-wietersheim.mp3?ver=2" type="audio/mpeg" fileSize="7653618" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-007-monika-von-wietersheim.mp3?ver=2" type="audio/mpeg" length="7653618" />
 
 <guid isPermaLink="false">womin-007</guid>
 
@@ -227,8 +318,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Dianah Namases, Traffic officer, mentors, family, loss, motherhood, death toll on roads, entrepreneurship, collaboration, creativity, obstacles, community, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-006-dianah-namases.mp3?ver=1" type="audio/mpeg" fileSize="11685673" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-006-dianah-namases.mp3?ver=1" type="audio/mpeg" length="11685673" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-006-dianah-namases.mp3?ver=2" type="audio/mpeg" fileSize="11685673" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-006-dianah-namases.mp3?ver=2" type="audio/mpeg" length="11685673" />
 
 <guid isPermaLink="false">womin-006</guid>
 
@@ -304,8 +395,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 elsie pieterse, rheumatoid arthritis, fibromyalgia, sanitary pads, menstrual cup, Sister Namibia, Toppenaars, empowering schoolgirls, contribution, community, Namibia, women, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-005-elrie-pieterse.mp3?ver=1" type="audio/mpeg" fileSize="20209078" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-005-elrie-pieterse.mp3?ver=1" type="audio/mpeg" length="20209078" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-005-elrie-pieterse.mp3?ver=2" type="audio/mpeg" fileSize="20209078" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-005-elrie-pieterse.mp3?ver=2" type="audio/mpeg" length="20209078" />
 
 <guid isPermaLink="false">womin-005</guid>
 
@@ -369,8 +460,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Talesindano Nangolo, Biotechnologist, lupus, autoimmune disease, play, games, obstacles, community, contribution, Namibia, women, faith, art, bird watching, names, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-004-talesindano-nangolo.mp3?ver=1" type="audio/mpeg" fileSize="14336158" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-004-talesindano-nangolo.mp3?ver=1" type="audio/mpeg" length="14336158" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-004-talesindano-nangolo.mp3?ver=2" type="audio/mpeg" fileSize="14336158" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-004-talesindano-nangolo.mp3?ver=2" type="audio/mpeg" length="14336158" />
 
 <guid isPermaLink="false">womin-004</guid>
 
@@ -434,8 +525,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Linea Haufiky, Anglican Church of Namibia, patriarchy, gender based violence, friendship, prayer, church, single mother, play, games, obstacles, contribution, community, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-003-linea-haufiky.mp3?ver=1" type="audio/mpeg" fileSize="9984859" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-003-linea-haufiky.mp3?ver=1" type="audio/mpeg" length="9984859" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-003-linea-haufiky.mp3?ver=2" type="audio/mpeg" fileSize="9984859" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-003-linea-haufiky.mp3?ver=2" type="audio/mpeg" length="9984859" />
 
 <guid isPermaLink="false">womin-003</guid>
 
@@ -507,8 +598,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Marianina Coetzee, Namib High School, Swakopmund, teaching, games, play, obstacles, community, geography, music, art, children, bird counting, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-002-marianina-coetzee.mp3?ver=1" type="audio/mpeg" fileSize="5589985" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-002-marianina-coetzee.mp3?ver=1" type="audio/mpeg" length="5589985" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-002-marianina-coetzee.mp3?ver=2" type="audio/mpeg" fileSize="5589985" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-002-marianina-coetzee.mp3?ver=2" type="audio/mpeg" length="5589985" />
 
 <guid isPermaLink="false">womin-002</guid>
 
@@ -578,8 +669,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 Sondag Haluka, Cerebrate (to think deeply), cryptocurrency, women, play, games, rituals, overcome obstacles, contribution, community, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-001-sondag-haluka.mp3?ver=1" type="audio/mpeg" fileSize="6060182" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-001-sondag-haluka.mp3?ver=1" type="audio/mpeg" length="6060182" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-001-sondag-haluka.mp3?ver=2" type="audio/mpeg" fileSize="6060182" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/womin/womin-001-sondag-haluka.mp3?ver=2" type="audio/mpeg" length="6060182" />
 
 <guid isPermaLink="false">womin-001</guid>
 
