@@ -93,12 +93,12 @@
                <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
                <itunes:email>thecarmenmurrayshow@solidgoldstudios.co.za</itunes:email>
           </itunes:owner>
-          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-cover-0000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover.jpg" />
           <itunes:keywords>Carmen Murray, Boo-Yah, UX, user experience, CMO, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 
 
-<lastBuildDate>Fri, 23 Aug 2019 13:20:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 23 Aug 2019 13:40:00 +0200</lastBuildDate>
 
 
 
@@ -113,13 +113,13 @@
 <itunes:title>Straight talk on Social Media | Dylan Kohlstadt (Shift ONE | CEO)</itunes:title>
 <itunes:subtitle>Dylan Kohlstadt unpacks the state of social trends in South Africa</itunes:subtitle>
 
-<itunes:explicit>no</itunes:explicit>
+<itunes:explicit>yes</itunes:explicit>
 <itunes:season>3</itunes:season>
 <itunes:episode>04</itunes:episode>
 <itunes:duration>01:01:17</itunes:duration>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-046-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover-marketing.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Fri, 23 Aug 2019 12:37:55 +0200</pubDate>
@@ -256,7 +256,7 @@ Dylan Kohlstadt, Customer Experience, Content Curation, ClickFunnels, Shift One,
 <itunes:duration>50:51</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-04-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover-den.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Sat, 17 Aug 2019 14:25:42 +0200</pubDate>
@@ -353,7 +353,7 @@ The Matt Brown Show, Women of SteelCarmen Murray, Another Solid Gold Podcast, Ga
 <itunes:duration>01:00:35</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-044-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover-den.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Fri, 09 Aug 2019 13:51:22 +0200</pubDate>
@@ -484,7 +484,7 @@ Michelle Craig, Mmanaledi Mataboge-Mashetla, Helene Nieuwenhuis, Women of the Li
 <itunes:duration>01:08:04</itunes:duration>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/thecarmenmurrayshow-043-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover-den.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Wed, 07 Aug 2019 08:12:53 +0200</pubDate>
