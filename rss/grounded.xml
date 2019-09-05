@@ -12,9 +12,9 @@
 
           <title>Melanie Walker's Grounded</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
-          <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</managingEditor>
+          <managingEditor>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</managingEditor>
           <language>en-za</language>
-          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <copyright>© Solid Gold Podcast Studios - all rights reserved</copyright>
           <pubDate>Sat, 02 Dec 2017 12:00:00 +0200</pubDate>
           <description>Melanie Walker's podcast exploring all things gardening.</description>
 
@@ -27,7 +27,7 @@
           <itunes:explicit>clean</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Melanie Walker's podcast about gardening and adventure.</itunes:subtitle>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>Welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening, nature, adventure, and all things Grounded.</itunes:summary>
 
           <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
@@ -41,7 +41,7 @@
 
           <itunes:owner>
                <itunes:email>grounded@solidgoldstudios.co.za</itunes:email>
-               <itunes:name>Melanie Walker | Solid Gold Studios</itunes:name>
+               <itunes:name>Melanie Walker | Solid Gold Podcast Studios</itunes:name>
           </itunes:owner>
 
           <itunes:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -67,20 +67,98 @@
   <itunes:category text="Places &amp; Travel" />
 </itunes:category>          
 
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
 
           <ttl>30</ttl>
-        
 
 
-<lastBuildDate>Fri, 23 Aug 2019 12:25:04 +0200</lastBuildDate>
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Thu, 05 Sep 2019 15:50:54 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 042 - In the Pink | Michael Rickhoff (Landscape Designer) and Jacky van Wyk (Garden Designer) - Season 2 Episode 39 -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>In the Pink | Michael Rickhoff (Landscape Designer) and Jacky van Wyk (Garden Designer)</title>
+<itunes:title>In the Pink | Michael Rickhoff (Landscape Designer) and Jacky van Wyk (Garden Designer)</itunes:title>
+<itunes:subtitle>That exciting time of year is here!</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>39</itunes:episode>
+<itunes:duration>28:49</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-042-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 05 Sep 2019 15:50:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27836113332&text=%5Bpodcast%5D%20Hello%20Melanie..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Spring is an exciting time of year in the garden with all the colour popping out all over. Michael Rickhoff explains why pink isn't just a colour and what we should be thinking about when it comes to creating a fabulous outdoor space.
+</p>
+<br />
+<p>Lifestyle College for Landscape Design and Horticulture courses <a href="https://www.lifestylecollege.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">click here</a></p>
+<p>Connect with Jacky Van Wyk on LinkedIn <a href="https://www.linkedin.com/in/jacky-van-wyk-a421ba74/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27836113332&text=%5Bpodcast%5D%20Hello%20Melanie..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Spring is an exciting time of year in the garden with all the colour popping out all over. Michael Rickhoff explains why pink isn't just a colour and what we should be thinking about when it comes to creating a fabulous outdoor space.
+</p>
+<br />
+<p>Lifestyle College for Landscape Design and Horticulture courses <a href="https://www.lifestylecollege.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">click here</a></p>
+<p>Connect with Jacky Van Wyk on LinkedIn <a href="https://www.linkedin.com/in/jacky-van-wyk-a421ba74/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:keywords>
+Michael Rickhoff, Landscape Design, Jacky van Wyk, Garden Design, pink, blossoms, flowers, spring, landscaping, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-042-jacky-van-wyk.mp3?ver=1" type="audio/mpeg" fileSize="27852977" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-042-jacky-van-wyk.mp3?ver=1" type="audio/mpeg" length="27852977" />
+
+<guid isPermaLink="false">grounded-042</guid>
+
+</item>
 
 
 
 <item>
 <!-- Sequence 041 - Getting to know SA's Indiana Jones of the Plant world | Judd Kirkel Welwitch (Plant Hunter) - Season 2 Episode 38 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -163,8 +241,8 @@ Judd Kirkel Welwitch, Rate plants, pelargonium, plant hunter, Namaqualand, Richt
 
 <item>
 <!-- Sequence 040 - A world of colour | Kathy Varney (Ball Straathof | Marketing and Product Manager ) - Season 2 Episode 37 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -241,8 +319,8 @@ Kathy Varney, Ball Straathoff, flowers, plants, plant trials, impatiens, pelargo
 
 <item>
 <!-- Sequence 039 - Get Connected | Paul Müller (Connect Earth | co-founder and CEO) - Season 2 Episode 36 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -335,8 +413,8 @@ Paul Muller, conenct earth, Communication, technology, wifi, data, internet, int
 
 <item>
 <!-- Sequence 038 - Almost time for a Spring Clean! | Cary Goodwin (Spokesperson for Life is a Garden) - Season 2 Episode 35 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -405,8 +483,8 @@ Life is a Garden, Cary Goodwin, plants, gardening, daisies, kids gardening, spri
 
 <item>
 <!-- Sequence 037 - Make your Passion your Life's Work | Diane du Plessis (6 Degrees East ) - Season 2 Episode 34 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -475,8 +553,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 
 <item>
 <!-- Sequence 036 - Spring is around the corner! | JJ van Rensburg (Garden World General Manager) - Season 2 Episode 33 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -545,8 +623,8 @@ JJ van Rensburg, Garden World, Spring Festival, Spring, Landscaping, Garden desi
 
 <item>
 <!-- Sequence 035 - Get Warm this Winter | Cary Goodwin (PRO for Life is a Garden) - Season 2 Episode 32 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -608,8 +686,8 @@ Life is a Garden, Cary Goodwin, Peebles Plants, winter colour, winter annuals, p
 
 <item>
 <!-- Sequence 034 - Hidden Treasures | Charles Barnhoorn (Director Hadeco Bulbs and author of The Bulb Book) - Season 2 Episode 31 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -674,8 +752,8 @@ Hadeco, bulbs, flower bulbs, daffodils, tulips, spring, Another Solid Gold Podca
 
 <item>
 <!-- Sequence 033 - Slow food is Good food | Melissa de Billot (Co-ordinator : Slow Food Ark of Taste SA) - Season 2 Episode 30 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -733,8 +811,8 @@ Melissa de Billot, Slow Food, Ark of Taste SA, maize, indigenous foods, rainbow 
 
 <item>
 <!-- Sequence 032 - Don't Be a Pest! | Debbie Smit (Foxgloves Landscape Design) - Season 2 Episode 29 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -791,8 +869,8 @@ Debbie Smit, Foxgloves, Landscape Design, landscaper, garden design, garden pest
 
 <item>
 <!-- Sequence 031 - Getting back to our Roots? | Rita Groenewald (National coordinator: Roots and Shoots SA) - Season 2 Episode 28 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -860,8 +938,8 @@ Roots and Shoots, eco warriors, children, Jane Goodall, chimpanzees, eco bricks,
 
 <item>
 <!-- Sequence 030 - Water Wonderlands | Anthony Philbrick (Owner: Wetland Pools) - Season 2 Episode 27 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -922,8 +1000,8 @@ Wetland Pools, swimming pool, pools, wetlands, grey water, recycling, water, env
 
 <item>
 <!-- Sequence 029 - Get Vertically Creative | Adolph van der Westhuizen (sales Manager Watex), Anthea Campbell (Editor EcoBalance Lifestyle Magazine) - Season 2 Episode 25 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -991,8 +1069,8 @@ Adolph van der Westhuizen, Anthea Campbell, Watex, eco vertical gardening, green
 
 <item>
 <!-- Sequence 028 - Make Your Garden Your Life | Cary Goodwin (PRO Life Is A Garden) - Season 2 Episode 25 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1061,8 +1139,8 @@ Life is a Garden, aloes, children, kids' gardening, winter, autumn, autumn colou
 
 <item>
 <!-- Sequence 027 - Waste Not, Want Not | Yasmine Miemiec (MD 5Inc) - Season 2 Episode 24 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1131,8 +1209,8 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 
 <item>
 <!-- Sequence 026 - Warming up for Winter! | Peter Goodwin (Spokesperson : Bedding Plant Association) - Season 2 Episode 23 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1191,8 +1269,8 @@ Winter, winter annuals, annuals, bedding plants, gardening, poppy, pansy, viola,
 
 <item>
 <!-- Sequence 025 - Are you a Beastie? | Marcus Wyatt (Chief Beast) - Season 2 Episode 22 -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1262,8 +1340,8 @@ Marcus Wyatt, Bombshelter Beast, music, musical experience, Kwaito, Zulu Rap, on
 
 <item>
 <!-- Sequence 024 - SA flora goes International! | Mike Sham (Event Organiser) -->
-<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1327,8 +1405,8 @@ Proudly South African, flower show, botanical art, flower pavilion, flower arran
 
 <item>
 <!-- grounded-20190228a -->
-<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</title>
 <itunes:title>Life is a Garden! | Cary Goodwin (Spokesperson Life is a Garden, horticulturalist deluxe at The Colourful Group and Peebles Plants)</itunes:title>
@@ -1386,8 +1464,8 @@ Life is a garden, trees, plants, Tulbaghia, Wild Garlic, Cary Goodwin, perennial
 
 <item>
 <!-- grounded-20190228b -->
-<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</title>
 <itunes:title>Action Stations - This is a Crisis! | Julian Ortlepp (Tree Works)</itunes:title>
@@ -1441,8 +1519,8 @@ Tree, trees, Tree Works, arborist, tree surgeon, arboriculture, Shothole borer, 
 
 <item>
 <!--grounded-20190228c-->
-<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-<itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+<author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
 <title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</title>
 <itunes:title>Ooh la la! | Michael Rickhoff (senior lecturer Lifestyle College of Garden Design)</itunes:title>
@@ -1487,8 +1565,8 @@ Show gardens, France, gardening, French gardens, lavender, topiary, formal desig
 
     <item>
           <!-- OUR RSS NUMBER 0020 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
                  <title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</title>
           <itunes:title>Become an Ambasseedor! | Sean Freeman (Living Seeds)</itunes:title>
@@ -1543,8 +1621,8 @@ To share in Mel's adventures, visit MelsTreasures.co.za
 
     <item>
           <!-- OUR RSS NUMBER 0019 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</title>
           <itunes:title>Are We Just What We Eat? | Linda Galvad (Sought After Seedlings)</itunes:title>
@@ -1593,8 +1671,8 @@ To share in Mel's adventures, visit MelsTreasures.co.za
 
     <item>
           <!-- OUR RSS NUMBER 0018 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</title>
           <itunes:title>Design on the Cutting Edge | Craig de Necker (The Friendly Plant)</itunes:title>
@@ -1643,8 +1721,8 @@ To share in Mel's adventures, visit MelsTreasures.co.za
 
     <item>
           <!-- OUR RSS NUMBER 0017 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Green for Good | Anthea Campbell</title>
           <itunes:title>Green for Good | Anthea Campbell</itunes:title>
@@ -1694,8 +1772,8 @@ To share in Mel's adventures, visit MelsTreasures.co.za
 
     <item>
           <!-- OUR RSS NUMBER 0016 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</title>
           <itunes:title>Get up outta that lazy bed! | Peter Goodwin, Bedding Plant Association and Head Honcho at Colourful Group and Peebles Plants</itunes:title>
@@ -1738,8 +1816,8 @@ And one of the stalwarts of the veggie and colour patch, the humble (but oh so b
 
     <item>
           <!-- OUR RSS NUMBER 0015 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
           <title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</title>
           <itunes:title>Don't get Bugged - Get even! | Jonathan Haw, big kahuna at EcoSolutions Urban Ecology</itunes:title>
@@ -1794,8 +1872,8 @@ And keen to bring owls to your area? (You want to know hoo hoo who tells them wh
     
     <item>
           <!-- OUR RSS NUMBER 0014 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Get Your Life out into the Garden | Cary Goodwin</title>
           <itunes:title>Get Your Life out into the Garden | Cary Goodwin</itunes:title>
@@ -1851,8 +1929,8 @@ Especially for those who can handle the heat outside of the kitchen!
     
     <item>
           <!-- OUR RSS NUMBER 0013 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>Saving SA's Eco Heritage | Andrew Hankey</title>
           <itunes:title>Saving SA's Eco Heritage | Andrew Hankey</itunes:title>
@@ -1894,7 +1972,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
           <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" fileSize="26587054" />
 
-          <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="0" />
+          <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3" type="audio/mpeg" length="26587054" />
 
           <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181122a-andrew-hankey.mp3?ver=2</guid> -->
           <guid isPermaLink="false">grounded20181122a></guid>
@@ -1905,8 +1983,8 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
     <item>
           <!-- OUR RSS NUMBER 0012 -->
-          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Studios)</author>
-          <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+          <author>grounded@solidgoldstudios.co.za (Grounded | Solid Gold Podcast Studios)</author>
+          <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           
           <title>You Think Good Design is Expensive? | Michael Rickhoff</title>
           <itunes:title>You Think Good Design is Expensive? | Michael Rickhoff</itunes:title>
@@ -1930,11 +2008,11 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
             If you've ever thought that getting a Garden Designer in is expensive, consider the cost of bad design. Gardens work in four dimensions, and Garden Designers, Garden Architects and Landscapers are the people perfectly placed to understand this design concept. Mel and Mike discuss the pros (and cons) of finding someone you can work with, and why the first money you should spend before buying plants is on a good concept plan.
           </itunes:summary>
 
-          <itunes:keywords>Michael Rickhoff, design, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+          <itunes:keywords>Michael Rickhoff, design, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
 
           <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" fileSize="29243442" />
 
-          <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="0" />
+          <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003a-michael-design.mp3" type="audio/mpeg" length="29110625" />
 
           <guid isPermaLink="false">grounded20181003a></guid>
                                                          
@@ -1943,7 +2021,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
     <item>
              <!-- OUR RSS NUMBER 0011 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
-             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -1967,7 +2045,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>The well-known veggie garden girl has branched out into a range of fantastic skincare products, specifically created with the avid gardener in mind. Sore back from bending over your floral beauties? There's a muscle rub for that. Fingers and hands grubby and chafed from planting? There's a balm to soothe your frustrated fingers. Tired of getting bitten by the garden bugs - not the good variety? She's created a bug-off spray for that too! The perfect way to keep your body in the same great shape your mind is in after gardening, and the perfect gift for the special gardener in your life.</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3" type="audio/mpeg" length="25342803" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023a-jane-griffiths-skincare.mp3</guid> -->
                <guid isPermaLink="false">grounded20181023a></guid>
                
@@ -1975,14 +2053,14 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:duration>26:03</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Jane Griffiths, Veggie Garden, herbs, vegetables, skincare, natural, organic, delicious, Jane Griffiths, Mike Rickhoff, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Jane Griffiths, Veggie Garden, herbs, vegetables, skincare, natural, organic, delicious, Jane Griffiths, Mike Rickhoff, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
     <item>
              <!-- OUR RSS NUMBER 0010 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
-             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2007,7 +2085,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Come on down and see (for) yourself | Melanie Walker with Heather Mac and Tim Parr</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3" type="audio/mpeg" length="21419230" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181115a-ella-mental.mp3</guid> -->
                <guid isPermaLink="false">grounded20181115a></guid>
                
@@ -2015,7 +2093,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:duration>22:01</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Heather Mac and Tim Parr, Heather Mac, Tim Parr, Ella Mental, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Heather Mac and Tim Parr, Heather Mac, Tim Parr, Ella Mental, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
@@ -2023,7 +2101,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
     <item>
              <!-- OUR RSS NUMBER 0009 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
-             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2048,7 +2126,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie Walker and Michael Rickhoff | Following on the disastrous decimation of Impatiens walleriana crops worldwide a couple of years ago, there's good news for the 'busy lizzie' fans - they're back and in good shape. We also discuss the differences between those and New Guinea Impatiens, and the SunPatiens. Anything you need to know on where to plant them, how to plant them and how to care for them is on the menu!</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3" type="audio/mpeg" length="27099503" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023d-peter-goodwin-annuals.mp3</guid> -->
                <guid isPermaLink="false">grounded20181023d></guid>
                
@@ -2056,7 +2134,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:duration>27:53</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Peter Goodwin, Bedding plants, New Guinea impatiens, SunPatiens, begonia, shade garden, full sun, Busy Lizzie, annuals, perennials, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Peter Goodwin, Bedding plants, New Guinea impatiens, SunPatiens, begonia, shade garden, full sun, Busy Lizzie, annuals, perennials, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
@@ -2064,7 +2142,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
     <item>
              <!-- OUR RSS NUMBER 0008 -->
              <!-- OUR RECORDING NAME FOR THIS EPISODE 20181023b -->
-             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2089,7 +2167,7 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie Walker and Michael Rickhoff | Who doesn’t love to walk through a retail garden center and ogle all of the new plants that have made it to market each year? Ever ask how and why certain varieties make it to market and others don’t. The process of trialing is how. Plant trialing is not only an integral part of the green industry but it’s important for the consumer. Testing plants in varying parts of the country allows the breeders to make better decisions about what will look good and grow in the landscape and also allows the growers to decide what works best for their business and their cultural practices. We take a 'walk' through the process and highlight the upcoming plant trials at Ball Straathof.</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3" type="audio/mpeg" length="27110091" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023b-kathy-varney-plant-trials.mp3</guid> -->
                <guid isPermaLink="false">grounded20181023b></guid>
                
@@ -2097,14 +2175,14 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:duration>28:06</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Kathy Varney, plants, new varieties, trials, plant trials, Ball Straathof, gardening, flowers, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Kathy Varney, plants, new varieties, trials, plant trials, Ball Straathof, gardening, flowers, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
  		<item>
              <!-- 0007 -->
              <!-- 20181023c -->
-             <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+             <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2124,20 +2202,20 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Melanie Walker and Michael Rickhoff | The main aim of Life is a Garden is to bring relevant, industry-endorsed information to interested gardeners across Southern Africa. November is a busy time in the garden, and we take a look at some of the plants and activities we should be taking in hand. The star of the veggie garden is beetroot, the trend is still to grow vertically, containers are coming back into vogue with smaller spaces being utilised, and brachyscome, yucca, plumbago and Inca lilies are the flowers creating loads of colour.</itunes:summary>
 
                             
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3" type="audio/mpeg" length="28169425" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181023c-cary-goodwin-nov-2018.mp3</guid> -->
                <guid isPermaLink="false">grounded20181023c></guid>
                
 
                <itunes:duration>29:10</itunes:duration>
                
-               <itunes:keywords>Cary Goodwin, brachyscome, yucca, plumbago, Inca lilies, alstroemeria, vertical, container, beetroot, health, flowers, vegetables, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Cary Goodwin, brachyscome, yucca, plumbago, Inca lilies, alstroemeria, vertical, container, beetroot, health, flowers, vegetables, Grounded, Melanie Walker, Mel's Treasures, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
            <item>
         	   <!-- 0006 -->
-        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+        	   <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2157,19 +2235,19 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Continuing with the theme, You are what You Eat, Linda Galvad explores the subject of heirloom seeds, what GMO foods mean for the person and the environment, and how to Grow Your Own to the best of your ability. Sought After Seedlings is South Africa's home of organic seeds and stockist of high quality authentic Italian Franchi Sementi seeds.</itunes:summary>
 
                             
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3" type="audio/mpeg" length="30824826" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003b-linda-galvad.mp3</guid> -->
                <guid isPermaLink="false">grounded20181003b></guid>
                
                <itunes:duration>31:42</itunes:duration>
                
-               <itunes:keywords>Vegetables, Linda Galvad, Sought After Seedlings, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Vegetables, Linda Galvad, Sought After Seedlings, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
           <item>
         	   <!-- 0005 -->
-        	   <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+        	   <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2189,19 +2267,19 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>Going green doesn’t start with doing green acts - it starts with a shift in consciousness. And the first shift is making sure that what you put into your garden, your home grown veggies and yourself is as natural as can be. Talborne Organics offers healthy, safe and sustainable organic options that will perform to professional standards on all projects, whether for the Big Agri farmer, or the home gardener.</itunes:summary>
 
                             
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3" type="audio/mpeg" length="26278762" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181004a-talborne.mp3</guid> -->
                <guid isPermaLink="false">grounded20181004a></guid>
                
                <itunes:duration>27:02</itunes:duration>
                
-               <itunes:keywords>Talborne Organics, Jenny Slabber, Maureen Madiseng, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Talborne Organics, Jenny Slabber, Maureen Madiseng, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>          
 
           <item>
         	   <!-- 0004 -->
-               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>2</itunes:season>               
@@ -2220,19 +2298,19 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                <itunes:summary>On this episode, Melanie and Mike Rickhoff (senior lecturer at Lifestyle college) chat to Quintin van Kerken, CEO of Clear Option on Cannabis, about what implications the recent rulings on Marijuana in SA have for people.</itunes:summary>
 
                             
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3" type="audio/mpeg" length="25570225" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20181003c-dagga.mp3</guid> -->
                <guid isPermaLink="false">grounded20181003c></guid>
                
                <itunes:duration>26:23</itunes:duration>
                
-               <itunes:keywords>Dagga, Quintin van Kerken, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Dagga, Quintin van Kerken, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
           
           <item>
         	   <!-- 0003 -->          	
-               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
 			   <itunes:explicit>no</itunes:explicit>
                <itunes:season>1</itunes:season>               
@@ -2249,19 +2327,19 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                <itunes:summary>Melanie and co-host Mike Rickhoff talk to garden designer extraordinaire, Shirley Wallington, about her career and the upcoming Open Gardens Meander, brought to the city by the Johannesburg Garden Club.</itunes:summary>
                
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3" type="audio/mpeg" length="34771761" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170909-shirley-wallington.mp3</guid> -->
                <guid isPermaLink="false">groundedold003></guid>
                
                <itunes:duration>28:13</itunes:duration>
                
-               <itunes:keywords>Shirley Wallington, Open Gardens Meander, Johannesburg Garden Club, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Shirley Wallington, Open Gardens Meander, Johannesburg Garden Club, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>
 
          <item>
         	   <!-- 0002 -->
-               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
                <itunes:explicit>no</itunes:explicit>
                <itunes:season>1</itunes:season>               
@@ -2278,19 +2356,19 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
 
                <itunes:summary>Melanie and co-host Mike Rickhoff talk to Gavin Heron of Earth Probiotic about how bokashi works, why we should make our own compost and the state of topsoil on earth.</itunes:summary>
                
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3" type="audio/mpeg" length="34727489" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20170923-gavin-heron.mp3</guid> -->
                <guid isPermaLink="false">groundedold002></guid>
                
                <itunes:duration>28:13</itunes:duration>
                
-               <itunes:keywords>Gavin Heron, Earth Probiotic, Bokashi, compost, topsoil, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Gavin Heron, Earth Probiotic, Bokashi, compost, topsoil, Mike Rickhoff, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>          
 
         <item>
         	   <!-- 0001 -->
-               <itunes:author>Melanie Walker | Solid Gold Studios</itunes:author>
+               <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 			   <itunes:episodeType>full</itunes:episodeType>
                <itunes:explicit>no</itunes:explicit>
 			   <itunes:season>1</itunes:season>               
@@ -2308,13 +2386,13 @@ Andrew Hankey, assistant curator at the gardens, gives us a bit of history, a br
                
                <itunes:summary>Melanie talks to Misha Teasdale, CEO and founder of GreenPop about the projects they're creating in Africa. Join the Treevolution! Get planting...</itunes:summary>
                
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="0" />
+               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3" type="audio/mpeg" length="29860438" />
                <!-- <guid>http://media.blubrry.com/melanie_walkers_grounded/podcaststudios.co.za/audio/grounded/grounded-20171202-misha-teasdale.mp3</guid> -->
                <guid isPermaLink="false">groundedold001></guid>
                
                <itunes:duration>26:33</itunes:duration>
                
-               <itunes:keywords>Misha Teasdale, GreenPop, Treevolution, Gardening, Grounded, Melanie Walker, Solid Gold Studios, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Misha Teasdale, GreenPop, Treevolution, Gardening, Grounded, Melanie Walker, Solid Gold Podcast Studios, Gavin Kennedy</itunes:keywords>
                                                             
           </item>   
 
