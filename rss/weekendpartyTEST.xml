@@ -12,9 +12,9 @@
 
           <title>Lance Zeeman's Weekend Party Entertainment Report</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
-          <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</managingEditor>
+          <managingEditor>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</managingEditor>
           <language>en-za</language>
-          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <copyright>© Solid Gold Podcast Studios - all rights reserved</copyright>
           <description>Lance Zeeman and Shane "The Duke' Wellington update you on everything you need to know about the world of entertainment.</description>
 
           <image>
@@ -26,7 +26,7 @@
           <itunes:explicit>no</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Stay in touch with the world of entertainment!</itunes:subtitle>
-          <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+          <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>Lance Zeeman gets you ready for the week's entertainment.</itunes:summary>
 
           <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
@@ -41,7 +41,7 @@
 
 		  <itunes:owner>
                <itunes:email>weekendparty@solidgoldstudios.co.za</itunes:email>
-               <itunes:name>Lance Zeeman | Solid Gold Studios</itunes:name>
+               <itunes:name>Lance Zeeman | Solid Gold Podcast Studios</itunes:name>
           </itunes:owner>
 
           <itunes:keywords>Weekend Party Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -65,19 +65,100 @@
 </itunes:category>
 
 
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
 
           <ttl>30</ttl>
 
 
 
-<lastBuildDate>Sun, 01 Sep 2019 18:44:39 +0200</lastBuildDate>
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Sat, 07 Sep 2019 10:17:49 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 057 - Wooosaahh Penny Ndlovu - Season 1 Episode 57 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Wooosaahh Penny Ndlovu</title>
+<itunes:title>Wooosaahh Penny Ndlovu</itunes:title>
+<itunes:subtitle>It Fakes Life</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>57</itunes:episode>
+<itunes:duration>03:08</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sat, 07 Sep 2019 10:17:49 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BWeekend%20Party%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The sequel to the most successful horror movie is in theaters, THE NDLOVI YOUTH CHOIR gets closer to one million dollars. JOHN KANI has something very important to say, the trailer for BAD BOYS FOR LIFE is here. DEEPFAKE imagines WILL SMITH in an iconic role, TERMINATOR DARK FATE goes looking for some familiar musicians and the only live version of WHAT'S GOING ON is finally getting a release.
+</p>
+<br />
+<p>Will Smith is Neo in The Matrix <a href="https://www.youtube.com/watch?v=1h-yy3h1u04&feature=youtu.be?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<p>John Kani Speaks <a href="https://www.iol.co.za/sundayindependent/news/john-kani-rallies-artists-to-use-influence-to-speak-out-on-gender-based-violence-31859723?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<p>Marvin Gaye Live <a href="https://www.rollingstone.com/music/music-news/marvin-gaye-whats-going-on-live-album-879040/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BWeekend%20Party%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The sequel to the most successful horror movie is in theaters, THE NDLOVI YOUTH CHOIR gets closer to one million dollars. JOHN KANI has something very important to say, the trailer for BAD BOYS FOR LIFE is here. DEEPFAKE imagines WILL SMITH in an iconic role, TERMINATOR DARK FATE goes looking for some familiar musicians and the only live version of WHAT'S GOING ON is finally getting a release.
+</p>
+<br />
+<p>Will Smith is Neo in The Matrix <a href="https://www.youtube.com/watch?v=1h-yy3h1u04&feature=youtu.be?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<p>John Kani Speaks <a href="https://www.iol.co.za/sundayindependent/news/john-kani-rallies-artists-to-use-influence-to-speak-out-on-gender-based-violence-31859723?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<p>Marvin Gaye Live <a href="https://www.rollingstone.com/music/music-news/marvin-gaye-whats-going-on-live-album-879040/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">click here</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:keywords>
+IT,Pennywise,Higher Love, Ndlovu Youth Choir, John Kani,Woooosaahh, Will Smith, Bad Boys for Life,Shamook,Deepfake,Marvin Gaye,Guns n' Roses,What's Going On,Limpopo,Steve Winwwod,The Matrix,femicide, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-057.mp3?ver=1" type="audio/mpeg" fileSize="3396621" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-057.mp3?ver=1" type="audio/mpeg" length="3396621" />
+
+<guid isPermaLink="false">weekendparty-057</guid>
+
+</item>
 
 
 <item>
 <!-- Sequence 056 - Family Fights Brexit - Season 1 Episode 56 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -154,8 +235,8 @@ Once Upon a Time in Hollywood,Quentin Tarintino,Boet Fighter,Cali4ways,Teddy Qui
 
 <item>
 <!-- Sequence 055 - Angel Colors Elvis - Season 1 Episode 55 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -232,8 +313,8 @@ Angel Has Fallen,Colors,Sho Madjozi,The Ndlovu Youth Choir,Me,Agent King,Elvis,M
 
 <item>
 <!-- Sequence 054 - Kitchen,Dolls and Dolemite - Season 1 Episode 54 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -309,8 +390,8 @@ The Kitchen,Tiffany Haddish,Melissa McCarthy,Elizabeth Moss,Lira,Barbie,doll,Bas
 
 <item>
 <!-- Sequence 053 - The Art of Eddie Blanc - Season 1 Episode 53 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -411,8 +492,8 @@ The Art of Racing in the Rain,I Am Patrick Swayze,SJP,Savignon Blanc,Ariana Gran
 
 <item>
 <!-- Sequence 052 - Victoria's Upper East Side Secret - Season 1 Episode 52 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -468,8 +549,8 @@ Johnny Depp,Richard Says Goodbye,Victoria's Secret,Gossip Girl,reboot,Minnie Mou
 
 <item>
 <!-- Sequence 051 - Chillaax as The Godmother Crawls - Season 1 Episode 51 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -522,7 +603,7 @@ If you're ready to produce your own podcast, contact the podcast experts at - So
 </itunes:summary>
 
 <itunes:keywords>
-Shane The Duke Wellington,HOT91.9FM,#BeHeard,Solid Gold Studios,Crawl,Jennifer Lopez,The Godmother,Chillaaxx,Blade,Wesley Snipes,Seoul Town Road,Kill Bill,Nike Moon Shoe,sneakers,takkies,Lance Zeeman, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+Shane The Duke Wellington,HOT91.9FM,#BeHeard,Solid Gold Podcast Studios,Crawl,Jennifer Lopez,The Godmother,Chillaaxx,Blade,Wesley Snipes,Seoul Town Road,Kill Bill,Nike Moon Shoe,sneakers,takkies,Lance Zeeman, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-051.mp3?ver=1" type="audio/mpeg" fileSize="2864134" />
@@ -536,8 +617,8 @@ Shane The Duke Wellington,HOT91.9FM,#BeHeard,Solid Gold Studios,Crawl,Jennifer L
 
 <item>
 <!-- Sequence 050 - Lions, Chickens and Aliens - Season 1 Episode 50 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -610,8 +691,8 @@ Lion King,Hustlers,Super Size Me 2,Space Invaders,Janet Jackson,Vinyl,Storm Area
 
 <item>
 <!-- Sequence 049 - MAD Uber SAW's Weed - Season 1 Episode 49 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -684,8 +765,8 @@ Stuber,Mad Magazine,Knuckle City,Satori,Andy Irons,Lisa Andersen,White Rhino,Jay
 
 <item>
 <!-- Sequence 048 - Yesterday, The Angels and Elvis - Season 1 Episode 48 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -756,8 +837,8 @@ Yesterday,Snoop Dogg, Walk of Fame, Charlie's Angels,Elvis,The Walkman,Will Smit
 
 <item>
 <!-- Sequence 047 - Kings are Furious at Jaws - Season 1 Episode 47 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -830,8 +911,8 @@ Kings of Mulberry Street, Jaws board game,Razzie Awards,UMG,Lion King,Nick Fury,
 
 <item>
 <!-- Sequence 046 - MA Murders Sheeran - Season 1 Episode 46 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -902,8 +983,8 @@ MA,Soundgarden,Imax,Ed Sheeran,Yesterday,Angelia Jolie,TIME Magazine,Adam Sandle
 
 <item>
 <!-- Sequence 045 - U Can't Stallone Scrooge - Season 1 Episode 45 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -977,8 +1058,8 @@ Men In Black International,Lance Zeeman,Deepfake,Rick James,Superfreak,Mary J Bl
 
 <item>
 <!-- Sequence 44 - Elton's Magic Shaft - Season 1 Episode 44 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1047,8 +1128,8 @@ Elton John,Rocketman,Bernie Taupin,Batman,Magic 8 Ball,Shaft,Jay-Z,View Master,R
 
 <item>
 <!-- Sequence 043 - Rambo's Bright Rocket - Season 1 Episode 43 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1116,8 +1197,8 @@ HOT 91.9FM,Brightburn,Rambo:Last Blood,Elton John, Rocketman,iPod Touch,Debbie H
 
 <item>
 <!-- Sequence 042 - Charlize Begs Lenny - Season 1 Episode 42 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1182,8 +1263,8 @@ Longshot,Charlize Theron,Seth Rogen,Tarantino,#NoSpoilersinHollywood,Termintor D
 
 <item>
 <!-- Sequence 041 - Pikachu Shafts Cliffhanger's Purlple Rain - Season 1 Episode 41 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1256,8 +1337,8 @@ Whoopi Goldberg,Shaft,Cliffhanger,Pokemon,Pikachu,Eric Clapton,Doris Day,Isaac H
 
 <item>
 <!-- Sequence 040 - The Hustle Under Egoli - Season 1 Episode 40 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1331,8 +1412,8 @@ The Hustle,Anne Hathaway,Down Under Cover,Yasuke,Chadwick Boseman,Led Zeppelin,B
 
 <item>
 <!-- Sequence 039 - The Purple Bala Sings - Season 1 Episode 39 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1403,8 +1484,8 @@ D'Angelo,Prince,Old Town Road,Lil Nas X, John Cena,Terminator the Musical, Comic
 
 <item>
 <!-- Sequence 038 - Avengers, Muggles and Stan - Season 1 Episode 38 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1476,8 +1557,8 @@ Avengers:Endgame, Muggles, Vans, BYOBottle, Prince, Stan, Eminem, passwords, Wil
 
 <item>
 <!-- Sequence 037 - The Little Duke X - Season 1 Episode 37 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1550,8 +1631,8 @@ LITTLE, Lee Majors, John Wayne, Madonna, Madame X, Hollywood Vampires, Endgame, 
 
 <item>
 <!-- Sequence 036 - Who Let the Grease Divorce? - Season 1 Episode 36 -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1611,7 +1692,7 @@ Are you ready to produce your own podcast? - SolidGoldStudios.co.za
 </itunes:summary>
 
 <itunes:keywords>
-Grease prequel,Coming to America 2,Slash,uncoupling,A Dogs Way Home,Country Trap, Lil Nas X,Potter,Springsteen,Solid Gold Studios, Shane The Duke Wellington,HOT91.9FM, Weekend Party,Lance Zeeman, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+Grease prequel,Coming to America 2,Slash,uncoupling,A Dogs Way Home,Country Trap, Lil Nas X,Potter,Springsteen,Solid Gold Podcast Studios, Shane The Duke Wellington,HOT91.9FM, Weekend Party,Lance Zeeman, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-036.mp3?ver=1" type="audio/mpeg" fileSize="2871143" />
@@ -1625,8 +1706,8 @@ Grease prequel,Coming to America 2,Slash,uncoupling,A Dogs Way Home,Country Trap
 
 <item>
 <!-- Sequence 035 - Denzel Stings Us -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1699,8 +1780,8 @@ Jordan Peele, US, Denzel Washington,Tom Hanks Sting, Algorithm, Madame Tussaud's
 
 <item>
 <!-- Sequence 034 - Fighting with Baby One More Time -->
-<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1765,8 +1846,8 @@ FIGHTING WITH MY FAMILY,Baby Powder,Britney Spears,Elton John,Rocket Man,Once Up
 
 <item>
 <!--33-->
-<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1787,7 +1868,7 @@ FIGHTING WITH MY FAMILY,Baby Powder,Britney Spears,Elton John,Rocket Man,Once Up
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 <p>
-The CAPTAIN MARVEL movie bridges the gap between AVENGERS INFINITY WAR and ENDGAME as the MARVEL journey nears a conclusion this week at the movies. The trailer for the hybrid documentary on the inventor of the car from BACK TO THE FUTURE has hit the the net. An English language movie of HELLO KITTY has been announced as well as a picture based on the 80's toy the VIEWMASTER. Get ready for a LOVE T.K.O as TEDDY PENDERGRASS gets the biopic treatment, and the MILLI VANILLI scandal is 30 years old. #BeHeard The Weekend Party Entertainment Report. A Solid Gold Studios Podcast.
+The CAPTAIN MARVEL movie bridges the gap between AVENGERS INFINITY WAR and ENDGAME as the MARVEL journey nears a conclusion this week at the movies. The trailer for the hybrid documentary on the inventor of the car from BACK TO THE FUTURE has hit the the net. An English language movie of HELLO KITTY has been announced as well as a picture based on the 80's toy the VIEWMASTER. Get ready for a LOVE T.K.O as TEDDY PENDERGRASS gets the biopic treatment, and the MILLI VANILLI scandal is 30 years old. #BeHeard The Weekend Party Entertainment Report. A Solid Gold Podcast Studios Podcast.
 </p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
@@ -1795,7 +1876,7 @@ The CAPTAIN MARVEL movie bridges the gap between AVENGERS INFINITY WAR and ENDGA
 ]]></description>
 
 <itunes:summary>
-The CAPTAIN MARVEL movie bridges the gap between AVENGERS INFINITY WAR and ENDGAME as the MARVEL journey nears a conclusion this week at the movies. The trailer for the hybrid documentary on the inventor of the car from BACK TO THE FUTURE has hit the the net. An English language movie of HELLO KITTY has been announced as well as a picture based on the 80's toy the VIEWMASTER. Get ready for a LOVE T.K.O as TEDDY PENDERGRASS gets the biopic treatment, and the MILLI VANILLI scandal is 30 years old. #BeHeard The Weekend Party Entertainment Report. A Solid Gold Studios Podcast.
+The CAPTAIN MARVEL movie bridges the gap between AVENGERS INFINITY WAR and ENDGAME as the MARVEL journey nears a conclusion this week at the movies. The trailer for the hybrid documentary on the inventor of the car from BACK TO THE FUTURE has hit the the net. An English language movie of HELLO KITTY has been announced as well as a picture based on the 80's toy the VIEWMASTER. Get ready for a LOVE T.K.O as TEDDY PENDERGRASS gets the biopic treatment, and the MILLI VANILLI scandal is 30 years old. #BeHeard The Weekend Party Entertainment Report. A Solid Gold Podcast Studios Podcast.
 </itunes:summary>
 <itunes:keywords>
 Captain Marvel,Teddy Pendergrass,Alec Baldwin,DeLorean,Hello Kitty,ViewMaster,Tyrese Gibson,Milli Vanilli,Brie Larson, Samuel Leroy Jackson,Iron Man,Avengers Endgame
@@ -1814,8 +1895,8 @@ Captain Marvel,Teddy Pendergrass,Alec Baldwin,DeLorean,Hello Kitty,ViewMaster,Ty
 
 <item>
 <!--32-->
-<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1847,7 +1928,7 @@ LEGO THE SECOND PART is here, A MOGWAI named GIZMO is set to return, BOND 25 get
 LEGO THE SECOND PART is here, A MOGWAI named GIZMO is set to return, BOND 25 gets a working title, MMA and strippers go to a wine tasting, THE FORCE is mentioned how many times in the 9 STAR WARS MOVIES, ARIANA GRANDE sets the pace as she enters the record books while the music industry coins it as streaming becomes the new JUKEBOX. JANET JACKSON hits VEGAS as REGINA KING and SPIKE LEE get some love from OSCAR
 </itunes:summary>
 <itunes:keywords>
-Chris Pratt,Elizabeth Banks,Tiffany Haddish,Lego Movie 2,Shatterhand,Bond 25,MMA,Kiss Kiss,The Force,Star Wars,Ariana Grande, Regina King,Spike Lee,Metamorphosis,Shane The Duke Wellington,HOT 91.9FM, Solid Gold Studios,Lance Zeeman,Janet Jackson
+Chris Pratt,Elizabeth Banks,Tiffany Haddish,Lego Movie 2,Shatterhand,Bond 25,MMA,Kiss Kiss,The Force,Star Wars,Ariana Grande, Regina King,Spike Lee,Metamorphosis,Shane The Duke Wellington,HOT 91.9FM, Solid Gold Podcast Studios,Lance Zeeman,Janet Jackson
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-032.mp3" type="audio/mpeg" fileSize="2979465" />
@@ -1860,8 +1941,8 @@ Chris Pratt,Elizabeth Banks,Tiffany Haddish,Lego Movie 2,Shatterhand,Bond 25,MMA
 
 <item>
 <!--31-->
-<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-<itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+<author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -1910,8 +1991,8 @@ Taraji P Henson, What Men Want, Joan Collins, Jackie Collins VHS, Urban Outfitte
 
       <item>
             <!-- 030-->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -1961,8 +2042,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 029 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -1988,7 +2069,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
             	CAN YOU EVER FORGIVE ME delivers some Oscar nominated performances, GROUNDHOG DAY is back as a VR game, CELINE DION to get he biopic treatment, and it looks like HIT MUSIC are starting to slow down
             </itunes:summary>
 
-            <itunes:keywords>Can You Ever Forgive Me, Melissa McCarthy, Richard E Grant, Groundhog Day, Like Father Like Son, Bill Murray, Celine Dion, bpm, Chill, Solid Gold Studios, The Weekend Party, HOT 91.9FM Lance Zeeman, Shane The Duke Wellington</itunes:keywords>
+            <itunes:keywords>Can You Ever Forgive Me, Melissa McCarthy, Richard E Grant, Groundhog Day, Like Father Like Son, Bill Murray, Celine Dion, bpm, Chill, Solid Gold Podcast Studios, The Weekend Party, HOT 91.9FM Lance Zeeman, Shane The Duke Wellington</itunes:keywords>
 
 <!-- AUDIO ONLY -->
             <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-029.mp3" type="audio/mpeg" fileSize="2833058" />
@@ -2005,8 +2086,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 028 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2049,8 +2130,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 027 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2093,8 +2174,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 026 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2136,8 +2217,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 025 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2179,8 +2260,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 024 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2222,8 +2303,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 023 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2265,8 +2346,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 022 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2308,8 +2389,8 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
 
       <item>
             <!-- 021 -->
-            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Studios)</author>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <author>weekendparty@solidgoldstudios.co.za (Weekend Party | Solid Gold Podcast Studios)</author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
 
             <itunes:episodeType>full</itunes:episodeType>
 
@@ -2352,7 +2433,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
       <item>
             <!-- 020 -->
             <itunes:episode>20</itunes:episode>
-            <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+            <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
             <itunes:explicit>no</itunes:explicit>
                
             <pubDate>Sat, 24 Nov 2018 10:01:00 +0200</pubDate>
@@ -2381,7 +2462,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
       <item>
             <!-- 019 -->
             <itunes:episode>19</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 17 Nov 2018 09:10:00 +0200</pubDate>
@@ -2404,7 +2485,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
       <item>
             <!-- 018 -->
             <itunes:episode>18</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 10 Nov 2018 09:40:00 +0200</pubDate>
@@ -2428,7 +2509,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
       <item>
             <!-- 017 -->
             <itunes:episode>17</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 03 Nov 2018 08:00:00 +0200</pubDate>
@@ -2444,7 +2525,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
                
                <itunes:duration>02:19</itunes:duration>
                
-               <itunes:keywords>TIFFINAY HADDISH, WHOOPPIE GOLDBERG, SETH ROGEN,  McAFEE, MIKE TYSON, WEED, MARIJUANA, PRINCE, 50, JA RULE NEYMAR, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold studios podcast</itunes:keywords>
+               <itunes:keywords>TIFFINAY HADDISH, WHOOPPIE GOLDBERG, SETH ROGEN,  McAFEE, MIKE TYSON, WEED, MARIJUANA, PRINCE, 50, JA RULE NEYMAR, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast studios podcast</itunes:keywords>
                                                             
       </item>
 
@@ -2452,7 +2533,7 @@ ALITA: BATTLE ANGEL is here along with some massive movie trailers, including YE
       <item>
             <!-- 016 -->
             <itunes:episode>16</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 27 Oct 2018 08:00:00 +0200</pubDate>
@@ -2472,14 +2553,14 @@ TESTING THIS -->
                
                <itunes:duration>02:20</itunes:duration>
                
-               <itunes:keywords>Moonlanding, space, sample, cat, permission, copyright, spoof, halloween, sued, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Studios podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Moonlanding, space, sample, cat, permission, copyright, spoof, halloween, sued, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, another Solid Gold Podcast Studios podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 015 -->
             <itunes:episode>15</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 20 Oct 2018 08:00:00 +0200</pubDate>
@@ -2494,14 +2575,14 @@ TESTING THIS -->
                
                <itunes:duration>02:23</itunes:duration>
                
-               <itunes:keywords>Fender, Taylor Swift, T.I., piracy, Papillon, Shaggy, Sting, Melania Trump, Chow Yun Fat, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Fender, Taylor Swift, T.I., piracy, Papillon, Shaggy, Sting, Melania Trump, Chow Yun Fat, Weekend Party, Entertainment Report, Lance Zeeman, Shane The Duke Wellington, Hot 91.9 FM, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 014 -->
             <itunes:episode>14</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 13 Oct 2018 08:30:00 +0200</pubDate>
@@ -2516,14 +2597,14 @@ TESTING THIS -->
                
                <itunes:duration>02:06</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 013 -->
             <itunes:episode>13</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 06 Oct 2018 08:30:00 +0200</pubDate>
@@ -2538,14 +2619,14 @@ TESTING THIS -->
                
                <itunes:duration>03:59</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 012 -->
             <itunes:episode>12</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 15 Sep 2018 08:30:00 +0200</pubDate>
@@ -2560,14 +2641,14 @@ TESTING THIS -->
                
                <itunes:duration>02:27</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 011 -->
             <itunes:episode>11</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 08 Sep 2018 08:30:00 +0200</pubDate>
@@ -2582,14 +2663,14 @@ TESTING THIS -->
                
                <itunes:duration>02:29</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 010 -->
             <itunes:episode>10</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 01 Sep 2018 08:31:00 +0200</pubDate>
@@ -2604,14 +2685,14 @@ TESTING THIS -->
                
                <itunes:duration>02:34</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 009 -->
             <itunes:episode>9</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 25 Aug 2018 08:26:00 +0200</pubDate>
@@ -2626,14 +2707,14 @@ TESTING THIS -->
                
                <itunes:duration>02:54</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 008 -->
             <itunes:episode>8</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 18 Aug 2018 08:25:00 +0200</pubDate>
@@ -2648,14 +2729,14 @@ TESTING THIS -->
                
                <itunes:duration>02:24</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>    
 
       <item>
             <!-- 007 -->
             <itunes:episode>7</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 11 Aug 2018 08:25:00 +0200</pubDate>
@@ -2670,14 +2751,14 @@ TESTING THIS -->
                
                <itunes:duration>02:45</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 006 -->
             <itunes:episode>6</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 04 Aug 2018 08:25:00 +0200</pubDate>
@@ -2692,14 +2773,14 @@ TESTING THIS -->
                
                <itunes:duration>02:38</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 005 -->
             <itunes:episode>5</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 28 Jul 2018 08:25:00 +0200</pubDate>
@@ -2714,14 +2795,14 @@ TESTING THIS -->
                
                <itunes:duration>02:23</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
       </item>
 
       <item>
             <!-- 004 -->
             <itunes:episode>4</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 21 Jul 2018 08:25:00 +0200</pubDate>
@@ -2736,7 +2817,7 @@ TESTING THIS -->
                
                <itunes:duration>02:27</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
@@ -2744,7 +2825,7 @@ TESTING THIS -->
       <item>
             <!-- 003 -->
               <itunes:episode>3</itunes:episode>
-               <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+               <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Mon, 16 Jul 2018 08:15:00 +0200</pubDate>
@@ -2759,7 +2840,7 @@ TESTING THIS -->
                
                <itunes:duration>02:29</itunes:duration>
                
-               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
@@ -2767,7 +2848,7 @@ TESTING THIS -->
         <item>
           	<!-- 002 -->
               <itunes:episode>2</itunes:episode>
-              <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+              <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
               <itunes:explicit>no</itunes:explicit>
                
               <pubDate>Sat, 07 Jul 2018 18:20:00 +0200</pubDate>
@@ -2782,14 +2863,14 @@ TESTING THIS -->
                
               <itunes:duration>02:30</itunes:duration>
                
-              <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+              <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
           	<!-- 001 -->
               <itunes:episode>1</itunes:episode>
-              <itunes:author>Lance Zeeman | Solid Gold Studios</itunes:author>
+              <itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
               <itunes:explicit>no</itunes:explicit>
                
               <pubDate>Sat, 30 Jun 2018 09:00:00 +0200</pubDate>
@@ -2804,7 +2885,7 @@ TESTING THIS -->
                
               <itunes:duration>02:30</itunes:duration>
                
-              <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+              <itunes:keywords>Lance Zeeman, Shane 'The Duke' Wellington, Hot 91.9 FM, Weekend Party, Entertainment Report, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
