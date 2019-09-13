@@ -73,7 +73,7 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Fri, 13 Sep 2019 12:56:28 +0200</lastBuildDate>
+<lastBuildDate>Fri, 13 Sep 2019 18:30:00 +0200</lastBuildDate>
 
 
 <item>
@@ -83,8 +83,8 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Podcasting! What you NEED to know. | Dylan Kohlstadt (Shift One Digital | Founder)</title>
-<itunes:title>Podcasting! What you NEED to know. | Dylan Kohlstadt (Shift One Digital | Founder)</itunes:title>
+       <title>Podcasting! Where to start? | Gavin Kennedy and Dylan Kohlstadt</title>
+<itunes:title>Podcasting! Where to start? | Gavin Kennedy and Dylan Kohlstadt</itunes:title>
 <itunes:subtitle>A conversation about the importance and relevance of podcasting.</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
@@ -94,7 +94,7 @@ Recorded and produced at SolidGoldStudios.co.za
 <link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-002-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-002-cover.jpg?ver=2" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Fri, 13 Sep 2019 12:56:28 +0200</pubDate>
