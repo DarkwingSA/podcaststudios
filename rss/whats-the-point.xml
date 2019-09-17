@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>What's The Point?</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=whats-the-point</link>	
+<managingEditor>whats-the-point@solidgoldstudios.co.za (Elan Ressel | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Elan Ressel - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>The guru of reward and loyalty programmes, Elan Ressel, shares his secrets with you on how to maximise the benefit you derive when you spend your hard-earned money.</p>	
+<p>Learn the best tips, tricks, hacks and secrets.</p>	
+<p></p>	
+<p>Recorded and produced at SolidGoldStudios.co.za</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1</url>
+	<title>What's The Point?</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=whats-the-point]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>The guru of reward and loyalty programmes, Elan Ressel, will be sharing his secrets with you on how to maximise the benefit you derive when you spend your hard-earned money.</itunes:subtitle>	
+<itunes:author>Elan Ressel | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+The guru of reward and loyalty programmes, Elan Ressel, shares his secrets with you on how to maximise the benefit you derive when you spend your hard-earned money.	
+	
+Learn the best tips, tricks, hacks and secrets.	
+	
+	
+	
+Recorded and produced at SolidGoldStudios.co.za	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/whats-the-point.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Elan Ressel - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1" />
+	<media:keywords>Elan Ressel, points, loyalty, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>whats-the-point@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>What's The Point?</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Elan Ressel, points, loyalty, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Education">
+
+  <itunes:category text="How To" />
+
+
+</itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Fitness" />
+</itunes:category>
+<itunes:category text="Leisure">
+  <itunes:category text="Hobbies" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>
+<itunes:category text="Technology" />
+
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Tue, 17 Sep 2019 11:30:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Tue, 17 Sep 2019 11:13:40 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Loyalty programs in South Africa - An Introduction - Season 1 Episode 1 -->
+<author>whats-the-point@solidgoldstudios.co.za (Elan Ressel | Solid Gold Podcast Studios)</author>
+<itunes:author>Elan Ressel | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Loyalty programs in South Africa - An Introduction</title>
+<itunes:title>Loyalty programs in South Africa - An Introduction</itunes:title>
+<itunes:subtitle>Are YOU getting the most out of YOUR loyalty programs?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>27:07</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=whats-the-point</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/whats-the-point/wtp-000-cover" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 13 Sep 2019 11:13:40 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this introduction episode, Elan Ressel welcomes listeners to the podcast channel and introduces the concepts he has used in his own life to maximise the loyalty programs he has participated in. This has allowed him, and his family, to have some extraordinary experiences.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this introduction episode, Elan Ressel welcomes listeners to the podcast channel and introduces the concepts he has used in his own life to maximise the loyalty programs he has participated in. This has allowed him, and his family, to have some extraordinary experiences.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:keywords>
+Elan Ressel, loyalty programs, travel hacking, points, miles, South Africa, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/whats-the-point-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="26326976" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/whats-the-point-001-welcome.mp3?ver=1" type="audio/mpeg" length="26326976" />
+
+<guid isPermaLink="false">wtp-001</guid>
+
+</item>
+
+	</channel>
+	</rss>
