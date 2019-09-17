@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
+﻿<?xml version="1.0" encoding="utf-8"?>	
+<rss version="2.0"	
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
-     
-     <channel>
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
 
           <title>QC : The Podcast</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast</link>
@@ -34,7 +35,7 @@
           <itunes:explicit>yes</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Let's talk about it</itunes:subtitle>
-          <itunes:author>QC : The Podcast | Solid Gold Studios</itunes:author>
+          <itunes:author>QC : The Podcast | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>
 Join Ilyaas and Awande (and sometimes Zach too) as they pick apart culture, politics and the latest happenings in human society.
 Sometimes they all agree, most of the time they don’t.
@@ -65,20 +66,95 @@ WARNING: Opinions may vary
 
 <itunes:category text="Society &amp; Culture" />
 	          
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
           <ttl>30</ttl>
           <pubDate>Sat, 29 Jun 2019 19:30:00 +0200</pubDate>
 
 
 
-<lastBuildDate>Fri, 09 Aug 2019 12:23:34 +0200</lastBuildDate>
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Tue, 17 Sep 2019 10:37:01 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 005 - The Prequel - Season 1 Episode 5 -->
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Prequel</title>
+<itunes:title>The Prequel</itunes:title>
+<itunes:subtitle>It’s origins story from the QC boyz. Better late than never!</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>46:16</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/qc/qc-005-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>17 sept, 17 sept 10:37:01 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+
+
+<p>
+We’re back! And the full team is finally reunited! In this week’s episode we take a trip down memory lane and explain our collective origins story as well as why we decided to embark on the creation of this channel. Awande and Zach offer anecdotes on debating and picking up girls while Ilyaas explains how Awande got the nickname “consistenty late”
+</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+We’re back! And the full team is finally reunited! In this week’s episode we take a trip down memory lane and explain our collective origins story as well as why we decided to embark on the creation of this channel. Awande and Zach offer anecdotes on debating and picking up girls while Ilyaas explains how Awande got the nickname “consistenty late”
+</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:keywords>
+origins story, friends, anecdotes, memories, Hilton, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=1" type="audio/mpeg" fileSize="44724518" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=1" type="audio/mpeg" length="44724518" />
+
+<guid isPermaLink="false">qc-005</guid>
+
+</item>
 
 
 
 <item>
 <!-- Sequence 004 - Vague, Contradictory and Nonsensical (Part 2) - Season 1 Episode 4 -->
-<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
-<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -145,8 +221,8 @@ public protector, the president, estina, only fans, mmusi, government, politics,
 
 <item>
 <!-- Sequence 003 - Only God Can Judge Me (Part 1) - Season 1 Episode 3 -->
-<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
-<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -208,8 +284,8 @@ Tad Khoza, Legal Resources Centre, public protector, the president, high court, 
 
 <item>
 <!-- Sequence 002 - Spidey Senses - Season 1 Episode 2 -->
-<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
-<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -268,8 +344,8 @@ Marvel, Spiderman, MCU, phase 4, Quality Control, Avengers, Another Solid Gold P
 
 <item>
 <!-- Sequence 001 - The Sequel - Season 1 Episode 1 -->
-<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios)</author>
-<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Studios</itunes:author>
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
