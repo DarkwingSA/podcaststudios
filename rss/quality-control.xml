@@ -27,7 +27,7 @@
           </description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/quality-control/qc-000-cover.jpg?ver=1</url>
+            <url>https://podcaststudios.co.za/images/qc/qc-000-cover.jpg?ver=2</url>
             <title>QC : The Podcast</title>
             <link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast]]></link>
           </image>
@@ -74,7 +74,7 @@ WARNING: Opinions may vary
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Tue, 17 Sep 2019 10:37:01 +0200</lastBuildDate>
+<lastBuildDate>Wed, 18 Sep 2019 08:30:00 +0200</lastBuildDate>
 
 
 <item>
@@ -142,8 +142,8 @@ We’re back! And the full team is finally reunited! In this week’s episode we
 origins story, friends, anecdotes, memories, Hilton, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=1" type="audio/mpeg" fileSize="44724518" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=1" type="audio/mpeg" length="44724518" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=2" type="audio/mpeg" fileSize="44724518" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-005-the-prequel.mp3?ver=2" type="audio/mpeg" length="44724518" />
 
 <guid isPermaLink="false">qc-005</guid>
 
