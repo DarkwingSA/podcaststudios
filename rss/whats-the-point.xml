@@ -28,7 +28,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1</url>
+	<url>https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg?ver=1</url>
 	<title>What's The Point?</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=whats-the-point]]></link>
 </image>	
@@ -47,12 +47,12 @@ Learn the best tips, tricks, hacks and secrets.
 Recorded and produced at SolidGoldStudios.co.za	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/whats-the-point.xml" rel="self" type="application/rss+xml" />
 	
 	<media:copyright>© Elan Ressel - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg?ver=1" />
 	<media:keywords>Elan Ressel, points, loyalty, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -108,7 +108,7 @@ Recorded and produced at SolidGoldStudios.co.za
 <link>https://solidgoldstudios.co.za/channel.php?title=whats-the-point</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/whats-the-point/wtp-000-cover" />
+<itunes:image href="http://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Fri, 13 Sep 2019 11:13:40 +0200</pubDate>
@@ -157,8 +157,8 @@ In this introduction episode, Elan Ressel welcomes listeners to the podcast chan
 Elan Ressel, loyalty programs, travel hacking, points, miles, South Africa, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/whats-the-point-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="26326976" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/whats-the-point-001-welcome.mp3?ver=1" type="audio/mpeg" length="26326976" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="26326976" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-001-welcome.mp3?ver=1" type="audio/mpeg" length="26326976" />
 
 <guid isPermaLink="false">wtp-001</guid>
 
