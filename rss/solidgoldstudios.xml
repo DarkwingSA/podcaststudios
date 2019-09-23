@@ -10,7 +10,7 @@
   
 <channel> 
   
-<title>Solid Gold Studios</title> 
+<title>Solid Gold Podcast Studios</title> 
 <link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
 <managingEditor>solidgoldstudios@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</managingEditor> 
 <language>en-za</language>  
@@ -29,7 +29,7 @@
   
 <image> 
   <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1</url>
-  <title>Solid Gold Studios</title>
+  <title>Solid Gold Podcast Studios</title>
   <link><![CDATA[<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>]]></link>
 </image>  
   
@@ -53,7 +53,7 @@ Recorded and produced at SolidGoldStudios.co.za
   
   <itunes:owner>
   <itunes:email>solidgoldstudios@solidgoldstudios.co.za</itunes:email>
-  <itunes:name>Solid Gold Studios</itunes:name>
+  <itunes:name>Solid Gold Podcast Studios</itunes:name>
   </itunes:owner>
   
   <itunes:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -73,7 +73,7 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Fri, 13 Sep 2019 18:30:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 23 Sep 2019 09:00:00 +0200</lastBuildDate>
 
 
 <item>
@@ -155,7 +155,7 @@ dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gav
 
              <!-- Episode 001 -->
              <itunes:episode>1</itunes:episode>             
-             <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+             <itunes:author>Gavin Kennedy | Solid Gold Podcast Studios</itunes:author>
              <itunes:explicit>no</itunes:explicit>
             
              <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
@@ -186,7 +186,7 @@ dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gav
                <itunes:duration>02:21</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Corrie Pitzer, Story-telling, another Solid Gold Studios porcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Corrie Pitzer, Story-telling, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
 
         </item>
 
