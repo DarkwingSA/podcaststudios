@@ -1,158 +1,41 @@
-  	
-<rss version="2.0"	
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	
-<channel>	
-	
-<title>Education Incorporated Boutique School</title>	
-<link>https://solidgoldstudios.co.za/channel.php?title=education-incorporated</link>	
-<managingEditor>eduinc@solidgoldstudios.co.za (EduInc Private School | Solid Gold Podcast Studios)</managingEditor>	
-<language>en-za</language>	
-<generator>Solid Gold Podcast Studios 2.0</generator>	
-<docs>https://solidgoldstudios.co.za</docs>	
-	
-<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
-	
-<copyright>© EduInc Private School - all rights reserved</copyright>	
-	<description><![CDATA[
-<p>From Education Incorporated Boutique School (EduInc) in Fourways South Africa, comes a selection of productions from the language departments, as well as useful news, interviews, discussions, case studies and lesson outputs.</p>	
-<p></p>	
-<p></p>	
-<p>Recorded and produced at SolidGoldStudios.co.za</p>	
-	]]></description>
-	
-<image>	
-	<url>https://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg?ver=1</url>
-	<title>Education Incorporated Boutique School</title>
-	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=education-incorporated]]></link>
-</image>	
-	
-<itunes:explicit>no</itunes:explicit>	
-<itunes:type>episodic</itunes:type>	
-<itunes:subtitle>An insight into how EduInc helps prepare its pupils for the world beyond school.</itunes:subtitle>	
-<itunes:author>EduInc Private School | Solid Gold Podcast Studios</itunes:author>	
-	<itunes:summary><![CDATA[
-From Education Incorporated Boutique School (EduInc) in Fourways South Africa, comes a selection of productions from the language departments, as well as useful news, interviews, discussions, case studies and lesson outputs.	
-	
-Produced by SolidGoldStudios.co.za	
-	]]></itunes:summary>
-	
-	<itunes:image href="https://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg?ver=1" />
-	
-	<atom:link href="https://podcaststudios.co.za/rss/eduinc.xml" rel="self" type="application/rss+xml" />
-	
-	<media:copyright>© EduInc Private School - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg?ver=1" />
-	<media:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
-	
-	<itunes:owner>
-	<itunes:email>eduinc@solidgoldstudios.co.za</itunes:email>
-	<itunes:name>Education Incorporated Boutique School</itunes:name>
-	</itunes:owner>
-	
-	<itunes:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
-	
-<itunes:category text="Business">
-  <itunes:category text="Entrepreneurship" />
-</itunes:category>
-<itunes:category text="Education" />
-<itunes:category text="Kids &amp; Family">
-  <itunes:category text="Parenting" />
-</itunes:category>
-	
-	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
-	<ttl>30</ttl>
-	<pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+          <atom:link href="https://podcaststudios.co.za/rss/eduinccreativearts.xml" rel="self" type="application/rss+xml" />
 
-	<itunes:complete>no</itunes:complete>
+          <lastBuildDate>Fri, 15 Feb 2019 07:10:00 +0200</lastBuildDate>
+          <ttl>30</ttl>
 
+          <title>Education Incorporated Boutique School</title>
+          <link>https://solidgoldstudios.co.za/channel.php?title=education-incorporated</link>
+          <language>en-za</language>
+          <copyright>© Education Incorporated and Solid Gold Studios - all rights reserved</copyright>
+          <description>Education Incorporated Boutique School</description>
+          <itunes:subtitle>Education Incorporated Boutique School</itunes:subtitle>
+          <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
+          <itunes:summary>From Education Incorporated Boutique School comes a selection of productions from the Creative Arts and Language Departments, as well as useful news, interviews, discussions and case studies.</itunes:summary>
+          
+          <itunes:category text="Education" />
+          
+          <itunes:explicit>no</itunes:explicit>
 
-<lastBuildDate>Thu, 26 Sep 2019 14:55:23 +0200</lastBuildDate>
+          <itunes:owner>
+               <itunes:name>Education Incorporated | Solid Gold Studios</itunes:name>
+               <itunes:email>eduinc@solidgoldstudios.co.za</itunes:email>
+          </itunes:owner>
 
-
-<item>
-<!-- Sequence 008 - English Poetry Reading | 2019 Grade 8s - Season 1 Episode 8 -->
-<author>eduinc@solidgoldstudios.co.za (EduInc Private School | Solid Gold Podcast Studios)</author>
-<itunes:author>EduInc Private School | Solid Gold Podcast Studios</itunes:author>
-
-<itunes:episodeType>full</itunes:episodeType>
-
-       <title>English Poetry Reading | 2019 Grade 8s</title>
-<itunes:title>English Poetry Reading | 2019 Grade 8s</itunes:title>
-<itunes:subtitle>Our 2019 Grade 8s complete an English poetry task</itunes:subtitle>
-
-<itunes:explicit>no</itunes:explicit>
-<itunes:season>1</itunes:season>
-<itunes:episode>8</itunes:episode>
-<itunes:duration>11:14</itunes:duration>
-<link>https://solidgoldstudios.co.za/channel.php?title=education-incorporated</link>
-
-<!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg" />
-<!-- Use DEFAULT image -->
-
-<pubDate>Thu, 26 Sep 2019 14:55:23 +0200</pubDate>
-
-<description><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
-<p>
-Mr Galanakis and Mrs Ostrowick, EduInc English teachers, share their pupils' poetry task with us.
-</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Find out more about this leading school and how your child could benefit from its small classes and affordable private education. <a href="http://educationincorporated.co.za">http://educationincorporated.co.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
-<!-- SELECTED FOOTER LOGO -->
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<!-- SELECTED FOOTER LOGO -->
-]]></description>
-
-<content:encoded><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
-<p>
-Mr Galanakis and Mrs Ostrowick, EduInc English teachers, share their pupils' poetry task with us.
-</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Find out more about this leading school and how your child could benefit from its small classes and affordable private education. <a href="http://educationincorporated.co.za">http://educationincorporated.co.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
-<!-- SELECTED FOOTER LOGO -->
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<!-- SELECTED FOOTER LOGO -->
-]]></content:encoded>
-
-<itunes:keywords>
-poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
-</itunes:keywords>
-
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-008-english-poetry-2019-gr-8.mp3?ver=1" type="audio/mpeg" fileSize="11086115" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-008-english-poetry-2019-gr-8.mp3?ver=1" type="audio/mpeg" length="11086115" />
-
-<guid isPermaLink="false">eduinc-008</guid>
-
-</item>
+          <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduthink-cover-000.jpg?=v2" />
 
           <item>
                <!-- 007 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
@@ -174,16 +57,15 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>02:01</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>7</itunes:episode>   
                <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />            
-               <itunes:keywords>Children need the structure and predictability, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>Children need the structure and predictability, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
 
           <item>
                <!-- 006 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
@@ -205,16 +87,15 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>03:04</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>6</itunes:episode>
                <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />               
-               <itunes:keywords>finding the right school, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>finding the right school, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
 
           <item>
                <!-- 005 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
@@ -236,16 +117,15 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>02:52</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>5</itunes:episode>               
-               <itunes:keywords>ipdas, technology, digital coloured chalk, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>ipdas, technology, digital coloured chalk, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
 
 
           <item>
                <!-- 004 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:30:00 +0200</pubDate>
@@ -267,17 +147,16 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>01:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>4</itunes:episode>
                <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-002-book-cover.jpg" />               
-               <itunes:keywords>Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
 
 
           <item>
                <!-- 003 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Wed, 21 Nov 2018 11:30:00 +0200</pubDate>
@@ -298,15 +177,14 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>27:30</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>3</itunes:episode>               
-               <itunes:keywords>Cognitive Levels, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>Cognitive Levels, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy, #BeHeard</itunes:keywords>
                
           </item>
 
           <item>
           	<!-- 002 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Tue, 13 Nov 2018 10:40:00 +0200</pubDate>
@@ -327,15 +205,14 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>00:30</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-               <itunes:season>1</itunes:season>
                <itunes:episode>2</itunes:episode>               
-               <itunes:keywords>Malcolm Gooding, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold production, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Malcolm Gooding, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold production, Gavin Kennedy</itunes:keywords>
                
           </item>
 
           <item>
           	<!-- 001 -->
-               <itunes:author>Education Incorporated Boutique School | Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher | Solid Gold Podcast Studios</itunes:author>
+               <itunes:author>Education Incorporated Boutique School | Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher | Solid Gold Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                <itunes:season>1</itunes:season>
                <itunes:episode>1</itunes:episode>
@@ -358,9 +235,8 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                
                <itunes:duration>2:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
-
                <itunes:episode>1</itunes:episode>
-               <itunes:keywords>Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher, Education Incorporated Boutique School, Education, School, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher, Education Incorporated Boutique School, Education, School, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                
           </item>
 
