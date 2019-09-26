@@ -73,7 +73,7 @@ Produced by SolidGoldStudios.co.za
 	<itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Thu, 26 Sep 2019 14:55:23 +0200</lastBuildDate>
+<lastBuildDate>Thu, 26 Sep 2019 15:15:00 +0200</lastBuildDate>
 
 
 <item>
@@ -352,7 +352,10 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
                	]]></description>
                <itunes:summary>From Education Incorporated Grade 9s (2018) comes a radio drama about a missing member of the Flat Earth Society.</itunes:summary>
 
-               <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3" type="audio/mpeg" length="5720012" />
+				<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3?ver=2" type="audio/mpeg" fileSize="5720012" />
+    			    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3?ver=2" type="audio/mpeg" length="5720012" />
+
+
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-grade-9-radio-drama-2018.mp3</guid> -->
                <guid isPermaLink="false">eduinc001</guid>
                
