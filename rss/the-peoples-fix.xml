@@ -1,0 +1,165 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>The People's Fix</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix</link>	
+<managingEditor>the-peoples-fix@solidgoldstudios.co.za (Action 24 | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Action 24 - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Action 24 - Active Citizens for Responsive Legislatures, an initiative co-funded by the European Union and the Friedrich Ebert Stiftung, has been engaging civil society organisations, the media, the Provincial Legislatures, and you - the citizens of South Africa - on ways that we can work together for a more effective governance system, in which our elected representatives ensure that the people have the last say when it comes to the decisions that affect their future.</p>	
+<p>Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy.</p>	
+<p>But what are they? Why are they important? And, how exactly do they work?</p>	
+<p>Recorded and produced at SolidGoldStudios.co.za</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1</url>
+	<title>The People's Fix</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>serial</itunes:type>	
+<itunes:subtitle>Ask yourself and those around you: do you know who represents you in the national and provincial legislatures? How many of us even know how these institutions function?</itunes:subtitle>	
+<itunes:author>Action 24 | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+Action 24 - Active Citizens for Responsive Legislatures, an initiative co-funded by the European Union and the Friedrich Ebert Stiftung, has been engaging civil society organisations, the media, the Provincial Legislatures, and you - the citizens of South Africa - on ways that we can work together for a more effective governance system, in which our elected representatives ensure that the people have the last say when it comes to the decisions that affect their future.	
+	
+Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy.	
+	
+But what are they? Why are they important? And, how exactly do they work?	
+	
+Recorded and produced at SolidGoldStudios.co.za	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/the-peoples-fix.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Action 24 - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1" />
+	<media:keywords>Action 24, Africa Climate Reality Project, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>the-peoples-fix@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>The People's Fix</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Action 24, Africa Climate Reality Project, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business">
+  <itunes:category text="Non-Profit" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="How To" />
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Documentary" />
+</itunes:category>
+<itunes:category text="Government" />
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Thu, 03 Oct 2019 09:00:00 +0200</pubDate>
+
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Thu, 03 Oct 2019 08:52:06 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - 1 | The Legislature - Season 1 Episode 1 -->
+<author>the-peoples-fix@solidgoldstudios.co.za (Action 24 | Solid Gold Podcast Studios)</author>
+<itunes:author>Action 24 | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>1 | The Legislature</title>
+<itunes:title>1 | The Legislature</itunes:title>
+<itunes:subtitle>Every five years South Africans elect representatives to sit in Parliament.</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>33:51</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 03 Oct 2019 08:52:06 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
+But what are they? Why are they important? And, how exactly do they work?
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="http://climatereality.co.za/legislatures-action-24/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
+<img src="https://podcaststudios.co.za/images/the-peoples-fix/action-24-64.jpg?ver=1" alt="Action 24" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
+But what are they? Why are they important? And, how exactly do they work?
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">SolidGoldStudios.co.za</a></p>
+<!-- SELECTED FOOTER LOGO -->
+<p><a href="http://climatereality.co.za/legislatures-action-24/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
+<img src="https://podcaststudios.co.za/images/the-peoples-fix/action-24-64.jpg?ver=1" alt="Action 24" height="32px" /></a></p>
+<!-- SELECTED FOOTER LOGO -->
+]]></content:encoded>
+
+<itunes:keywords>
+Legislature, Action 24, African CLimate Reality Project, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=1" type="audio/mpeg" fileSize="32724461" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=1" type="audio/mpeg" length="32724461" />
+
+<guid isPermaLink="false">fix-001</guid>
+
+</item>
+
+</channel>
+</rss>
