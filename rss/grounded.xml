@@ -74,11 +74,11 @@
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Wed, 16 Oct 2019 12:20:45 +0200</lastBuildDate>
+<lastBuildDate>Wed, 16 Oct 2019 12:26:45 +0200</lastBuildDate>
 
 
 <item>
-<!-- Sequence 047 - Our blood is Green - celebrating Garden day | Cary Goodwin (PR Life is a Garden | Horticulturalist at Peebles Plants and Colourful Group) - Season 2 Episode 44 -->
+<!-- Sequence 048 - Our blood is Green - celebrating Garden day | Cary Goodwin (PR Life is a Garden | Horticulturalist at Peebles Plants and Colourful Group) - Season 2 Episode 45 -->
 <author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
 <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
 
@@ -90,15 +90,15 @@
 
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>2</itunes:season>
-<itunes:episode>44</itunes:episode>
-<itunes:duration></itunes:duration>
+<itunes:episode>45</itunes:episode>
+<itunes:duration>28:24</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-047-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-048-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
-<pubDate>Wed, 16 Oct 2019 12:20:45 +0200</pubDate>
+<pubDate>Wed, 16 Oct 2019 12:26:45 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
@@ -136,13 +136,12 @@ Sunday 20 October is Garden Day this year. Cary Goodwin and I give you all the h
 Life is a Garden, horticulture, GardenDay, gardens on show, open days, hanging baskets, bougainvillea, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-047-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-047-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-048-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="27472854" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-048-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="27472854" />
 
-<guid isPermaLink="false">grounded-047</guid>
+<guid isPermaLink="false">grounded-048</guid>
 
 </item>
-
 
 <item>
 <!-- Sequence 047 - #AreYouGoingToRecycleThat? | Donna-Mari Noble (MPact | Communications Manager) - Season 2 Episode 44 -->
