@@ -1,164 +1,78 @@
-<rss version="2.0"	
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	
-<channel>	
-	
-<title>Network | Women in Mining South Africa</title>	
-<link>https://solidgoldstudios.co.za/channel.php?title=network</link>	
-<managingEditor>wimsa@solidgoldstudios.co.za (WiMSA Women in Mining South Africa | Solid Gold Podcast Studios)</managingEditor>	
-<language>en-za</language>	
-<generator>Solid Gold Podcast Studios 2.0</generator>	
-<docs>https://solidgoldstudios.co.za</docs>	
-	
-<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
-	
-<copyright>© WiMSA Women in Mining South Africa - all rights reserved</copyright>	
-	<description><![CDATA[
-<p>WiMSA creates an empowering network to inspire, support, and develop the progression of women working in the South African mining industry.</p>	
-<p></p>	
-<p></p>	
-<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
-	]]></description>
-	
-<image>	
-	<url>https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg?ver=1</url>
-	<title>Network | Women in Mining South Africa</title>
-	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=network]]></link>
-</image>	
-	
-<itunes:explicit>no</itunes:explicit>	
-<itunes:type></itunes:type>	
-<itunes:subtitle>Empowering women in the South African mining industry</itunes:subtitle>	
-<itunes:author>WiMSA Women in Mining South Africa | Solid Gold Podcast Studios</itunes:author>	
-	<itunes:summary><![CDATA[
-WiMSA creates an empowering network to inspire, support, and develop the progression of women working in the South African mining industry.	
-	
-Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
-	]]></itunes:summary>
-	
-	<itunes:image href="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg?ver=1" />
-	
-	<atom:link href="https://podcaststudios.co.za/rss/wimsa.xml" rel="self" type="application/rss+xml" />
-	
-	<media:copyright>© WiMSA Women in Mining South Africa - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg?ver=1" />
-	<media:keywords>WiMSA, women in mining south africa, Petro du Pisani, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard</media:keywords>
-	
-	<itunes:owner>
-	<itunes:email>wimsa@solidgoldstudios.co.za</itunes:email>
-	<itunes:name>Network | Women in Mining South Africa</itunes:name>
-	</itunes:owner>
-	
-	<itunes:keywords>WiMSA, women in mining south africa, Petro du Pisani, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
-	
-<itunes:category text="Business">
-  <itunes:category text="Careers" />
-  <itunes:category text="Non-Profit" />
-</itunes:category>
-<itunes:category text="Education">
-  <itunes:category text="Self-Improvement" />
-</itunes:category>
-	
-	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
-	<ttl>30</ttl>
-	<pubDate>Thu, 06 Dec 2018 14:00:00 +0200</pubDate>
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
 
-
-<itunes:complete>no</itunes:complete>
-
-
-
-<lastBuildDate>Sun, 20 Oct 2019 18:07:05 +0200</lastBuildDate>
-
-
-<item>
-<!-- Sequence 006 - How women bring value to the mining sector | Rumisha Motilal - Season 1 Episode 6 -->
-<author>wimsa@solidgoldstudios.co.za (WiMSA Women in Mining South Africa | Solid Gold Podcast Studios)</author>
-<itunes:author>WiMSA Women in Mining South Africa | Solid Gold Podcast Studios</itunes:author>
-
-<itunes:episodeType>full</itunes:episodeType>
-
-       <title>How women bring value to the mining sector | Rumisha Motilal</title>
-<itunes:title>How women bring value to the mining sector | Rumisha Motilal</itunes:title>
-<itunes:subtitle>A more diverse workforce unlocks more value in the mining industry</itunes:subtitle>
-
-<itunes:explicit>no</itunes:explicit>
-<itunes:season>1</itunes:season>
-<itunes:episode>6</itunes:episode>
-<itunes:duration>28:07</itunes:duration>
-<link>https://solidgoldstudios.co.za/channel.php?title=network</link>
-
-<!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
-<!-- Use DEFAULT image -->
-
-<pubDate>Sun, 20 Oct 2019 18:07:05 +0200</pubDate>
-
-<description><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+          <title>Network | Women in Mining South Africa (WiMSA)</title>
+          <link>https://solidgoldstudios.co.za/channel.php?title=network</link>
+          <managingEditor>wimsa@solidgoldstudios.co.za (WiMSA Network | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <description>
+<![CDATA[
 <p>
-In this episode Petro du Pisani (WiMSA) speaks to Rumisha Motilal about the outcomes of her MBA dissertation, where she asked the question: " Do women add value in the mining sector." This podcast is a follow-on from a women's day event hosted by WiMSA at Anglo American's Centre for Experiential Learning in August. Rumisha also gives some handy tips on things that women can start doing tomorrow to advance in their careers.
+WiMSA creates an empowering network to inspire, support, and develop the progression of women working in the South African mining industry.
 </p>
-<br />
-<p>Connect with Rumisha Motilal on her website <a href="http://rumishamotilal.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">http://rumishamotilal.co.za/</a></p>
-<p> <a href="?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description"></a></p>
-<p>Music Used : Music used in this podcast is the track Faith by Vibe Tracks, in the Youtube's Audio Library</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Connect with WiMSA on LinkedIn <a href="https://www.linkedin.com/company/women-in-mining-south-africa/">/women-in-mining-south-africa</a></p>
-<p>Follow WiMSA on Facebook <a href="https://www.facebook.com/WomenInMiningSouthAfrica/">/WomenInMiningSouthAfrica</a></p>
-<p>For more information, and to become a member, visit our website <a href="https://wimsa.org.za/?utm_source=Solid%20Gold%20Podcast%20Studios&utm_medium=Network%20Podcast">WiMSA.org.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-]]></description>
-
-<content:encoded><![CDATA[
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-In this episode Petro du Pisani (WiMSA) speaks to Rumisha Motilal about the outcomes of her MBA dissertation, where she asked the question: " Do women add value in the mining sector." This podcast is a follow-on from a women's day event hosted by WiMSA at Anglo American's Centre for Experiential Learning in August. Rumisha also gives some handy tips on things that women can start doing tomorrow to advance in their careers.
+To become a member or supporter, visit <a href="https://wimsa.org.za">wimsa.org.za</a>
 </p>
-<br />
-<p>Connect with Rumisha Motilal on her website <a href="http://rumishamotilal.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">http://rumishamotilal.co.za/</a></p>
-<p> <a href="?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description"></a></p>
+<p>
+<a rel="payment" href="https://www.paypal.me/gakennedy">Make a donation to WiMSA</a>
+</p>
+]]>
 
-<p>Music Used : Music used in this podcast is the track Faith by Vibe Tracks, in the Youtube's Audio Library</p>
-<br />
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Connect with WiMSA on LinkedIn <a href="https://www.linkedin.com/company/women-in-mining-south-africa/">/women-in-mining-south-africa</a></p>
-<p>Follow WiMSA on Facebook <a href="https://www.facebook.com/WomenInMiningSouthAfrica/">/WomenInMiningSouthAfrica</a></p>
-<p>For more information, and to become a member, visit our website <a href="https://wimsa.org.za/?utm_source=Solid%20Gold%20Podcast%20Studios&utm_medium=Network%20Podcast">WiMSA.org.za</a></p>
-<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<br />
-<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
-<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
-]]></content:encoded>
+          </description>
 
-<itunes:keywords>
-Rumisha Motilal, Petro du Pisani, WiMSA, empower women, women in mining, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
-</itunes:keywords>
+          <image>
+            <url>https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg</url>
+            <title>WiMSA Network Podcast</title>
+            <link>https://solidgoldstudios.co.za/channel.php?title=network</link>
+          </image>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/wimsa/wimsa-006-rumisha-motilal.mp3?ver=1" type="audio/mpeg" fileSize="27587338" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/wimsa/wimsa-006-rumisha-motilal.mp3?ver=1" type="audio/mpeg" length="27587338" />
+          <itunes:explicit>clean</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Empowering Women in the South African Mining Industry</itunes:subtitle>
+          <itunes:author>WiMSA | Solid Gold Studios</itunes:author>
+          <itunes:summary>WiMSA creates an empowering network to inspire, support, and develop the progression of women working in the South African mining industry.</itunes:summary>
 
-<guid isPermaLink="false">wimsa-006</guid>
+          <itunes:image href="http://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
 
-</item>
+          <atom:link href="https://podcaststudios.co.za/rss/wimsa.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
+          <media:keywords>WiMSA, women in mining, network,Petro du Pisani, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+          
+          <!-- <media:category>Business</media:category> -->
+          <itunes:category text="Business">
+          <itunes:category text="Careers" />
+          </itunes:category>
+
+          <itunes:owner>
+               <itunes:email>wimsa@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>WiMSA | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>WiMSA, women in mining, network, Petro du Pisani, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+          <itunes:category text="Business" />
+
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy)</webMaster>
+
+          <ttl>30</ttl>
+
+
+<lastBuildDate>Sat, 01 Jun 2019 14:40:00 +0200</lastBuildDate>
+
 
 
 <item>
