@@ -1,0 +1,152 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>#BlueFlame by Bryanston High</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>	
+<managingEditor>blue-flame@solidgoldstudios.co.za (Bryanston High School | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Bryanston High School - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>MISSION STATEMENT Bryanston High School strives to provide quality education within a caring environment that balances the pursuit of academic excellence and the development of life skills, so as to empower all of the learners to achieve their potential and meet the challenges of a dynamic society as responsible citizens.</p>	
+<p>VISION It is the school's vision that each matriculant leaving Bryanston High School will leave with a sound academic foundation, will have participated actively in various spheres of the school, will have learnt morals, respect and represent all that is noble and good within the community of Bryanston. Each matriculant will wear their uniform with pride and upon leaving the school their achievements will enable us to wish them well for their bright futures.</p>	
+<p>VALUES Honesty, integrity and tolerance; Respect for self, others and the environment; Faith and spirituality; Courtesy and manners; Commitment and responsibility</p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2</url>
+	<title>#BlueFlame by Bryanston High</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=blue-flame]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>News and updates from the Top School in the Johannesburg northern suburbs</itunes:subtitle>	
+<itunes:author>Bryanston High School | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+MISSION STATEMENT Bryanston High School strives to provide quality education within a caring environment that balances the pursuit of academic excellence and the development of life skills, so as to empower all of the learners to achieve their potential and meet the challenges of a dynamic society as responsible citizens.	
+	
+VISION It is the school's vision that each matriculant leaving Bryanston High School will leave with a sound academic foundation, will have participated actively in various spheres of the school, will have learnt morals, respect and represent all that is noble and good within the community of Bryanston. Each matriculant will wear their uniform with pride and upon leaving the school their achievements will enable us to wish them well for their bright futures.	
+	
+VALUES Honesty, integrity and tolerance; Respect for self, others and the environment; Faith and spirituality; Courtesy and manners; Commitment and responsibility
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/blue-flame.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Bryanston High School - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2" />
+	<media:keywords>Bryanston High School, John Skelton, Blue Flame, #BlueFlame, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>blue-flame@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>#BlueFlame by Bryanston High</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Bryanston High School, John Skelton, Blue Flame, #BlueFlame, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Education" />
+<itunes:category text="Kids &amp; Family">
+  <itunes:category text="Education for Kids" />
+  <itunes:category text="Parenting" />
+</itunes:category>
+<itunes:category text="Sports" />
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Tue, 22 Oct 2019 09:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Tue, 22 Oct 2019 10:20:00 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - White Blazers, Hockey Astro, and an Awesome Team! | John Skelton, Nadia Karczmarczyk, Storm Ripley-Evans, Andy Crighton - Season 1 Episode 1 -->
+<author>blue-flame@solidgoldstudios.co.za (Bryanston High School | Solid Gold Podcast Studios)</author>
+<itunes:author>Bryanston High School | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>White Blazers, Hockey Astro, and an Awesome Team! | John Skelton, Nadia Karczmarczyk, Storm Ripley-Evans, Andy Crighton</title>
+<itunes:title>White Blazers, Hockey Astro, and an Awesome Team! | John Skelton, Nadia Karczmarczyk, Storm Ripley-Evans, Andy Crighton</itunes:title>
+<itunes:subtitle>Catch up on the Bryanston High School news, directly from the Headmaster</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>13:05</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 22 Oct 2019 10:03:41 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/blue-flame/bryanston-high-64.jpg?ver=1" alt="Bryanston High School" height="32px" /></a></p>
+<p><a href="tel:+27117066010">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/call-us-now-64.png?ver=1" alt="Call Us Now" height="32px" /></a></p>
+<p>
+In our first ever #BlueFlame podcast newsletter, Headmaster John Skelton talks to some of his School Management Team (SMT) about one of the highlights of his year (White Blazer Assembly), the new Hockey Astro, new staff, and preparing for exams.
+</p>
+<p>Music Used : Earning Happiness | https://johnbartmann.com/music/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the school's website <a href="https://www.bryanston.com/">https://www.bryanston.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/blue-flame/bryanston-high-64.jpg?ver=1" alt="Bryanston High School" height="32px" /></a></p>
+<p><a href="tel:+27117066010">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/call-us-now-64.png?ver=1" alt="Call Us Now" height="32px" /></a></p>
+<p>
+In our first ever #BlueFlame podcast newsletter, Headmaster John Skelton talks to some of his School Management Team (SMT) about one of the highlights of his year (White Blazer Assembly), the new Hockey Astro, new staff, and preparing for exams.
+</p>
+<p>Music Used : Earning Happiness | https://johnbartmann.com/music/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the school's website <a href="https://www.bryanston.com/">https://www.bryanston.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Hockey Astro Turf, Nadia Karczmarczyk, Storm Ripley-Evans, Andy Crighton, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/blue-flame/blue-flame-001-white-blazers.mp3?ver=1" type="audio/mpeg" fileSize="12965071" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/blue-flame/blue-flame-001-white-blazers.mp3?ver=1" type="audio/mpeg" length="12965071" />
+
+<guid isPermaLink="false">blue-flame-001</guid>
+
+</item>	
+	</channel>
+	</rss>
