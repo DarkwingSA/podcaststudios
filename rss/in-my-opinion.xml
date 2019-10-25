@@ -1,0 +1,159 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>In My Opinion with Luyanda and Mom Jean</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=in-my-opinion</link>	
+<managingEditor>in-my-opinion@solidgoldstudios.co.za (Luyanda Sibisi | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Luyanda Sibisi - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Mother and daughter duo Jean and Luyanda are generations apart but they come together to talk about things that interest them ranging from self love, fitness, dating/marriage and pop culture.</p>	
+<p>Their unique bond makes for an exciting show riddled with moments of humour, deep reflection and learning.</p>	
+<p></p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-000-cover.jpg?ver=1</url>
+	<title>In My Opinion with Luyanda and Mom Jean</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=in-my-opinion]]></link>
+</image>	
+	
+<itunes:explicit>yes</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Join mother and daughter duo Jean and Luyanda as they talk about things that interest them ranging from self love, fitness, dating/marriage and pop culture.</itunes:subtitle>	
+<itunes:author>Luyanda Sibisi | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+Mother and daughter duo Jean and Luyanda are generations apart but they come together to talk about things that interest them ranging from self love, fitness, dating/marriage and pop culture.	
+	
+Their unique bond makes for an exciting show riddled with moments of humour, deep reflection and learning.	
+	
+	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/in-my-opinion.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Luyanda Sibisi - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-000-cover.jpg?ver=1" />
+	<media:keywords>In My Opinion, Jean, Luyanda, Self love, authenticity, mother/daughter duo, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>in-my-opinion@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>In My Opinion with Luyanda and Mom Jean</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>In My Opinion, Jean, Luyanda, Self love, authenticity, mother/daughter duo, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Mental Health" />
+</itunes:category>
+
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Spirituality" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Wed, 23 Oct 2019 12:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Fri, 25 Oct 2019 14:34:30 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Happy Birthday Mom Jean - Season 1 Episode 1 -->
+<author>in-my-opinion@solidgoldstudios.co.za (Luyanda Sibisi | Solid Gold Podcast Studios)</author>
+<itunes:author>Luyanda Sibisi | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Happy Birthday Mom Jean</title>
+<itunes:title>Happy Birthday Mom Jean</itunes:title>
+<itunes:subtitle>Jean turns 50! Our first episode is dedicated to her story.</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>01:15:38</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=in-my-opinion</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-001-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 24 Oct 2019 14:34:30 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27834065067&text=%5Bpodcast%5D%20Hello%20Luyanda...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+It’s the first episode! Get to know the mother and daughter duo, Jean and Luyanda. Jean shares an in-depth account of her story in honor of her birthday to reflect on her full life of lessons, learning and growth. Luyanda shares her story to and the inspiration behind why they started the podcast.
+</p>
+<p>Music Used : Inspiring Soft Background | Storyblocks Audio</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow us on Instagram <a href="https://www.instagram.com/Inmyopinionpodcast/">https://www.instagram.com/Inmyopinionpodcast/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27834065067&text=%5Bpodcast%5D%20Hello%20Luyanda...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+It’s the first episode! Get to know the mother and daughter duo, Jean and Luyanda. Jean shares an in-depth account of her story in honor of her birthday to reflect on her full life of lessons, learning and growth. Luyanda shares her story to and the inspiration behind why they started the podcast.
+</p>
+<p>Music Used : Inspiring Soft Background | Storyblocks Audio</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow us on Instagram <a href="https://www.instagram.com/Inmyopinionpodcast/">https://www.instagram.com/Inmyopinionpodcast/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Mother, daughter, self love, authentic living, living brave, self discovery, growth, lesson learned, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=2" type="audio/mpeg" fileSize="72613150" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=2" type="audio/mpeg" length="72613150" />
+
+<guid isPermaLink="false">in-my-opinion-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
