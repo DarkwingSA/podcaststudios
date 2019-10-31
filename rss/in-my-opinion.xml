@@ -80,7 +80,11 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 <itunes:complete>no</itunes:complete>
 
+<<<<<<< HEAD
 <lastBuildDate>Thu, 24 Oct 2019 12:15:46 +0200</lastBuildDate>
+=======
+<lastBuildDate>Fri, 25 Oct 2019 14:34:30 +0200</lastBuildDate>
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 
 
 <item>
@@ -97,14 +101,22 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:explicit>yes</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
+<<<<<<< HEAD
 <itunes:duration>58:38</itunes:duration>
+=======
+<itunes:duration>01:15:38</itunes:duration>
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 <link>https://solidgoldstudios.co.za/channel.php?title=in-my-opinion</link>
 
 <!-- Use EPISODE-SPECIFIC image -->
 <itunes:image href="http://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-001-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
+<<<<<<< HEAD
 <pubDate>Thu, 24 Oct 2019 12:15:46 +0200</pubDate>
+=======
+<pubDate>Thu, 24 Oct 2019 14:34:30 +0200</pubDate>
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20In%20My%20Opinion">
@@ -114,6 +126,10 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <p>
 It’s the first episode! Get to know the mother and daughter duo, Jean and Luyanda. Jean shares an in-depth account of her story in honor of her birthday to reflect on her full life of lessons, learning and growth. Luyanda shares her story to and the inspiration behind why they started the podcast.
 </p>
+<<<<<<< HEAD
+=======
+<p>Music Used : Inspiring Soft Background | Storyblocks Audio</p>
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <p>Follow us on Instagram <a href="https://www.instagram.com/Inmyopinionpodcast/">https://www.instagram.com/Inmyopinionpodcast/</a></p>
@@ -132,6 +148,10 @@ It’s the first episode! Get to know the mother and daughter duo, Jean and Luya
 <p>
 It’s the first episode! Get to know the mother and daughter duo, Jean and Luyanda. Jean shares an in-depth account of her story in honor of her birthday to reflect on her full life of lessons, learning and growth. Luyanda shares her story to and the inspiration behind why they started the podcast.
 </p>
+<<<<<<< HEAD
+=======
+<p>Music Used : Inspiring Soft Background | Storyblocks Audio</p>
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <p>Follow us on Instagram <a href="https://www.instagram.com/Inmyopinionpodcast/">https://www.instagram.com/Inmyopinionpodcast/</a></p>
@@ -146,8 +166,13 @@ It’s the first episode! Get to know the mother and daughter duo, Jean and Luya
 Mother, daughter, self love, authentic living, living brave, self discovery, growth, lesson learned, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
+<<<<<<< HEAD
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=1" type="audio/mpeg" fileSize="56356305" />
     <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=1" type="audio/mpeg" length="56356305" />
+=======
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=2" type="audio/mpeg" fileSize="72613150" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/in-my-opinion/in-my-opinion-001-jean-turns-50.mp3?ver=2" type="audio/mpeg" length="72613150" />
+>>>>>>> 16c80a678a8de90375e35e4bcb61b25b214dcee5
 
 <guid isPermaLink="false">in-my-opinion-001</guid>
 
