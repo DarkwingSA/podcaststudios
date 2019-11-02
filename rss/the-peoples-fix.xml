@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1</url>
+	<url>https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3</url>
 	<title>The People's Fix</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix]]></link>
 </image>	
@@ -46,12 +46,12 @@ But what are they? Why are they important? And, how exactly do they work?
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/the-peoples-fix.xml" rel="self" type="application/rss+xml" />
 	
 	<media:copyright>© Action 24 - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3" />
 	<media:keywords>Action 24, Africa Climate Reality Project, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -77,29 +77,34 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	<ttl>30</ttl>
 	<pubDate>Thu, 03 Oct 2019 09:00:00 +0200</pubDate>
 
-<itunes:complete>no</itunes:complete>
+<itunes:complete>yes</itunes:complete>
 
 
-<lastBuildDate>Sun, 06 Oct 2019 20:00:00 +0200</lastBuildDate>
+<lastBuildDate>Sat, 02 Nov 2019 15:20:00 +0200</lastBuildDate>
 
 
 <item>
-<!-- Sequence 003 - 3 | The Budget - Season 1 Episode 3 -->
+<!-- Sequence 003 - 3 | Follow the Money - Season 1 Episode 3 -->
 <author>the-peoples-fix@solidgoldstudios.co.za (Action 24 | Solid Gold Podcast Studios)</author>
 <itunes:author>Action 24 | Solid Gold Podcast Studios</itunes:author>
+
 <itunes:episodeType>full</itunes:episodeType>
-       <title>3 | The Budget</title>
-<itunes:title>3 | The Budget</itunes:title>
-<itunes:subtitle>Every five years South Africans elect representatives to sit in Parliament.</itunes:subtitle>
+
+       <title>3 | Follow the Money</title>
+<itunes:title>3 | Follow the Money</itunes:title>
+<itunes:subtitle>Active Citizens for Responsive Legislatures</itunes:subtitle>
+
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>3</itunes:episode>
-<itunes:duration>24:11</itunes:duration>
+<itunes:duration>24:37</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix</link>
+
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3" />
 <!-- Use DEFAULT image -->
-<pubDate>Thu, 03 Oct 2019 14:01:00 +0200</pubDate>
+
+<pubDate>Sat, 02 Nov 2019 15:21:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="http://climatereality.co.za/legislatures-action-24/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
@@ -107,13 +112,27 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+Have you ever heard sweeping statements during the pre-election day hype, that never quite come to fruition? Or maybe you want to find out if your elected representatives think your and your community’s needs are a priority? One way to see if our elected representatives mean what they say – and are fulfilling their mandate – is to follow the money. 
+
+In this episode of The People’s Fix hosted by Fikile ‘DJ Fix’ Moeti, we get into the budget process, and how you can use budgets to monitor and influence your Provincial Legislature and the decisions they are making. This is how you can make sure that government is spending public money that we pay through taxes correctly and responsibly. 
+
+With advice from South African civil society representatives, we walk you through some essential budget monitoring tips, so that you can be a more active citizen for responsive legislatures.
+
+List of Interviewees: 
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa
+- Siya Myeza – Environmental Monitoring Group
+- Sandile Nombeni – 360 Degrees Environmental Organisation
+- Thando Lukuko – Project 90 by 2030
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit the Vulekamali website <a href="www.vulekamali.go.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">www.vulekamali.go.za</a></p>
+<p>Submit your ‘Budget Tips’ <a href="http://www.treasury.gov.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">http://www.treasury.gov.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -128,13 +147,27 @@ But what are they? Why are they important? And, how exactly do they work?
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+Have you ever heard sweeping statements during the pre-election day hype, that never quite come to fruition? Or maybe you want to find out if your elected representatives think your and your community’s needs are a priority? One way to see if our elected representatives mean what they say – and are fulfilling their mandate – is to follow the money. 
+
+In this episode of The People’s Fix hosted by Fikile ‘DJ Fix’ Moeti, we get into the budget process, and how you can use budgets to monitor and influence your Provincial Legislature and the decisions they are making. This is how you can make sure that government is spending public money that we pay through taxes correctly and responsibly. 
+
+With advice from South African civil society representatives, we walk you through some essential budget monitoring tips, so that you can be a more active citizen for responsive legislatures.
+
+List of Interviewees: 
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa
+- Siya Myeza – Environmental Monitoring Group
+- Sandile Nombeni – 360 Degrees Environmental Organisation
+- Thando Lukuko – Project 90 by 2030
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit the Vulekamali website <a href="www.vulekamali.go.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">www.vulekamali.go.za</a></p>
+<p>Submit your ‘Budget Tips’ <a href="http://www.treasury.gov.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">http://www.treasury.gov.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -144,46 +177,73 @@ But what are they? Why are they important? And, how exactly do they work?
 ]]></content:encoded>
 
 <itunes:keywords>
-Legislature, Action 24, African Climate Reality Project, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+DJ Fix, Fikile Moeti, Action 24, African Climate Reality Project, Youth@SAIIA, South Durban Community Environmental Alliance, Parliament, Provincial Legislature, budget speech, budget monitoring, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-003-the-budget.mp3?ver=1" type="audio/mpeg" fileSize="23526860" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-003-the-budget.mp3?ver=1" type="audio/mpeg" length="23526860" />
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-003-the-budget.mp3?ver=3" type="audio/mpeg" fileSize="23750312" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-003-the-budget.mp3?ver=3" type="audio/mpeg" length="23750312" />
+
 <guid isPermaLink="false">fix-003</guid>
 
 </item>
 
 
 <item>
-<!-- Sequence 002 - 2 | Public Participation - Season 1 Episode 2 -->
+<!-- Sequence 002 - 2 | Public Participation: More than a tick-box exercise - Season 1 Episode 2 -->
 <author>the-peoples-fix@solidgoldstudios.co.za (Action 24 | Solid Gold Podcast Studios)</author>
 <itunes:author>Action 24 | Solid Gold Podcast Studios</itunes:author>
+
 <itunes:episodeType>full</itunes:episodeType>
-       <title>2 | Public Participation</title>
-<itunes:title>2 | Public Participation</itunes:title>
-<itunes:subtitle>Every five years South Africans elect representatives to sit in Parliament.</itunes:subtitle>
+
+       <title>2 | Public Participation: More than a tick-box exercise</title>
+<itunes:title>2 | Public Participation: More than a tick-box exercise</itunes:title>
+<itunes:subtitle>Active Citizens for Responsive Legislatures</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>2</itunes:episode>
-<itunes:duration>50:59</itunes:duration>
+<itunes:duration>51:35</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix</link>
+
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3" />
 <!-- Use DEFAULT image -->
-<pubDate>Thu, 03 Oct 2019 14:02:00 +0200</pubDate>
+
+<pubDate>Sat, 02 Nov 2019 15:22:00 +0200</pubDate>
+
 <description><![CDATA[
 <p><a href="http://climatereality.co.za/legislatures-action-24/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
 <img src="https://podcaststudios.co.za/images/the-peoples-fix/action-24-64.jpg?ver=1" alt="Action 24" height="32px" /></a></p>
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+Making your mark on election day is not the only way for you to influence government decisions. Beyond electing people to represent all citizens, the South African Constitution gives each citizen the right to be involved in decisions that will affect them or the society they live in, and to hold elected representatives and government authorities to account at all times. 
+
+In this episode of The People’s Fix, our host Fikile ‘DJ Fix’ Moeti takes you into what public participation is and why you should be doing it, and we’ll hear what it currently looks like in practice from representatives of South African civil society organisations. With a full ‘how-to’ guide, you’ll have all the tools you need to be an active citizen for responsive legislatures.
+
+List of interviewees:
+- Francina Nkosi – Waterberg Women’s Advocacy Organisation
+- Thando Lukuko – Project 90 by 2030
+- Siya Myeza – Environmental Monitoring Group
+- Samson Mokwena – Vaal Environmental Justice Alliance 
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa 
+- Khulekani Magwaza – South African Youth Climate Change Coalition
+- Molatelo Mohale – Nkuzi Development Association
+- Sandile Nombeni – 360 Degrees Environmental Organisation
+- Shanice Firmin – South Durban Community Environmental Alliance
+- Desmond D’sa – South Durban Community Environmental Alliance 
+- Mmathapelo Thobejane – Sekhukhune Environmental Justice Network
+- Mandla Jwili – 360 Degrees Environmental Organisation
+- Qedusizi Masina – 360 Degrees Environmental Organisation
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit the People’s Assembly website <a href="www.pa.org.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">www.pa.org.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -198,13 +258,33 @@ But what are they? Why are they important? And, how exactly do they work?
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+Making your mark on election day is not the only way for you to influence government decisions. Beyond electing people to represent all citizens, the South African Constitution gives each citizen the right to be involved in decisions that will affect them or the society they live in, and to hold elected representatives and government authorities to account at all times. 
+
+In this episode of The People’s Fix, our host Fikile ‘DJ Fix’ Moeti takes you into what public participation is and why you should be doing it, and we’ll hear what it currently looks like in practice from representatives of South African civil society organisations. With a full ‘how-to’ guide, you’ll have all the tools you need to be an active citizen for responsive legislatures.
+
+List of interviewees:
+- Francina Nkosi – Waterberg Women’s Advocacy Organisation
+- Thando Lukuko – Project 90 by 2030
+- Siya Myeza – Environmental Monitoring Group
+- Samson Mokwena – Vaal Environmental Justice Alliance 
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa 
+- Khulekani Magwaza – South African Youth Climate Change Coalition
+- Molatelo Mohale – Nkuzi Development Association
+- Sandile Nombeni – 360 Degrees Environmental Organisation
+- Shanice Firmin – South Durban Community Environmental Alliance
+- Desmond D’sa – South Durban Community Environmental Alliance 
+- Mmathapelo Thobejane – Sekhukhune Environmental Justice Network
+- Mandla Jwili – 360 Degrees Environmental Organisation
+- Qedusizi Masina – 360 Degrees Environmental Organisation
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit the People’s Assembly website <a href="www.pa.org.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">www.pa.org.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -214,45 +294,71 @@ But what are they? Why are they important? And, how exactly do they work?
 ]]></content:encoded>
 
 <itunes:keywords>
-Legislature, Action 24, African Climate Reality Project, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+DJ Fix, Fikile Moeti, Action 24, African Climate Reality Project, Youth@SAIIA, South Durban Community Environmental Alliance, Parliament, Provincial Legislature, Active citizens, #goodgovernance, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-002-public-participation.mp3?ver=1" type="audio/mpeg" fileSize="49247650" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-002-public-participation.mp3?ver=1" type="audio/mpeg" length="49247650" />
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-002-public-participation.mp3?ver=3" type="audio/mpeg" fileSize="49637888" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-002-public-participation.mp3?ver=3" type="audio/mpeg" length="49637888" />
+
 <guid isPermaLink="false">fix-002</guid>
 
 </item>
 
 
 <item>
-<!-- Sequence 001 - 1 | The Legislature - Season 1 Episode 1 -->
+<!-- Sequence 001 - 1 | Legislatures 101 - Season 1 Episode 1 -->
 <author>the-peoples-fix@solidgoldstudios.co.za (Action 24 | Solid Gold Podcast Studios)</author>
 <itunes:author>Action 24 | Solid Gold Podcast Studios</itunes:author>
+
 <itunes:episodeType>full</itunes:episodeType>
-       <title>1 | The Legislature</title>
-<itunes:title>1 | The Legislature</itunes:title>
-<itunes:subtitle>Every five years South Africans elect representatives to sit in Parliament.</itunes:subtitle>
+
+       <title>1 | Legislatures 101</title>
+<itunes:title>1 | Legislatures 101</itunes:title>
+<itunes:subtitle>Active Citizens for Responsive Legislatures</itunes:subtitle>
+
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
-<itunes:duration>34:22</itunes:duration>
+<itunes:duration>34:40</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=the-peoples-fix</link>
+
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/the-peoples-fix/the-peoples-fix-000-cover.jpg?ver=3" />
 <!-- Use DEFAULT image -->
-<pubDate>Thu, 03 Oct 2019 14:03:00 +0200</pubDate>
+
+<pubDate>Sat, 02 Nov 2019 15:23:00 +0200</pubDate>
+
 <description><![CDATA[
 <p><a href="http://climatereality.co.za/legislatures-action-24/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">
 <img src="https://podcaststudios.co.za/images/the-peoples-fix/action-24-64.jpg?ver=1" alt="Action 24" height="32px" /></a></p>
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+South Africa’s Provincial Legislatures - the institutions mandated to represent the people - seem to be the ones that citizens understand the least and feel the most distant from. Ask yourself: do you know who represents you and your community in the Provincial Legislatures? How many of us even know how these institutions function – and why we should be engaging with them? 
+
+In this first episode of The People’s Fix, you’ll hear from representatives of South African civil society organisations and from host Fikile ‘DJ Fix’ Moeti, about what the legislatures are, how they work, and what powers they have in the governance of South Africa. 
+
+List of interviewees
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa
+- Thando Lukuko – Project 90 by 2030
+- Samson Mokwena – Vaal Environmental Justice Alliance
+- Molly Mbangula – 360 Degrees Environmental Organisation
+- Mmathapelo Thobejane – Sekhukhune Environmental Justice Network
+- Francina Nkosi – Waterberg Women’s Advocacy Organisation
+- Siya Myeza – Environmental Monitoring Group
+- Molatelo Mohale – Nkuzi Development Association
+- Shanice Firmin – South Durban Community Environmental Alliance
+- Desmond D’sa – South Durban Community Environmental Alliance
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit Parliamentary Monitoring Group’s website <a href="http://pmg.org.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">http://pmg.org.za/</a></p>
+<p>Visit the Parliament of South Africa's website <a href="https://www.parliament.gov.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">https://www.parliament.gov.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -267,13 +373,31 @@ But what are they? Why are they important? And, how exactly do they work?
 <p><a href="https://api.whatsapp.com/send?phone=27842570627&text=%5BFix%20podcast%5D%20Hello%20Nicole..">
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
 <p>
-Every five years South Africans elect representatives to sit in Parliament and in the Provincial Legislatures. Both of these are fundamental institutions in our democracy. 
-But what are they? Why are they important? And, how exactly do they work?
+South Africa’s Provincial Legislatures - the institutions mandated to represent the people - seem to be the ones that citizens understand the least and feel the most distant from. Ask yourself: do you know who represents you and your community in the Provincial Legislatures? How many of us even know how these institutions function – and why we should be engaging with them? 
+
+In this first episode of The People’s Fix, you’ll hear from representatives of South African civil society organisations and from host Fikile ‘DJ Fix’ Moeti, about what the legislatures are, how they work, and what powers they have in the governance of South Africa. 
+
+List of interviewees
+- Vusi Ngqokomashe – Land Rights Organisation of South Africa
+- Thando Lukuko – Project 90 by 2030
+- Samson Mokwena – Vaal Environmental Justice Alliance
+- Molly Mbangula – 360 Degrees Environmental Organisation
+- Mmathapelo Thobejane – Sekhukhune Environmental Justice Network
+- Francina Nkosi – Waterberg Women’s Advocacy Organisation
+- Siya Myeza – Environmental Monitoring Group
+- Molatelo Mohale – Nkuzi Development Association
+- Shanice Firmin – South Durban Community Environmental Alliance
+- Desmond D’sa – South Durban Community Environmental Alliance
+
+Disclaimer: This podcast was produced with the financial support of the European Union and the Friedrich Ebert Stiftung. Its contents are the sole responsibility of the Action 24 implementing organisations and do not necessarily reflect the views of the European Union or the Friedrich Ebert Stiftung.
 </p>
+<br />
+<p>Visit Parliamentary Monitoring Group’s website <a href="http://pmg.org.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">http://pmg.org.za/</a></p>
+<p>Visit the Parliament of South Africa's website <a href="https://www.parliament.gov.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Peoples%20Fix">https://www.parliament.gov.za/</a></p>
 <p>Music Used : Somewhere Nice | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
-<p>Learn more about how you can be involved <a href="http://climatereality.co.za/legislatures-action-24/">http://climatereality.co.za/legislatures-action-24/</a></p>
+<p>Learn more about Action 24 – Active Citizens for Responsive Legislatures here: <a href="http://climatereality.co.za/action-24/">http://climatereality.co.za/action-24/</a></p>
 <p>Friedrich-Ebert-Stiftung (FES) <a href="https://www.fesdc.org/about/friedrich-ebert-stiftung/">https://www.fesdc.org/about/friedrich-ebert-stiftung/</a></p>
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
 <br />
@@ -283,10 +407,12 @@ But what are they? Why are they important? And, how exactly do they work?
 ]]></content:encoded>
 
 <itunes:keywords>
-Legislature, Action 24, African Climate Reality Project, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+DJ Fix, Fikile Moeti, Action 24, African Climate Reality Project, Youth@SAIIA, South Durban Community Environmental Alliance, Parliament, Provincial Legislature, Active citizens, #goodgovernance, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=3" type="audio/mpeg" fileSize="33299659" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=3" type="audio/mpeg" length="33299659" />
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=3" type="audio/mpeg" fileSize="33392064" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-peoples-fix/fix-001-the-legislature.mp3?ver=3" type="audio/mpeg" length="33392064" />
+
 <guid isPermaLink="false">fix-001</guid>
 
 </item>
