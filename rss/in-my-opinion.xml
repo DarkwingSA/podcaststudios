@@ -248,9 +248,9 @@ Weight, emotional baggage, eating healthy, vegetarian, vegan, Another Solid Gold
 <itunes:duration>01:15:38</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=in-my-opinion</link>
 
-<!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-001-cover.jpg" />
-<!-- Use EPISODE-SPECIFIC image -->
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/in-my-opinion/in-my-opinion-000-cover.jpg" />
+<!-- Use DEFAULT image -->
 
 <pubDate>Thu, 24 Oct 2019 14:34:30 +0200</pubDate>
 
