@@ -1,0 +1,87 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>The Limitless Podcast</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>	
+<managingEditor>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Studio.13 - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>A podcast series by millennial women of colour “for woke women/girls that love dumb stuff”.</p>	
+<p>Scintillating, quirky, fun, intelligent and motivating conversations hosted by three young millennial women with diverse backgrounds. Each season, we invite guests that are aligned with a topical discussion to unpack in conversation and discussions a series of trending topics such as the challenges the youth and millennials face, adulting, state of the culture, society, social media, pop culture, fashion, music, tech and entrepreneurship.</p>	
+<p>The aim is to create content that stimulates thinking, drives conversations and creates a new African narrative of thought leaders.</p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1</url>
+	<title>The Limitless Podcast</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=limitless]]></link>
+</image>	
+	
+<itunes:explicit>yes</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>The podcast for woke girls that love dumb stuff.</itunes:subtitle>	
+<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+A podcast series by millennial women of colour “for woke women/girls that love dumb stuff”.	
+	
+Scintillating, quirky, fun, intelligent and motivating conversations hosted by three young millennial women with diverse backgrounds. Each season, we invite guests that are aligned with a topical discussion to unpack in conversation and discussions a series of trending topics such as the challenges the youth and millennials face, adulting, state of the culture, society, social media, pop culture, fashion, music, tech and entrepreneurship.	
+	
+The aim is to create content that stimulates thinking, drives conversations and creates a new African narrative of thought leaders.	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/limitless.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Studio.13 - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />
+	<media:keywords>limiteless podcast south africa, girl, women, black, talk, african, conversation, millenials, woke, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>limitless@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>The Limitless Podcast</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>limiteless podcast south africa, girl, women, black, talk, african, conversation, millenials, woke, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Arts">
+  <itunes:category text="Fashion &amp; Beauty" />
+</itunes:category>
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+  <itunes:category text="Relationships" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Mon, 11 Novt 2019 12:00:00 +0200</pubDate>
+	
+	
+	<item>
+	</item>
+	
+	</channel>
+	</rss>
