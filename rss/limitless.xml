@@ -77,11 +77,84 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
 	<ttl>30</ttl>
-	<pubDate>Mon, 11 Novt 2019 12:00:00 +0200</pubDate>
+	<pubDate>Mon, 11 Nov 2019 12:00:00 +0200</pubDate>
 	
-	
-	<item>
-	</item>
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Mon, 11 Nov 2019 14:56:45 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Welcome to the podcast for woke girls that love dumb stuff | Carla Fernnades, Dominique Reeby, and Lebogang Ndaba - Season 1 Episode 1 -->
+<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
+<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Welcome to the podcast for woke girls that love dumb stuff | Carla Fernnades, Dominique Reeby, and Lebogang Ndaba</title>
+<itunes:title>Welcome to the podcast for woke girls that love dumb stuff | Carla Fernnades, Dominique Reeby, and Lebogang Ndaba</itunes:title>
+<itunes:subtitle>We set the scene for what you can expect from us</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>45:19</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 11 Nov 2019 14:56:45 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27630753557&text=%5Bpodcast%5D%20Hello%20Carla...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Welcome to the pilot episode.
+</p>
+<p>Music Used : Earning Happiness | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow us on Instagram <a href="https://www.instagram.com/limitless.podcast.sa">https://www.instagram.com/limitless.podcast.sa</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27630753557&text=%5Bpodcast%5D%20Hello%20Carla...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Welcome to the pilot episode.
+</p>
+<p>Music Used : Earning Happiness | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow us on Instagram <a href="https://www.instagram.com/limitless.podcast.sa">https://www.instagram.com/limitless.podcast.sa</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+KFC proposal, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/limitless/limitless-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="43584675" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/limitless/limitless-001-welcome.mp3?ver=1" type="audio/mpeg" length="43584675" />
+
+<guid isPermaLink="false">limitless-001</guid>
+
+</item>
 	
 	</channel>
 	</rss>
