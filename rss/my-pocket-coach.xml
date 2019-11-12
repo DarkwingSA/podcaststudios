@@ -1,0 +1,178 @@
+
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>My Pocket Coach</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=my-pocket-coach</link>	
+<managingEditor>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Image Excellence Group - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>We empower others through our unique holistic, integrated and scientific approach to achieve personal impact power.</p>	
+<p>The IE Group is a multi-disciplinary team of specialists coaching an awareness of best-practice leadership and the vital emotional and behavioural tools required to lead, direct and motivate with distinction.</p>	
+<p>We empower our clients to communicate with impact, manage impressions, influence and master interpersonal competence.</p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg?ver=1</url>
+	<title>My Pocket Coach</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=my-pocket-coach]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Africa's Leading Image, Communication and Leadership Coaches.</itunes:subtitle>	
+<itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+We empower others through our unique holistic, integrated and scientific approach to achieve personal impact power.	
+	
+The IE Group is a multi-disciplinary team of specialists coaching an awareness of best-practice leadership and the vital emotional and behavioural tools required to lead, direct and motivate with distinction.	
+	
+We empower our clients to communicate with impact, manage impressions, influence and master interpersonal competence.	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/my-pocket-coach.xml" rel="self" type="application/rss+xml" />
+	
+	<media:copyright>© Image Excellence Group - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg?ver=1" />
+	<media:keywords>coach, leadership, gail cameron, mentor, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>my-pocket-coach@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>My Pocket Coach</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>coach, leadership, gail cameron, mentor, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+  <itunes:category text="Entrepreneurship" />
+  <itunes:category text="Investing" />
+  <itunes:category text="Management" />
+  <itunes:category text="Marketing" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Courses" />
+  <itunes:category text="How To" />
+  <itunes:category text="Language Learning" />
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Alternative Health" />
+  <itunes:category text="Mental Health" />
+</itunes:category>
+<itunes:category text="Arts">
+  <itunes:category text="Performing Arts" />
+</itunes:category>
+<itunes:category text="News">
+  <itunes:category text="Business News" />
+</itunes:category>
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Spirituality" />
+</itunes:category>
+<itunes:category text="Science">
+  <itunes:category text="Social Sciences" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Relationships" />
+</itunes:category>
+<itunes:category text="Technology" />
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Tue, 12 Nov 2019 12:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Tue, 12 Nov 2019 10:11:21 +0200</lastBuildDate>
+
+<item>
+<!-- Sequence 001 - Welcome | Africa's Leading Coach is now in YOUR Pocket - Season 1 Episode 1 -->
+<author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
+<itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Welcome | Africa's Leading Coach is now in YOUR Pocket</title>
+<itunes:title>Welcome | Africa's Leading Coach is now in YOUR Pocket</itunes:title>
+<itunes:subtitle>Africa's Leading Image, Communication and Leadership Coach - in your pocket</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>13:05</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=my-pocket-coach</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 12 Nov 2019 10:11:21 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.iegroup.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/my-pocket-coach/ie-group-64.jpg?ver=1" alt="IE Group" height="32px" /></a></p>
+<p>
+Welcome to My Pocket Coach from Image Excellent Group, Africa's Leading Image, Communication and Leadership Coach.
+</p>
+<p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the IE Group Website for more information <a href="https://www.iegroup.co.za/">https://www.iegroup.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.iegroup.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/my-pocket-coach/ie-group-64.jpg?ver=1" alt="IE Group" height="32px" /></a></p>
+<p>
+Welcome to My Pocket Coach from Image Excellent Group, Africa's Leading Image, Communication and Leadership Coach.
+</p>
+<p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the IE Group Website for more information <a href="https://www.iegroup.co.za/">https://www.iegroup.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Image, Communication, Leadership, Coach, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="12861980" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" length="12861980" />
+
+<guid isPermaLink="false">my-pocket-coach-001</guid>
+
+</item>
+
+	</channel>
+	</rss>
