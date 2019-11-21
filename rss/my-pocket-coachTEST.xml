@@ -33,7 +33,7 @@
 </image>	
 	
 <itunes:explicit>no</itunes:explicit>	
-<itunes:type>episodic</itunes:type>	
+<itunes:type>serial</itunes:type>	
 <itunes:subtitle>Coaching Advice, Tips and Crisis Management</itunes:subtitle>	
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>	
 	<itunes:summary><![CDATA[
@@ -103,7 +103,77 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Thu, 14 Nov 2019 18:34:50 +0200</lastBuildDate>
+<lastBuildDate>Thu, 21 Nov 2019 19:22:01 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Who is My Pocket Coach? | Gail Cameron - Season 1 Episode 1 -->
+<author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
+<itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Who is My Pocket Coach? | Gail Cameron (IE Group | Managing Director)</title>
+<itunes:title>Who is My Pocket Coach? | Gail Cameron (IE Group | Managing Director)</itunes:title>
+<itunes:subtitle>Introduction of Coaching Modules</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>13:05</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=my-pocket-coach</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 12 Nov 2019 12:51:35 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://mypocketcoachapp.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-64.jpg?ver=1" alt="My Pocket Coach App" height="32px" /></a></p>
+<p>
+In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excellence Group) gives us insight into who is 'My Pocket Coach', what assessment tools are used, and an introduction to the various coaching modules.
+</p>
+<p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>My Pocket Coach App <a href="http://mypocketcoachapp.com/">http://mypocketcoachapp.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://mypocketcoachapp.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-64.jpg?ver=1" alt="My Pocket Coach App" height="32px" /></a></p>
+<p>
+In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excellence Group) gives us insight into who is 'My Pocket Coach', what assessment tools are used, and an introduction to the various coaching modules.
+</p>
+<p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>My Pocket Coach App <a href="http://mypocketcoachapp.com/">http://mypocketcoachapp.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Assessment tools, Introduction, Personal Impact Power, Personal Mastery, Leadership, Emotional Intelligence, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="12861980" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" length="12861980" />
+
+<guid isPermaLink="false">my-pocket-coach-001</guid>
+
+</item>
+
 
 
 <item>
@@ -228,34 +298,41 @@ Chivonne Jones, Strategic Image Management, Personal Branding, Primacy Effect, E
 
 
 <item>
-<!-- Sequence 001 - Who is My Pocket Coach? | Gail Cameron - Season 1 Episode 1 -->
+<!-- Sequence 003 - Enhancing your Personal Impact Power through Voice and Speech | Elri Wium (IE Group | Voice and Speech Specialist) - Season 1 Episode 3 -->
 <author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Who is My Pocket Coach? | Gail Cameron (IE Group | Managing Director)</title>
-<itunes:title>Who is My Pocket Coach? | Gail Cameron (IE Group | Managing Director)</itunes:title>
-<itunes:subtitle>Introduction of Coaching Modules</itunes:subtitle>
+       <title>Enhancing your Personal Impact Power through Voice and Speech | Elri Wium (IE Group | Voice and Speech Specialist)</title>
+<itunes:title>Enhancing your Personal Impact Power through Voice and Speech | Elri Wium (IE Group | Voice and Speech Specialist)</itunes:title>
+<itunes:subtitle>It's not about what you say, it's about HOW you say it.</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
-<itunes:episode>1</itunes:episode>
-<itunes:duration>13:05</itunes:duration>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>32:14</itunes:duration>
 <link>https://solidgoldstudios.co.za/channel.php?title=my-pocket-coach</link>
 
 <!-- Use DEFAULT image -->
 <itunes:image href="http://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-000-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 12 Nov 2019 12:51:35 +0200</pubDate>
+<pubDate>Thu, 21 Nov 2019 19:22:01 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="http://mypocketcoachapp.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
 <img src="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-64.jpg?ver=1" alt="My Pocket Coach App" height="32px" /></a></p>
 <p>
-In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excellence Group) gives us insight into who is 'My Pocket Coach', what assessment tools are used, and an introduction to the various coaching modules.
+In this episode Elri Wium, Executive Coach and Specialist on Nonverbal Communication, Emotion, and the Voice and Speech, speaks to Gail Cameron, the Director of the IE Group, about the important role that the voice and speech plays in the selling of ideas and your personal brand.  
+
+In this information driven world, we tend to rely so much on our content, facts, material or data, that we tend forget about who we are presenting it to – the human. And that is where the body language, Emotional prosody, tone of voice, and modulation comes into play. This means that your content, facts, material or data might be brilliant, BUT if you cannot convey that information in an interesting way, whether in a boardroom, negotiation, presentation, interview, or even a team or staff meeting, then it will lose its effect completely and your ideas alone won’t get you anywhere. 
+
+Therefore, in order to enhance your personal and communicative impact power in these high-stakes situations, it is imperative that you grasp the listeners attention and make yourself and the information memorable.
 </p>
+<br />
+<p>Hillman shows how to develop communication behavior that makes a positive first impression and keeps the attention of the audience. <a href="https://books.google.co.za/books?id=ZOckAQAAMAAJ?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">https://books.google.co.za/books?id=ZOckAQAAMAAJ</a></p>
+<p>Dr. Genard's exercises help people from all walks of life deal with issues like establishing rapport, pacing your presentations, and moving listeners. <a href="https://books.google.co.za/books?id=VL7koAEACAAJ?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">https://books.google.co.za/books?id=VL7koAEACAAJ</a></p>
 <p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
@@ -271,8 +348,15 @@ In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excel
 <p><a href="http://mypocketcoachapp.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">
 <img src="https://podcaststudios.co.za/images/my-pocket-coach/my-pocket-coach-64.jpg?ver=1" alt="My Pocket Coach App" height="32px" /></a></p>
 <p>
-In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excellence Group) gives us insight into who is 'My Pocket Coach', what assessment tools are used, and an introduction to the various coaching modules.
+In this episode Elri Wium, Executive Coach and Specialist on Nonverbal Communication, Emotion, and the Voice and Speech, speaks to Gail Cameron, the Director of the IE Group, about the important role that the voice and speech plays in the selling of ideas and your personal brand.  
+
+In this information driven world, we tend to rely so much on our content, facts, material or data, that we tend forget about who we are presenting it to – the human. And that is where the body language, Emotional prosody, tone of voice, and modulation comes into play. This means that your content, facts, material or data might be brilliant, BUT if you cannot convey that information in an interesting way, whether in a boardroom, negotiation, presentation, interview, or even a team or staff meeting, then it will lose its effect completely and your ideas alone won’t get you anywhere. 
+
+Therefore, in order to enhance your personal and communicative impact power in these high-stakes situations, it is imperative that you grasp the listeners attention and make yourself and the information memorable.
 </p>
+<br />
+<p>Hillman shows how to develop communication behavior that makes a positive first impression and keeps the attention of the audience. <a href="https://books.google.co.za/books?id=ZOckAQAAMAAJ?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">https://books.google.co.za/books?id=ZOckAQAAMAAJ</a></p>
+<p>Dr. Genard's exercises help people from all walks of life deal with issues like establishing rapport, pacing your presentations, and moving listeners. <a href="https://books.google.co.za/books?id=VL7koAEACAAJ?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20My%20Pocket%20Coach">https://books.google.co.za/books?id=VL7koAEACAAJ</a></p>
 <p>Music Used : Big Achievement | https://johnbartmann.com/about/</p>
 <br />
 <!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
@@ -285,15 +369,16 @@ In this episode Gail Cameron (The founder of My Pocket Coach and the Image Excel
 ]]></content:encoded>
 
 <itunes:keywords>
-Assessment tools, Introduction, Personal Impact Power, Personal Mastery, Leadership, Emotional Intelligence, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+Elri Wium, Gail Cameron, my pocket coach, IE Group, Voice and Speech, Voice, Speech, Communication, Negotiation, Selling of ideas, Interviews, Personal Brand, Sound, Vocal exercises, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" fileSize="12861980" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-001-welcome.mp3?ver=1" type="audio/mpeg" length="12861980" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-003-voice-and-speech.mp3?ver=1" type="audio/mpeg" fileSize="31240679" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/my-pocket-coach/mpc-003-voice-and-speech.mp3?ver=1" type="audio/mpeg" length="31240679" />
 
-<guid isPermaLink="false">my-pocket-coach-001</guid>
+<guid isPermaLink="false">my-pocket-coach-003</guid>
 
 </item>
+
 
 	</channel>
 	</rss>
