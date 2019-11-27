@@ -49,6 +49,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	<itunes:image href="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/limitless.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Studio.13 - all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />

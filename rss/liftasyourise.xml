@@ -49,6 +49,7 @@ Recorded at SolidGoldStudios.co.za and Edited by Willem Nel
           <itunes:image href="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/liftasyourise.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 
           <media:copyright>© Red Bull Music and Tall Racks Records - all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/liftasyourise/liftasyourise-cover-s01.jpg?ver=2" />
