@@ -23,7 +23,7 @@ After helping to build the Eastland Insurance company for 17 years, Lanthus Tril
           </description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/garageband/garage-band-cover-0000.jpg?ver=2</url>
+            <url>https://podcaststudios.co.za/images/garageband/garage-band-000-cover.jpg?ver=1</url>
             <title>Garage Band by Adam Alexander</title>
             <link>https://solidgoldstudios.co.za/channel.php?title=garage-band</link>
           </image>
@@ -33,17 +33,18 @@ After helping to build the Eastland Insurance company for 17 years, Lanthus Tril
           <itunes:subtitle>A comedy that has Nothing to do with Music. Everything to do with Getting Even.</itunes:subtitle>
           <itunes:author>Adam Alexander | Solid Gold Audio Book Studios</itunes:author>
           <itunes:summary>
-After helping to build the Eastland Insurance company for 17 years, Lanthus Trilby is retrenched without warning, to make way for “younger, brighter” minds. Angry and betrayed, the passive actuary wants to let his boss feel his rage. His initial plans of keying his boss’ car escalate beyond merely blowing it up. Lanthus is going to take down the entire company.
+After helping to build the Eastland Insurance company for 17 years, Lanthus Trilby is retrenched without warning, to make way for younger, brighter” minds. Angry and betrayed, the passive actuary wants to let his boss feel his rage. His initial plans of keying his boss’ car escalate beyond merely blowing it up. Lanthus is going to take down the entire company.
 But his plan needs a team with special skills. The hacker, the daredevil, the explosives expert and the acrobatic pair join Lanthus to pull off the most daring caper the world has ever seen to bring Eastland Insurance to its knees. But as soon as than the plan begins, trouble sets in. The police are closing in, and someone else wants a piece of the action.
 Can Lanthus keep it together long enough to pull off his master plan?</itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/garageband/garage-band-cover-0000.jpg?ver=2" />
+          <itunes:image href="http://podcaststudios.co.za/images/garageband/garage-band-000-cover.jpg?ver=1" />
 
           <atom:link href="https://podcaststudios.co.za/rss/garageband.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 
           <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/garageband/garage-band-cover-0000.jpg?ver=2" />
-          <media:keywords>Adam Alexander, Adam Rabinowitz, Garage Band, another Solid Gold Audio Book Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</media:keywords>
+          <media:thumbnail url="https://podcaststudios.co.za/images/garageband/garage-band-000-cover.jpg?ver=1" />
+          <media:keywords>Adam Alexander, Adam Rabinowitz, Garage Band, another Solid Gold Studios Audio Book, podcaststudios.co.za, Gavin Kennedy, #BeHeard</media:keywords>
 
           <itunes:category text="Comedy" />
 
@@ -59,7 +60,7 @@ Can Lanthus keep it together long enough to pull off his master plan?</itunes:su
 
           <ttl>30</ttl>
 
-          <lastBuildDate>Tue, 26 Nov 2019 08:30:00 +0200</lastBuildDate>
+          <lastBuildDate>Thu, 28 Nov 2019 07:00:00 +0200</lastBuildDate>
 
 
 
