@@ -10,6 +10,7 @@
      
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
           <ttl>30</ttl>
           <title>The Carmen Murray Show</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show</link>
@@ -100,7 +101,124 @@
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Mon, 25 Nov 2019 21:30:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 02 Dec 2019 13:29:48 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 059 - Business coaches are a necessity, not a luxury | Vanda Harries, (Business Coach | The Life Architect) - Season 3 Episode 17 -->
+<author>thecarmenmurrayshow@solidgoldstudios.co.za (Carmen Murray | Solid Gold Podcast Studios)</author>
+<itunes:author>Carmen Murray | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Business coaches are a necessity, not a luxury | Vanda Harries, (Business Coach | The Life Architect)</title>
+<itunes:title>Business coaches are a necessity, not a luxury | Vanda Harries, (Business Coach | The Life Architect)</itunes:title>
+<itunes:subtitle>Coaching isn't therapy, it's product development, you are the product.</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>3</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:duration>37:20</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-carmen-murray-show</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover-entrepreneurial.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 02 Dec 2019 13:29:48 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.boo-yah.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/thecarmenmurrayshow/boo-yah-64.jpg?ver=1" alt="Boo-Yah Modern Marketing Services" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27732246126&text=%5BTCMS%5D%20Hello%20Carmen...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this episode Vanda Harries, Business Coach and founder of The Life Architect who worked in the corporate world for over 30 years as a sought-after Marketing Director and Brand Builder chats to Carmen Murray, Founder of Boo-Yah! Modern Marketing Services.  
+
+Carmen decided to gift her audience with her own personal business coach, Vanda Harries to share the importance of having a business coach and the profound changes that happened for her after investing in herself, her brand and her business.  There is a perception that it's only for executives or for people who only start in their journeys, but in fact, there is a lot more to it than just coaching.  Whether you are an entrepreneur or developing your career, everyone should invest in a business coach to propel their careers forward and have more focus and clarity. 
+
+Do you face difficult business decisions? 
+Are you in conflict situations and not sure how to handle it?
+Are you feeling stuck? 
+Is your personal brand overshadowing your business brand?
+Do you want to start building a personal brand?
+Do you need someone to ask you the hard questions?
+Are you seeking a business coach that can hold you accountable to your own goals?
+Indecisive about what you want to do with your life?
+Want to find your purpose?
+Want to grow as a person and as a business?
+You need someone to help you overcome your fears?
+
+
+Vanda and Carmen also chat about personal branding and unpack why this journey is bespoke to each individual based on their personal goals, career or business goals.  Ultimately, every single person has a responsibility to build a personal brand for success and credibility. 
+
+One of the hard questions they unpack, was how close can you get with your business coach in order for them to remain objective to best serve your needs?
+</p>
+<br />
+<p>Book a 45-minute consultation with Vanda Harries <a href="https://the-life-architect.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">https://the-life-architect.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>If you wish to book Carmen Murray as your MC or Speaker for your next event, have any questions or wish to appear on The Carmen Murray Show, you can contact her directly <a href="https://www.carmenmurray.com">www.CarmenMurray.com</a></p>
+<p>For any marketing inquiries to design and build exceptional customer experiences, customer insights, data science, CX Audits and CX Innovation or training, visit Boo Yah Modern Marketing Services <a href="https://www.boo-yah.co.za">www.Boo-Yah.co.za</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.boo-yah.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/thecarmenmurrayshow/boo-yah-64.jpg?ver=1" alt="Boo-Yah Modern Marketing Services" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27732246126&text=%5BTCMS%5D%20Hello%20Carmen...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this episode Vanda Harries, Business Coach and founder of The Life Architect who worked in the corporate world for over 30 years as a sought-after Marketing Director and Brand Builder chats to Carmen Murray, Founder of Boo-Yah! Modern Marketing Services.  
+
+Carmen decided to gift her audience with her own personal business coach, Vanda Harries to share the importance of having a business coach and the profound changes that happened for her after investing in herself, her brand and her business.  There is a perception that it's only for executives or for people who only start in their journeys, but in fact, there is a lot more to it than just coaching.  Whether you are an entrepreneur or developing your career, everyone should invest in a business coach to propel their careers forward and have more focus and clarity. 
+
+Do you face difficult business decisions? 
+Are you in conflict situations and not sure how to handle it?
+Are you feeling stuck? 
+Is your personal brand overshadowing your business brand?
+Do you want to start building a personal brand?
+Do you need someone to ask you the hard questions?
+Are you seeking a business coach that can hold you accountable to your own goals?
+Indecisive about what you want to do with your life?
+Want to find your purpose?
+Want to grow as a person and as a business?
+You need someone to help you overcome your fears?
+
+
+Vanda and Carmen also chat about personal branding and unpack why this journey is bespoke to each individual based on their personal goals, career or business goals.  Ultimately, every single person has a responsibility to build a personal brand for success and credibility. 
+
+One of the hard questions they unpack, was how close can you get with your business coach in order for them to remain objective to best serve your needs?
+</p>
+<br />
+<p>Book a 45-minute consultation with Vanda Harries <a href="https://the-life-architect.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">https://the-life-architect.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>If you wish to book Carmen Murray as your MC or Speaker for your next event, have any questions or wish to appear on The Carmen Murray Show, you can contact her directly <a href="https://www.carmenmurray.com">www.CarmenMurray.com</a></p>
+<p>For any marketing inquiries to design and build exceptional customer experiences, customer insights, data science, CX Audits and CX Innovation or training, visit Boo Yah Modern Marketing Services <a href="https://www.boo-yah.co.za">www.Boo-Yah.co.za</a></p>
+<p>For any inquiries, more details, or requests to appear on the show, you can contact <a href="mailto:hello@carmenmurray.com?subject=[Podcast Query] Hello Carmen">hello@carmenmurray.com</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20TCMS">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+business coach, personal branding, life coaching, scale, growth, personal development, vision, personal goals, personal growth, business advisory, executive coaching, career coaching, Leadership, Carmen Murray, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/tcms-059-vanda-harries.mp3?ver=1" type="audio/mpeg" fileSize="36145289" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/thecarmenmurrayshow/tcms-059-vanda-harries.mp3?ver=1" type="audio/mpeg" length="36145289" />
+
+<guid isPermaLink="false">thecarmenmurrayshow-059</guid>
+
+</item>
 
 
 <item>
