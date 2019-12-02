@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3</url>
+	<url>https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2</url>
 	<title>#BlueFlame by Bryanston High</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=blue-flame]]></link>
 </image>	
@@ -46,13 +46,13 @@ VALUES Honesty, integrity and tolerance; Respect for self, others and the enviro
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+	<itunes:image href="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/blue-flame.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Bryanston High School - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=2" />
 	<media:keywords>Bryanston High School, John Skelton, Blue Flame, #BlueFlame, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -96,7 +96,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Fri, 29 Nov 2019 11:23:51 +0200</pubDate>
@@ -177,7 +177,7 @@ Grade 8, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Tue, 22 Oct 2019 10:03:41 +0200</pubDate>
