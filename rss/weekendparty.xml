@@ -32,6 +32,7 @@
           <itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
 
           <atom:link href="https://podcaststudios.co.za/rss/weekendparty.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 
           <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg?ver=2" />
@@ -71,7 +72,80 @@
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Sat, 23 Nov 2019 08:11:41 +0200</lastBuildDate>
+
+
+<lastBuildDate>Sun, 01 Dec 2019 10:43:47 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 068 - 21 Skywalkers Need Shark Tank - Season 1 Episode 68 -->
+<author>weekendparty@solidgoldstudios.co.za (Lance Zeeman | Solid Gold Podcast Studios)</author>
+<itunes:author>Lance Zeeman | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>21 Skywalkers Need Shark Tank</title>
+<itunes:title>21 Skywalkers Need Shark Tank</itunes:title>
+<itunes:subtitle>MJ Wellingtons The Force</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>68</itunes:episode>
+<itunes:duration>03:25</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=weekend-party-entertainment-report</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/weekendparty/weekendparty-cover-000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 01 Dec 2019 10:43:47 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BWeekend%20Party%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+CHADWICK BOSEMAN loses the WAKANDIAN accent in 21 BRIDGES,ISIDINGO:THE NEED gets cancelled. STAR WARS actor leaves movie script under his bed as DISNEY steps in to stop any leaks, BOHEMIAN RHAPSODY producers secure rights from MICHAEL JACKSON'S estate for a BIOPIC and a former SHARK TANK contestant gets arrested while THE WELLINGTONS get some LOVE!
+</p>
+<br />
+<p>Isidingo:The Need is cancelled after 21 years. <a href="https://www.iol.co.za/entertainment/tv/local/sa-left-heartbroken-after-sabc-confirms-that-it-has-cancelled-isidingo-38203868?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.iol.co.za/entertainment/tv/local/sa-left-heartbroken-after-sabc-confirms-that-it-has-cancelled-isidingo-38203868</a></p>
+<p>Rise of Skywalker script left in hotel room. <a href="https://www.bbc.com/news/entertainment-arts-50584220?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.bbc.com/news/entertainment-arts-50584220</a></p>
+<p>Michael Jackson biopic is in the works. A book of his creative side resurfaces. <a href="https://www.goodreads.com/book/show/11193623-man-in-the-music?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.goodreads.com/book/show/11193623-man-in-the-music</a></p>
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BWeekend%20Party%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+CHADWICK BOSEMAN loses the WAKANDIAN accent in 21 BRIDGES,ISIDINGO:THE NEED gets cancelled. STAR WARS actor leaves movie script under his bed as DISNEY steps in to stop any leaks, BOHEMIAN RHAPSODY producers secure rights from MICHAEL JACKSON'S estate for a BIOPIC and a former SHARK TANK contestant gets arrested while THE WELLINGTONS get some LOVE!
+</p>
+<br />
+<p>Isidingo:The Need is cancelled after 21 years. <a href="https://www.iol.co.za/entertainment/tv/local/sa-left-heartbroken-after-sabc-confirms-that-it-has-cancelled-isidingo-38203868?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.iol.co.za/entertainment/tv/local/sa-left-heartbroken-after-sabc-confirms-that-it-has-cancelled-isidingo-38203868</a></p>
+<p>Rise of Skywalker script left in hotel room. <a href="https://www.bbc.com/news/entertainment-arts-50584220?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.bbc.com/news/entertainment-arts-50584220</a></p>
+<p>Michael Jackson biopic is in the works. A book of his creative side resurfaces. <a href="https://www.goodreads.com/book/show/11193623-man-in-the-music?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">https://www.goodreads.com/book/show/11193623-man-in-the-music</a></p>
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Weekend%20Party">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+21 Bridges,Chadwick Boseman,Isidingo,The Need,Star Wars,John Boyega,Michael Jackson,Man in the Music,Shark Tank,sanitized,Wellington,Clara,Ali Sasha,Lesonta,Disney,Rise of Skywalker,Horizon Deep, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-068.mp3?ver=1" type="audio/mpeg" fileSize="3556274" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/weekendparty/weekendparty-068.mp3?ver=1" type="audio/mpeg" length="3556274" />
+
+<guid isPermaLink="false">weekendparty-068</guid>
+
+</item>
 
 
 <item>
