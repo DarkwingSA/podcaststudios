@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:spotify="https://www.spotify.com/ns/rss"
-	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:spotify="https://www.spotify.com/ns/rss"
+  xmlns:dcterms="https://purl.org/dc/terms/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   
      <channel>
 
           <atom:link href="https://podcaststudios.co.za/rss/onchange.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
           <!-- <atom:link href="https://mymate.co.za/podcasts/rss/onchange001.xml" rel="self" type="application/rss+xml" /> -->
 
           <title>On Change with Petro du Pisani</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=on-change</link>
           <language>en-za</language>
-          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <copyright>© Solid Gold Podcast Studios - all rights reserved</copyright>
           <description>The podcast that explores 'change that works' - and the people who make it happen.</description>
           <itunes:subtitle>Let's talk about change - with integrity.</itunes:subtitle>
-          <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+          <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>Experienced change practioner, Petro du Pisani, explores 'change that works' and the people who make it happen.</itunes:summary>
           
           <itunes:category text="Business">
@@ -32,19 +34,103 @@
 
           <itunes:explicit>no</itunes:explicit>
           <itunes:owner>
-               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:name>Gavin Kennedy | Solid Gold Podcast Studios</itunes:name>
                <itunes:email>onchange@solidgoldstudios.co.za</itunes:email>
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/onchange/onchange-cover-000.jpg" />
 
 
-<lastBuildDate>Thu, 13 Jun 2019 08:40:00 +0200</lastBuildDate>
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Tue, 03 Dec 2019 19:57:15 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 014 - Riaan Wolmarans (BFF) | Travel books: Memories & aspirations - Season 2 Episode 3 -->
+<author>onchange@solidgoldstudios.co.za (Petro du Pisani | Solid Gold Podcast Studios)</author>
+<itunes:author>Petro du Pisani | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Riaan Wolmarans (BFF) | Travel books: Memories and aspirations</title>
+<itunes:title>Riaan Wolmarans (BFF) | Travel books: Memories and aspirations</itunes:title>
+<itunes:subtitle>Books we read about or while traveling, or that make us want to travel</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>30:52</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=on-change</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/onchange/on-change-014-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Tue, 03 Dec 2019 19:57:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+This is another special edition end-of-year book-review On Change podcast.
+
+In this episode Riaan Wolmarans and I talk about books about travel. Books that made us want to travel somewhere (or not). Books that we read, or were recommended to us while traveling. Books about places, real or invented.
+Join us on a journey around the world and through genres.
+
+We also reveal what we will be reading over the holiday season.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Petro on LinkedIn <a href="https://www.linkedin.com/in/petrodupisani/">/petrodupisani</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+This is another special edition end-of-year book-review On Change podcast.
+
+In this episode Riaan Wolmarans and I talk about books about travel. Books that made us want to travel somewhere (or not). Books that we read, or were recommended to us while traveling. Books about places, real or invented.
+Join us on a journey around the world and through genres.
+
+We also reveal what we will be reading over the holiday season.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Petro on LinkedIn <a href="https://www.linkedin.com/in/petrodupisani/">/petrodupisani</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Riaan Wolmarans, books, book review, travel books, travel, reading, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/onchange/on-change-014-riaan-wolmarans.mp3?ver=1" type="audio/mpeg" fileSize="30480972" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/onchange/on-change-014-riaan-wolmarans.mp3?ver=1" type="audio/mpeg" length="30480972" />
+
+<guid isPermaLink="false">onchange-014</guid>
+
+</item>
 
 
 <item>
 <!-- Sequence 013 - Jo Rust | How motorcycling around Africa changes you - Season 2 Episode 02 -->
-<author>onchange@solidgoldstudios.co.za (Petro du Pisani | Solid Gold Studios)</author>
-<itunes:author>Petro du Pisani | Solid Gold Studios</itunes:author>
+<author>onchange@solidgoldstudios.co.za (Petro du Pisani | Solid Gold Podcast Studios)</author>
+<itunes:author>Petro du Pisani | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -131,8 +217,8 @@ Jo Rust, Jo Rust Adventures, GS Trophy, BMW Motorrad, Personal Coach, Motivation
 
 <item>
 <!-- Sequence 012 - On being an ordinary South African -->
-<author>onchange@solidgoldstudios.co.za (Petro du Pisani | Solid Gold Studios)</author>
-<itunes:author>Petro du Pisani | Solid Gold Studios</itunes:author>
+<author>onchange@solidgoldstudios.co.za (Petro du Pisani | Solid Gold Podcast Studios)</author>
+<itunes:author>Petro du Pisani | Solid Gold Podcast Studios</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -194,7 +280,7 @@ Denis Beckett, Journalist, Beckett's Trek, Frontline, Politics, #onchangepodcast
 
         <item>
                <!-- 011 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Fri, 14 Dec 2018 19:30:00 +0200</pubDate>
@@ -222,14 +308,14 @@ Books that changed us and shaped us through the years.
 				<itunes:episode>11</itunes:episode>
                 <itunes:duration>51:49</itunes:duration>
                
-               <itunes:keywords>Riaan Wolmarans, Tiso Blackstar, Star Trek, Kindle, Books, Reading list, Speculative Fiction, best friends, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>Riaan Wolmarans, Tiso Blackstar, Star Trek, Kindle, Books, Reading list, Speculative Fiction, best friends, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
                                                             
         </item>
 
 
         <item>
                <!-- 010 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <itunes:episode>10</itunes:episode>
@@ -249,13 +335,13 @@ Books that changed us and shaped us through the years.
                
 
                
-               <itunes:keywords>Mindfulness, Yoga, Steven Heyman, Yogaworks, Yoga Republic, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
+               <itunes:keywords>Mindfulness, Yoga, Steven Heyman, Yogaworks, Yoga Republic, Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy, #BeHeard</itunes:keywords>
                                                             
         </item>
 
         <item>
                <!-- 009 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Thu, 25 Oct 2018 20:31:00 +0200</pubDate>
@@ -278,13 +364,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>9</itunes:episode>
 <itunes:duration>31:57</itunes:duration>
                
-               <itunes:keywords>Coaching, Authentic African Leadership, Gail Cameron, Image Excellence Group, Emotional Intelligence , Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Coaching, Authentic African Leadership, Gail Cameron, Image Excellence Group, Emotional Intelligence , Petro du Pisani, change, IntegriChange, certified change practitioner, another Solid Gold Podcast Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
                <!-- 008 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Mon, 24 Sep 2018 10:19:00 +0200</pubDate>
@@ -307,13 +393,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>8</itunes:episode>
 <itunes:duration>50:19</itunes:duration>
                
-               <itunes:keywords>Corrie Pitzer, Safemap International, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Corrie Pitzer, Safemap International, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
                <!-- 007 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Fri, 21 Sep 2018 15:30:00 +0200</pubDate>
@@ -336,13 +422,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>7</itunes:episode>
 <itunes:duration>36:59</itunes:duration>
                
-               <itunes:keywords>Dr. Clifford Saunders, Centre for Applied Neuroscience in Business, The Brain Doctor, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Dr. Clifford Saunders, Centre for Applied Neuroscience in Business, The Brain Doctor, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
                <!-- 006 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Mon, 16 Jul 2018 08:20:00 +0200</pubDate>
@@ -365,13 +451,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>6</itunes:episode>
 <itunes:duration>29:56</itunes:duration>
                
-               <itunes:keywords>Harry Sinko, Gary Lane, Vuuma Collaborations, SiMINE, digital twins, mining 4.0, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Harry Sinko, Gary Lane, Vuuma Collaborations, SiMINE, digital twins, mining 4.0, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
           	<!-- 005 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Thu, 14 Jun 2018 15:44:00 +0200</pubDate>
@@ -392,13 +478,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>5</itunes:episode>
 <itunes:duration>39:05</itunes:duration>
                
-               <itunes:keywords>Noleen Pauls, Lindi Nakedi, Women in Mining South Africa, WiMSA, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Noleen Pauls, Lindi Nakedi, Women in Mining South Africa, WiMSA, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
           	<!-- 004 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Fri, 30 Mar 2018 18:15:00 +0200</pubDate>
@@ -417,13 +503,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>4</itunes:episode>
 <itunes:duration>39:02</itunes:duration>
                
-               <itunes:keywords>George Lee Sye, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>George Lee Sye, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
         <item>
           	<!-- 003 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sun, 25 Mar 2018 17:50:00 +0200</pubDate>
@@ -442,13 +528,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>3</itunes:episode>
 <itunes:duration>41:57</itunes:duration>
                
-               <itunes:keywords>Dr. Barbra Trautline, Change Catalysts, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Dr. Barbra Trautline, Change Catalysts, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
 		<item>
           	<!-- 002 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Thu, 25 Jan 2018 18:35:00 +0200</pubDate>
@@ -467,13 +553,13 @@ Books that changed us and shaped us through the years.
 <itunes:episode>2</itunes:episode>
 <itunes:duration>48:32</itunes:duration>
                
-               <itunes:keywords>Ryk Croukamp, Indigo Skye, Logotherapy, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Ryk Croukamp, Indigo Skye, Logotherapy, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
 		<item>
           	<!-- 001 -->
-               <itunes:author>Petro Du Pisani | Solid Gold Studios</itunes:author>
+               <itunes:author>Petro Du Pisani | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
                
                <pubDate>Sat, 18 Nov 2017 12:00:00 +0200</pubDate>
@@ -492,7 +578,7 @@ Books that changed us and shaped us through the years.
 <itunes:episode>1</itunes:episode>
 <itunes:duration>26:42</itunes:duration>
                
-               <itunes:keywords>Tom Marsicano, And Change, change in a production environment, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Tom Marsicano, And Change, change in a production environment, On Change, IntegriChange, Petro du Pisani, change, change implementation, Solid Gold Podcast Studios, another Solid Gold podcast, Gavin Kennedy</itunes:keywords>
                                                             
         </item>
 
