@@ -1,0 +1,167 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Logotherapy for Optimal Living</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=logotherapy</link>	
+<managingEditor>logotherapy@solidgoldstudios.co.za (Viktor Frankl Institue of Logotherapy South Africa | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Viktor Frankl Institue of Logotherapy South Africa - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>As human beings, we are essentially spiritual creatures.</p>	
+<p>We seek meaning in life, and feel complete only when we live with a sense of purpose and destiny.</p>	
+<p></p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=1</url>
+	<title>Logotherapy for Optimal Living</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=logotherapy]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Logotherapy - helping people to understand and integrate meaning in their lives.</itunes:subtitle>	
+<itunes:author>Viktor Frankl Institue of Logotherapy South Africa | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+As human beings, we are essentially spiritual creatures.	
+	
+We seek meaning in life, and feel complete only when we live with a sense of purpose and destiny.	
+
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/logotherapy.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Viktor Frankl Institue of Logotherapy South Africa - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=1" />
+	<media:keywords>viktor frankl, teria shantall, logotherapy, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>logotherapy@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>Logotherapy for Optimal Living</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>viktor frankl, teria shantall, logotherapy, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Spirituality" />
+</itunes:category>
+
+<itunes:category text="Science">
+  <itunes:category text="Social Sciences" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Philosophy" />
+  <itunes:category text="Relationships" />
+</itunes:category>	
+
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Wed, 11 Dec 2019 12:00:00 +0200</pubDate>
+
+
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Wed, 11 Dec 2019 15:23:26 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - The power of a meaning-filled life | Teria Shantall (VFISA | President) - Season  Episode      TRAILER -->
+<author>logotherapy@solidgoldstudios.co.za (Viktor Frankl Institue of Logotherapy South Africa | Solid Gold Podcast Studios)</author>
+<itunes:author>Viktor Frankl Institue of Logotherapy South Africa | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>trailer</itunes:episodeType>
+
+       <title>The power of a meaning-filled life | Teria Shantall (VFISA | President)</title>
+<itunes:title>The power of a meaning-filled life | Teria Shantall (VFISA | President)</itunes:title>
+<itunes:subtitle>The story of Viktor Frankl</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<!--  -->
+<!--  -->
+<itunes:duration>36:13</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=logotherapy</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Wed, 11 Dec 2019 15:40:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://vfisa.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">
+<img src="https://podcaststudios.co.za/images/logotherapy/vfisa-64.jpg?ver=1" alt="Viktor Frankl Institute" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27735880835&text=%5Bpodcast%5D%20Hello%20Sheldon...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Learn more about the origin story of Viktor Frankl.
+</p>
+<p>Music Used : Triumph Of Heros | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Viktor Frankl Institure for Logotherapy South Africa <a href="https://vfisa.co.za">https://vfisa.co.za</a></p>
+<p>Stay up-to-date with us on Facebook <a href="https://www.facebook.com/LogotherapySA/">https://www.facebook.com/LogotherapySA/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://vfisa.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">
+<img src="https://podcaststudios.co.za/images/logotherapy/vfisa-64.jpg?ver=1" alt="Viktor Frankl Institute" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27735880835&text=%5Bpodcast%5D%20Hello%20Sheldon...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Learn more about the origin story of Viktor Frankl.
+</p>
+<p>Music Used : Triumph Of Heros | https://johnbartmann.com/about/</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Viktor Frankl Institure for Logotherapy South Africa <a href="https://vfisa.co.za">https://vfisa.co.za</a></p>
+<p>Stay up-to-date with us on Facebook <a href="https://www.facebook.com/LogotherapySA/">https://www.facebook.com/LogotherapySA/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Logotherapy">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+origin story, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/logotherapy/logotherapy-001-viktor-frankl.mp3?ver=1" type="audio/mpeg" fileSize="34811327" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/logotherapy/logotherapy-001-viktor-frankl.mp3?ver=1" type="audio/mpeg" length="34811327" />
+
+<guid isPermaLink="false">logotherapy-001</guid>
+
+</item>
+	
+	
+	</channel>
+	</rss>
