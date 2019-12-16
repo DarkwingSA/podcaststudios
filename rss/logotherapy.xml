@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=2</url>
+	<url>https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=4</url>
 	<title>Logotherapy for Optimal Living</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=logotherapy]]></link>
 </image>	
@@ -45,13 +45,13 @@ We seek meaning in life, and feel complete only when we live with a sense of pur
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=2" />
+	<itunes:image href="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=4" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/logotherapy.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Viktor Frankl Institue of Logotherapy South Africa - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=2" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=4" />
 	<media:keywords>viktor frankl, teria shantall, logotherapy, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -85,7 +85,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Wed, 11 Dec 2019 16:10:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 16 Dec 2019 09:10:00 +0200</lastBuildDate>
 
 
 <item>
@@ -95,8 +95,8 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 
 <itunes:episodeType>trailer</itunes:episodeType>
 
-       <title>The power of a meaning-filled life | Teria Shantall (VFISA | President)</title>
-<itunes:title>The power of a meaning-filled life | Teria Shantall (VFISA | President)</itunes:title>
+       <title>The power of a meaning-filled life | Dr. Teria Shantall (VFISA | President)</title>
+<itunes:title>The power of a meaning-filled life | Dr. Teria Shantall (VFISA | President)</itunes:title>
 <itunes:subtitle>The story of Viktor Frankl</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
@@ -106,7 +106,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=logotherapy</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/logotherapy/logotherapy-000-cover.jpg?ver=4" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Wed, 11 Dec 2019 16:00:00 +0200</pubDate>
