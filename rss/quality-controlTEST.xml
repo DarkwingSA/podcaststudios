@@ -45,6 +45,7 @@ WARNING: Opinions may vary
           <itunes:image href="https://podcaststudios.co.za/images/qc/qc-000-cover.jpg?ver=1" />
 
           <atom:link href="https://podcaststudios.co.za/rss/quality-control.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 
           <media:copyright>© Ilyaas mayet and Awande Buthelezi - all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/qc/qc-000-cover.jpg?ver=1" />
@@ -73,7 +74,70 @@ WARNING: Opinions may vary
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Fri, 25 Oct 2019 13:21:25 +0200</lastBuildDate>
+<lastBuildDate>Wed, 18 Dec 2019 10:07:15 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 007 - It’s always better with the lights out - Season 1 Episode 7     FULL -->
+<author>qc@solidgoldstudios.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>It’s always better with the lights out</title>
+<itunes:title>It’s always better with the lights out</itunes:title>
+<itunes:subtitle>A deep dive into a dark year for South Africa</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>01:05:18</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/qc/qc-007-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Wed, 18 Dec 2019 10:07:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In the penultimate episode of 2019, the boys give a brief run through of some of the year's highlights and lowlights (no pun intended). Then they blow off some steam regarding the recent country's power problems, the rise and fall of Ramaphoria, the breakdown of SAA and the general circus that is South Africa. Dweezy also expresses his love for nuts as we gear up for the holidays
+</p>
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In the penultimate episode of 2019, the boys give a brief run through of some of the year's highlights and lowlights (no pun intended). Then they blow off some steam regarding the recent country's power problems, the rise and fall of Ramaphoria, the breakdown of SAA and the general circus that is South Africa. Dweezy also expresses his love for nuts as we gear up for the holidays
+</p>
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+QC, Eskimo, SAA, Ramaphosa, South Africa, google top searches, lights on, lights off, load shedding, highlights, lowlights, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-007-its-always-better-with-the-lights-out.mp3?ver=1" type="audio/mpeg" fileSize="62995797" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-007-its-always-better-with-the-lights-out.mp3?ver=1" type="audio/mpeg" length="62995797" />
+
+<guid isPermaLink="false">qc-007</guid>
+
+</item>
 
 
 <item>
@@ -97,7 +161,7 @@ WARNING: Opinions may vary
 <itunes:image href="http://podcaststudios.co.za/images/qc/qc-006-cover.jpg" />
 <!-- Use EPISODE-SPECIFIC image -->
 
-<pubDate>Tue, 17 Sep 2019 13:21:25 +0200</pubDate>
+<pubDate>Fri, 25 Oct 2019 13:31:19 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
@@ -141,7 +205,6 @@ Law, black, lawyer, attorney, corporate, interview, discussion, quality control,
 <guid isPermaLink="false">qc-006</guid>
 
 </item>
-
 
 <item>
 <!-- Sequence 005 - The Prequel - Season 1 Episode 5 -->
