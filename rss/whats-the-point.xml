@@ -46,6 +46,7 @@ Recorded and produced at SolidGoldStudios.co.za
 	<itunes:image href="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/whats-the-point.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Elan Ressel - all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg?ver=1" />
@@ -83,7 +84,155 @@ Recorded and produced at SolidGoldStudios.co.za
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Wed, 25 Sep 2019 18:41:07 +0200</lastBuildDate>
+<lastBuildDate>Thu, 09 Jan 2020 21:02:54 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 004 - App Focus: SnapnSave - Season 1 Episode 4     FULL -->
+<author>whats-the-point@solidgoldstudios.co.za (Elan Ressel | Solid Gold Podcast Studios)</author>
+<itunes:author>Elan Ressel | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>App Focus: SnapnSave</title>
+<itunes:title>App Focus: SnapnSave</itunes:title>
+<itunes:subtitle>How does it work and how can you make money from it?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>15:44</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=whats-the-point</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 09 Jan 2020 21:02:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this first App focus episode, Elan explains what SnapnSave is, how it works and how it integrates with existing loyalty programs. He also shows you how to make money from it.
+</p>
+<br />
+<p>Use this promo code to get started with SnapnSave and save money today! <a href="https://www.snapnsave.co.za/account/signup-step1?userPromoCode=Elanr082?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">https://www.snapnsave.co.za/account/signup-step1?userPromoCode=Elanr082</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this first App focus episode, Elan explains what SnapnSave is, how it works and how it integrates with existing loyalty programs. He also shows you how to make money from it.
+</p>
+<br />
+<p>Use this promo code to get started with SnapnSave and save money today! <a href="https://www.snapnsave.co.za/account/signup-step1?userPromoCode=Elanr082?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">https://www.snapnsave.co.za/account/signup-step1?userPromoCode=Elanr082</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+SnapnSave, Momentum Multiply, Shopping, Saving, Earn Money, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-004-snap-n-save.mp3?ver=1" type="audio/mpeg" fileSize="11631044" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-004-snap-n-save.mp3?ver=1" type="audio/mpeg" length="11631044" />
+
+<guid isPermaLink="false">wtp-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - Back to Basics | Louis Raubenheimer (Loyalty Program Expert) - Season 1 Episode 3     FULL -->
+<author>whats-the-point@solidgoldstudios.co.za (Elan Ressel | Solid Gold Podcast Studios)</author>
+<itunes:author>Elan Ressel | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Back to Basics | Louis Raubenheimer (Loyalty Program Expert)</title>
+<itunes:title>Back to Basics | Louis Raubenheimer (Loyalty Program Expert)</itunes:title>
+<itunes:subtitle>Learning how Loyalty Programs work</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>48:29</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=whats-the-point</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/whats-the-point/wtp-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 09 Jan 2020 20:58:12 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this episode, Elan sits down with Louis Raubenheimer, an expert on loyalty programs in the South African market, to discuss how loyalty programs are constructed by companies, why some work and others don't.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27824562233&text=%5Bpodcast%5D%20Hello%20Elan..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+
+
+<p>
+In this episode, Elan sits down with Louis Raubenheimer, an expert on loyalty programs in the South African market, to discuss how loyalty programs are constructed by companies, why some work and others don't.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with us on Instagram <a href="https://www.instagram.com/whatsthepointafrica/">@whatsthepointafrica</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Whats%20The%20Point">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Expert, Psychology, Loyalty Points, Louis Raubenheimer, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-003-back-to-basics.mp3?ver=1" type="audio/mpeg" fileSize="46835223" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/whats-the-point/wtp-003-back-to-basics.mp3?ver=1" type="audio/mpeg" length="46835223" />
+
+<guid isPermaLink="false">wtp-003</guid>
+
+</item>
 
 
 <item>
