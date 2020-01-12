@@ -58,6 +58,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 	<itunes:keywords>Outsiders, John Vlismas, Carmen Murray, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 	
+
 <itunes:category text="Business">
   <itunes:category text="Careers" />
   <itunes:category text="Entrepreneurship" />
@@ -72,14 +73,24 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
   <itunes:category text="How To" />
   <itunes:category text="Self-Improvement" />
 </itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Sexuality" />
+</itunes:category>
 <itunes:category text="News">
   <itunes:category text="Business News" />
   <itunes:category text="News Commentary" />
+  <itunes:category text="Politics" />
+  <itunes:category text="Tech News" />
 </itunes:category>
 <itunes:category text="Society &amp; Culture">
   <itunes:category text="Personal Journals" />
-  <itunes:category text="Relationships" />
 </itunes:category>
+<itunes:category text="Arts">
+  <itunes:category text="Books" />
+</itunes:category>
+<itunes:category text="Government" />
+<itunes:category text="History" />
+<itunes:category text="Technology" />
 <itunes:category text="Government" />
 <itunes:category text="History" />
 <itunes:category text="Technology" />
