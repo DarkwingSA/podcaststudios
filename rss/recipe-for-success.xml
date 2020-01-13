@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=1</url>
+	<url>https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=2</url>
 	<title>Recipe For Success with Miles Kubheka</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=recipe-for-success]]></link>
 </image>	
@@ -42,13 +42,13 @@ Miles Kubheka, the big, big dreamer and founder of Wakanda - Food For Life, talk
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=2" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/recipe-for-success.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Miles Kubheka - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=2" />
 	<media:keywords>miles kubheka, wakanda food, vuyo, entrepreneur, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -74,7 +74,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Sat, 11 Jan 2020 10:10:21 +0200</lastBuildDate>
+<lastBuildDate>Mon, 13 Jan 2020 07:45:00 +0200</lastBuildDate>
 
 
 <item>
@@ -95,7 +95,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=recipe-for-success</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=2" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Tue, 08 Jan 2019 10:10:21 +0200</pubDate>
