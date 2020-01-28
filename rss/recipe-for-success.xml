@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=3</url>
+	<url>https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=4</url>
 	<title>Recipe For Success with Miles Kubheka</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=recipe-for-success]]></link>
 </image>	
@@ -42,13 +42,13 @@ Miles Kubheka, the big, big dreamer and founder of Wakanda - Food Forever, talks
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=3" />
+	<itunes:image href="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=4" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/recipe-for-success.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Miles Kubheka - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=3" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=4" />
 	<media:keywords>miles kubheka, wakanda food, vuyo, entrepreneur, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -76,7 +76,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 
 
 
-<lastBuildDate>Tue, 28 Jan 2020 08:07:35 +0200</lastBuildDate>
+<lastBuildDate>Tue, 28 Jan 2020 17:30:00 +0200</lastBuildDate>
 
 
 <item>
@@ -97,7 +97,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=recipe-for-success</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=4" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Tue, 28 Jan 2020 08:07:35 +0200</pubDate>
@@ -180,7 +180,7 @@ Setšong, retang phaahla, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=recipe-for-success</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/recipe-for-success/recipe-for-success-000-cover.jpg?ver=4" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Tue, 08 Jan 2019 10:20:00 +0200</pubDate>
