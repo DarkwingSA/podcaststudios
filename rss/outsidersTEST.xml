@@ -18,7 +18,7 @@
 	
 <spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
 	
-<copyright>© John Vlismas and Carmen Murray - all rights reserved</copyright>	
+<copyright>© John Vlismas, Carmen Murray and Solid Gold Podcast Studios - all rights reserved</copyright>	
 	<description><![CDATA[
 <p>John Vlismas and Carmen Murray unite as two formidable forces and visionary thinkers to unlock your inner Øutsider. It's time to get off the couch into the arena, disrupt your thinking and get real in this chaotic world. Be the catalyst for change and question everything.</p>	
 <p>The one thing that makes Outsiders powerful, is the ability to turn their back to the crowds and face the music they want to create. The IN with the TWO Outsiders podcast is about two underdogs, John Vlismas and Carmen Murray who find other underdogs, misfits, professional trouble makers, activists, and uncover their underdog story looking from the outside in. They have meaningful conversations with people that are changing the way we see the world, one word, one day, one act at a time.</p>	
@@ -51,7 +51,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	<atom:link href="https://podcaststudios.co.za/rss/outsiders.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
-	<media:copyright>© John Vlismas and Carmen Murray - all rights reserved</media:copyright>
+	<media:copyright>© John Vlismas, Carmen Murray and Solid Gold Podcast Studios- all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/outsiders/outsiders-000-cover.jpg?ver=2" />
 	<media:keywords>#Outsiders, #Disruptiondiaries, #TLDR, #HotMinute, #AskJohnCarmen, #CarmenMurray, #JohnVlismas, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
@@ -105,11 +105,11 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Sun, 09 Feb 2020 19:33:45 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Feb 2020 06:52:16 +0200</lastBuildDate>
 
 
 <item>
-<!-- Sequence 002 - Make yourself at home with Legacy | Stafford Masie (Worldclass Techtrepreneur, Serial Entrepreneur, Global Speaker, Husband, Father) - Season 1 Episode 1     FULL -->
+<!-- Sequence 003 - Make yourself at home with Legacy | Stafford Masie (Worldclass Techtrepreneur, Serial Entrepreneur, Global Speaker, Husband, Father) - Season 1 Episode 1     FULL -->
 <author>outsiders@solidgoldstudios.co.za (John Vlismas and Carmen Murray | Solid Gold Podcast Studios)</author>
 <itunes:author>John Vlismas and Carmen Murray | Solid Gold Podcast Studios</itunes:author>
 
@@ -126,10 +126,10 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=outsiders</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/outsiders/outsiders-000-cover.jpg?ver=2" />
+<itunes:image href="http://podcaststudios.co.za/images/outsiders/outsiders-000-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 10 Feb 2020 19:33:45 +0200</pubDate>
+<pubDate>Mon, 10 Feb 2020 06:52:16 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">
@@ -199,8 +199,85 @@ We dare you! DON'T LISTEN TO THIS!
 wework, stafford masie, CSIR, advtech, sauronAi Holdings, Snaptutor, AI, Tech, Culture, Millennials, legacy, attribution, value, curiosity, educating, growth, family, #JohnVlismas, #CarmenMurray, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-002-stafford-masie.mp3?ver=1" type="audio/mpeg" fileSize="72662726" />
-    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-002-stafford-masie.mp3?ver=1" type="audio/mpeg" length="72662726" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-003-stafford-masie.mp3?ver=1" type="audio/mpeg" fileSize="72662726" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-003-stafford-masie.mp3?ver=1" type="audio/mpeg" length="72662726" />
+
+<guid isPermaLink="false">outsiders-003</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 002 - Bonus | 702 and Cape Talk Interview | Gushwell Brooks - Season 1 - BONUS -->
+<author>outsiders@solidgoldstudios.co.za (John Vlismas and Carmen Murray | Solid Gold Podcast Studios)</author>
+<itunes:author>John Vlismas and Carmen Murray | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>bonus</itunes:episodeType>
+
+       <title>Bonus | 702 and Cape Talk Interview | Gushwell Brooks</title>
+<itunes:title>Bonus | 702 and Cape Talk Interview | Gushwell Brooks</itunes:title>
+<itunes:subtitle>Disruption is coming</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<!-- <itunes:episode></itunes:episode> -->
+<itunes:duration>31:36</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=outsiders</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/outsiders/outsiders-002-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Mon, 10 Feb 2020 06:40:04 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+702 and Cape Talk host, Gushwell Brooks, talks to Carmen and John about the launch of the disruptive Outsiders movement.
+</p>
+<br />
+<p>Connect with Gushwell Brooks on LinkedIn <a href="https://www.linkedin.com/in/gushwell-brooks-972677101/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">https://www.linkedin.com/in/gushwell-brooks-972677101/</a></p>
+<p>Primedia Broadcasting <a href="http://www.primediabroadcasting.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">http://www.primediabroadcasting.co.za/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Join the Outsiders Movement <a href="http://bit.ly/2tV8l0P">http://bit.ly/2tV8l0P</a></p>
+<p>Engage with us on Facebook <a href="https://www.facebook.com/outsidersZA/">https://www.facebook.com/outsidersZA/</a></p>
+<p>Mail John and Carmen <a href="mailto:johnandcarmen@solidgoldstudios.co.za">JohnAndCarmen@SolidGoldStudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+702 and Cape Talk host, Gushwell Brooks, talks to Carmen and John about the launch of the disruptive Outsiders movement.
+</p>
+<br />
+<p>Connect with Gushwell Brooks on LinkedIn <a href="https://www.linkedin.com/in/gushwell-brooks-972677101/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">https://www.linkedin.com/in/gushwell-brooks-972677101/</a></p>
+<p>Primedia Broadcasting <a href="http://www.primediabroadcasting.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">http://www.primediabroadcasting.co.za/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Join the Outsiders Movement <a href="http://bit.ly/2tV8l0P">http://bit.ly/2tV8l0P</a></p>
+<p>Engage with us on Facebook <a href="https://www.facebook.com/outsidersZA/">https://www.facebook.com/outsidersZA/</a></p>
+<p>Mail John and Carmen <a href="mailto:johnandcarmen@solidgoldstudios.co.za">JohnAndCarmen@SolidGoldStudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>If you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Outsiders">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+702, cape talk, gushwell brooks, primedia, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-002-gushwell-brooks.mp3?ver=1" type="audio/mpeg" fileSize="23043437" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-002-gushwell-brooks.mp3?ver=1" type="audio/mpeg" length="23043437" />
 
 <guid isPermaLink="false">outsiders-002</guid>
 
