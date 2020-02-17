@@ -45,6 +45,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	<itunes:image href="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/wimsa.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© WiMSA Women in Mining South Africa - all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg?ver=1" />
@@ -69,12 +70,133 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	<ttl>30</ttl>
 	<pubDate>Thu, 06 Dec 2018 14:00:00 +0200</pubDate>
 
-
 <itunes:complete>no</itunes:complete>
 
 
+<lastBuildDate>Mon, 17 Feb 2020 18:20:23 +0200</lastBuildDate>
 
-<lastBuildDate>Mon, 21 Oct 2019 13:00:00 +0200</lastBuildDate>
+
+<item>
+<!-- Sequence 007 - Mining Indaba Roundup | Briony Liber (WiMSA), Lindy Scott (WiMSA) - Season 1 Episode 7     FULL -->
+<author>wimsa@solidgoldstudios.co.za (WiMSA Women in Mining South Africa | Solid Gold Podcast Studios)</author>
+<itunes:author>WiMSA Women in Mining South Africa | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Mining Indaba Roundup | Briony Liber (WiMSA), Lindy Scott (WiMSA)</title>
+<itunes:title>Mining Indaba Roundup | Briony Liber (WiMSA), Lindy Scott (WiMSA)</itunes:title>
+<itunes:subtitle>WiMSA's key takeaways from this year's Investing in Africa Mining Indaba</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>30:21</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=network</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/wimsa/wimsa-cover-s01-e000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Mon, 17 Feb 2020 18:20:23 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this episode WiMSA Deputy chair Petro du Pisani speaks to fellow committee members Briony Liber and Lindy Scott about their recent experiences at the Investing in Africa Mining Indaba. 
+The Mining Indaba is the world's largest mining investment event and takes place each February.
+A number of WiMSA committee members attended this year's Indaba, some of their tickets generously sponsored by the organisers of the event, the Hyve GrouP Plc.
+This year Briony and Lindy recorded some insights from delegates at the event.
+In this podcast we mix together Briony and Lindy's reflections with those of the delegates recorded at the event.
+You will hear the voices of the following delegates:
+
+- Holly Bridgwater, Unearthed Solutions
+- Jeannette Hofsajer, Minerals Council South Africa
+- Keitumetse Lekaba, Quartile Capital Holdings
+- Kesia Kariko, Dundee Precious Metals Inc.
+- Koketso Busang, MMS Africa
+- Olebogeng Sentsho, Simba Mngodi Mining Incubation Fund
+- Raksha Naidoo, AMIS
+- Tatiana Zamorova, Du Pont Sustainable Solutions
+- Zenzi Awases, Women in Mining Association of Namibia
+
+At the Indaba WiMSA hosted a panel on gender diversity sponsored by Webber Wentzel and AMIS confirmed their sponsorship for WiMSA's mentoring programme.
+
+In our next episodes we will talk more about WiMSA's Future Fit and mentoring programmes.
+</p>
+<br />
+<p>Find out more about the Investing in Africa Mining Indaba here: <a href="https://www.miningindaba.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.miningindaba.com</a></p>
+<p>Thanks to Webber Wentzel for sponsoring the WiMSA breakfast <a href="www.webberwentzel.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">www.webberwentzel.com</a></p>
+<p>Thanks to AMIS for sponsorship towards WiMSA's mentoring programme. <a href="https://www.amis.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.amis.co.za/</a></p>
+<p>Music : Faith by Vibe Tracks</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with WiMSA on LinkedIn <a href="https://www.linkedin.com/company/women-in-mining-south-africa/">/women-in-mining-south-africa</a></p>
+<p>Follow WiMSA on Facebook <a href="https://www.facebook.com/WomenInMiningSouthAfrica/">/WomenInMiningSouthAfrica</a></p>
+<p>For more information, and to become a member, visit our website <a href="https://wimsa.org.za/?utm_source=Solid%20Gold%20Podcast%20Studios&utm_medium=Network%20Podcast">WiMSA.org.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+In this episode WiMSA Deputy chair Petro du Pisani speaks to fellow committee members Briony Liber and Lindy Scott about their recent experiences at the Investing in Africa Mining Indaba. 
+The Mining Indaba is the world's largest mining investment event and takes place each February.
+A number of WiMSA committee members attended this year's Indaba, some of their tickets generously sponsored by the organisers of the event, the Hyve GrouP Plc.
+This year Briony and Lindy recorded some insights from delegates at the event.
+In this podcast we mix together Briony and Lindy's reflections with those of the delegates recorded at the event.
+You will hear the voices of the following delegates:
+
+- Holly Bridgwater, Unearthed Solutions
+- Jeannette Hofsajer, Minerals Council South Africa
+- Keitumetse Lekaba, Quartile Capital Holdings
+- Kesia Kariko, Dundee Precious Metals Inc.
+- Koketso Busang, MMS Africa
+- Olebogeng Sentsho, Simba Mngodi Mining Incubation Fund
+- Raksha Naidoo, AMIS
+- Tatiana Zamorova, Du Pont Sustainable Solutions
+- Zenzi Awases, Women in Mining Association of Namibia
+
+At the Indaba WiMSA hosted a panel on gender diversity sponsored by Webber Wentzel and AMIS confirmed their sponsorship for WiMSA's mentoring programme.
+
+In our next episodes we will talk more about WiMSA's Future Fit and mentoring programmes.
+</p>
+<br />
+<p>Find out more about the Investing in Africa Mining Indaba here: <a href="https://www.miningindaba.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.miningindaba.com</a></p>
+<p>Thanks to Webber Wentzel for sponsoring the WiMSA breakfast <a href="www.webberwentzel.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">www.webberwentzel.com</a></p>
+<p>Thanks to AMIS for sponsorship towards WiMSA's mentoring programme. <a href="https://www.amis.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.amis.co.za/</a></p>
+<p>Music : Faith by Vibe Tracks</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with WiMSA on LinkedIn <a href="https://www.linkedin.com/company/women-in-mining-south-africa/">/women-in-mining-south-africa</a></p>
+<p>Follow WiMSA on Facebook <a href="https://www.facebook.com/WomenInMiningSouthAfrica/">/WomenInMiningSouthAfrica</a></p>
+<p>For more information, and to become a member, visit our website <a href="https://wimsa.org.za/?utm_source=Solid%20Gold%20Podcast%20Studios&utm_medium=Network%20Podcast">WiMSA.org.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Petro du Pisani, Briony Liber, Lindy Scott, Holly Bridgwater, Jeannette Hofsajer, Keitumetse Lekaba, Kesia Kariko, Koketso Busang,  Olebogeng Sentsho, Raksha Naidoo, Tatiana Zamorova, Zenzi Awases, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/wimsa/wimsa-007-indaba-2020.mp3?ver=1" type="audio/mpeg" fileSize="29726357" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/wimsa/wimsa-007-indaba-2020.mp3?ver=1" type="audio/mpeg" length="29726357" />
+
+<guid isPermaLink="false">wimsa-007</guid>
+
+</item>
 
 
 <item>
