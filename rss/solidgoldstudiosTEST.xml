@@ -10,7 +10,7 @@
   
 <channel> 
   
-<title>Solid Gold Studios</title> 
+<title>Solid Gold Podcast Studios</title> 
 <link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
 <managingEditor>solidgoldstudios@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</managingEditor> 
 <language>en-za</language>  
@@ -29,16 +29,16 @@
   
 <image> 
   <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1</url>
-  <title>Solid Gold Studios</title>
+  <title>Solid Gold Podcast Studios</title>
   <link><![CDATA[<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>]]></link>
 </image>  
   
 <itunes:explicit>no</itunes:explicit> 
 <itunes:type>episodic</itunes:type> 
-<itunes:subtitle>Do you want to be heard and understood? We believe you have a story to tell. Our role is to help you tell it. We'll guide you through every step of making a podcast so that your voice can #BeHeard.</itunes:subtitle>  
+<itunes:subtitle>In order to be understood, you must first be heard. We believe you have a story to tell and our role is to help you tell it. We'll guide you through every step of making a podcast so that your voice can #BeHeard.</itunes:subtitle>  
 <itunes:author>Gavin Kennedy | Solid Gold Podcast Studios</itunes:author> 
   <itunes:summary><![CDATA[
-Solid Gold Podcast Studios, helping people to #BeHeard  
+Solid Gold Podcast Studios, you to #BeHeard  
 
 Recorded and produced at SolidGoldStudios.co.za 
   ]]></itunes:summary>
@@ -46,6 +46,7 @@ Recorded and produced at SolidGoldStudios.co.za
   <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1" />
   
   <atom:link href="https://podcaststudios.co.za/rss/solidgoldstudios.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   
   <media:copyright>© Gavin Kennedy - all rights reserved</media:copyright>
   <media:thumbnail url="https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1" />
@@ -53,7 +54,7 @@ Recorded and produced at SolidGoldStudios.co.za
   
   <itunes:owner>
   <itunes:email>solidgoldstudios@solidgoldstudios.co.za</itunes:email>
-  <itunes:name>Solid Gold Studios</itunes:name>
+  <itunes:name>Solid Gold Podcast Studios</itunes:name>
   </itunes:owner>
   
   <itunes:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -73,8 +74,80 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Fri, 13 Sep 2019 12:56:28 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Feb 2020 11:42:41 +0200</lastBuildDate>
 
+
+<item>
+<!-- Sequence 003 - Tell me more about podcasting | Gavin Kennedy and Kimberleigh Stark - Season 1 Episode 3     FULL -->
+<author>solidgoldstudios@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</author>
+<itunes:author>Gavin Kennedy | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Tell me more about podcasting | Gavin Kennedy and Kimberleigh Stark</title>
+<itunes:title>Tell me more about podcasting | Gavin Kennedy and Kimberleigh Stark</itunes:title>
+<itunes:subtitle>An interview from Kimberleigh Stark's podcast</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>25:58</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-003-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 20 Feb 2020 11:42:41 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+We share an interview with Solid Gold CEO, Gavin Kennedy, from Kimberleigh Stark's 'Lights, Cameras, Action!' podcast.
+</p>
+<p>Music : Freeling | Lauren Duski</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information <a href="https://solidgoldstudios.co.za/index.php">solidgoldstudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+We share an interview with Solid Gold CEO, Gavin Kennedy, from Kimberleigh Stark's 'Lights, Cameras, Action!' podcast.
+</p>
+<p>Music : Freeling | Lauren Duski</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information <a href="https://solidgoldstudios.co.za/index.php">solidgoldstudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+podcast, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" fileSize="23618553" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" length="23618553" />
+
+<guid isPermaLink="false">sgs-003</guid>
+
+</item>
 
 <item>
 <!-- Sequence 002 - Podcasting! What you NEED to know. | Dylan Kohlstadt (Shift One Digital | Founder) - Season 1 Episode 2 -->
@@ -83,8 +156,8 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:episodeType>full</itunes:episodeType>
 
-       <title>Podcasting! What you NEED to know. | Dylan Kohlstadt (Shift One Digital | Founder)</title>
-<itunes:title>Podcasting! What you NEED to know. | Dylan Kohlstadt (Shift One Digital | Founder)</itunes:title>
+       <title>Podcasting! Where to start? | Gavin Kennedy and Dylan Kohlstadt</title>
+<itunes:title>Podcasting! Where to start? | Gavin Kennedy and Dylan Kohlstadt</itunes:title>
 <itunes:subtitle>A conversation about the importance and relevance of podcasting.</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
@@ -94,7 +167,7 @@ Recorded and produced at SolidGoldStudios.co.za
 <link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
 
 <!-- Use EPISODE-SPECIFIC image -->
-<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-002-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-002-cover.jpg?ver=2" />
 <!-- Use EPISODE-SPECIFIC image -->
 
 <pubDate>Fri, 13 Sep 2019 12:56:28 +0200</pubDate>
@@ -155,7 +228,7 @@ dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gav
 
              <!-- Episode 001 -->
              <itunes:episode>1</itunes:episode>             
-             <itunes:author>Gavin Kennedy | Solid Gold Studios</itunes:author>
+             <itunes:author>Gavin Kennedy | Solid Gold Podcast Studios</itunes:author>
              <itunes:explicit>no</itunes:explicit>
             
              <!-- UPDATE CHAPTER AND PUBLISHED DATE -->
@@ -186,7 +259,7 @@ dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gav
                <itunes:duration>02:21</itunes:duration>
                
                <!-- COPY KEYWORKDS FROM GOOGLE DRIVE -->
-               <itunes:keywords>Corrie Pitzer, Story-telling, another Solid Gold Studios porcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
+               <itunes:keywords>Corrie Pitzer, Story-telling, another Solid Gold Studios podcast, podcaststudios.co.za, Gavin Kennedy</itunes:keywords>
 
         </item>
 
