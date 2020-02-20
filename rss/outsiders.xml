@@ -54,14 +54,14 @@ To be understood, you must first #BeHeard
 	
 	<media:copyright>© Solid Gold Podcast Studios- all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/outsiders/outsiders-000-cover.jpg?ver=2" />
-	<media:keywords>#Outsiders, #Disruptiondiaries, #TLDR, #HotMinute, #AskJohnCarmen, #CarmenMurray, #JohnVlismas, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	<media:keywords>#Outsiders, #Disruptiondiaries, #TLDR, #HotMinute, #AskJohnCarmen, #CarmenMurray, #JohnVlismas, #HenleyAfrica, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
 	<itunes:email>outsiders@solidgoldstudios.co.za</itunes:email>
 	<itunes:name>The IN with the TWO Øutsiders</itunes:name>
 	</itunes:owner>
 	
-	<itunes:keywords>#Outsiders, #Disruptiondiaries, #TLDR, #HotMinute, #AskJohnCarmen, #CarmenMurray, #JohnVlismas, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	<itunes:keywords>#Outsiders, #Disruptiondiaries, #TLDR, #HotMinute, #AskJohnCarmen, #CarmenMurray, #JohnVlismas, #HenleyAfrica, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 <itunes:category text="Business">
   <itunes:category text="Careers" />
@@ -106,7 +106,7 @@ To be understood, you must first #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Mon, 10 Feb 2020 20:45:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Feb 2020 17:45:00 +0200</lastBuildDate>
 
 
 <item>
@@ -197,7 +197,7 @@ We dare you! DON'T LISTEN TO THIS!
 ]]></content:encoded>
 
 <itunes:keywords>
-wework, stafford masie, CSIR, advtech, sauronAi Holdings, Snaptutor, AI, Tech, Culture, Millennials, legacy, attribution, value, curiosity, educating, growth, family, #JohnVlismas, #CarmenMurray, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+wework, stafford masie, CSIR, advtech, sauronAi Holdings, Snaptutor, AI, Tech, Culture, Millennials, legacy, attribution, value, curiosity, educating, growth, family, #JohnVlismas, #HenleyAfrica, #CarmenMurray, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-003-stafford-masie.mp3?ver=1" type="audio/mpeg" fileSize="72662726" />
@@ -274,7 +274,7 @@ wework, stafford masie, CSIR, advtech, sauronAi Holdings, Snaptutor, AI, Tech, C
 ]]></content:encoded>
 
 <itunes:keywords>
-702, cape talk, gushwell brooks, primedia, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+702, cape talk, gushwell brooks, primedia, #HenleyAfrica, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-002-gushwell-brooks.mp3?ver=1" type="audio/mpeg" fileSize="23043437" />
@@ -357,7 +357,7 @@ Ask Why?
 ]]></content:encoded>
 
 <itunes:keywords>
-john vlismas, carmen murray, outsiders, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+john vlismas, carmen murray, outsiders, #HenleyAfrica, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
 <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/outsiders/outsiders-001-trailer-s01.mp3?ver=1" type="audio/mpeg" fileSize="981818" />
