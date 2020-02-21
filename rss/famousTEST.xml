@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:spotify="https://www.spotify.com/ns/rss"
-	xmlns:dcterms="https://purl.org/dc/terms/"
-	xmlns:media="http://search.yahoo.com/mrss/">
+		xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:spotify="https://www.spotify.com/ns/rss"
+		xmlns:dcterms="https://purl.org/dc/terms/"
+		xmlns:media="http://search.yahoo.com/mrss/"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
      <channel>
 
           <title>Lights, Cameras, Action! with Kimberleigh Stark</title>
-          <link>https://solidgoldstudios.co.za/famous.php</link>
+          <link>https://solidgoldstudios.co.za/channel.php?title=lights-cameras-action</link>
           <managingEditor>famous@solidgoldstudios.co.za (Lights, Cameras, Action! | Solid Gold Studios)</managingEditor>
           <language>en-za</language>
           <copyright>Solid Gold Studios - all rights reserved</copyright>
@@ -54,6 +55,7 @@ another Solid Gold podcast
           <itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=5" />
 
           <atom:link href="https://podcaststudios.co.za/rss/famous.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 
           <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
           <media:thumbnail url="https://podcaststudios.co.za/images/famous/famous-cover-0000.jpg?ver=5" />
@@ -91,9 +93,87 @@ another Solid Gold podcast
 
           <ttl>30</ttl>
 
+<itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Sun, 16 Jun 2019 17:11:39 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Feb 2020 11:02:07 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 007 - The magic of podcasting | Gavin Kennedy (Solid Gold Podcast Studios | Founder and CEO) - Season 1 Episode 7     FULL -->
+<author>famous@solidgoldstudios.co.za (Kimberleigh Stark | Solid Gold Podcast Studios)</author>
+<itunes:author>Kimberleigh Stark | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The magic of podcasting | Gavin Kennedy (Solid Gold Podcast Studios | Founder and CEO)</title>
+<itunes:title>The magic of podcasting | Gavin Kennedy (Solid Gold Podcast Studios | Founder and CEO)</itunes:title>
+<itunes:subtitle>Learn more about the wonderful world of podcasting</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>25:58</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=lights-cameras-action</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/famous/famous-cover-0000.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 20 Feb 2020 11:02:07 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Today Kimberleigh chats to Gavin Kennedy, from Solid Gold Podcast Studios, about podcasting.
+</p>
+<br />
+<p>Connect with Gavin on LinkedIn <a href="https://www.linkedin.com/in/gavinkennedy/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.linkedin.com/in/gavinkennedy/</a></p>
+<p>Music : Freeling by Lauren Duski</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Kimberleigh on Twitter <a href="https://twitter.com/StarkRavingProd">@StarkRavingProd</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Today Kimberleigh chats to Gavin Kennedy, from Solid Gold Podcast Studios, about podcasting.
+</p>
+<br />
+<p>Connect with Gavin on LinkedIn <a href="https://www.linkedin.com/in/gavinkennedy/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://www.linkedin.com/in/gavinkennedy/</a></p>
+<p>Music : Freeling by Lauren Duski</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Kimberleigh on Twitter <a href="https://twitter.com/StarkRavingProd">@StarkRavingProd</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+podcasting, storytelling, communication, growth, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-007-podcasting.mp3?ver=1" type="audio/mpeg" fileSize="23618553" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/famous/famous-007-podcasting.mp3?ver=1" type="audio/mpeg" length="23618553" />
+
+<guid isPermaLink="false">famous-007</guid>
+
+</item>
 
 
 <item>
