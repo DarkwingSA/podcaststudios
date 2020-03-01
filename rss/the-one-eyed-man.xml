@@ -1,0 +1,151 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>The One-Eyed Man</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=the-one-eyed-man</link>	
+<managingEditor>the-one-eyed-man@solidgoldstudios.co.za (Mike Stopforth | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Mike Stopforth - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>At my core I am an entrepreneur who builds and operates companies to solve social and digital challenges. I balance my days as founder of Beyond Binary, as a global speaker, and as an investor in exciting projects.</p>	
+<p>Through Beyond Binary I drive the evolution of digitally relevant and socially impactful leadership in organisations around the world.</p>	
+<p></p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1</url>
+	<title>The One-Eyed Man</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-one-eyed-man]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>In the land of the blind, the one-eyed man is king</itunes:subtitle>	
+<itunes:author>Mike Stopforth | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+At my core I am an entrepreneur who builds and operates companies to solve social and digital challenges. I balance my days as founder of Beyond Binary, as a global speaker, and as an investor in exciting projects.	
+	
+Through Beyond Binary I drive the evolution of digitally relevant and socially impactful leadership in organisations around the world.	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/the-one-eyed-man.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Mike Stopforth - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1" />
+	<media:keywords>Mike Stopforth, beyond binary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>the-one-eyed-man@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>The One-Eyed Man</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Mike Stopforth, beyond binary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Business">
+	<itunes:category text="Entrepreneurship" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture" />
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Sun, 01 Mar 2020 12:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Sun, 01 Mar 2020 14:56:42 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Trailer | Welcome to The One-Eyed Man podcast - Season 1 Episode      TRAILER -->
+<author>the-one-eyed-man@solidgoldstudios.co.za (Mike Stopforth | Solid Gold Podcast Studios)</author>
+<itunes:author>Mike Stopforth | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>trailer</itunes:episodeType>
+
+       <title>Trailer | Welcome to The One-Eyed Man podcast</title>
+<itunes:title>Trailer | Welcome to The One-Eyed Man podcast</itunes:title>
+<itunes:subtitle>In the land of the blind, the one-eyed man is king</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<!--  -->
+<itunes:duration>02:59</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-one-eyed-man</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 01 Mar 2020 14:56:42 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In the land of the blind, the one-eyed man is king - Desiderius Erasmus
+</p>
+<p>Music : Mike Morse | Perfect Teamwork</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with Mike <a href="https://mikestopforth.com/">https://mikestopforth.com/</a></p>
+<p>Connect with Mike on LinkedIn <a href="https://www.linkedin.com/in/mikestopforth/">https://www.linkedin.com/in/mikestopforth/</a></p>
+<p>Follow Mike on Twitter <a href="https://twitter.com/mikestopforth">https://twitter.com/mikestopforth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In the land of the blind, the one-eyed man is king - Desiderius Erasmus
+</p>
+<p>Music : Mike Morse | Perfect Teamwork</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with Mike <a href="https://mikestopforth.com/">https://mikestopforth.com/</a></p>
+<p>Connect with Mike on LinkedIn <a href="https://www.linkedin.com/in/mikestopforth/">https://www.linkedin.com/in/mikestopforth/</a></p>
+<p>Follow Mike on Twitter <a href="https://twitter.com/mikestopforth">https://twitter.com/mikestopforth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Mike Stopforth, the one-eyed man, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-one-eyed-man/one-eyed-man-001-trailer.mp3?ver=1" type="audio/mpeg" fileSize="2193395" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-one-eyed-man/one-eyed-man-001-trailer.mp3?ver=1" type="audio/mpeg" length="2193395" />
+
+<guid isPermaLink="false">the-one-eyed-man-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
