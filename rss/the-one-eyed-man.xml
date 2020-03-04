@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1</url>
+	<url>https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg</url>
 	<title>The One-Eyed Man</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-one-eyed-man]]></link>
 </image>	
@@ -44,13 +44,13 @@ Through Beyond Binary I drive the evolution of digitally relevant and socially i
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/the-one-eyed-man.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Mike Stopforth - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000-cover.jpg" />
 	<media:keywords>Mike Stopforth, beyond binary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -72,7 +72,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Sun, 01 Mar 2020 14:56:42 +0200</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2020 15:00:00 +0200</lastBuildDate>
 
 
 <item>
