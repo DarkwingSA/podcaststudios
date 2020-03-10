@@ -19,7 +19,7 @@
           <description>Melanie Walker's podcast exploring all things gardening.</description>
 
           <image>
-            <url>https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg</url>
+            <url>https://podcaststudios.co.za/images/grounded/grounded-000c-cover.jpg</url>
             <title>Grounded Podcast</title>
             <link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
           </image>
@@ -30,13 +30,13 @@
           <itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>Welcome to Grounded. Hosted by the ever-energetic Melanie Walker, this podcast explores gardening, nature, adventure, and all things Grounded.</itunes:summary>
 
-          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-000c-cover.jpg" />
 
           <atom:link href="https://podcaststudios.co.za/rss/grounded.xml" rel="self" type="application/rss+xml" />
 
           <media:copyright>© SolidGoldStudios.co.za all rights reserved</media:copyright>
-          <media:thumbnail url="https://podcaststudios.co.za/images/grounded/grounded-cover-0000.jpg" />
-          <media:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+          <media:thumbnail url="https://podcaststudios.co.za/images/grounded/grounded-000c-cover.jpg" />
+          <media:keywords>Grounded, Melanie Walker, Mel's Treasures, gardening, helicopter, adventure, ecom green, geo-caching, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
           <media:category>Business</media:category>
 
           <itunes:owner>
@@ -74,7 +74,78 @@
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Wed, 20 Nov 2019 13:41:51 +0200</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2020 14:16:29 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 052 - Get Life going in your Garden! | Cary Goodwin (Spokesperson LIAG, horticulturalist) - Season 3 Episode 1     FULL -->
+<author>grounded@solidgoldstudios.co.za (Melanie Walker | Solid Gold Podcast Studios)</author>
+<itunes:author>Melanie Walker | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Get Life going in your Garden! | Cary Goodwin (Spokesperson LIAG, horticulturalist)</title>
+<itunes:title>Get Life going in your Garden! | Cary Goodwin (Spokesperson LIAG, horticulturalist)</itunes:title>
+<itunes:subtitle>The latest skinny from Life is a Garden</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>31:24</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=grounded</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/grounded/grounded-000c-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 10 Mar 2020 14:16:29 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27836113332&text=%5Bpodcast%5D%20Hello%20Melanie..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Going into autumn, life becomes interesting in your backyard. Cary Goodwin let's us in on all the must do and must haves for the upcoming month. From veggie gardening to what's on the hard gardening calendar, you'll hear about it here!
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect witrh Melanie on Facebook <a href="https://www.facebook.com/melstreasures.co.za/">https://www.facebook.com/melstreasures.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27836113332&text=%5Bpodcast%5D%20Hello%20Melanie..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Going into autumn, life becomes interesting in your backyard. Cary Goodwin let's us in on all the must do and must haves for the upcoming month. From veggie gardening to what's on the hard gardening calendar, you'll hear about it here!
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect witrh Melanie on Facebook <a href="https://www.facebook.com/melstreasures.co.za/">https://www.facebook.com/melstreasures.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Grounded">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Life is a garden, vegetables, plants, design, gardening, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-052-cary-goodwin.mp3?ver=1" type="audio/mpeg" fileSize="30447203" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/grounded/grounded-052-cary-goodwin.mp3?ver=1" type="audio/mpeg" length="30447203" />
+
+<guid isPermaLink="false">grounded-052</guid>
+
+</item>
 
 
 <item>
