@@ -11,14 +11,14 @@
 
           <title>Gun Talk by GOSA</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=gun-talk</link>
-          <managingEditor>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</managingEditor>
+          <managingEditor>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</managingEditor>
           <language>en-ZA</language>
           <generator>Solid GOld Podcast Studios 2.0</generator>
           <docs>https://solidgoldstudios.co.za</docs>
       
           <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
       
-          <copyright>© Solid Gold Studios - all rights reserved</copyright>
+          <copyright>© Solid Gold Podcast Studios - all rights reserved</copyright>
           <description>
 <p>Welcome to South Africa's first gun-related podcast.</p>
 <p>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.</p>
@@ -43,7 +43,7 @@
           <itunes:explicit>clean</itunes:explicit>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>Promoting safe, responsible and lawful firearm ownership.</itunes:subtitle>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:summary>Welcome to South Africa's first gun-related podcast. If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs. We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, and all approved amendments.</itunes:summary>
 
           <itunes:image href="http://podcaststudios.co.za/images/guntalk/guntalk-cover-s01-0000.jpg?ver=1" />
@@ -56,7 +56,7 @@
 
           <itunes:owner>
                <itunes:email>guntalk@solidgoldstudios.co.za</itunes:email>
-               <itunes:name>GOSA | Solid Gold Studios</itunes:name>
+               <itunes:name>GOSA | Solid Gold Podcast Studios</itunes:name>
           </itunes:owner>
 
           <itunes:keywords>GOSA, gun talk, firearm ownership, licences, ammunition, bullets, self defence, section 15, section 16, firearms control act, Tim Flack, Paul Oxley, Gavin Kennedy, Melanie Walker, Willem Nel, another solid gold podcast, #GOSAhasmy6, #BeHeard</itunes:keywords>
@@ -75,21 +75,21 @@
 		  <itunes:category text="Outdoor" />
 		  </itunes:category>
 		          
-          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
           <ttl>30</ttl>
           <pubDate>Thu, 21 Feb 2019 12:00:00 +0200</pubDate>
           
-          <lastBuildDate>Tue, 29 May 2019 09:50:00 +0200</lastBuildDate>
+          <itunes:complete>no</itunes:complete>
 
-
+          <lastBuildDate>Tue, 29 May 2019 09:55:00 +0200</lastBuildDate>
 
 <!-- 5555555555555555555555555 -->
 
 
     <item>
           <!-- S01 E05 -->
-          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:episodeType>full</itunes:episodeType>
 
                  <title>Common Misconceptions | 1-up, hollow points, S15 and S16</title>
@@ -207,8 +207,8 @@ SolidGoldStudios.co.za
 
     <item>
           <!-- S01 E04 -->
-          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:episodeType>full</itunes:episodeType>
 
                  <title>How do I get a firearm? | Competency, Proficiency and Sections</title>
@@ -327,8 +327,8 @@ SolidGoldStudios.co.za
 
     <item>
           <!-- S01 E03 -->
-          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:episodeType>full</itunes:episodeType>
 
                  <title>How long does it take to get my licence?</title>
@@ -446,8 +446,8 @@ SolidGoldStudios.co.za
 
     <item>
           <!-- S01 E02 -->
-          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:episodeType>full</itunes:episodeType>
 
                  <title>Is My Licence Valid? | Understand Firearm Licences</title>
@@ -567,8 +567,8 @@ SolidGoldStudios.co.za
     
     <item>
           <!-- S01 E01 -->
-          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
-          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Podcast Studios)</author>
+          <itunes:author>GOSA | Solid Gold Podcast Studios</itunes:author>
           <itunes:episodeType>bonus</itunes:episodeType>
 
                  <title>Who is GOSA? What do you do?</title>

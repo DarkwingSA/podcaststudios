@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -9,19 +10,20 @@
      
      <channel>
           <atom:link href="https://podcaststudios.co.za/rss/booyah.xml" rel="self" type="application/rss+xml" />
-          <lastBuildDate>Fri, 28 Dec 2018 11:10:00 +0200</lastBuildDate>
+          <itunes:complete>yes</itunes:complete>
+          <lastBuildDate>Fri, 28 Dec 2018 11:15:00 +0200</lastBuildDate>
           <title>Boo-Yah! with Carmen Murray</title>
           <link>https://solidgoldstudios.co.za/channel.php?title=boo-yah</link>
           <language>en-za</language>
-          <copyright>Solid Gold Studios - all rights reserved</copyright>
-          <description>From Solid Gold Studios, this is Boo-Yah! Your host Carmen Murray (occasionally with selected co-hosts) presents an insightful and fun show aimed at empowering everyone through sharing information and insights on trends that will set you and your brand up for success. Featuring interviews with industry heavyweights, Carmen and her guests will be unpacking everything from new technologies to the latest marketing trends as well as sharing elevant case studies to get your creative juices flowing so you can stay ahead of the curve. Carmen celebrates 'Women in Tech' and all movers and shakers who are disrupting the business world through learning about their journeys, sharing valuable lessons, and best practice empowerment strategies to make your business stand out in the new digital age.</description>
+          <copyright>© Solid Gold Podcast Studios - all rights reserved</copyright>
+          <description>From Solid Gold Podcast Studios, this is Boo-Yah! Your host Carmen Murray (occasionally with selected co-hosts) presents an insightful and fun show aimed at empowering everyone through sharing information and insights on trends that will set you and your brand up for success. Featuring interviews with industry heavyweights, Carmen and her guests will be unpacking everything from new technologies to the latest marketing trends as well as sharing elevant case studies to get your creative juices flowing so you can stay ahead of the curve. Carmen celebrates 'Women in Tech' and all movers and shakers who are disrupting the business world through learning about their journeys, sharing valuable lessons, and best practice empowerment strategies to make your business stand out in the new digital age.</description>
           <itunes:explicit>no</itunes:explicit>
           <itunes:subtitle>Make knowledge your superpower.</itunes:subtitle>
-          <itunes:author>Carmen Murray | Solid Gold Studios</itunes:author>
-          <itunes:summary>From Solid Gold Studios welcome to Boo-Yah!</itunes:summary>
+          <itunes:author>Carmen Murray | Solid Gold Podcast Studios</itunes:author>
+          <itunes:summary>From Solid Gold Podcast Studios welcome to Boo-Yah!</itunes:summary>
           <itunes:category text="Technology" />
           <itunes:owner>
-               <itunes:name>Gavin Kennedy | Solid Gold Studios</itunes:name>
+               <itunes:name>Gavin Kennedy | Solid Gold Podcast Studios</itunes:name>
                <itunes:email>booyah@solidgoldstudios.co.za</itunes:email>
           </itunes:owner>
           <itunes:image href="http://podcaststudios.co.za/images/booyah/cover-main.jpg" />
