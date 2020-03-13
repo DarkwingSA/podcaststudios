@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1</url>
+	<url>https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg?ver=1</url>
 	<title>Aprio Voice</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=aprio-voice]]></link>
 </image>	
@@ -46,13 +46,13 @@ The Aprio team is a group of skilled, experienced and highly-regarded communicat
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/aprio-voice.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Aprio - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg?ver=1" />
 	<media:keywords>aprio, dan mare, business, strategic communications, investor relations, crisis communications, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -77,7 +77,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Thu, 05 Mar 2020 12:54:16 +0200</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2020 12:55:00 +0200</lastBuildDate>
 
 
 <item>
@@ -98,7 +98,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Thu, 05 Mar 2020 12:54:16 +0200</pubDate>
@@ -165,7 +165,7 @@ mark leighton, content marketing, Another Solid Gold Podcast, Gavin Kennedy, #Be
 <link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Thu, 05 Mar 2020 12:53:27 +0200</pubDate>
@@ -236,7 +236,7 @@ lydia du plessis, investor relations, Another Solid Gold Podcast, Gavin Kennedy,
 <link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Thu, 05 Mar 2020 12:52:07 +0200</pubDate>
@@ -307,7 +307,7 @@ troye brady, jse, share price, Another Solid Gold Podcast, Gavin Kennedy, #BeHea
 <link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <pubDate>Thu, 05 Mar 2020 12:50:40 +0200</pubDate>
