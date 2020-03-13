@@ -1,0 +1,163 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>About Food</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=about-food</link>	
+<managingEditor>about-food@solidgoldstudios.co.za (Adele Stiehler-vd Westhuizen | Solid Gold Podcast Studios)</managingEditor>
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Adele Stiehler-vd Westhuizen - all rights reserved</copyright>
+	<description><![CDATA[
+<p>After 20 years at the forefront of professional culinary training, the Prue Leith Chefs Academy has invested R10.5 million in new kitchen and lecture facilities, confirming its place at the leading edge of culinary tuition in South Africa and Africa.</p>	
+<p></p>	
+<p></p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/about-food/about-food-000a-cover.jpg?ver=1</url>
+	<title>About Food</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=about-food]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Training great people in the culinary fields</itunes:subtitle>	
+<itunes:author>Adele | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+After 20 years at the forefront of professional culinary training, the Prue Leith Chefs Academy has invested R10.5 million in new kitchen and lecture facilities, confirming its place at the leading edge of culinary tuition in South Africa and Africa.	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/about-food/about-food-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/about-food.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Adele - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/about-food/about-food-000a-cover.jpg?ver=1" />
+	<media:keywords>food, taste, prue leith, culinary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>about-food@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>About Food</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>food, taste, prue leith, culinary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Arts">
+  <itunes:category text="Food" />
+</itunes:category>
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+  <itunes:category text="Entrepreneurship" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Courses" />
+  <itunes:category text="How To" />
+</itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Nutrition" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Documentary" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 13 Mar 2020 12:00:00 +0200</pubDate>
+
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Fri, 13 Mar 2020 16:50:00 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Welcome to the Prue Leith Culinary Institute | Prue Leith - Season 1 Episode 1     FULL -->
+<author>about-food@solidgoldstudios.co.za (Adele Stiehler-vd Westhuizen | Solid Gold Podcast Studios)</author>
+<itunes:author>Adele Stiehler-vd Westhuizen | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Welcome to the Prue Leith Culinary Institute | Prue Leith</title>
+<itunes:title>Welcome to the Prue Leith Culinary Institute | Prue Leith</itunes:title>
+<itunes:subtitle>Where great food people are grown</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>36:29</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=about-food</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/about-food/about-food-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 13 Mar 2020 16:50:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.prueleith.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">
+<img src="https://podcaststudios.co.za/images/about-food/prue-leith-64.jpg?ver=1" alt="Prue Leith Culinary Institute" height="32px" /></a></p>
+<p>
+Meet the grand dame herself - Prue Leith.
+</p>
+<p>Music : Stephan Gericke</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Prue Leith Culinary Institute web site <a href="https://www.prueleith.co.za/">https://www.prueleith.co.za/</a></p>
+<p>Follow on Facebook <a href="https://www.facebook.com/prueleith/">Follow on Insta</a></p>
+<p>https://www.instagram.com/prueleithchefs/ <a href="https://www.instagram.com/prueleithchefs/"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.prueleith.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Prue Leith Culinary Institute" height="32px" /></a></p>
+<p>
+Meet the grand dame herself - Prue Leith.
+</p>
+<p>Music : Stephan Gericke</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Prue Leith Culinary Institute web site <a href="https://www.prueleith.co.za/">https://www.prueleith.co.za/</a></p>
+<p>Follow on Facebook <a href="https://www.facebook.com/prueleith/">Follow on Insta</a></p>
+<p>https://www.instagram.com/prueleithchefs/ <a href="https://www.instagram.com/prueleithchefs/"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20About%20Food">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+prue leith,, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/about-food/about-food-001-meet-prue-leith.mp3?ver=1" type="audio/mpeg" fileSize="35320858" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/about-food/about-food-001-meet-prue-leith.mp3?ver=1" type="audio/mpeg" length="35320858" />
+
+<guid isPermaLink="false">about-food-001</guid>
+
+</item>	
+	
+	
+	
+	</channel>
+	</rss>
