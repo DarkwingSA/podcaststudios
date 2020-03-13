@@ -1,0 +1,444 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Aprio Voice</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>	
+<managingEditor>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Aprio - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Aprio Strategic Communications</p>	
+<p>Delivering considered, contextual strategic communications advice.</p>	
+<p>The Aprio team is a group of skilled, experienced and highly-regarded communications specialists and our strategically-minded team of experts allows us to deliver and implement strategies in key business areas such as investor relations, crisis and issue communications, digital strategy and content creation, and training and development.</p>	
+<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1</url>
+	<title>Aprio Voice</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=aprio-voice]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Delivering considered, contextual strategic communications advice.</itunes:subtitle>	
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+Aprio Strategic Communications	
+	
+Delivering considered, contextual strategic communications advice.	
+	
+The Aprio team is a group of skilled, experienced and highly-regarded communications specialists and our strategically-minded team of experts allows us to deliver and implement strategies in key business areas such as investor relations, crisis and issue communications, digital strategy and content creation, and training and development.	
+	
+Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/aprio-voice.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Aprio - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg?ver=1" />
+	<media:keywords>aprio, dan mare, business, strategic communications, investor relations, crisis communications, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>aprio-voice@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>Aprio Voice</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>aprio, dan mare, business, strategic communications, investor relations, crisis communications, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business">
+  <itunes:category text="Management" />
+  <itunes:category text="Marketing" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="How To" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Thu, 05 Mar 2020 12:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Thu, 12 Mar 2020 17:12:36 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 005 - Democratisation of communication | Chris Botha (Getclosure) - Season 2 Episode 1     FULL -->
+<author>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</author>
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Democratisation of communication | Chris Botha (Getclosure)</title>
+<itunes:title>Democratisation of communication | Chris Botha (Getclosure)</itunes:title>
+<itunes:subtitle>Chris Botha on online reputation management</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>13:12</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000b-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 12 Mar 2020 17:12:36 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+'Everyone’s a broadcaster these days.'
+
+In this episode of Aprio Voice, Aprio’s Alan Arguile speaks to Chris Botha from online reputation management consultants Getclosure. In a wide-ranging and buoyant discussion, they touch on the democratisation of communication, how best to deploy online resources, ideal response times, cybersquatting, and much more.
+</p>
+<br />
+<p>Getclosure: online reputation management <a href="getclosure.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">getclosure.co.za</a></p>
+<p> <a href="?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice"></a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+'Everyone’s a broadcaster these days.'
+
+In this episode of Aprio Voice, Aprio’s Alan Arguile speaks to Chris Botha from online reputation management consultants Getclosure. In a wide-ranging and buoyant discussion, they touch on the democratisation of communication, how best to deploy online resources, ideal response times, cybersquatting, and much more.
+</p>
+<br />
+<p>Getclosure: online reputation management <a href="getclosure.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">getclosure.co.za</a></p>
+<p> <a href="?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice"></a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Alan Arguile, Chris Botha, aprio, getclosure, reputation management, strategic communications, online reputation, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-005-democratisation-of-communication.mp3?ver=1" type="audio/mpeg" fileSize="12847195" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-005-democratisation-of-communication.mp3?ver=1" type="audio/mpeg" length="12847195" />
+
+<guid isPermaLink="false">aprio-voice-005</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 004 - History of Content Marketing | Mark Leighton (Aprio | Content Marketing Specialist) - Season 1 Episode 4     FULL -->
+<author>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</author>
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>History of Content Marketing | Mark Leighton (Aprio | Content Marketing Specialist)</title>
+<itunes:title>History of Content Marketing | Mark Leighton (Aprio | Content Marketing Specialist)</itunes:title>
+<itunes:subtitle>Learn more about digital magazines</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>09:46</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 05 Mar 2020 12:54:16 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Mark Leighton, Aprio’s content-marketing specialist. Mark has decades of experience in publishing and using high-quality content to build brands and deliver effective campaigns. Here he speaks to Alan about the history and function of content marketing, and about a recent addition to the stable of communications platforms: the digital magazine.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Mark Leighton, Aprio’s content-marketing specialist. Mark has decades of experience in publishing and using high-quality content to build brands and deliver effective campaigns. Here he speaks to Alan about the history and function of content marketing, and about a recent addition to the stable of communications platforms: the digital magazine.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+mark leighton, content marketing, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-004-content-marketing.mp3?ver=1" type="audio/mpeg" fileSize="9481156" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-004-content-marketing.mp3?ver=1" type="audio/mpeg" length="9481156" />
+
+<guid isPermaLink="false">aprio-voice-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - Investor Relations | Lydia du Plessis (Aprio | IR Specialist) - Season 1 Episode 3     FULL -->
+<author>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</author>
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Investor Relations | Lydia du Plessis (Aprio | IR Specialist)</title>
+<itunes:title>Investor Relations | Lydia du Plessis (Aprio | IR Specialist)</itunes:title>
+<itunes:subtitle>IR is not PR</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>11:35</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 05 Mar 2020 12:53:27 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Lydia du Plessis, one of Aprio’s investor relations (IR) experts, about the way in which IR differs from public relations and other communications functions, its tangible value, how it ought to be measured, top IR tips for listed companies, and more.
+</p>
+<br />
+<p>Connect with Lydia du Plessis on LinkedIn <a href="https://www.linkedin.com/in/lydiaduplessis/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/lydiaduplessis/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Lydia du Plessis, one of Aprio’s investor relations (IR) experts, about the way in which IR differs from public relations and other communications functions, its tangible value, how it ought to be measured, top IR tips for listed companies, and more.
+</p>
+<br />
+<p>Connect with Lydia du Plessis on LinkedIn <a href="https://www.linkedin.com/in/lydiaduplessis/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/lydiaduplessis/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+lydia du plessis, investor relations, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-003-investor-relations.mp3?ver=1" type="audio/mpeg" fileSize="11231845" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-003-investor-relations.mp3?ver=1" type="audio/mpeg" length="11231845" />
+
+<guid isPermaLink="false">aprio-voice-003</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 002 - Share Price and Corporate Communication | Troye Brady (Aprio | Research Analyst) - Season 1 Episode 2     FULL -->
+<author>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</author>
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Share Price and Corporate Communication | Troye Brady (Aprio | Research Analyst)</title>
+<itunes:title>Share Price and Corporate Communication | Troye Brady (Aprio | Research Analyst)</itunes:title>
+<itunes:subtitle>Learn more about the uniqueness of South Africa’s financial market</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>09:51</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 05 Mar 2020 12:52:07 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Troye Brady, Aprio’s in-house research analyst, about the function of his weekly and monthly reports to JSE-listed clients, the uniqueness of South Africa’s financial markets as well as the relationship between share prices and corporate communication.
+</p>
+<br />
+<p>Connect with Troye Brady on LinkedIn <a href="https://www.linkedin.com/in/troye-brady-83425021/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/troye-brady-83425021/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+In this episode Alan Arguile speaks to Troye Brady, Aprio’s in-house research analyst, about the function of his weekly and monthly reports to JSE-listed clients, the uniqueness of South Africa’s financial markets as well as the relationship between share prices and corporate communication.
+</p>
+<br />
+<p>Connect with Troye Brady on LinkedIn <a href="https://www.linkedin.com/in/troye-brady-83425021/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/troye-brady-83425021/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+troye brady, jse, share price, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-002-share-price.mp3?ver=1" type="audio/mpeg" fileSize="9559876" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-002-share-price.mp3?ver=1" type="audio/mpeg" length="9559876" />
+
+<guid isPermaLink="false">aprio-voice-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Media Preparedness Training | Alan Arguile - Season 1 Episode 1     FULL -->
+<author>aprio-voice@solidgoldstudios.co.za (Aprio | Solid Gold Podcast Studios)</author>
+<itunes:author>Aprio | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Media Preparedness Training | Alan Arguile</title>
+<itunes:title>Media Preparedness Training | Alan Arguile</itunes:title>
+<itunes:subtitle>With Alan Arguile</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>11:11</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/aprio-voice/aprio-voice-000-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 05 Mar 2020 12:50:40 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+Welcome to Aprio Voice, a podcast in which the Aprio team explore topics in corporate communications and investor relations. In this episode one of our writers, Dan Maré, speaks to Alan Arguile about what it takes to be an effective communicator in today's media landscape, and lessons learnt from the more than 900 media training sessions Alan's conducted in his career.
+</p>
+<br />
+<p>Connect with Alan Arguile on LinkedIn <a href="https://www.linkedin.com/in/alan-arguile-68915216/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/alan-arguile-68915216/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://aprio.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/aprio-voice/aprio-64.jpg?ver=1" alt="Aprio StrategicCommunications" height="32px" /></a></p>
+<p>
+Welcome to Aprio Voice, a podcast in which the Aprio team explore topics in corporate communications and investor relations. In this episode one of our writers, Dan Maré, speaks to Alan Arguile about what it takes to be an effective communicator in today's media landscape, and lessons learnt from the more than 900 media training sessions Alan's conducted in his career.
+</p>
+<br />
+<p>Connect with Alan Arguile on LinkedIn <a href="https://www.linkedin.com/in/alan-arguile-68915216/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">https://www.linkedin.com/in/alan-arguile-68915216/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Aprio website <a href="https://aprio.co.za/">https://aprio.co.za/</a></p>
+
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Aprio%20Voice">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Media Preparedness Training, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-001-media-preparedness.mp3?ver=1" type="audio/mpeg" fileSize="10841432" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/aprio-voice/aprio-voice-001-media-preparedness.mp3?ver=1" type="audio/mpeg" length="10841432" />
+
+<guid isPermaLink="false">aprio-voice-001</guid>
+
+</item>	
+	
+	</channel>
+	</rss>
+	
+	
