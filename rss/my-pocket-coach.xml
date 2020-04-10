@@ -33,7 +33,7 @@
 </image>	
 	
 <itunes:explicit>no</itunes:explicit>	
-<itunes:type>serial</itunes:type>	
+<itunes:type>episodic</itunes:type>	
 <itunes:subtitle>Coaching Advice, Tips and Crisis Management</itunes:subtitle>	
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>	
 	<itunes:summary><![CDATA[
@@ -102,7 +102,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Thu, 09 Apr 2020 12:13:08 +0200</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2020 12:14:00 +0200</lastBuildDate>
 
 
 <item>
@@ -615,7 +615,7 @@ Emotional Intelligence, surviving the challenges of the world today, assessing E
 
 
 <item>
-<!-- Sequence 003 - Enhancing your Personal Impact Power through Voice and Speech | Elri Wium (IE Group | Voice and Speech Specialist) - Season 1 Episode 3 -->
+<!-- Sequence 003 - Enhancing your Personal Impact Power through Voice and Speech | Elri Wium (IE Group | Voice and Speech Specialist) - Season 1 Episode 2 -->
 <author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
 
@@ -697,7 +697,7 @@ Elri Wium, Gail Cameron, my pocket coach, IE Group, Voice and Speech, Voice, Spe
 </item>
 
 <item>
-<!-- Sequence 002 - Strategic Image Management | Chivonne Jones (IE Group | Image Coach) - Season 1 Episode 2 -->
+<!-- Sequence 002 - Strategic Image Management | Chivonne Jones (IE Group | Image Coach) - Season 1 Episode 1 -->
 <author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
 
@@ -818,7 +818,7 @@ Chivonne Jones, Strategic Image Management, Personal Branding, Primacy Effect, E
 
 
 <item>
-<!-- Sequence 001 - Who is My Pocket Coach? | Gail Cameron - Season 1 Episode 1 -->
+<!-- Sequence 001 - Who is My Pocket Coach? | Gail Cameron - Season 1 Trailer -->
 <author>my-pocket-coach@solidgoldstudios.co.za (Image Excellence Group | Solid Gold Podcast Studios)</author>
 <itunes:author>Image Excellence Group | Solid Gold Podcast Studios</itunes:author>
 
@@ -829,8 +829,8 @@ Chivonne Jones, Strategic Image Management, Personal Branding, Primacy Effect, E
 <itunes:subtitle>Introduction of Coaching Modules</itunes:subtitle>
 
 <itunes:explicit>no</itunes:explicit>
-<!--
 <itunes:season>1</itunes:season>
+<!--
 <itunes:episode>1</itunes:episode>
 -->
 <itunes:duration>13:05</itunes:duration>
