@@ -60,9 +60,20 @@
 	<itunes:keywords>Mike Stopforth, one-eyed man, beyond binary, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 	
 	<itunes:category text="Business">
+	<itunes:category text="Management" />
 	<itunes:category text="Entrepreneurship" />
 	</itunes:category>
+	
+	<itunes:category text="Society &amp; Culture">
+	<itunes:category text="Philosophy" />
+	</itunes:category>
+
+	<itunes:category text="Education">
+	<itunes:category text="Self-Improvement" />
+	</itunes:category>
+	
 	<itunes:category text="Society &amp; Culture" />
+
 	
 	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
 	<ttl>30</ttl>
@@ -71,7 +82,100 @@
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Mon, 13 Apr 2020 11:21:57 +0200</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2020 07:47:04 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 012 - Equipping our children for their digital lives — Dean McCoubrey (MySociaLife.com | Founder) - Season 1 Episode 11     FULL -->
+<author>the-one-eyed-man@solidgoldstudios.co.za (Mike Stopforth | Solid Gold Podcast Studios)</author>
+<itunes:author>Mike Stopforth | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Equipping our children for their digital lives — Dean McCoubrey (MySociaLife.com | Founder)</title>
+<itunes:title>Equipping our children for their digital lives — Dean McCoubrey (MySociaLife.com | Founder)</itunes:title>
+<itunes:subtitle>Expert lessons in parenting digitally enabled tweens and teens</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:duration>55:25</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-one-eyed-man</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-one-eyed-man/the-one-eyed-man-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 16 Apr 2020 07:47:04 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In this episode I talk to Dean McCoubrey about how to be a better parent to digitally connected children. 
+
+Dean is a successful media entrepreneur and the founder of MySociaLife (www.mysocialife.com), an education company that examines the invisible physiological, emotional, mental and neurological influences of working on smart devices and in social media, and equips caregivers and educators with the tools to empower children for smarter internet usage. 
+
+We discuss the story of his personal journey from professional burnout into therapy and the discovery of new purpose in helping young people navigate their digital decision-making with more intention and responsibility. We also discuss some practical tips for parents looking to improve their relationship with their teenagers, and specifically in regards to their online activity. 
+
+Key quote:
+
+'This profound well of experience that sits inside you will respond to all sorts of stimuli and make you behave in a certain way, and that can get you intro trouble. So you need to understand partly yourself, and partly the stimulus.' -- Dean McCoubrey
+</p>
+<br />
+<p>The MySociaLife website <a href="https://www.mysocialife.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">https://www.mysocialife.com/</a></p>
+<p>Dean McCoubrey on LinkedIn <a href="https://www.linkedin.com/in/deanmccoubrey/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">https://www.linkedin.com/in/deanmccoubrey/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with Mike <a href="https://mikestopforth.com/">https://mikestopforth.com/</a></p>
+<p>Connect with Mike on LinkedIn <a href="https://www.linkedin.com/in/mikestopforth/">https://www.linkedin.com/in/mikestopforth/</a></p>
+<p>Follow Mike on Twitter <a href="https://twitter.com/mikestopforth">https://twitter.com/mikestopforth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p>
+In this episode I talk to Dean McCoubrey about how to be a better parent to digitally connected children. 
+
+Dean is a successful media entrepreneur and the founder of MySociaLife (www.mysocialife.com), an education company that examines the invisible physiological, emotional, mental and neurological influences of working on smart devices and in social media, and equips caregivers and educators with the tools to empower children for smarter internet usage. 
+
+We discuss the story of his personal journey from professional burnout into therapy and the discovery of new purpose in helping young people navigate their digital decision-making with more intention and responsibility. We also discuss some practical tips for parents looking to improve their relationship with their teenagers, and specifically in regards to their online activity. 
+
+Key quote:
+
+'This profound well of experience that sits inside you will respond to all sorts of stimuli and make you behave in a certain way, and that can get you intro trouble. So you need to understand partly yourself, and partly the stimulus.' -- Dean McCoubrey
+</p>
+<br />
+<p>The MySociaLife website <a href="https://www.mysocialife.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">https://www.mysocialife.com/</a></p>
+<p>Dean McCoubrey on LinkedIn <a href="https://www.linkedin.com/in/deanmccoubrey/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">https://www.linkedin.com/in/deanmccoubrey/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Engage with Mike <a href="https://mikestopforth.com/">https://mikestopforth.com/</a></p>
+<p>Connect with Mike on LinkedIn <a href="https://www.linkedin.com/in/mikestopforth/">https://www.linkedin.com/in/mikestopforth/</a></p>
+<p>Follow Mike on Twitter <a href="https://twitter.com/mikestopforth">https://twitter.com/mikestopforth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20One%20Eyed%20Man">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Dean McCoubrey, leadership, parenting, online safety, cyberbullying, MySociaLife, Emma Sadleir, identity, privacy, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-one-eyed-man/one-eyed-man-012-dean-mccoubrey.mp3?ver=1" type="audio/mpeg" fileSize="53388898" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/the-one-eyed-man/one-eyed-man-012-dean-mccoubrey.mp3?ver=1" type="audio/mpeg" length="53388898" />
+
+<guid isPermaLink="false">the-one-eyed-man-012</guid>
+
+</item>
 
 
 <item>
