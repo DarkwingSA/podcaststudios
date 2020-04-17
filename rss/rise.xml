@@ -1,0 +1,189 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Rise with Skye Mendes</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=rise</link>	
+<managingEditor>rise@solidgoldstudios.co.za (Skye Mendes | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Skye Mendes - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Feel Look Do Incredible</p>	
+<p>Be confident and dress with purpose. Change is possible. You are worthy. You are beautiful. You are enough. We need the special gift only YOU have to share with this world.</p>	
+<p>Style is an inward-outward process that encompasses and shows off every aspect of who you are: your skills, values, beliefs, personality, and heart. It’s your message to the world about who you are and what you stand for.
+
+Through Skye's signature 8-step process you'll discover and create a Style Fingerprint that aligns uniquely to who you are, your lifestyle, goals, and desires. You’ll discover your beautiful uniqueness and be motivated to live and embrace it.
+
+Discover the personal brand called YOU – Your unique superpower,</p>
+<p>Another Solid Gold Podcast https://SolidGold.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/rise/rise-000a-cover.jpg?ver=1</url>
+	<title>Rise with Skye Mendes</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=rise]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Discover the personal brand called YOU – Your unique superpower,</itunes:subtitle>	
+<itunes:author>Skye Mendes | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+Feel Look Do Incredible	
+	
+Be confident and dress with purpose. Change is possible. You are worthy. You are beautiful. You are enough. We need the special gift only YOU have to share with this world.	
+	
+Style is an inward-outward process that encompasses and shows off every aspect of who you are: your skills, values, beliefs, personality, and heart. It’s your message to the world about who you are and what you stand for.
+
+Through Skye's signature 8-step process you'll discover and create a Style Fingerprint that aligns uniquely to who you are, your lifestyle, goals, and desires. You’ll discover your beautiful uniqueness and be motivated to live and embrace it.
+
+Discover the personal brand called YOU – Your unique superpower
+	
+Another Solid Gold Podcast https://SolidGold.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/rise/rise-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/rise.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Skye Mendes - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/rise/rise-000a-cover.jpg?ver=1" />
+	<media:keywords>skye mendes, fashion, self, Mindful Style , Personal Brand , self-awareness, personal style, impactful, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>rise@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>Rise with Skye Mendes</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>skye mendes, fashion, self, Mindful Style , Personal Brand , self-awareness, personal style, impactful, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Arts">
+  <itunes:category text="Fashion &amp; Beauty" />
+</itunes:category>
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Thu, 16 Apr 2020 10:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Thu, 16 Apr 2020 16:55:43 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - 5 Elements why YOU are irreplaceable - Season 1 Episode 1     FULL -->
+<author>rise@solidgoldstudios.co.za (Skye Mendes | Solid Gold Podcast Studios)</author>
+<itunes:author>Skye Mendes | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>5 Elements why YOU are irreplaceable</title>
+<itunes:title>5 Elements why YOU are irreplaceable</itunes:title>
+<itunes:subtitle>Your Brand - Your Superpower</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>11:03</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=rise</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/rise/rise-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Wed, 15 Apr 2020 16:55:43 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://skyemendes.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">
+<img src="https://podcaststudios.co.za/images/rise/skye-mendes-64.jpg?ver=1" alt="Skye Mendes" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27842777988&text=%5BRise%5D%20Hello%20Skye...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+5 Elements why YOU are irreplaceable
+
+In this episode we focus on what Personal Branding is, and discuss the basics. We are so busy taking information in from social media and other online platforms that it can become overwhelming and we also loose our true core selves if we are consistently looking outside ourselves for acceptance and approval.
+
+Impactful personal brands have undergone great introspection and self-awareness.
+
+It’s how you distinguish yourself from others.
+
+Just like your fingerprint, there is noone else like you on this planet.
+
+That is your gift and superpower.
+</p>
+<p>Music : Audiosome | Upbeat Fashion Lounge</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Skye on her website and change your life <a href="https://skyemendes.com/">https://skyemendes.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://skyemendes.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">
+<img src="https://podcaststudios.co.za/images/rise/skye-mendes-64.jpg?ver=1" alt="Skye Mendes" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27842777988&text=%5BRise%5D%20Hello%20Skye...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+5 Elements why YOU are irreplaceable
+
+In this episode we focus on what Personal Branding is, and discuss the basics. We are so busy taking information in from social media and other online platforms that it can become overwhelming and we also loose our true core selves if we are consistently looking outside ourselves for acceptance and approval.
+
+Impactful personal brands have undergone great introspection and self-awareness.
+
+It’s how you distinguish yourself from others.
+
+Just like your fingerprint, there is noone else like you on this planet.
+
+That is your gift and superpower.
+</p>
+<p>Music : Audiosome | Upbeat Fashion Lounge</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Skye on her website and change your life <a href="https://skyemendes.com/">https://skyemendes.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Rise">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Skye Mendes, Mindful Style , Personal Brand , Personal Branding , #superpower #fingerprint #self-awareness #personal style #brand #impactful, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/rise/rise-001-you-are-irreplaceable.mp3?ver=1" type="audio/mpeg" fileSize="10878095" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/rise/rise-001-you-are-irreplaceable.mp3?ver=1" type="audio/mpeg" length="10878095" />
+
+<guid isPermaLink="false">rise-001</guid>
+
+</item>	
+
+	
+	</channel>
+	</rss>
