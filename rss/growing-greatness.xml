@@ -1,0 +1,543 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Growing Greatness by Pepe Marais</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>	
+<managingEditor>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcast Studios 2.0</generator>	
+<docs>https://solidgoldstudios.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Pepe Marais - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Pepe Marais began his entrepreneurial journey as a newspaper delivery boy at the age of twelve. After finishing high school at the end of 1986 he spent two years in the army completing what was then compulsory national service. On his way home at the end of his service he had a chance encounter with a graphic artist which completely changed the course of his life.</p>	
+<p>Pepe's latent talent for art was developed and honed at a Cape Town art school, where he finished top of his class each year, which in turn would lead him to discover his passion for advertising. After graduating, he and his partner Gareth Leck launched their enterprising Take-Away Advertising Agency and business success seemed a foregone conclusion. But some unwise business decisions and then the global recession of 2008 took their toll and, to make matters worse, Pepe's personal life began to disintegrate. However, at the lowest point of his life, he would discover a fundamental insight which became the foundation on which he would rebuild his life. It would also inspire the development of his Purpose for Business methodology and his deep interest in unlocking both human and Joe Public United business potential.</p>	
+<p>While Growing Greatness contains many lessons for aspiring entrepreneurs, perhaps what is more important is the deep wisdom it offers. Through his growing awareness of what purpose means in both business and personal terms, Pepe points the way to growing your own greatness.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg?ver=1</url>
+	<title>Growing Greatness by Pepe Marais</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=growing-greatness]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>serial</itunes:type>	
+<itunes:subtitle>A Journey towards personal and business mastery</itunes:subtitle>	
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>	
+	<itunes:summary><![CDATA[
+Pepe Marais began his entrepreneurial journey as a newspaper delivery boy at the age of twelve. After finishing high school at the end of 1986 he spent two years in the army completing what was then compulsory national service. On his way home at the end of his service he had a chance encounter with a graphic artist which completely changed the course of his life.	
+	
+Pepe's latent talent for art was developed and honed at a Cape Town art school, where he finished top of his class each year, which in turn would lead him to discover his passion for advertising. After graduating, he and his partner Gareth Leck launched their enterprising Take-Away Advertising Agency and business success seemed a foregone conclusion. But some unwise business decisions and then the global recession of 2008 took their toll and, to make matters worse, Pepe's personal life began to disintegrate. However, at the lowest point of his life, he would discover a fundamental insight which became the foundation on which he would rebuild his life. It would also inspire the development of his Purpose for Business methodology and his deep interest in unlocking both human and Joe Public United business potential.	
+	
+While Growing Greatness contains many lessons for aspiring entrepreneurs, perhaps what is more important is the deep wisdom it offers. Through his growing awareness of what purpose means in both business and personal terms, Pepe points the way to growing your own greatness.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/growing-greatness.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Pepe Marais - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg?ver=1" />
+	<media:keywords>pepe marais, growing greatness, book, author, Another Solid Gold audiobook, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>growing-greatness@solidgoldstudios.co.za</itunes:email>
+	<itunes:name>Growing Greatness by Pepe Marais</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>pepe marais, growing greatness, book, author, Another Solid Gold audiobook, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Arts">
+  <itunes:category text="Books" />
+</itunes:category>
+<itunes:category text="Business">
+  <itunes:category text="Entrepreneurship" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Health &amp; Fitness">
+  <itunes:category text="Mental Health" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>	
+
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Tue, 21 Apr 2020 10:00:00 +0200</pubDate>
+
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Tue, 21 Apr 2020 15:03:19 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 006 - 04 | The beginning of the end - Season 1 Episode 6     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>04 | The beginning of the end</title>
+<itunes:title>04 | The beginning of the end</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:duration>11:21</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 15:03:19 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+04 | The beginning of the end
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+04 | The beginning of the end
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+pepe marais, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-006-the-beginning-of-the-end.mp3?ver=1" type="audio/mpeg" fileSize="1164279" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-006-the-beginning-of-the-end.mp3?ver=1" type="audio/mpeg" length="1164279" />
+
+<guid isPermaLink="false">growing-greatness-006</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 005 - 03 | Primary school - Season 1 Episode 5     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>03 | Primary school</title>
+<itunes:title>03 | Primary school</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>07:32</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 15:02:37 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+03 | Primary school
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+03 | Primary school
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+pepe marais, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-005-primary-school.mp3?ver=1" type="audio/mpeg" fileSize="7499195" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-005-primary-school.mp3?ver=1" type="audio/mpeg" length="7499195" />
+
+<guid isPermaLink="false">growing-greatness-005</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 004 - 02 | Dad - Season 1 Episode 4     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>02 | Dad</title>
+<itunes:title>02 | Dad</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>09:17</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 15:01:55 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+02 | Dad
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+02 | Dad
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+pepe marais, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-004-dad.mp3?ver=1" type="audio/mpeg" fileSize="9176466" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-004-dad.mp3?ver=1" type="audio/mpeg" length="9176466" />
+
+<guid isPermaLink="false">growing-greatness-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - 01 | Mom - Season 1 Episode 3     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>01 | Mom</title>
+<itunes:title>01 | Mom</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>11:43</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 15:01:14 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+01 | Mom
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+01 | Mom
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+pepe marais, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-003-mom.mp3?ver=1" type="audio/mpeg" fileSize="11522053" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-003-mom.mp3?ver=1" type="audio/mpeg" length="11522053" />
+
+<guid isPermaLink="false">growing-greatness-003</guid>
+
+</item>
+
+
+
+<item>
+<!-- Sequence 002 - 00 | Preface - Season 1 Episode 2     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>00 | Preface</title>
+<itunes:title>00 | Preface</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>12:06</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 15:00:14 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+00 | Preface
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+00 | Preface
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+pepe marais, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-002-preface.mp3?ver=1" type="audio/mpeg" fileSize="11886513" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-002-preface.mp3?ver=1" type="audio/mpeg" length="11886513" />
+
+<guid isPermaLink="false">growing-greatness-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Before we begin - Season 1 Episode 1     FULL -->
+<author>growing-greatness@solidgoldstudios.co.za (Pepe Marais | Solid Gold Podcast Studios)</author>
+<itunes:author>Pepe Marais | Solid Gold Podcast Studios</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Before we begin</title>
+<itunes:title>Before we begin</itunes:title>
+<itunes:subtitle>Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>01:05</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=growing-greatness</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/growing-greatness/growing-greatness-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Tue, 21 Apr 2020 14:52:13 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+Before we begin.
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://pepemarais.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/growing-greatness/exclusive-books-64.jpg?ver=1" alt="Exclusive Books" height="32px" /></a></p>
+<p>
+Before we begin.
+
+Excerpts from the book 'Growing Greatness' as read by the author, Pepe Marais.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Connect with Pepe on his LinkedIn page <a href="https://www.linkedin.com/in/pepe-marais-ba142811/">https://www.linkedin.com/in/pepe-marais-ba142811/</a></p>
+<p>Pepe Marais' website <a href="https://pepemarais.com/">https://pepemarais.com/</a></p>
+<p>Growing Greatness is available from Exclusive Books <a href="https://www.exclusivebooks.co.za/product/9780994722638">https://www.exclusivebooks.co.za/product/9780994722638</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">SolidGoldStudios.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20growing%20greatness">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+before we begin, Another Solid Gold Audiobook, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-001-before-we-begin.mp3?ver=1" type="audio/mpeg" fileSize="1305786" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/growing-greatness/growing-greatness-001-before-we-begin.mp3?ver=1" type="audio/mpeg" length="1305786" />
+
+<guid isPermaLink="false">growing-greatness-001</guid>
+
+</item>
+
+	
+	</channel>
+	</rss>
