@@ -29,7 +29,7 @@
 	
 <image>	
 	<url>https://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg?ver=1</url>
-	<title>Education Incorporated Boutique School</title>
+	<title>Education Incorporated Boutique School | EduInc</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=education-incorporated]]></link>
 </image>	
 	
@@ -49,14 +49,14 @@ Produced by https://SolidGold.co.za — #BeHeard
 	
 	<media:copyright>© EduInc Private School - all rights reserved</media:copyright>
 	<media:thumbnail url="https://podcaststudios.co.za/images/eduinc/eduinc-000-cover.jpg?ver=1" />
-	<media:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	<media:keywords>EduInc, education incorporated boutique school, gersom jax aitchison, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
 	<itunes:email>eduinc@solidgold.co.za</itunes:email>
-	<itunes:name>Education Incorporated Boutique School</itunes:name>
+	<itunes:name>Education Incorporated Boutique School | EduInc</itunes:name>
 	</itunes:owner>
 	
-	<itunes:keywords>EduInc, Education Incorporated, school, gershom jax aitchison, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	<itunes:keywords>EduInc, Education Incorporated boutique school, gershom jax aitchison, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 	
 <itunes:category text="Business">
   <itunes:category text="Entrepreneurship" />
@@ -73,7 +73,7 @@ Produced by https://SolidGold.co.za — #BeHeard
 	<itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Sun, 26 Apr 2020 15:37:00 +0200</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2020 15:38:00 +0200</lastBuildDate>
 
 
 <item>
@@ -507,7 +507,6 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
                <!-- 007 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:31:00 +0200</pubDate>
@@ -540,15 +539,12 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
                <!-- 006 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:31:00 +0200</pubDate>
                <title>EduInc Case Study | Charlie's story</title>
                <itunes:title>EduInc Case Study | Charlie's story</itunes:title>
                <itunes:subtitle>Finding the right school for your child.</itunes:subtitle>
-
-               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
 
                <description><![CDATA[
                <p>Finding the right school for your child.</p>
@@ -573,15 +569,12 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
                <!-- 005 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:32:00 +0200</pubDate>
                <title>EduInc and Technology</title>
                <itunes:title>EduInc and Technology</itunes:title>
                <itunes:subtitle>Are iPads the coloured chalk of the 21st century?</itunes:subtitle>
-
-               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
 
                <description><![CDATA[
                <p>Are iPads the coloured chalk of the 21st century?</p>
@@ -606,15 +599,12 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
                <!-- 004 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
                <itunes:explicit>no</itunes:explicit>
 
                <pubDate>Thu, 14 Feb 2019 13:31:00 +0200</pubDate>
                <title>EduInc Case Study | Neil's Story</title>
                <itunes:title>EduInc Case Study | Neil's Story</itunes:title>
                <itunes:subtitle>Every child is unique and will perform in the right environment. We want to understand the individual.</itunes:subtitle>
-
-               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
 
                <description><![CDATA[
                <p>Every child is unique and will perform in the right environment. We want to understand the individual.</p>
@@ -639,13 +629,10 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
                <!-- 003 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
                
                <pubDate>Wed, 21 Nov 2018 11:31:00 +0200</pubDate>
                <title>2 Things Every Parent Wishes They'd Known Sooner</title>
                <itunes:subtitle>2 Things Every Parent Wishes They'd Known Sooner</itunes:subtitle>
-
-               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
 
                <description><![CDATA[
                	<p>2 Things Every Parent Wishes They'd Known Sooner</p>
@@ -668,13 +655,9 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
           	<!-- 002 -->
-               <itunes:author>Education Incorporated Boutique School | Solid Gold Podcast Studios</itunes:author>
-               
                <pubDate>Tue, 13 Nov 2018 10:42:00 +0200</pubDate>
                <title>We are a Boutique School in Fourways</title>
                <itunes:subtitle>We are a Boutique School in Fourways</itunes:subtitle>
-
-               <!-- <itunes:image href="http://podcaststudios.co.za/images/eduinc/eduinc-001-flat-earth.jpg" /> -->
 
                <description><![CDATA[
                	<p>We are a Boutique School in Fourways.</p>
@@ -684,9 +667,7 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
                 <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3" type="audio/mpeg" length="482623" />
 	    	<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3" type="audio/mpeg" fileSize="482623" />
-    
-
-
+ 
                <!-- <guid>http://podcaststudios.co.za/audio/eduinc/edu-inc-radio-ad-01.mp3</guid> -->
                <guid isPermaLink="false">eduinc002</guid>
                
@@ -700,8 +681,6 @@ poetry, alec galanakis, ruenda jenny ostrowick, Another Solid Gold Podcast, Gavi
 
           <item>
           	<!-- 001 -->
-               <itunes:author>Education Incorporated Boutique School | Brennan Kennedy, Bryden Turnbull, Lesedi Maela, Gareth Kelleher | Solid Gold Podcast Studios</itunes:author>
-
                <itunes:duration>2:54</itunes:duration>
                <itunes:explicit>no</itunes:explicit>
                <itunes:season>1</itunes:season>

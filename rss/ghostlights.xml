@@ -1,0 +1,89 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Ghostlights with Sam Rockey and Tracey Camilleri</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=ghostlights</link>	
+<managingEditor>ghostlights@solidgold.co.za (Sam Rockey and Tracey Camilleri | Solid Gold Podcasts)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Sam Rockey and Tracey Camilleri - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Exploring how leaders can build ‘human-shaped organisations’ by learning from the humanities – that repository of all that is most human.</p>	
+<p>Join Tracey, Sam and their guests as they reimagine ways of creating enabling corporate and institutional environments within which everyone - from the most senior to the youngest recruit - can learn and thrive. They consider leadership at an angle rather than head-on – looking through the lens of philosophy, literature, art, history, psychology for new insights, language and approaches.</p>	
+<p>In each episode they will host a leading thinker or practitioner from the humanities, and reflect together on how their experience and wisdom can have relevance to those leading organisations through the pandemic.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/ghostlights/ghostlights-000a-cover.jpg?ver=1</url>
+	<title>Ghostlights with Sam Rockey and Tracey Camilleri</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=ghostlights]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type></itunes:type>	
+<itunes:subtitle>Exploring how leaders can build ‘human-shaped organisations’ by learning from the humanities – that repository of all that is most human.</itunes:subtitle>	
+<itunes:author>Sam Rockey and Tracey Camilleri | Solid Gold Podcasts</itunes:author>	
+	<itunes:summary><![CDATA[
+Exploring how leaders can build ‘human-shaped organisations’ by learning from the humanities – that repository of all that is most human.	
+	
+Join Tracey, Sam and their guests as they reimagine ways of creating enabling corporate and institutional environments within which everyone - from the most senior to the youngest recruit - can learn and thrive. They consider leadership at an angle rather than head-on – looking through the lens of philosophy, literature, art, history, psychology for new insights, language and approaches.	
+	
+In each episode they will host a leading thinker or practitioner from the humanities, and reflect together on how their experience and wisdom can have relevance to those leading organisations through the pandemic.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/ghostlights/ghostlights-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/ghostlights.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Sam Rockey and Tracey Camilleri - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/ghostlights/ghostlights-000a-cover.jpg?ver=1" />
+	<media:keywords>Ghostlights, Sam Rockey, Tracey Camilleri, Thompson Harrison, Another Solid Gold audiobook, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>ghostlights@solidgold.co.za</itunes:email>
+	<itunes:name>Ghostlights with Sam Rockey and Tracey Camilleri</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Ghostlights, Sam Rockey, Tracey Camilleri, Thompson Harrison, Another Solid Gold audiobook, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business">
+  <itunes:category text="Management" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Mon, 27 Apr 2020 10:00:00 +0200</pubDate>
+	
+	
+	
+	</channel>
+	</rss>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
