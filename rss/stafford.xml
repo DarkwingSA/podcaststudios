@@ -1,0 +1,255 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Stafford Unplugged — Stafford Masie</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=stafford</link>	
+<managingEditor>stafford@solidgold.co.za (Stafford Masie | Solid Gold Podcasts)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Stafford Masie - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Unplugged conversations with Stafford Masie</p>	
+<p>Welcome to Stafford Unplugged. Surfacing casual conversations between Stafford and captains of industry, mesmerising orators and visionaries. These casual conversations afford you an insight into how they view the same things you and I are thinking about.</p>	
+<p>Listen in to a casual conversation with these incredible minds.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/stafford/stafford-000a-cover.jpg?ver=1</url>
+	<title>Stafford Unplugged — Stafford Masie</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=stafford]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Unplugged conversations with Stafford Masie</itunes:subtitle>	
+<itunes:author>Stafford Masie | Solid Gold Podcasts</itunes:author>	
+	<itunes:summary><![CDATA[
+Unplugged conversations with Stafford Masie	
+	
+Welcome to Stafford Unplugged. Surfacing casual conversations between Stafford and captains of industry, mesmerising orators and visionaries. These casual conversations afford you an insight into how they view the same things you and I are thinking about.	
+	
+Listen in to a casual conversation with these incredible minds.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/stafford/stafford-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/stafford.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Stafford Masie - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/stafford/stafford-000a-cover.jpg?ver=1" />
+	<media:keywords>Stafford Masie, tech, entrepreneur, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>stafford@solidgold.co.za</itunes:email>
+	<itunes:name>Stafford Unplugged — Stafford Masie</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Stafford Masie, tech, entrepreneur, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business" />
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 08 May 2020 10:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Fri, 08 May 2020 14:11:15 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 002 - The economic disaster of COVID-19! | Dr. Adrian Saville (Chief Executive at Cannon Asset Managers and Prof of Economics, Finance and Strategy at the Gordon Institute of Business Science) - Season 1 Episode 2     FULL -->
+<author>stafford@solidgold.co.za (Stafford Masie | Solid Gold Podcasts)</author>
+<itunes:author>Stafford Masie | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The economic disaster of COVID-19! | Dr. Adrian Saville (Chief Executive at Cannon Asset Managers and Prof of Economics, Finance and Strategy at the Gordon Institute of Business Science)</title>
+<itunes:title>The economic disaster of COVID-19! | Dr. Adrian Saville (Chief Executive at Cannon Asset Managers and Prof of Economics, Finance and Strategy at the Gordon Institute of Business Science)</itunes:title>
+<itunes:subtitle>Our money, businesses and world finances are incinerating - now what?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>48:51</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=stafford</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/stafford/stafford-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 08 May 2020 14:11:15 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://twitter.com/staffordmasie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/stafford/twitter-64.jpg?ver=1" alt="Twitter" height="32px" /></a></p>
+<p>
+The economic disaster of COVID-19! — Our money, businesses and world finances are incinerating - now what?
+Dr. Adrian Saville (Chief Executive at Cannon Asset Managers and Prof of Economics, Finance and Strategy at the Gordon Institute of Business Science)
+
+Adrian is my 'go-to' person when the economic world just does not make sense - he is that for many institutions too — this discussion will show you why!
+
+In today's upside down Covid-19 world I ask Adrian to decipher what's happening, to attempt a forecast of what lies ahead and what he would do if he were President.
+
+I level many (controversial) questions at him including the topical and critical 'death by starvation versus death by virus?' - fascinating perspectives!
+</p>
+<br />
+<p>Connect with Adrian on LinkedIn <a href="https://www.linkedin.com/in/adriansaville/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">https://www.linkedin.com/in/adriansaville/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Stafford on Twitter <a href="https://twitter.com/staffordmasie">https://twitter.com/staffordmasie</a></p>
+<p>Connect with Stafford on LinkedIn <a href="https://www.linkedin.com/in/stafford-masie-69489726/">https://www.linkedin.com/in/stafford-masie-69489726/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://twitter.com/staffordmasie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/stafford/twitter-64.jpg?ver=1" alt="Twitter" height="32px" /></a></p>
+<p>
+The economic disaster of COVID-19! — Our money, businesses and world finances are incinerating - now what?
+Dr. Adrian Saville (Chief Executive at Cannon Asset Managers and Prof of Economics, Finance and Strategy at the Gordon Institute of Business Science)
+
+Adrian is my 'go-to' person when the economic world just does not make sense - he is that for many institutions too — this discussion will show you why!
+
+In today's upside down Covid-19 world I ask Adrian to decipher what's happening, to attempt a forecast of what lies ahead and what he would do if he were President.
+
+I level many (controversial) questions at him including the topical and critical 'death by starvation versus death by virus?' - fascinating perspectives!
+</p>
+<br />
+<p>Connect with Adrian on LinkedIn <a href="https://www.linkedin.com/in/adriansaville/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">https://www.linkedin.com/in/adriansaville/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Stafford on Twitter <a href="https://twitter.com/staffordmasie">https://twitter.com/staffordmasie</a></p>
+<p>Connect with Stafford on LinkedIn <a href="https://www.linkedin.com/in/stafford-masie-69489726/">https://www.linkedin.com/in/stafford-masie-69489726/</a></p>
+
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+economics, COVID-19, adrian saville, cannon asset managers, GIBS, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/stafford/stafford-002-adrian-saville.mp3?ver=1" type="audio/mpeg" fileSize="47193093" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/stafford/stafford-002-adrian-saville.mp3?ver=1" type="audio/mpeg" length="47193093" />
+
+<guid isPermaLink="false">stafford-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Education and governance in a COVID-19 world | Professor Jonathan Jansen (Distinguished Professor of Education at Stellenbosch University and President of the SA Institute of Race Relations) - Season 1 Episode 1     FULL -->
+<author>stafford@solidgold.co.za (Stafford Masie | Solid Gold Podcasts)</author>
+<itunes:author>Stafford Masie | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Education and governance in a COVID-19 world | Professor Jonathan Jansen (Distinguished Professor of Education at Stellenbosch University and President of the SA Institute of Race Relations)</title>
+<itunes:title>Education and governance in a COVID-19 world | Professor Jonathan Jansen (Distinguished Professor of Education at Stellenbosch University and President of the SA Institute of Race Relations)</itunes:title>
+<itunes:subtitle>Amazing insights and observations for our new and strange world!</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>54:04</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=stafford</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/stafford/stafford-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 08 May 2020 14:10:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://twitter.com/staffordmasie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/stafford/twitter-64.jpg?ver=1" alt="Twitter" height="32px" /></a></p>
+<p>
+Education and governance in a COVID-19 world — Amazing insights and observations for our new and strange world!
+Professor Jonathan Jansen (Distinguished Professor of Education at Stellenbosch University and President of the SA Institute of Race Relations)
+
+Prof JJ and I casually shoot the breeze generally talking about the Corona virus, the situation globally and in South Africa, and the state of education in this new Covid-19 dispensation.
+
+As usual the Prof's views are insightful and thought-provoking.
+</p>
+<br />
+<p>Follow Prof Jansen on Twitter <a href="https://twitter.com/JJ_Stellies?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">https://twitter.com/JJ_Stellies</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Stafford on Twitter <a href="https://twitter.com/staffordmasie">https://twitter.com/staffordmasie</a></p>
+<p>Connect with Stafford on LinkedIn <a href="https://www.linkedin.com/in/stafford-masie-69489726/">https://www.linkedin.com/in/stafford-masie-69489726/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://twitter.com/staffordmasie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/stafford/twitter-64.jpg?ver=1" alt="Twitter" height="32px" /></a></p>
+<p>
+Education and governance in a COVID-19 world — Amazing insights and observations for our new and strange world!
+Professor Jonathan Jansen (Distinguished Professor of Education at Stellenbosch University and President of the SA Institute of Race Relations)
+
+Prof JJ and I casually shoot the breeze generally talking about the Corona virus, the situation globally and in South Africa, and the state of education in this new Covid-19 dispensation.
+
+As usual the Prof's views are insightful and thought-provoking.
+</p>
+<br />
+<p>Follow Prof Jansen on Twitter <a href="https://twitter.com/JJ_Stellies?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">https://twitter.com/JJ_Stellies</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Follow Stafford on Twitter <a href="https://twitter.com/staffordmasie">https://twitter.com/staffordmasie</a></p>
+<p>Connect with Stafford on LinkedIn <a href="https://www.linkedin.com/in/stafford-masie-69489726/">https://www.linkedin.com/in/stafford-masie-69489726/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Stafford%20Unplugged">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+education, preofessor jonathan jansen, covid-19, coronavirus, sairr, race relations, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/stafford/stafford-001-jonathan-jansen.mp3?ver=3" type="audio/mpeg" fileSize="52196076" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/stafford/stafford-001-jonathan-jansen.mp3?ver=3" type="audio/mpeg" length="52196076" />
+
+<guid isPermaLink="false">stafford-001</guid>
+
+</item>
+
+	
+	</channel>
+	</rss>
