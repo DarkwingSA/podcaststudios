@@ -1,0 +1,154 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>I Get it! Now what?</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=i-get-it-now-what</link>	
+<managingEditor>i-get-it-now-what@solidgold.co.za (Vuuma Collaborations | Solid Gold Podcasts)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Vuuma Collaborations - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Leadership Excellence, Systems Thinking and Simplifying Complexity.</p>	
+<p></p>	
+<p></p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/i-get-it-now-what/i-get-it-now-what-000a-cover.jpg?ver=1</url>
+	<title>I Get it! Now what?</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=i-get-it-now-what]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Leadership Excellence, Systems Thinking and Simplifying Complexity.</itunes:subtitle>	
+<itunes:author>Vuuma Collaborations | Solid Gold Podcasts</itunes:author>	
+	<itunes:summary><![CDATA[
+Leadership Excellence, Systems Thinking and Simplifying Complexity.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/i-get-it-now-what/i-get-it-now-what-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/i-get-it-now-what.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Vuuma Collaborations - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/i-get-it-now-what/i-get-it-now-what-000a-cover.jpg?ver=1" />
+	<media:keywords>vuuma collaborations, gary lane, harry sinko, gargi mishra, gareth barnes, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>i-get-it-now-what@solidgold.co.za</itunes:email>
+	<itunes:name>I Get it! Now what?</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>vuuma collaborations, gary lane, harry sinko, gargi mishra, gareth barnes, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Business">
+  <itunes:category text="Management" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Sun, 10 May 2020 10:00:00 +0200</pubDate>
+	
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Sun, 10 May 2020 15:45:37 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Applying the Formula One Formula | Jurriaan Kamer (Speaker | Author | Organization designer | Change agent ) - Season 1 Episode 1     FULL -->
+<author>i-get-it-now-what@solidgold.co.za (Vuuma Collaborations | Solid Gold Podcasts)</author>
+<itunes:author>Vuuma Collaborations | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Applying the Formula One Formula | Jurriaan Kamer (Speaker | Author | Organization designer | Change agent )</title>
+<itunes:title>Applying the Formula One Formula | Jurriaan Kamer (Speaker | Author | Organization designer | Change agent )</itunes:title>
+<itunes:subtitle>What we can learn from the masters of motorsport</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>37:28</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=i-get-it-now-what</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/i-get-it-now-what/i-get-it-now-what-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sun, 10 May 2020 15:45:37 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://vuuma.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">
+<img src="https://podcaststudios.co.za/images/i-get-it-now-what/vuuma-64.jpg?ver=1" alt="Vuuma" height="32px" /></a></p>
+<p>
+Applying the Formula One Formula — What we can learn from the masters of motorsport
+Jurriaan Kamer (Speaker | Author | Organization designer | Change agent )
+
+The tension between organizations optimized for predictability and the unpredictable world they inhabit has reached a breaking point. Organizations built on ‘sense and respond’ instead of ‘plan and predict’ are the future.
+</p>
+<br />
+<p>Meet Jurriaan <a href="https://www.jurriaankamer.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">https://www.jurriaankamer.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information on Sytems Thinking <a href="http://vuuma.com/">http://vuuma.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://vuuma.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">
+<img src="https://podcaststudios.co.za/images/i-get-it-now-what/vuuma-64.jpg?ver=1" alt="Vuuma" height="32px" /></a></p>
+<p>
+Applying the Formula One Formula — What we can learn from the masters of motorsport
+Jurriaan Kamer (Speaker | Author | Organization designer | Change agent )
+The tension between organizations optimized for predictability and the unpredictable world they inhabit has reached a breaking point. Organizations built on ‘sense and respond’ instead of ‘plan and predict’ are the future.
+</p>
+<br />
+<p>Meet Jurriaan <a href="https://www.jurriaankamer.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">https://www.jurriaankamer.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information on Sytems Thinking <a href="http://vuuma.com/">http://vuuma.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vuuma%20I%20get%20it">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Jurriaan kamer, f1, formula 1 one, change agent, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/i-get-it-now-what/i-get-it-now-what-001-jurriaan-kamer.mp3?ver=1" type="audio/mpeg" fileSize="36057682" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/i-get-it-now-what/i-get-it-now-what-001-jurriaan-kamer.mp3?ver=1" type="audio/mpeg" length="36057682" />
+
+<guid isPermaLink="false">i-get-it-now-what-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
