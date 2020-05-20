@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3</url>
+	<url>https://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg?</url>
 	<title>#BlueFlame by Bryanston High</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=blue-flame]]></link>
 </image>	
@@ -46,13 +46,13 @@ VALUES Honesty, integrity and tolerance; Respect for self, others and the enviro
 Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+	<itunes:image href="https://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/blue-flame.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Bryanston High School - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg?" />
 	<media:keywords>Bryanston High School, John Skelton, Blue Flame, #BlueFlame, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -75,7 +75,88 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Wed, 13 May 2020 16:31:57 +0200</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2020 15:29:17 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 004 - Back to School! | Aidan Hillebrand (SGB Chair) and Gill Fulcher (Head of Dept Geography) - Season 1 Episode 4     FULL -->
+<author>blue-flame@solidgold.co.za (Bryanston High School | Solid Gold Podcasts)</author>
+<itunes:author>Bryanston High School | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Back to School! | Aidan Hillebrand (SGB Chair) and Gill Fulcher (Head of Dept Geography)</title>
+<itunes:title>Back to School! | Aidan Hillebrand (SGB Chair) and Gill Fulcher (Head of Dept Geography)</itunes:title>
+<itunes:subtitle>We now have firm dates</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>09:12</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Wed, 20 May 2020 15:29:17 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/blue-flame/bryanston-high-64.jpg?ver=1" alt="Bryanston High School" height="32px" /></a></p>
+<p><a href="tel:+27117066010">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/call-us-now-64.png?ver=1" alt="Call Us Now" height="32px" /></a></p>
+<p>
+Back to School! — We now have firm dates
+Aidan Hillebrand (SGB Chair) and Gill Fulcher (Head of Dept Geography)
+
+The school leaders talk about the back to school plan.
+</p>
+<br />
+<p>Our website has COVID-19 resources for Parents and Pupils to stay safe and informed. <a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">https://www.bryanston.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the school's website <a href="https://www.bryanston.com/">https://www.bryanston.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/blue-flame/bryanston-high-64.jpg?ver=1" alt="Bryanston High School" height="32px" /></a></p>
+<p><a href="tel:+27117066010">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/call-us-now-64.png?ver=1" alt="Call Us Now" height="32px" /></a></p>
+<p>
+Back to School! — We now have firm dates
+Aidan Hillebrand (SGB Chair) and Gill Fulcher (Head of Dept Geography)
+
+The school leaders talk about the back to school plan.
+</p>
+<br />
+<p>Our website has COVID-19 resources for Parents and Pupils to stay safe and informed. <a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">https://www.bryanston.com/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the school's website <a href="https://www.bryanston.com/">https://www.bryanston.com/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+aidan hillebrand, john skelton, gill fulcher, back to school, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/blue-flame/blue-flame-004-back-to-school.mp3?ver=1" type="audio/mpeg" fileSize="8948732" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/blue-flame/blue-flame-004-back-to-school.mp3?ver=1" type="audio/mpeg" length="8948732" />
+
+<guid isPermaLink="false">blue-flame-004</guid>
+
+</item>
 
 
 <item>
@@ -96,10 +177,10 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Wed, 13 May 2020 16:31:57 +0200</pubDate>
+<pubDate>Wed, 13 May 2020 16:33:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
@@ -173,10 +254,10 @@ safety, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg?" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 29 Nov 2019 11:23:51 +0200</pubDate>
+<pubDate>Fri, 29 Nov 2019 11:24:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
@@ -254,10 +335,10 @@ Grade 8, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=blue-flame</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000-cover.jpg?ver=3" />
+<itunes:image href="http://podcaststudios.co.za/images/blue-flame/blue-flame-000b-cover.jpg?" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 22 Oct 2019 10:03:41 +0200</pubDate>
+<pubDate>Tue, 22 Oct 2019 10:04:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://www.bryanston.com/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Blue%20Flame">
