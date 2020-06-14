@@ -56,16 +56,11 @@ Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard
 	
 	<itunes:keywords>maredi thema leadership institute, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 	
-<itunes:category text="Kids &amp; Family">
-  <itunes:category text="Parenting" />
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+  <itunes:category text="Management" />
 </itunes:category>
-<itunes:category text="Society &amp; Culture">
-  <itunes:category text="Relationships" />
-</itunes:category>
-<itunes:category text="Education">
-  <itunes:category text="Self-Improvement" />
-</itunes:category>
-
+<itunes:category text="Technology" />
 	
 	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
 	<ttl>30</ttl>
@@ -73,7 +68,7 @@ Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Sat, 13 Jun 2020 14:29:00 +0200</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2020 14:28:40 +0200</lastBuildDate>
 
 
 <item>
