@@ -1,0 +1,174 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>EXPLORE - The Future</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=explore-the-future</link>	
+<managingEditor>explore-the-future@solidgold.co.za (Shaun Dippnall | Solid Gold Podcasts)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Shaun Dippnall - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Have you ever wanted to make a difference; to change the world? We talk to people doing exactly that. Amazing People, doing amazing things.</p>
+<p>Data science is one of the fastest growing career choices in the world nowadays. Shaun Dippnall, founder of Africa's largest data science academy talks to industry heavyweights and bright young minds in this thought provoking series. These deep dive conversations will dispel many of the myths surrounding data science and what it means for the future and the problems we face. Where there are problems there are solutions, where there are solutions there is opportunity.</p>	
+<p>The most important job of a data scientist is to be able to predict the future trends of a system accurately. In fact, they answer the questions about the future. Data science is about solving problems, it's about making things better. These are the pioneers of the future.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/explore-the-future/explore-the-future-000a-cover.jpg?ver=1</url>
+	<title>EXPLORE - The Future</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=explore-the-future]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Amazing People, Amazing Things</itunes:subtitle>	
+<itunes:author>Shaun Dippnall | Solid Gold Podcasts</itunes:author>	
+	<itunes:summary><![CDATA[
+Have you ever wanted to make a difference; to change the world? We talk to people doing exactly that. Amazing People, doing amazing things.
+	
+Data science is one of the fastest growing career choices in the world nowadays. Shaun Dippnall, founder of Africa's largest data science academy talks to industry heavyweights and bright young minds in this thought provoking series. These deep dive conversations will dispel many of the myths surrounding data science and what it means for the future and the problems we face. Where there are problems there are solutions, where there are solutions there is opportunity.	
+	
+The most important job of a data scientist is to be able to predict the future trends of a system accurately. In fact, they answer the questions about the future. Data science is about solving problems, it's about making things better. These are the pioneers of the future.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/explore-the-future/explore-the-future-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/explore-the-future.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Shaun Dippnall - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/explore-the-future/explore-the-future-000a-cover.jpg?ver=1" />
+	<media:keywords>Explore the future, Explore Data Science Academy, Shaun Dippnall, Data Science, future skills, machine learning, artificial intelligence, digital skills, education, data analytics, data engineeringdata science, futureskills, digital skills, 4IR, education, artificial intelligence, DSA, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>explore-the-future@solidgold.co.za</itunes:email>
+	<itunes:name>EXPLORE - The Future</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>Explore the future, Explore Data Science Academy, Shaun Dippnall, Data Science, future skills, machine learning, artificial intelligence, digital skills, education, data analytics, data engineeringdata science, futureskills, digital skills, 4IR, education, artificial intelligence, DSA, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+<itunes:category text="Technology" />
+<itunes:category text="Business">
+  <itunes:category text="Careers" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Self-Improvement" />
+</itunes:category>
+<itunes:category text="News">
+  <itunes:category text="Tech News" />
+</itunes:category>
+
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Thu, 25 Jun 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Thu, 25 Jun 2020 08:42:12 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - How to integrate data science into a business | Pete Kropman (Nedbank | Head of Quant Talent Analytics) - Season 1 Episode 1     FULL -->
+<author>explore-the-future@solidgold.co.za (Shaun Dippnall | Solid Gold Podcasts)</author>
+<itunes:author>Shaun Dippnall | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>How to integrate data science into a business | Pete Kropman (Nedbank | Head of Quant Talent Analytics)</title>
+<itunes:title>How to integrate data science into a business | Pete Kropman (Nedbank | Head of Quant Talent Analytics)</itunes:title>
+<itunes:subtitle>Tips and tricks for integrating valuable skills into your business</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>40:50</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=explore-the-future</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/explore-the-future/explore-the-future-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Thu, 25 Jun 2020 08:42:12 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://explore-datascience.net/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">
+<img src="https://podcaststudios.co.za/images/explore-the-future/explore-64.jpg?ver=1" alt="Explore Data Science Academy" height="32px" /></a></p>
+<p>
+How to integrate data science into a business — Tips and tricks for integrating valuable skills into your business
+Pete Kropman (Nedbank | Head of Quant Talent Analytics)
+
+In this episode quants guru Pete Kropman (head of Quant Talent Analytics at Nedbank) talks to host and founder of the Explore Data Science Academy Shaun Dippnall about his passion for analytics and people and how this intersection is vital to the successful integration of data science into a business. They explore some of the common mistakes that organisations make as they try to become more data centric, and he shares some valuable knowledge about what to look for when hiring data scientists, the skills gaps that need attention, as well as what it takes to deliver value from data science initiatives. 
+
+If you are in a business looking to leverage data science and analytics to take your organisation into the future, then this episode is for you. Welcome to the fourth industrial revolution. Be a part of it, join the revolution.
+</p>
+<br />
+<p>Connect with Pete Kropman on LinkedIn <a href="https://www.linkedin.com/in/pete-kropman/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">https://www.linkedin.com/in/pete-kropman/</a></p>
+<p>Music : Thundershot | Cymatix</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the EXPLORE Data Science Academy website - With our innovative courses, teaching methods and market-leading Money-Back Promise, we're reinventing education. <a href="https://explore-datascience.net/">https://explore-datascience.net/</a></p>
+<p>Connect with EXPLORE Data Science Academy on LinkedIn <a href="https://www.linkedin.com/company/18507373">Connect with Shaun Dippnall, Founder and CEO at EXPLORE, on LinkedIn</a></p>
+<p>https://www.linkedin.com/in/shaun-dippnall-1a2b70105/ <a href="https://www.linkedin.com/in/shaun-dippnall-1a2b70105/"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://explore-datascience.net/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">
+<img src="https://podcaststudios.co.za/images/explore-the-future/explore-64.jpg?ver=1" alt="Explore Data Science Academy" height="32px" /></a></p>
+<p>
+How to integrate data science into a business — Tips and tricks for integrating valuable skills into your business
+Pete Kropman (Nedbank | Head of Quant Talent Analytics)
+
+In this episode quants guru Pete Kropman (head of Quant Talent Analytics at Nedbank) talks to host and founder of the Explore Data Science Academy Shaun Dippnall about his passion for analytics and people and how this intersection is vital to the successful integration of data science into a business. They explore some of the common mistakes that organisations make as they try to become more data centric, and he shares some valuable knowledge about what to look for when hiring data scientists, the skills gaps that need attention, as well as what it takes to deliver value from data science initiatives. 
+
+If you are in a business looking to leverage data science and analytics to take your organisation into the future, then this episode is for you. Welcome to the fourth industrial revolution. Be a part of it, join the revolution.
+</p>
+<br />
+<p>Connect with Pete Kropman on LinkedIn <a href="https://www.linkedin.com/in/pete-kropman/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">https://www.linkedin.com/in/pete-kropman/</a></p>
+<p>Music : Thundershot | Cymatix</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the EXPLORE Data Science Academy website - With our innovative courses, teaching methods and market-leading Money-Back Promise, we're reinventing education. <a href="https://explore-datascience.net/">https://explore-datascience.net/</a></p>
+<p>Connect with EXPLORE Data Science Academy on LinkedIn <a href="https://www.linkedin.com/company/18507373">Connect with Shaun Dippnall, Founder and CEO at EXPLORE, on LinkedIn</a></p>
+<p>https://www.linkedin.com/in/shaun-dippnall-1a2b70105/ <a href="https://www.linkedin.com/in/shaun-dippnall-1a2b70105/"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20EXPLORE%20The%20Future">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Pete Kropman, Shaun Dippnall, Nedbank, Explore Data Science Academy, Data Science, data, talent, skills gaps, how to integrate data science, data science for business, future skills #datascience #4IR, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/explore-the-future/explore-the-future-001-pete-kropman.mp3?ver=1" type="audio/mpeg" fileSize="39679162" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/explore-the-future/explore-the-future-001-pete-kropman.mp3?ver=1" type="audio/mpeg" length="39679162" />
+
+<guid isPermaLink="false">explore-the-future-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
