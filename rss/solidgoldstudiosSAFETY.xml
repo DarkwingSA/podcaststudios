@@ -74,7 +74,7 @@ Recorded and produced at SolidGoldStudios.co.za
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Thu, 20 Feb 2020 11:51:00 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Feb 2020 11:50:00 +0200</lastBuildDate>
 
 
 <item>
@@ -142,8 +142,8 @@ We share an interview with Solid Gold CEO, Gavin Kennedy, from Kimberleigh Stark
 podcast, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" fileSize="23618553" />
-    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" length="23618553" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" fileSize="23618553" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-003-podcasting.mp3?ver=1" type="audio/mpeg" length="23618553" />
 
 <guid isPermaLink="false">sgs-003</guid>
 
@@ -216,8 +216,8 @@ Shift One Digital Founder, Dylan Kohlstadt, interviews Solid Gold Podcast Studio
 dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-002-dylan-kohlstadt-askdk-interview.mp3?ver=1" type="audio/mpeg" fileSize="25459927" />
-    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-002-dylan-kohlstadt-askdk-interview.mp3?ver=1" type="audio/mpeg" length="25459927" />
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-002-dylan-kohlstadt-askdk-interview.mp3?ver=1" type="audio/mpeg" fileSize="25459927" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-002-dylan-kohlstadt-askdk-interview.mp3?ver=1" type="audio/mpeg" length="25459927" />
 
 <guid isPermaLink="false">sgs-002</guid>
 
@@ -250,8 +250,8 @@ dylan, kohlstadt, shift one digital, podcasting, Another Solid Gold Podcast, Gav
                <itunes:summary>Story-telling | Listen to this short excerpt from Petro du Pisani's podcast (On Change) where her guest, Corrie Pitzer, shares his story.</itunes:summary>
 
               <!-- UPDATE FILE NAME TWICE -->                            
-              <media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" fileSize="2331871" />
-                  <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="2331871" />
+              <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" fileSize="2331871" />
+                  <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3" type="audio/mpeg" length="2331871" />
                <!-- <guid>http://podcaststudios.co.za/audio/solidgoldstudios/solid-gold-studios-sample-storytelling-corrie.mp3</guid> -->
                <guid isPermaLink="false">solidgoldstudios001></guid>
                
