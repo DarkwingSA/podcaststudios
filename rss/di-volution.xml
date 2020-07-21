@@ -1,4 +1,4 @@
-<rss version="2.0"	
+ <rss version="2.0"	
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
@@ -27,7 +27,7 @@
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg?ver=2</url>
+	<url>https://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1</url>
 	<title>Di-Volution with Herman Singh</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=di-volution]]></link>
 </image>	
@@ -42,13 +42,13 @@ A world in transition from analogue to digital, while in a war with a pandemic.
 Produced by https://SolidGold.co.za — #BeHeard
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg?ver=2" />
+	<itunes:image href="https://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/di-volution.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Herman Singh - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg?ver=2" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 	<media:keywords>herman, singh, divolution, di-volution, , Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
@@ -72,7 +72,7 @@ Produced by https://SolidGold.co.za — #BeHeard
 	
 <itunes:complete>yes</itunes:complete>
 
-<lastBuildDate>Wed, 29 Apr 2020 08:04:19 +0200</lastBuildDate>
+<lastBuildDate>Wed, 29 Apr 2020 08:05:00 +0200</lastBuildDate>
 
 
 <item>
@@ -93,14 +93,14 @@ Produced by https://SolidGold.co.za — #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Wed, 29 Apr 2020 08:04:19 +0200</pubDate>
+<pubDate>Wed, 29 Apr 2020 08:05:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 31 What will our digital future hold?
 
@@ -128,12 +128,12 @@ Herman Singh
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 31 What will our digital future hold?
 
@@ -161,7 +161,7 @@ Herman Singh
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -194,14 +194,14 @@ Herman Singh, Future Advisory, #future, #digital, #data, #free, #pandemic, #stat
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 28 Apr 2020 09:07:10 +0200</pubDate>
+<pubDate>Tue, 28 Apr 2020 09:08:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 30 Managing the transition
 
@@ -221,12 +221,12 @@ System migration is one of the most contentious tasks in digital transformation.
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 30 Managing the transition
 
@@ -246,7 +246,7 @@ System migration is one of the most contentious tasks in digital transformation.
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -279,14 +279,14 @@ Herman Singh, Future Advisory, #strategy, #process, #project, #API, #AI, #skills
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 28 Apr 2020 09:06:09 +0200</pubDate>
+<pubDate>Tue, 28 Apr 2020 09:07:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 29 | How do I plan for this uncertain future? — Planning in a time of uncertainty
 Herman Singh (Future Advisory | CEO)
@@ -309,12 +309,12 @@ Digital is not a profession yet as it is still nascent in nature. Choosing your 
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 29 How do I plan for this uncertain future?
 
@@ -334,7 +334,7 @@ Digital is not a profession yet as it is still nascent in nature. Choosing your 
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -367,14 +367,14 @@ Herman Singh, Future Advisory, #divolution, #resources, #technology, #business, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 27 Apr 2020 10:20:50 +0200</pubDate>
+<pubDate>Mon, 27 Apr 2020 10:21:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 28 Advertising, the End is Nigh
 
@@ -394,12 +394,12 @@ Targeted and informed advertising marks the end of traditional advertising. It i
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 28 Advertising, the End is Nigh
 
@@ -419,7 +419,7 @@ Targeted and informed advertising marks the end of traditional advertising. It i
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -452,14 +452,14 @@ Herman Singh, Future Advisory, Di-Volution, #digital, #analytics, #pharmaceutica
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 27 Apr 2020 10:19:03 +0200</pubDate>
+<pubDate>Mon, 27 Apr 2020 10:20:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 27 The institutions will go mental over digital
 
@@ -478,12 +478,12 @@ The digital wars disrupt institutions like unions, governments and regulators si
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 27 The institutions will go mental over digital
 
@@ -502,7 +502,7 @@ The digital wars disrupt institutions like unions, governments and regulators si
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -535,14 +535,14 @@ Herman Singh, Future Advisory, #CEO, #CIO, #unions, #unicasting, #taxresidency, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sun, 26 Apr 2020 09:20:39 +0200</pubDate>
+<pubDate>Sun, 26 Apr 2020 09:21:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 26 Lean and Mean
 
@@ -562,12 +562,12 @@ The lean methodology has industrialised the startup and innovation process. This
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 26 Lean and Mean
 
@@ -587,7 +587,7 @@ The lean methodology has industrialised the startup and innovation process. This
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -620,14 +620,14 @@ Herman Singh, Future Advisory, #business, #technology, #digital, #leanstartup, #
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sun, 26 Apr 2020 09:19:54 +0200</pubDate>
+<pubDate>Sun, 26 Apr 2020 09:20:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 25 No, there are no secrets here!
 
@@ -647,12 +647,12 @@ The nature of IP has morphed rapidly in the age of digital transformation.  Movi
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 25 No, there are no secrets here!
 
@@ -672,7 +672,7 @@ The nature of IP has morphed rapidly in the age of digital transformation.  Movi
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -705,14 +705,14 @@ Herman Singh, Future Advisory, Di-Volution, #digital, #microsoft, #intel, #ecomm
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sat, 25 Apr 2020 09:17:21 +0200</pubDate>
+<pubDate>Sat, 25 Apr 2020 09:18:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 24 Creating ambidexterity in the digital organisation
 
@@ -732,12 +732,12 @@ The ambidextrous organisation is the only viable operating model for the future.
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 24 Creating ambidexterity in the digital organisation
 
@@ -757,7 +757,7 @@ The ambidextrous organisation is the only viable operating model for the future.
 <br />
 <p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -790,14 +790,14 @@ Herman Singh, Future Advisory, #CEO, Strategy, #technology, #business, #innovati
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sat, 25 Apr 2020 09:15:21 +0200</pubDate>
+<pubDate>Sat, 25 Apr 2020 09:16:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 23 Measure what you treasure
 
@@ -817,12 +817,12 @@ Measuring digital success can be tricky, but measures drive future results.  Sel
 <br />
 <p>When you're ready to #BeHeard on your own podcast, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 23 Measure what you treasure
 
@@ -842,7 +842,7 @@ Measuring digital success can be tricky, but measures drive future results.  Sel
 <br />
 <p>When you're ready to #BeHeard on your own podcast, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGold.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -875,14 +875,14 @@ Herman Singh, Future Advisory, #digital, #divolution, #business, #stakeholders, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 24 Apr 2020 09:05:51 +0200</pubDate>
+<pubDate>Fri, 24 Apr 2020 09:06:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 22 Risk is your problem
 
@@ -902,12 +902,12 @@ The new front in the digital war of Di-Volution is pricing.  Perverse pricing mo
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 22 Risk is your problem
 
@@ -927,7 +927,7 @@ The new front in the digital war of Di-Volution is pricing.  Perverse pricing mo
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -960,14 +960,14 @@ Herman Singh, Future Advisory, #data, #digital, #Airbnb, #uber, Xerox, Caonon, #
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 24 Apr 2020 09:04:55 +0200</pubDate>
+<pubDate>Fri, 24 Apr 2020 09:05:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 21 The digital future is built from value nets
 
@@ -987,12 +987,12 @@ Value exchange underpins commerce, however money does not have to be involved fo
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 21 The digital future is built from value nets
 
@@ -1012,7 +1012,7 @@ Value exchange underpins commerce, however money does not have to be involved fo
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1045,14 +1045,14 @@ Herman Singh, Future Advisory, #digital, #business, #entrepreneurship, #affluenc
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 23 Apr 2020 08:15:35 +0200</pubDate>
+<pubDate>Thu, 23 Apr 2020 08:16:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 20 Wirk, wirk, wirk, wirk, wirk
 
@@ -1072,12 +1072,12 @@ The organisation of work is a central pillar of all enterprises. We are now movi
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 20 Wirk, wirk, wirk, wirk, wirk
 
@@ -1097,7 +1097,7 @@ The organisation of work is a central pillar of all enterprises. We are now movi
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1130,14 +1130,14 @@ Herman Singh, Future Advisory, #WFH, #digital, #Kaizen, #HR, #hyperconnected, #J
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 23 Apr 2020 08:14:23 +0200</pubDate>
+<pubDate>Thu, 23 Apr 2020 08:15:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 19 Re-architecting the business
 
@@ -1157,12 +1157,12 @@ Di-Volution involves re-architecting your business in a very logical and scienti
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 19 Re-architecting the business
 
@@ -1182,7 +1182,7 @@ Di-Volution involves re-architecting your business in a very logical and scienti
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1215,14 +1215,14 @@ Herman Singh, Future Advisory, #business, #entrepreneurship, #technology, #digit
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Wed, 22 Apr 2020 08:49:05 +0200</pubDate>
+<pubDate>Wed, 22 Apr 2020 08:50:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 18 Crisis or Opportunity? 
 
@@ -1242,12 +1242,12 @@ Incumbents have many options in corporate venturing. The depth of execution earl
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 18 Crisis or Opportunity? 
 
@@ -1267,7 +1267,7 @@ Incumbents have many options in corporate venturing. The depth of execution earl
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1300,14 +1300,14 @@ Herman Singh, Future Advisory, CIO, CEO, #digital, #business, #entrepreneurship,
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Wed, 22 Apr 2020 08:46:11 +0200</pubDate>
+<pubDate>Wed, 22 Apr 2020 08:47:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 17 Digital Transformation – Kings and Presidents
 
@@ -1327,12 +1327,12 @@ Stakeholder management is one of the most critical tasks in digital transformati
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 17 Digital Transformation – Kings and Presidents
 
@@ -1352,7 +1352,7 @@ Stakeholder management is one of the most critical tasks in digital transformati
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1385,14 +1385,14 @@ Herman Singh.  Future Advisory, Weapons, war, #CEO, #CIO, #EU, #Brexit, Di-Volut
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 21 Apr 2020 08:07:12 +0200</pubDate>
+<pubDate>Tue, 21 Apr 2020 08:08:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 16 Who moved my iceberg?
 
@@ -1412,12 +1412,12 @@ Incumbents fail in the war of Di-Volution because they squander resources on def
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 16 Who moved my iceberg?
 
@@ -1437,7 +1437,7 @@ Incumbents fail in the war of Di-Volution because they squander resources on def
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1470,14 +1470,14 @@ Herman Singh, Future Advisory, #digital, #business, #entrepreneurship, #technolo
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 21 Apr 2020 08:05:20 +0200</pubDate>
+<pubDate>Tue, 21 Apr 2020 08:06:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 15 So, you are an SME. Is this good or bad for you?
 
@@ -1497,12 +1497,12 @@ SMEs benefit greatly from Di-Volution throughout their value chain, but the grea
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 15 So, you are an SME. Is this good or bad for you?
 
@@ -1522,7 +1522,7 @@ SMEs benefit greatly from Di-Volution throughout their value chain, but the grea
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1555,14 +1555,14 @@ Herman Singh, Future Advisory, #business, #technology, #entrepreneurship, #shari
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 20 Apr 2020 08:29:42 +0200</pubDate>
+<pubDate>Mon, 20 Apr 2020 08:30:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 14 Pandenomics
 
@@ -1582,12 +1582,12 @@ The pandemics fundamentally changes the nature of business and society for the f
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 14 Pandenomics
 
@@ -1607,7 +1607,7 @@ The pandemics fundamentally changes the nature of business and society for the f
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1640,14 +1640,14 @@ Herman Singh, Future Advisory, #enterpreneurship, #business, #pandemic, #coronav
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sun, 19 Apr 2020 09:58:09 +0200</pubDate>
+<pubDate>Sun, 19 Apr 2020 09:59:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 13 Too big to regulate
 
@@ -1667,12 +1667,12 @@ Regulatory arbitrage is a powerful weapon in the digital disruption.  The abilit
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 13 Too big to regulate
 
@@ -1692,7 +1692,7 @@ Regulatory arbitrage is a powerful weapon in the digital disruption.  The abilit
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1725,14 +1725,14 @@ Herman Singh, Future Advisory, #di-volution, Business, entrepreneurship, governm
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sat, 18 Apr 2020 10:00:50 +0200</pubDate>
+<pubDate>Sat, 18 Apr 2020 10:01:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 12 Corporate foundations are sinking into the digital swamp
 
@@ -1752,12 +1752,12 @@ Assets turn into liabilities rapidly in a digital war or pandemic. Digital attac
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 12 Corporate foundations are sinking into the digital swamp
 
@@ -1777,7 +1777,7 @@ Assets turn into liabilities rapidly in a digital war or pandemic. Digital attac
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1810,14 +1810,14 @@ Herman Singh, Future Advisory, CEO, business, technology, #digital, CIO, #di-vol
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 17 Apr 2020 08:23:00 +0200</pubDate>
+<pubDate>Fri, 17 Apr 2020 08:24:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 11 Legacy unicorns
 
@@ -1837,12 +1837,12 @@ A handful of firms have succeeded in Di-Volution. Their exact experiences are un
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 11 Legacy unicorns
 
@@ -1862,7 +1862,7 @@ A handful of firms have succeeded in Di-Volution. Their exact experiences are un
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1895,14 +1895,14 @@ Herman Singh, Future Advisory, #entrepreneurship, #business, #technology, #digit
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 16 Apr 2020 07:58:00 +0200</pubDate>
+<pubDate>Thu, 16 Apr 2020 07:59:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 10 The patterns of disruption and invasions
 
@@ -1922,12 +1922,12 @@ Digital disruption like physical wars and conflicts is effected by barriers that
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 10 The patterns of disruption and invasions
 
@@ -1947,7 +1947,7 @@ Digital disruption like physical wars and conflicts is effected by barriers that
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -1980,14 +1980,14 @@ Herman Singh, Future Advisory, #di-volution, #technology, #business, #digital, e
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Wed, 15 Apr 2020 08:34:00 +0200</pubDate>
+<pubDate>Wed, 15 Apr 2020 08:35:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 9 How has digital warped the rules of engagement?
 
@@ -2007,12 +2007,12 @@ In this chapter Herman Singh explains why the digital war fundamentally changes 
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 9 How has digital warped the rules of engagement?
 
@@ -2032,7 +2032,7 @@ In this chapter Herman Singh explains why the digital war fundamentally changes 
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2065,14 +2065,14 @@ Herman Singh, Future Advisory, #di-volution, #digital, #technology, business, CE
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 14 Apr 2020 09:12:00 +0200</pubDate>
+<pubDate>Tue, 14 Apr 2020 09:13:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 8 Do digital strategy and size always go together?
 
@@ -2092,12 +2092,12 @@ Scale is still important in many businesses, especially those that are capital i
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 8 Do digital strategy and size always go together?
 
@@ -2117,7 +2117,7 @@ Scale is still important in many businesses, especially those that are capital i
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2150,14 +2150,14 @@ Herman Singh, Future Advisory, #digital, business, #technology, #entrepreneur, #
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 13 Apr 2020 15:22:00 +0200</pubDate>
+<pubDate>Mon, 13 Apr 2020 15:23:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 7 The start up
 
@@ -2177,12 +2177,12 @@ Size matters in business, agility matters in innovation. Large firms are trapped
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 7 The start up
 
@@ -2202,7 +2202,7 @@ Size matters in business, agility matters in innovation. Large firms are trapped
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2235,14 +2235,14 @@ Herman Singh, Future Advisory, innovation, digital, startup, business, #digital,
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 13 Apr 2020 10:10:00 +0200</pubDate>
+<pubDate>Mon, 13 Apr 2020 10:11:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 6 Where forth cometh the change? I’ll see you at the edge
 
@@ -2262,12 +2262,12 @@ Disruption is about change and it is uncomfortable.  It leads to a new normal so
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 6 Where forth cometh the change? I’ll see you at the edge
 
@@ -2287,7 +2287,7 @@ Disruption is about change and it is uncomfortable.  It leads to a new normal so
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2320,14 +2320,14 @@ Future Advisory, Herman Singh, entrepreneurship, business, technology, CEO, CIO,
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sun, 12 Apr 2020 10:13:00 +0200</pubDate>
+<pubDate>Sun, 12 Apr 2020 10:14:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 5 The digital war is underpinning an accidental future
 
@@ -2347,12 +2347,12 @@ The world is increasingly heading for an accidental future - unplanned and unkno
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 5 The digital war is underpinning an accidental future
 
@@ -2372,7 +2372,7 @@ The world is increasingly heading for an accidental future - unplanned and unkno
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2405,14 +2405,14 @@ Herman Singh, Future Advisory, digital, technology, entrepreneurship, CEO, CIO, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Fri, 10 Apr 2020 15:36:00 +0200</pubDate>
+<pubDate>Fri, 10 Apr 2020 15:37:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 4 Di-Volution is the alchemy of the digital war
 
@@ -2432,12 +2432,12 @@ Explaining how our day to day lives can be broken down into activities, use case
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 4 Di-Volution is the alchemy of the digital war
 
@@ -2457,7 +2457,7 @@ Explaining how our day to day lives can be broken down into activities, use case
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2490,14 +2490,14 @@ Herman Singh, Di-Volution, Future Advisory, digital, technology, business, CEO, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 09 Apr 2020 09:04:00 +0200</pubDate>
+<pubDate>Thu, 09 Apr 2020 09:05:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 3 The Digital weapons of mass invasion
 
@@ -2516,12 +2516,12 @@ In this chapter Herman Singh explains the four things you can do with informatio
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 3 The Digital weapons of mass invasion
 
@@ -2540,7 +2540,7 @@ In this chapter Herman Singh explains the four things you can do with informatio
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2573,14 +2573,14 @@ Herman Singh, Future Advisory, technology, information, digital, business, Anoth
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sat, 04 Apr 2020 08:54:00 +0200</pubDate>
+<pubDate>Sat, 04 Apr 2020 08:55:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 2 What is this digital you speak of?
 
@@ -2601,12 +2601,12 @@ How technology has infiltrated every aspect of our lives over the last 7 decades
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 2 What is this digital you speak of?
 
@@ -2628,7 +2628,7 @@ How technology has infiltrated every aspect of our lives over the last 7 decades
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2661,14 +2661,14 @@ Digital, Future Advisory, Herman Singh, digitisation, digitalisation, technology
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 02 Apr 2020 17:10:00 +0200</pubDate>
+<pubDate>Thu, 02 Apr 2020 17:11:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 1 The Evolution of Di-Volution. How the heck did we get here?
 
@@ -2687,12 +2687,12 @@ Understanding what happened to bring us to this stage of coping with a pandemic 
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Chapter 1 The Evolution of Di-Volution. How the heck did we get here?
 
@@ -2711,7 +2711,7 @@ Understanding what happened to bring us to this stage of coping with a pandemic 
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
@@ -2744,14 +2744,14 @@ Herman Singh, Future Advisory, Di-Volution, #digital, #war, #pandemic, #future, 
 <link>https://solidgoldstudios.co.za/channel.php?title=di-volution</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000b-cover.jpg?ver=2" />
+<itunes:image href="http://podcaststudios.co.za/images/di-volution/di-volution-000d-cover.jpg?ver=1" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sat, 28 Mar 2020 09:05:00 +0200</pubDate>
+<pubDate>Sat, 28 Mar 2020 09:06:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Di-Volution is about a world in transition from analogue to digital. Listen to Herman Singh's prologue, and then join us on this journey.
 </p>
@@ -2764,12 +2764,12 @@ Di-Volution is about a world in transition from analogue to digital. Listen to H
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></description>
 
 <content:encoded><![CDATA[
 <p><a href="https://future-advisory.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg?ver=1" alt="Future Advisory" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/di-volution/future-advisory-64.jpg" alt="Future Advisory" height="32px" /></a></p>
 <p>
 Di-Volution is about a world in transition from analogue to digital. Listen to Herman Singh's prologue, and then join us on this journey.
 </p>
@@ -2782,7 +2782,7 @@ Di-Volution is about a world in transition from analogue to digital. Listen to H
 <br />
 <p>When you're ready to produce your own podcast, contact the podcast experts at <a href="https://solidgoldstudios.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">SolidGoldStudios.co.za</a></p>
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20divolution">
-<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg" alt="Another Solid Gold Podcast" height="32px" /></a></p>
 ]]></content:encoded>
 
 <itunes:keywords>
