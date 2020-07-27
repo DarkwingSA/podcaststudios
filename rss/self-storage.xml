@@ -1,0 +1,487 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Self Storage with Anthony McHenry</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>	
+<managingEditor>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Anthony McHenry - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Everything you ever wanted to know (and more) about Self Storage</p>	
+<p>In an economy where extra space in the home or work place involves a substantial cost. People are no longer buying or renting bigger premises. It has become allot more affordable to rent a storage unit from a storage facility near you. Anthony McHenry, local storage guru talks about everything you need to know about self storage, from what to look for in a storage facility to packing your storage unit.</p>	
+<p>Self Storage complexes are popping up all over. Don't get caught up in long leases and streams of paper work. Know what you are paying for when renting a storage unit. So often the fine print is never read. Therefor listening to a podcast on these matters may provide you with information you would have never asked about.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg?ver=1</url>
+	<title>Self Storage with Anthony McHenry</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=self-storage]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Everything you ever wanted to know (and more) about Self Storage</itunes:subtitle>	
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>	
+	<itunes:summary><![CDATA[
+Everything you ever wanted to know (and more) about Self Storage	
+	
+In an economy where extra space in the home or work place involves a substantial cost. People are no longer buying or renting bigger premises. It has become allot more affordable to rent a storage unit from a storage facility near you. Anthony McHenry, local storage guru talks about everything you need to know about self storage, from what to look for in a storage facility to packing your storage unit.	
+Self Storage complexes are popping up all over. Don't get caught up in long leases and streams of paper work. Know what you are paying for when renting a storage unit. So often the fine print is never read. Therefor listening to a podcast on these matters may provide you with information you would have never asked about.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/self-storage.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Anthony McHenry - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg?ver=1" />
+	<media:keywords>store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>self-storage@solidgold.co.za</itunes:email>
+	<itunes:name>Self Storage with Anthony McHenry</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Business">
+	<itunes:category text="Entrepreneurship" />
+	</itunes:category>
+	<itunes:category text="Education">
+  	<itunes:category text="How To" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture" />
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 24 Jul 2020 10:00:00 +0200</pubDate>
+	
+	
+<lastBuildDate>Sat, 25 Jul 2020 17:00:00 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 005 - Before renting a Storage Unit – 5 Questions you need to ask | Anthony McHenry - Season 1 Episode 5     FULL -->
+<author>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</author>
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Before renting a Storage Unit – 5 Questions you need to ask | Anthony McHenry</title>
+<itunes:title>Before renting a Storage Unit – 5 Questions you need to ask | Anthony McHenry</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>07:35</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 24 Jul 2020 16:25:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Before renting a Storage Unit – 5 Questions you need to ask — Anthony McHenry
+
+Asking the right questions could save you a lot of headaches when signing a lease agreement with a storage facility.
+
+Anthony McHenry speaks about security, vermin, damp, access control and insurance of your storage unit.
+
+Know what you are paying for and what you are responsible for.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Before renting a Storage Unit – 5 Questions you need to ask — Anthony McHenry
+
+Asking the right questions could save you a lot of headaches when signing a lease agreement with a storage facility.
+
+Anthony McHenry speaks about security, vermin, damp, access control and insurance of your storage unit.
+
+Know what you are paying for and what you are responsible for.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-005-5-questions.mp3?ver=1" type="audio/mpeg" fileSize="7748857" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-005-5-questions.mp3?ver=1" type="audio/mpeg" length="7748857" />
+
+<guid isPermaLink="false">self-storage-005</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 004 - Storage Wars | Anthony McHenry - Season 1 Episode 4     FULL -->
+<author>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</author>
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Storage Wars | Anthony McHenry</title>
+<itunes:title>Storage Wars | Anthony McHenry</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>03:52</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 24 Jul 2020 16:24:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Storage Wars — Anthony McHenry
+
+When rent is not paid on a storage unit, the contents can be sold by an auctioneer as a single lot of items in the form of a cash-only auction.
+
+Hitting Gold! or maybe not?
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Storage Wars — Anthony McHenry
+
+When rent is not paid on a storage unit, the contents can be sold by an auctioneer as a single lot of items in the form of a cash-only auction.
+
+Hitting Gold! or maybe not?
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-004-storage-wars.mp3?ver=1" type="audio/mpeg" fileSize="4183248" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-004-storage-wars.mp3?ver=1" type="audio/mpeg" length="4183248" />
+
+<guid isPermaLink="false">self-storage-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - Prohibited items | Anthony McHenry - Season 1 Episode 3     FULL -->
+<author>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</author>
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Prohibited items | Anthony McHenry</title>
+<itunes:title>Prohibited items | Anthony McHenry</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>03:01</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 24 Jul 2020 16:23:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Prohibited items — Anthony McHenry
+
+Knowing what you can’t store in a self storage unit is of vital importance for your own safety and the safety of your storage facility.
+
+This also means you are not able to live in your storage unit. Yes, this is true and many have tried it and they probably won’t be the last.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Prohibited items — Anthony McHenry
+
+Knowing what you can’t store in a self storage unit is of vital importance for your own safety and the safety of your storage facility.
+
+This also means you are not able to live in your storage unit. Yes, this is true and many have tried it and they probably won’t be the last.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-003-prohibited-items.mp3?ver=1" type="audio/mpeg" fileSize="3366555" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-003-prohibited-items.mp3?ver=1" type="audio/mpeg" length="3366555" />
+
+<guid isPermaLink="false">self-storage-003</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 002 - Handy Tips, Deceased Estates, Safety and Security | Anthony McHenry - Season 1 Episode 2     FULL -->
+<author>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</author>
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Handy Tips, Deceased Estates, Safety and Security | Anthony McHenry</title>
+<itunes:title>Handy Tips, Deceased Estates, Safety and Security | Anthony McHenry</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>05:01</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 24 Jul 2020 16:22:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Handy Tips, Deceased Estates, Safety and Security — Anthony McHenry
+
+Gain knowledge on how to pack your storage unit so you can access anything easily once packed.
+
+Anthony talks about safety and security of your storage unit. He also speaks briefly about an affordable device coming to market that will alert you if there is movement on your door of your self storage unit.
+
+Anthony also touches on what happens to the contents of a storage unit when dealing with a deceased estate.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Handy Tips, Deceased Estates, Safety and Security — Anthony McHenry
+
+Gain knowledge on how to pack your storage unit so you can access anything easily once packed.
+
+Anthony talks about safety and security of your storage unit. He also speaks briefly about an affordable device coming to market that will alert you if there is movement on your door of your self storage unit.
+
+Anthony also touches on what happens to the contents of a storage unit when dealing with a deceased estate.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-002-handy-tips.mp3?ver=1" type="audio/mpeg" fileSize="5292093" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-002-handy-tips.mp3?ver=1" type="audio/mpeg" length="5292093" />
+
+<guid isPermaLink="false">self-storage-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Self Storage in 5 Minutes | Anthony McHenry - Season 1 Episode 1     FULL -->
+<author>self-storage@solidgold.co.za (Anthony McHenry | Solid Gold Podcasts)</author>
+<itunes:author>Anthony McHenry | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Self Storage in 5 Minutes | Anthony McHenry</title>
+<itunes:title>Self Storage in 5 Minutes | Anthony McHenry</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>02:41</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=self-storage</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/self-storage/self-storage-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 24 Jul 2020 16:21:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Self Storage in 5 Minutes — Anthony McHenry
+
+The who, how and why on self storage unit rentals.
+
+Anthony McHenry talks about self storage in a nutshell.
+
+This episode covers how to go about renting a storage unit, what specials to look out for and some basic questions answered.
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="http://store-pro.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/self-storage/store-pro-64.jpg?ver=1" alt="Store-Pro" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27679343361&text=%5BSelf%20Storage%20Podcast%5D%20Hello%20Anthony...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Self Storage in 5 Minutes — Anthony McHenry
+
+The who, how and why on self storage unit rentals.
+
+Anthony McHenry talks about self storage in a nutshell.
+
+This episode covers how to go about renting a storage unit, what specials to look out for and some basic questions answered."
+</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit the Store-Pro website <a href="http://store-pro.co.za/">http://store-pro.co.za/</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Self%20Storage">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+store-pro, anthony mchenry, storage units, self storage, self storage near me, storage for rent, storage facilities, storage facilities near me, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-001-self-storage-in-5-minutes.mp3?ver=1" type="audio/mpeg" fileSize="3041932" />
+    <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/self-storage/self-storage-001-self-storage-in-5-minutes.mp3?ver=1" type="audio/mpeg" length="3041932" />
+
+<guid isPermaLink="false">self-storage-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
