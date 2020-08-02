@@ -10,37 +10,32 @@
   
 <channel> 
   
-<title>Solid Gold Podcast Studios</title> 
-<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
-<managingEditor>solidgoldstudios@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</managingEditor> 
+<title>Solid Gold Podcasts - Demos and Samples</title> 
+<link>https://solidgold.co.za/channel.php?title=solid-gold</link>
+<managingEditor>solid-gold@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</managingEditor> 
 <language>en-za</language>  
-<generator>Solid Gold Podcast Studios 2.0</generator> 
-<docs>https://solidgoldstudios.co.za</docs> 
+<generator>Solid Gold Podcasts 2.0</generator> 
+<docs>https://solidgold.co.za</docs> 
   
 <spotify:countryOfOrigin>za</spotify:countryOfOrigin> 
   
 <copyright>© Gavin Kennedy - all rights reserved</copyright>  
   <description><![CDATA[
-<p>Solid Gold Podcast Studios, helping people to #BeHeard</p> 
-<p></p> 
-<p></p> 
-<p>Recorded and produced at SolidGoldStudios.co.za</p>  
+<p>Another SolidGold.co.za Podcast | #BeHeard</p> 
   ]]></description>
   
 <image> 
   <url>https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1</url>
-  <title>Solid Gold Podcast Studios</title>
-  <link><![CDATA[<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>]]></link>
+  <title>Solid Gold Podcasts</title>
+  <link><![CDATA[<link>https://solidgoldstudios.co.za/channel.php?title=solid-gold</link>]]></link>
 </image>  
   
 <itunes:explicit>no</itunes:explicit> 
 <itunes:type>episodic</itunes:type> 
 <itunes:subtitle>In order to be understood, you must first be heard. We believe you have a story to tell and our role is to help you tell it. We'll guide you through every step of making a podcast so that your voice can #BeHeard.</itunes:subtitle>  
-<itunes:author>Gavin Kennedy | Solid Gold Podcast Studios</itunes:author> 
+<itunes:author>Gavin Kennedy | Solid Gold Podcasts</itunes:author> 
   <itunes:summary><![CDATA[
-Solid Gold Podcast Studios, you to #BeHeard  
-
-Recorded and produced at SolidGoldStudios.co.za 
+Another SolidGold.co.za Podcast | #BeHeard
   ]]></itunes:summary>
   
   <itunes:image href="https://podcaststudios.co.za/images/solidgoldstudios/sgs-000-cover.jpg?ver=1" />
@@ -53,8 +48,8 @@ Recorded and produced at SolidGoldStudios.co.za
   <media:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
   
   <itunes:owner>
-  <itunes:email>solidgoldstudios@solidgoldstudios.co.za</itunes:email>
-  <itunes:name>Solid Gold Podcast Studios</itunes:name>
+  <itunes:email>solid-gold@solidgold.co.za</itunes:email>
+  <itunes:name>Solid Gold Podcasts</itunes:name>
   </itunes:owner>
   
   <itunes:keywords>, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -67,14 +62,99 @@ Recorded and produced at SolidGoldStudios.co.za
 </itunes:category>
 <itunes:category text="Technology" />
   
-  <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+  <webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
   <ttl>30</ttl>
   <pubDate>Fri, 28 Dec 2018 11:20:00 +0200</pubDate>
 
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Thu, 20 Feb 2020 11:51:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2020 09:13:27 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 004 - Operational Systems in Business | Adam Rabinowitz, Carmel Peinke, Nicci Niselow - Season 1 Episode 4     FULL -->
+<author>solidgoldstudios@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</author>
+<itunes:author>Gavin Kennedy | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Operational Systems in Business | Adam Rabinowitz, Carmel Peinke, Nicci Niselow</title>
+<itunes:title>Operational Systems in Business | Adam Rabinowitz, Carmel Peinke, Nicci Niselow</itunes:title>
+<itunes:subtitle>An Allan Gray Orbis Foundation Podcast</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>52:21</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=demos-and-samples</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/solidgoldstudios/sgs-004-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 31 Jul 2020 09:13:27 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Operational Systems in Business — An Allan Gray Orbis Foundation Podcast
+Adam Rabinowitz, Carmel Peinke, Nicci Niselow
+
+Join Adam Rabinowitz as he talks to entrepreneurs Carmel Peinke (eRoute2market) and Nicci Niselow (YogettaKids) about Operational Systems in Business as part of the Allan Gray Orbis Foundation's Online Learning Community series of podcasts.
+</p>
+<br />
+<p>Connect with Carmel <a href="http://eroute2market.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">http://eroute2market.co.za/</a></p>
+<p>Connect with Nicci <a href="https://yogettakids.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://yogettakids.co.za/</a></p>
+<p>Connect with Adam <a href="https://imagin8.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://imagin8.co.za</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information <a href="https://solidgoldstudios.co.za/index.php">solidgoldstudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Operational Systems in Business — An Allan Gray Orbis Foundation Podcast
+Adam Rabinowitz, Carmel Peinke, Nicci Niselow
+
+Join Adam Rabinowitz as he talks to entrepreneurs Carmel Peinke (eRoute2market) and Nicci Niselow (YogettaKids) about Operational Systems in Business as part of the Allan Gray Orbis Foundation's Online Learning Community series of podcasts.
+</p>
+<br />
+<p>Connect with Carmel <a href="http://eroute2market.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">http://eroute2market.co.za/</a></p>
+<p>Connect with Nicci <a href="https://yogettakids.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://yogettakids.co.za/</a></p>
+<p>Connect with Adam <a href="https://imagin8.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">https://imagin8.co.za</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website for more information <a href="https://solidgoldstudios.co.za/index.php">solidgoldstudios.co.za</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Adam Rabinowitz, Carmel Peinke, Nicci Niselow, eroute2market, yoga, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-004-ago-operational-systems-in-business.mp3?ver=1" type="audio/mpeg" fileSize="50757380" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/solidgoldstudios/sgs-004-ago-operational-systems-in-business.mp3?ver=1" type="audio/mpeg" length="50757380" />
+
+<guid isPermaLink="false">sgs-004</guid>
+
+</item>
 
 
 <item>
