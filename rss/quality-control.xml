@@ -59,13 +59,18 @@ WARNING: Opinions may vary
           <itunes:keywords>ilyaas mayet, awande buthelezi, qc, quality control, politics, conversations, another Solid Gold podcast, #BeHeard</itunes:keywords>
 
           
+<itunes:category text="Business" />
+
 <itunes:category text="News">
-  <itunes:category text="Business News" />
   <itunes:category text="News Commentary" />
   <itunes:category text="Politics" />
 </itunes:category>
 
-<itunes:category text="Society &amp; Culture" />
+<itunes:category text="Society &amp; Culture">
+  <itunes:category text="Personal Journals" />
+</itunes:category>
+
+<itunes:category text="Government" />
 	          
           <webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
           <ttl>30</ttl>
@@ -74,7 +79,80 @@ WARNING: Opinions may vary
 
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Mon, 03 Aug 2020 11:33:01 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2020 09:13:00 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 010 - Health and Fitness in the End Times - Season 2 Episode 2     FULL -->
+<author>qc@solidgold.co.za (Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcasts)</author>
+<itunes:author>Ilyaas Mayet and Awande Buthelezi | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Health and Fitness in the End Times</title>
+<itunes:title>Health and Fitness in the End Times</itunes:title>
+<itunes:subtitle>A little help from the Good Doctor</itunes:subtitle>
+
+<itunes:explicit>yes</itunes:explicit>
+<itunes:season>2</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>01:08:57</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=qc-the-podcast</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/qc/qc-010-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Tue, 11 Aug 2020 09:12:54 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Health and Fitness in the End Times — A little help from the Good Doctor
+Dr. Nick Mutanda-Musoke
+
+We're back with a new season! This week we are joined by Dr Nick Mutanda-Musoke. Dr Mutanda-Musoke, a young doctor, helps us navigate around the benefits and difficulties that come with maintaining our physical health during this period. We also delve into some of the individual successes and failures we have experienced in each of our attempts to be a paragon of health.
+</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5Bpodcast%5D%20Hello%20Gavin..">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Health and Fitness in the End Times — A little help from the Good Doctor
+Dr. Nick Mutanda-Musoke
+
+We're back with a new season! This week we are joined by Dr Nick Mutanda-Musoke. Dr Mutanda-Musoke, a young doctor, helps us navigate around the benefits and difficulties that come with maintaining our physical health during this period. We also delve into some of the individual successes and failures we have experienced in each of our attempts to be a paragon of health.
+</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Health, Fitness, Nick Mutanda-Musoke, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-010-the-good-doctor.mp3?ver=1" type="audio/mpeg" fileSize="66606459" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/qc/qc-010-the-good-doctor.mp3?ver=1" type="audio/mpeg" length="66606459" />
+
+<guid isPermaLink="false">qc-010</guid>
+
+</item>
 
 
 <item>
