@@ -1,0 +1,162 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>The Reading Room</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>	
+<managingEditor>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Solid Gold Podcasts - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Can we entice you into our Reading Room? </p>	
+<p>This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.</p>	
+"<p>And the Reading room contains a host  of extraordinary people. Leading lights of the written word - authors, literary critics, columnists and ideas people - will tantalise your minds with their wordplay, while discussing the ideas and worldviews that form our wonderful literary milieu.
+
+Come step into a world of magic, the place of undiscovered treasures, a room of reading... </p>"	
+<p>another https://SolidGold.co.za podcast  #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1</url>
+	<title>The Reading Room</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-reading-room]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.</itunes:subtitle>	
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts #BeHeard</itunes:author>	
+	<itunes:summary><![CDATA[
+Can we entice you into our Reading Room? 	
+	
+This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.	
+	
+"And the Reading room contains a host  of extraordinary people. Leading lights of the written word - authors, literary critics, columnists and ideas people - will tantalise your minds with their wordplay, while discussing the ideas and worldviews that form our wonderful literary milieu.
+
+Come step into a world of magic, the place of undiscovered treasures, a room of reading... "	
+	
+another https://SolidGold.co.za podcast  #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/the-reading-room.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Solid Gold Podcasts - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1" />
+	<media:keywords>reading, room, books, english, language, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>the-reading-room@solidgold.co.za</itunes:email>
+	<itunes:name>The Reading Room</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>reading, room, books, english, language, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Arts">
+	  <itunes:category text="Books" />
+	</itunes:category>
+	<itunes:category text="Education">
+	  <itunes:category text="Language Learning" />
+	  <itunes:category text="Self-Improvement" />
+	</itunes:category>
+	<itunes:category text="Leisure">
+	  <itunes:category text="Hobbies" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+	  <itunes:category text="Personal Journals" />
+	</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts #BeHeard)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 31 Jul 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Sun, 23 Aug 2020 09:32:46 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - The Pedant Class | Sue De Groot - Season 1 Episode 1     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Pedant Class | Sue De Groot</title>
+<itunes:title>The Pedant Class | Sue De Groot</itunes:title>
+<itunes:subtitle></itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>30:37</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-001-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Sun, 23 Aug 2020 09:32:46 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Pedant Class — Sue De Groot
+</p>
+<p>Music : https://JohnBartmann.com</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Pedant Class — Sue De Groot
+</p>
+<p>Music : https://JohnBartmann.com</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/the-reading-room/reading-room-001-sue-de-groot.mp3?ver=1" type="audio/mpeg" fileSize="29971030" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/the-reading-room/reading-room-001-sue-de-groot.mp3?ver=1" type="audio/mpeg" length="29971030" />
+
+<guid isPermaLink="false">the-reading-room-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>

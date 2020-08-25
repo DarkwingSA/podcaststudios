@@ -1,0 +1,153 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Old Mutual Wealth - Inspirational Women</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=old-mutual-wealth</link>	
+<managingEditor>old-mutual-wealth@solidgold.co.za (Old Mutual Wealth | Solid Gold Podcasts #BeHeard)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Old Mutual Wealth - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Take your wealth further. Together, today.</p>	
+<p>Professional advice can help you stay focused on what really matters.</p>	
+<p>Define your world, your way. Meaningful wealth management is about much more than just money. It’s about how you see yourself. The impact you want to make. The legacy you want to leave. Your priorities for today and tomorrow. At Old Mutual Wealth we offer no generalist solutions. Together with your financial planner, our team of experienced specialists go to great lengths to understand what really drives you. Once we know your priorities, we model a strategy around your specific needs supported by a multi-skilled team dedicated to taking your wealth further.</p>	
+<p>Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-wealth-000a-cover.jpg?ver=1</url>
+	<title>Old Mutual Wealth - Inspirational Women</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=old-mutual-wealth]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Professional advice can help you stay focused on what really matters.</itunes:subtitle>	
+<itunes:author>Old Mutual Wealth | Solid Gold Podcasts #BeHeard</itunes:author>	
+	<itunes:summary><![CDATA[
+Take your wealth further. Together, today.	
+	
+Professional advice can help you stay focused on what really matters.	
+	
+Define your world, your way. Meaningful wealth management is about much more than just money. It’s about how you see yourself. The impact you want to make. The legacy you want to leave. Your priorities for today and tomorrow. At Old Mutual Wealth we offer no generalist solutions. Together with your financial planner, our team of experienced specialists go to great lengths to understand what really drives you. Once we know your priorities, we model a strategy around your specific needs supported by a multi-skilled team dedicated to taking your wealth further.	
+	
+Another Solid Gold Podcast https://SolidGold.co.za — #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-wealth-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/old-mutual-wealth.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Old Mutual Wealth - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-wealth-000a-cover.jpg?ver=1" />
+	<media:keywords>old, mutual, wealth, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>old-mutual-wealth@solidgold.co.za</itunes:email>
+	<itunes:name>Old Mutual Wealth - Inspirational Women</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>old, mutual, wealth, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Business">
+	<itunes:category text="Entrepreneurship" />
+	</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts #BeHeard)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Sat, 22 Aug 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Sat, 22 Aug 2020 08:19:02 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 001 - Pat Magadla - phenomenal woman - Season 1 Episode 1     FULL -->
+<author>old-mutual-wealth@solidgold.co.za (Old Mutual Wealth | Solid Gold Podcasts)</author>
+<itunes:author>Old Mutual Wealth | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Pat Magadla - phenomenal woman</title>
+<itunes:title>Pat Magadla - phenomenal woman</itunes:title>
+<itunes:subtitle>Old Mutual Wealth celebrates Phenomenal Women</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>21:48</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=old-mutual-wealth</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-wealth-000a-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sat, 22 Aug 2020 08:19:02 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.oldmutual.co.za/wealth?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">
+<img src="https://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-64.jpg?ver=1" alt="Old Mutual" height="32px" /></a></p>
+<p>
+Pat Magadla - phenomenal woman — Old Mutual Wealth celebrates Phenomenal Women
+
+Meet Pat Magadla
+</p>
+<br />
+<p>Connect with Pat on LinkedIn <a href="https://www.linkedin.com/in/pat-magadla-cfp%C2%AE-85ab66122/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">https://www.linkedin.com/in/pat-magadla-cfp%C2%AE-85ab66122/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit Old Mutual Wealth's website <a href="https://www.oldmutual.co.za/wealth">https://www.oldmutual.co.za/wealth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.oldmutual.co.za/wealth?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">
+<img src="https://podcaststudios.co.za/images/old-mutual-wealth/old-mutual-64.jpg?ver=1" alt="Old Mutual" height="32px" /></a></p>
+<p>
+Pat Magadla - phenomenal woman — Old Mutual Wealth celebrates Phenomenal Women
+
+Meet Pat Magadla
+</p>
+<br />
+<p>Connect with Pat on LinkedIn <a href="https://www.linkedin.com/in/pat-magadla-cfp%C2%AE-85ab66122/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">https://www.linkedin.com/in/pat-magadla-cfp%C2%AE-85ab66122/</a></p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit Old Mutual Wealth's website <a href="https://www.oldmutual.co.za/wealth">https://www.oldmutual.co.za/wealth</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Old%20Mutual%20Wealth">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+old,mutual,pat,magadla,women, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/old-mutual-wealth/old-mutual-wealth-001-pat-magadla.mp3?ver=1" type="audio/mpeg" fileSize="21440591" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/old-mutual-wealth/old-mutual-wealth-001-pat-magadla.mp3?ver=1" type="audio/mpeg" length="21440591" />
+
+<guid isPermaLink="false">old-mutual-wealth-001</guid>
+
+</item>	
+	</channel>
+	</rss>
