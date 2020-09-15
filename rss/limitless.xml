@@ -9,12 +9,12 @@
 	
 <channel>	
 	
-<title>The Limitless Podcast</title>	
+<title>Limitless Conversations</title>	
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>	
-<managingEditor>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</managingEditor>	
+<managingEditor>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</managingEditor>	
 <language>en-za</language>	
-<generator>Solid Gold Podcast Studios 2.0</generator>	
-<docs>https://solidgoldstudios.co.za</docs>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
 	
 <spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
 	
@@ -23,19 +23,19 @@
 <p>A podcast series by millennial women of colour “for woke women/girls that love dumb stuff”.</p>	
 <p>Scintillating, quirky, fun, intelligent and motivating conversations hosted by three young millennial women with diverse backgrounds. Each season, we invite guests that are aligned with a topical discussion to unpack in conversation and discussions a series of trending topics such as the challenges the youth and millennials face, adulting, state of the culture, society, social media, pop culture, fashion, music, tech and entrepreneurship.</p>	
 <p>The aim is to create content that stimulates thinking, drives conversations and creates a new African narrative of thought leaders.</p>	
-<p>Recorded and produced at https://SolidGoldStudios.co.za #BeHeard</p>	
+<p>another SolidGold.co.za podcast #BeHeard</p>	
 	]]></description>
 	
 <image>	
-	<url>https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1</url>
-	<title>The Limitless Podcast</title>
+	<url>https://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg?ver=1</url>
+	<title>Limitless Conversations</title>
 	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=limitless]]></link>
 </image>	
 	
 <itunes:explicit>yes</itunes:explicit>	
 <itunes:type>episodic</itunes:type>	
 <itunes:subtitle>The podcast for woke girls that love dumb stuff.</itunes:subtitle>	
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>	
+<itunes:author>Studio.13 | Solid Gold #BeHeard</itunes:author>	
 	<itunes:summary><![CDATA[
 A podcast series by millennial women of colour “for woke women/girls that love dumb stuff”.	
 	
@@ -43,21 +43,21 @@ Scintillating, quirky, fun, intelligent and motivating conversations hosted by t
 	
 The aim is to create content that stimulates thinking, drives conversations and creates a new African narrative of thought leaders.	
 	
-Recorded and produced at https://SolidGoldStudios.co.za #BeHeard	
+another SolidGold.co.za podcast #BeHeard
 	]]></itunes:summary>
 	
-	<itunes:image href="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />
+	<itunes:image href="https://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg?ver=1" />
 	
 	<atom:link href="https://podcaststudios.co.za/rss/limitless.xml" rel="self" type="application/rss+xml" />
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
 	
 	<media:copyright>© Studio.13 - all rights reserved</media:copyright>
-	<media:thumbnail url="https://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg?ver=1" />
+	<media:thumbnail url="https://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg?ver=1" />
 	<media:keywords>limiteless podcast south africa, girl, women, black, talk, african, conversation, millenials, woke, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
 	
 	<itunes:owner>
-	<itunes:email>limitless@solidgoldstudios.co.za</itunes:email>
-	<itunes:name>The Limitless Podcast</itunes:name>
+	<itunes:email>limitless@solidgold.co.za</itunes:email>
+	<itunes:name>Limitless Conversations</itunes:name>
 	</itunes:owner>
 	
 	<itunes:keywords>limiteless podcast south africa, girl, women, black, talk, african, conversation, millenials, woke, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
@@ -76,21 +76,19 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
   <itunes:category text="Self-Improvement" />
 </itunes:category>
 	
-	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcast Studios)</webMaster>
+	<webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Podcasts)</webMaster>
 	<ttl>30</ttl>
 	<pubDate>Mon, 11 Nov 2019 12:00:00 +0200</pubDate>
 	
 <itunes:complete>no</itunes:complete>
 
-
-
-<lastBuildDate>Mon, 16 Mar 2020 12:48:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2020 12:52:00 +0200</lastBuildDate>
 
 
 <item>
 <!-- Sequence 007 - Social distancing, not the worst thing to happen to us. Yes, to Girl Chat! - Season 1 Episode 6     FULL -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -105,10 +103,10 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Sun, 16 Feb 2020 12:48:00 +0200</pubDate>
+<pubDate>Sun, 16 Feb 2020 12:49:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
@@ -188,8 +186,8 @@ Are you still friends with your primary or high school mates?
 
 <item>
 <!-- Sequence 006 - Vulnerable Confessions (and other dumb stuff) - Season 1 Episode 5     FULL -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -204,10 +202,10 @@ Are you still friends with your primary or high school mates?
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 03 Feb 2020 09:43:19 +0200</pubDate>
+<pubDate>Mon, 03 Feb 2020 09:44:00 +0200</pubDate>
 
 <description><![CDATA[
 <img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
@@ -278,8 +276,8 @@ silly, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 
 <item>
 <!-- Sequence 005 - The Year of the Underdog... This is YOUR year! - Season 1 Episode 4     FULL -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -294,10 +292,10 @@ silly, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 27 Jan 2020 12:20:00 +0200</pubDate>
+<pubDate>Mon, 27 Jan 2020 12:21:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
@@ -389,8 +387,8 @@ girl talk, black girl podcast, african girl podcast, millennial women, millennia
 
 <item>
 <!-- Sequence 004 - Limitless Conversations with Sphum: African Girl Magic | Sphum Radebe - Season 1 Episode 3     FULL -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -405,10 +403,10 @@ girl talk, black girl podcast, african girl podcast, millennial women, millennia
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Tue, 17 Dec 2019 12:46:04 +0200</pubDate>
+<pubDate>Tue, 17 Dec 2019 12:47:09 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
@@ -475,8 +473,8 @@ Limitless Conversations, girl talk, black girl podcast, african girl podcast, mi
 
 <item>
 <!-- Sequence 003 - Welcome to the “Limitless” Family – Trailer - Season  Episode  -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>trailer</itunes:episodeType>
 
@@ -491,11 +489,11 @@ Limitless Conversations, girl talk, black girl podcast, african girl podcast, mi
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
 <!-- <pubDate>Wed, 27 Nov 2019 15:40:37 +0200</pubDate> -->
-<pubDate>Mon, 11 Nov 2019 12:00:00 +0200</pubDate>
+<pubDate>Mon, 11 Nov 2019 12:01:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
@@ -563,8 +561,8 @@ Limitless Conversations, Limitless SA podcast, I am Limitless, podcast, south af
 
 <item>
 <!-- Sequence 002 - A Year of Life and Love Lessons... Thank you, Next! - Season 1 Episode 2 -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -579,10 +577,10 @@ Limitless Conversations, Limitless SA podcast, I am Limitless, podcast, south af
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 25 Nov 2019 10:38:29 +0200</pubDate>
+<pubDate>Mon, 25 Nov 2019 10:39:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
@@ -654,8 +652,8 @@ Limitless Conversations, Limitless SA podcast, I am Limitless, podcast, south af
 
 <item>
 <!-- Sequence 001 - This is US! We come with baggage. - Season 1 Episode 1 -->
-<author>limitless@solidgoldstudios.co.za (Studio.13 | Solid Gold Podcast Studios)</author>
-<itunes:author>Studio.13 | Solid Gold Podcast Studios</itunes:author>
+<author>limitless@solidgold.co.za (Studio.13 | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Studio.13 | Solid Gold Podcasts #BeHeard</itunes:author>
 
 <itunes:episodeType>full</itunes:episodeType>
 
@@ -670,10 +668,10 @@ Limitless Conversations, Limitless SA podcast, I am Limitless, podcast, south af
 <link>https://solidgoldstudios.co.za/channel.php?title=limitless</link>
 
 <!-- Use DEFAULT image -->
-<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000-cover.jpg" />
+<itunes:image href="http://podcaststudios.co.za/images/limitless/limitless-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Mon, 11 Nov 2019 13:00:00 +0200</pubDate>
+<pubDate>Mon, 11 Nov 2019 13:01:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Limitless">
