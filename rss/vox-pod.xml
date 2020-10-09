@@ -1,0 +1,350 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Vox Pod - find your voice</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=vox-pod</link>	
+<managingEditor>vox-pod@solidgold.co.za (Vox Pod | Solid Gold Podcasts #BeHeard)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+<language>en</language>	
+	
+<copyright>© Vox Pod - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Are you looking for the perfect host for your next podcast?</p>	
+"<p>Your search is over!
+</p>"	
+<p>Our selection of voices deliver professional performances for every kind of interview, performance, or conversation you can imagine. To be understood, you must first be heard.</p>	
+<p>#BeHeard another SolidGold.co.za podcast</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/vox-pod/vox-pod-000a-cover.jpg?ver=1</url>
+	<title>Vox Pod - find your voice</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=vox-pod]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Find your voice</itunes:subtitle>	
+<itunes:author>Vox Pod | Solid Gold Podcasts #BeHeard</itunes:author>	
+	<itunes:summary><![CDATA[
+Are you looking for the perfect host for your next podcast?	
+	
+Your search is over!
+	
+Our selection of voices deliver professional performances for every kind of interview, performance, or conversation you can imagine. To be understood, you must first be heard.	
+	
+#BeHeard another SolidGold.co.za podcast	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/vox-pod/vox-pod-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/vox-pod.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Vox Pod - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/vox-pod/vox-pod-000a-cover.jpg?ver=1" />
+	<media:keywords>vox, voice, search, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>vox-pod@solidgold.co.za</itunes:email>
+	<itunes:name>Vox Pod - find your voice</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>vox, voice, search, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Arts">
+	  <itunes:category text="Performing Arts" />
+	</itunes:category>
+	<itunes:category text="Business">
+	  <itunes:category text="Marketing" />
+	</itunes:category>
+	<itunes:category text="Technology" />
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts #BeHeard)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Thu, 08 Oct 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Fri, 09 Oct 2020 08:49:22 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 003 - Ian Fraser - Season 1 Episode 3     FULL -->
+<author>vox-pod@solidgold.co.za (Vox Pod | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Vox Pod | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Ian Fraser</title>
+<itunes:title>Ian Fraser</itunes:title>
+<itunes:subtitle>Digital Content Manager and voice for life</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>01:50</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=vox-pod</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/vox-pod/vox-pod-003-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 09 Oct 2020 08:49:22 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Ian Fraser — Digital Content Manager and voice for life
+
+A voice you'll recognise and trust.
+</p>
+<br />
+<p>Connect with Ian on LinkedIn <a href="https://www.linkedin.com/in/ianfsa/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/ianfsa/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Ian Fraser — Digital Content Manager and voice for life
+
+A voice you'll recognise and trust.
+</p>
+<br />
+<p>Connect with Ian on LinkedIn <a href="https://www.linkedin.com/in/ianfsa/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/ianfsa/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+ian, fraser, ian f, vox, voice, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-003-ian-fraser.mp3?ver=1" type="audio/mpeg" fileSize="2056915" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-003-ian-fraser.mp3?ver=1" type="audio/mpeg" length="2056915" />
+
+<guid isPermaLink="false">vox-pod-003</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 002 - Ashraf Garda - Season 1 Episode 2     FULL -->
+<author>vox-pod@solidgold.co.za (Vox Pod | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Vox Pod | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Ashraf Garda</title>
+<itunes:title>Ashraf Garda</itunes:title>
+<itunes:subtitle>The Champion of Authoratative content</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>03:53</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=vox-pod</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/vox-pod/vox-pod-002-cover.jpg?ver=2" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 09 Oct 2020 08:07:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Ashraf Garda — The Champion of Authoratative content
+
+Founder at Champion South Africa and host of the Ashraf Garda Show Podcast.
+</p>
+<br />
+<p>Connect with Ashraf on LinkedIn <a href="https://www.linkedin.com/in/ashrafgardachampionsouthafrica/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/ashrafgardachampionsouthafrica/</a></p>
+<p>Visit Ashraf's website <a href="https://www.ashrafgarda.co.za/champion-south-africa?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.ashrafgarda.co.za/champion-south-africa</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Ashraf Garda — The Champion of Authoratative content
+
+Founder at Champion South Africa and host of the Ashraf Garda Show Podcast.
+</p>
+<br />
+<p>Connect with Ashraf on LinkedIn <a href="https://www.linkedin.com/in/ashrafgardachampionsouthafrica/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/ashrafgardachampionsouthafrica/</a></p>
+<p>Visit Ashraf's website <a href="https://www.ashrafgarda.co.za/champion-south-africa?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.ashrafgarda.co.za/champion-south-africa</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+ashraf, garda, voice, vox, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-002-ashraf-garda.mp3?ver=1" type="audio/mpeg" fileSize="3948033" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-002-ashraf-garda.mp3?ver=1" type="audio/mpeg" length="3948033" />
+
+<guid isPermaLink="false">vox-pod-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Sureshnie Rider - Season 1 Episode 1     FULL -->
+<author>vox-pod@solidgold.co.za (Vox Pod | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Vox Pod | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Sureshnie Rider</title>
+<itunes:title>Sureshnie Rider</itunes:title>
+<itunes:subtitle>Variety is the spice of life</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>53</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=vox-pod</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/vox-pod/vox-pod-001-cover.jpg?ver=4" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 08 Oct 2020 15:21:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Sureshnie Rider — Variety is the spice of life
+
+Winner of the MTN Radio Award 2013 for Best Weekend Show, Commercial Radio Category.
+News Reader 5fm Monday to Friday on the Roger Goode Show.
+MC/VoiceOverArtist. Host of Hit Express on South African Airways
+Member of www.BobbleheadSA.co.za manufacturers of SA's first range of Entertainter/Celebrity/Sports/Lifestyle Bobbleheads.
+Co Founder of Blow The Whistle Campaign.
+Car Test Driver, Practicing Wife and Mother.
+</p>
+<br />
+<p>Follow Sureshnie on Twitter <a href="https://twitter.com/sureshnie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://twitter.com/sureshnie</a></p>
+<p>Follow Sureshnie on Insta <a href="https://www.instagram.com/sureshnierider/?hl=en?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.instagram.com/sureshnierider/?hl=en</a></p>
+<p>Connect on LinkedIn <a href="https://www.linkedin.com/in/sureshnie-rider-85aa2421/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/sureshnie-rider-85aa2421/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://vox.org.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/vox-pod/vox-pod-64.jpg?ver=1" alt="Vox Pod" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BVox%20Pod%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Sureshnie Rider — Variety is the spice of life
+
+Winner of the MTN Radio Award 2013 for Best Weekend Show, Commercial Radio Category.
+News Reader 5fm Monday to Friday on the Roger Goode Show.
+MC/VoiceOverArtist. Host of Hit Express on South African Airways
+Member of www.BobbleheadSA.co.za manufacturers of SA's first range of Entertainter/Celebrity/Sports/Lifestyle Bobbleheads.
+Co Founder of Blow The Whistle Campaign.
+Car Test Driver, Practicing Wife and Mother.
+</p>
+<br />
+<p>Follow Sureshnie on Twitter <a href="https://twitter.com/sureshnie?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://twitter.com/sureshnie</a></p>
+<p>Follow Sureshnie on Insta <a href="https://www.instagram.com/sureshnierider/?hl=en?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.instagram.com/sureshnierider/?hl=en</a></p>
+<p>Connect on LinkedIn <a href="https://www.linkedin.com/in/sureshnie-rider-85aa2421/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">https://www.linkedin.com/in/sureshnie-rider-85aa2421/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Visit our website <a href="https://vox.org.za">https://vox.org.za</a></p>
+<p>To book your host, mail <a href="mailto:bookings@vox.org.za?subject=We've found our voice!"></a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Vox%20Pod">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+sureshnie, rider, voice, vox, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-001-sureshnie-rider.mp3?ver=1" type="audio/mpeg" fileSize="1144643" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/vox-pod/vox-pod-001-sureshnie-rider.mp3?ver=1" type="audio/mpeg" length="1144643" />
+
+<guid isPermaLink="false">vox-pod-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>
