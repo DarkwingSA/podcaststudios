@@ -1,0 +1,259 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>Journal and Intention with Mpumi Nobiva</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=journal-and-intention</link>	
+<managingEditor>journal-and-intention@solidgold.co.za (Mpumi Nobiva | Solid Gold Podcasts #BeHeard)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+<language>en</language>	
+	
+<copyright>© Mpumi Nobiva - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Oscillate through the highs and lows, stressful and anxious, light and dark moments of life.</p>	
+<p>This podcast is powered by Oscillate, a social enterprise specialising in navigating mental health challenges with a growth mindset, compassion and focused intention. Through our investment in systems, resources and tools, access to global mental health thought leaders from diverse backgrounds and contexts, we deliver specialized mental health solutions that are responsive to every aspect of society.</p>	
+<p>We are honored to serve individuals through our monthly membership Journal and Intentional Wellness Programme (JIWP), employees in corporations and students in educational institutions through Afrocentric and data driven curated workshops.</p>	
+<p>#BeHeard another SolidGold.co.za podcast</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/journal-and-intention/journal-and-intention-000b-cover.jpg?ver=1</url>
+	<title>Journal and Intention with Mpumi Nobiva</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=journal-and-intention]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>Oscillate through the highs and lows, stressful and anxious, light and dark moments of life.</itunes:subtitle>	
+<itunes:author>Mpumi Nobiva | Solid Gold Podcasts #BeHeard</itunes:author>	
+	<itunes:summary><![CDATA[
+Oscillate through the highs and lows, stressful and anxious, light and dark moments of life.	
+	
+This podcast is powered by Oscillate, a social enterprise specialising in navigating mental health challenges with a growth mindset, compassion and focused intention. Through our investment in systems, resources and tools, access to global mental health thought leaders from diverse backgrounds and contexts, we deliver specialized mental health solutions that are responsive to every aspect of society.	
+	
+We are honored to serve individuals through our monthly membership Journal and Intentional Wellness Programme (JIWP), employees in corporations and students in educational institutions through Afrocentric and data driven curated workshops.	
+	
+#BeHeard another SolidGold.co.za podcast	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/journal-and-intention/journal-and-intention-000b-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/journal-and-intention.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Mpumi Nobiva - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/journal-and-intention/journal-and-intention-000b-cover.jpg?ver=1" />
+	<media:keywords>journal, intention, mental health, oscillate, healing, mpumi nobiva, bongani tau, wendy, khumalo, inami ncapayi, through life,, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>journal-and-intention@solidgold.co.za</itunes:email>
+	<itunes:name>Journal and Intention with Mpumi Nobiva</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>journal, intention, mental health, oscillate, healing, mpumi nobiva, bongani tau, wendy, khumalo, inami ncapayi, through life,, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Education">
+	  <itunes:category text="Self-Improvement" />
+	</itunes:category>
+	<itunes:category text="Health &amp; Fitness">
+	  <itunes:category text="Alternative Health" />
+	</itunes:category>
+	<itunes:category text="Religion &amp; Spirituality">
+	  <itunes:category text="Spirituality" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+	  <itunes:category text="Personal Journals" />
+	</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts #BeHeard)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 09 Oct 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+<lastBuildDate>Sat, 10 Oct 2020 07:38:43 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 002 - Hi, I’m Mpumi Nobiva, welcome to the ‘Journal and Intention’ Podcast - Season  b Episode 1     FULL -->
+<author>journal-and-intention@solidgold.co.za (Mpumi Nobiva | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Mpumi Nobiva | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Hi, I’m Mpumi Nobiva, welcome to the ‘Journal and Intention’ Podcast</title>
+<itunes:title>Hi, I’m Mpumi Nobiva, welcome to the ‘Journal and Intention’ Podcast</itunes:title>
+<itunes:subtitle>Award-winning Speaker reflects on her journey with mental health</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season> b</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>16:36</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=journal-and-intention</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/journal-and-intention/journal-and-intention-000b-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Sat, 10 Oct 2020 07:38:43 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.oscillate.one/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/journal-and-intention/oscillate-64.jpg?ver=1" alt="Oscillate" height="32px" /></a></p>
+<p>
+Hi, I’m Mpumi Nobiva, welcome to the ‘Journal and Intention’ Podcast — Award-winning Speaker reflects on her journey with mental health
+
+I was met with the incomparable healing power of the pain I had been running from. Now I honor my pain. I welcome it as a friend who has come to help me heal wounds I forgot I had.'
+
+In this humble preview of the Journal and Intention podcast, the Award-winning International Speaker reflects on her intimate journey with mental health, nervous breakdown, finding her truth and intentions for telling a new story.
+</p>
+<br />
+<p>Connect with Mpumi on LinkedIn <a href="https://www.linkedin.com/in/mpuminobiva/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">https://www.linkedin.com/in/mpuminobiva/</a></p>
+<p>Music : Peter McIsaac - Moving Ahead</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Main website for Oscillate Healing and home to Journal and Intention Wellness Program <a href="https://oscillate.one/">https://oscillate.one/</a></p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/oscillate_healing/">https://www.instagram.com/oscillate_healing/</a></p>
+<p>Official Facebook account for Oscillate Healing and home to Journal and Intention Wellness Program <a href="facebook.com/Oscillate-Healing-101005645118795">facebook.com/Oscillate-Healing-101005645118795</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.oscillate.one/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/journal-and-intention/oscillate-64.jpg?ver=1" alt="Oscillate" height="32px" /></a></p>
+<p>
+Hi, I’m Mpumi Nobiva, welcome to the ‘Journal and Intention’ Podcast — Award-winning Speaker reflects on her journey with mental health
+
+I was met with the incomparable healing power of the pain I had been running from. Now I honor my pain. I welcome it as a friend who has come to help me heal wounds I forgot I had.'
+
+In this humble preview of the Journal and Intention podcast, the Award-winning International Speaker reflects on her intimate journey with mental health, nervous breakdown, finding her truth and intentions for telling a new story.
+</p>
+<br />
+<p>Connect with Mpumi on LinkedIn <a href="https://www.linkedin.com/in/mpuminobiva/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">https://www.linkedin.com/in/mpuminobiva/</a></p>
+<p>Music : Peter McIsaac - Moving Ahead</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Main website for Oscillate Healing and home to Journal and Intention Wellness Program <a href="https://oscillate.one/">https://oscillate.one/</a></p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/oscillate_healing/">https://www.instagram.com/oscillate_healing/</a></p>
+<p>Official Facebook account for Oscillate Healing and home to Journal and Intention Wellness Program <a href="facebook.com/Oscillate-Healing-101005645118795">facebook.com/Oscillate-Healing-101005645118795</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Journal and Intention, Pain is healing, Mpumi Nobiva, Oscillate Healing, Monthly Membership, Subscribe now,, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/journal-and-intention/journal-and-intention-002-welcome.mp3?ver=1" type="audio/mpeg" fileSize="16402378" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/journal-and-intention/journal-and-intention-002-welcome.mp3?ver=1" type="audio/mpeg" length="16402378" />
+
+<guid isPermaLink="false">journal-and-intention-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - Trailer | Welcome to the Journal and Intention Podcast - Season 1 Episode 0     TRAILER -->
+<author>journal-and-intention@solidgold.co.za (Mpumi Nobiva | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Mpumi Nobiva | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>trailer</itunes:episodeType>
+
+       <title>Trailer | Welcome to the Journal and Intention Podcast</title>
+<itunes:title>Trailer | Welcome to the Journal and Intention Podcast</itunes:title>
+<itunes:subtitle>Powered by Oscillate</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<!-- <itunes:episode>0</itunes:episode> -->
+<itunes:duration>01:54</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=journal-and-intention</link>
+
+<!-- Use DEFAULT image -->
+<itunes:image href="http://podcaststudios.co.za/images/journal-and-intention/journal-and-intention-000b-cover.jpg" />
+<!-- Use DEFAULT image -->
+
+<pubDate>Fri, 09 Oct 2020 17:27:00 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://www.oscillate.one/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/journal-and-intention/oscillate-64.jpg?ver=1" alt="Oscillate" height="32px" /></a></p>
+<p>
+Trailer | Welcome to the Journal and Intention Podcast — Powered by Oscillate
+
+Oscillate through the highs and lows, stressful and anxious, light and dark moments of life.
+
+This podcast is powered by Oscillate, a social enterprise specialising in navigating mental health challenges with a growth mindset, compassion and focused intention. Through our investment in systems, resources and tools, access to global mental health thought leaders from diverse backgrounds and contexts, we deliver specialized mental health solutions that are responsive to every aspect of society.
+
+We are honored to serve individuals through our monthly membership Journal and Intentional Wellness Programme (JIWP), employees in corporations and students in educational institutions through Afrocentric and data driven curated workshops.
+</p>
+<p>Music : Peter McIsaac - Moving Ahead</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Main website for Oscillate Healing and home to Journal and Intention Wellness Program <a href="https://oscillate.one/">https://oscillate.one/</a></p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/oscillate_healing/">https://www.instagram.com/oscillate_healing/</a></p>
+<p>Official Facebook account for Oscillate Healing and home to Journal and Intention Wellness Program <a href="facebook.com/Oscillate-Healing-101005645118795">facebook.com/Oscillate-Healing-101005645118795</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://www.oscillate.one/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/journal-and-intention/oscillate-64.jpg?ver=1" alt="Oscillate" height="32px" /></a></p>
+<p>
+Trailer | Welcome to the Journal and Intention Podcast — Powered by Oscillate
+
+Oscillate through the highs and lows, stressful and anxious, light and dark moments of life.
+
+This podcast is powered by Oscillate, a social enterprise specialising in navigating mental health challenges with a growth mindset, compassion and focused intention. Through our investment in systems, resources and tools, access to global mental health thought leaders from diverse backgrounds and contexts, we deliver specialized mental health solutions that are responsive to every aspect of society.
+
+We are honored to serve individuals through our monthly membership Journal and Intentional Wellness Programme (JIWP), employees in corporations and students in educational institutions through Afrocentric and data driven curated workshops.
+</p>
+<p>Music : Peter McIsaac - Moving Ahead</p>
+<br />
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<p>Main website for Oscillate Healing and home to Journal and Intention Wellness Program <a href="https://oscillate.one/">https://oscillate.one/</a></p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/oscillate_healing/">https://www.instagram.com/oscillate_healing/</a></p>
+<p>Official Facebook account for Oscillate Healing and home to Journal and Intention Wellness Program <a href="facebook.com/Oscillate-Healing-101005645118795">facebook.com/Oscillate-Healing-101005645118795</a></p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Old%20Journal%20and%20Intention">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+trailer, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/journal-and-intention/journal-and-intention-001-trailer.mp3?ver=1" type="audio/mpeg" fileSize="2292404" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/journal-and-intention/journal-and-intention-001-trailer.mp3?ver=1" type="audio/mpeg" length="2292404" />
+
+<guid isPermaLink="false">journal-and-intention-1</guid>
+
+</item>
+	
+	</channel>
+	</rss>
