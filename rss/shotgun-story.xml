@@ -76,7 +76,7 @@ Welcome to Shotgun Story, the podcast that has conversations with Indie creators
 	
 <itunes:complete>no</itunes:complete>
 
-<lastBuildDate>Thu, 22 Oct 2020 07:51:00 +0200</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2020 07:54:00 +0200</lastBuildDate>
 
 
 <item>
@@ -93,14 +93,14 @@ Welcome to Shotgun Story, the podcast that has conversations with Indie creators
 <itunes:explicit>no</itunes:explicit>
 <itunes:season>1</itunes:season>
 <!--  -->
-<itunes:duration>04:07</itunes:duration>
+<itunes:duration>04:09</itunes:duration>
 <link>https://solidgold.co.za/channel.php?title=shotgun-story</link>
 
 <!-- Use DEFAULT image -->
 <itunes:image href="http://podcaststudios.co.za/images/shotgun-story/shotgun-story-000b-cover.jpg" />
 <!-- Use DEFAULT image -->
 
-<pubDate>Thu, 22 Oct 2020 07:51:00 +0200</pubDate>
+<pubDate>Thu, 22 Oct 2020 07:54:00 +0200</pubDate>
 
 <description><![CDATA[
 <p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20Shotgun%20Story">
@@ -148,8 +148,8 @@ Welcome to Shotgun Story, the podcast that has conversations with Indie creators
 trailer, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
 </itunes:keywords>
 
-<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/shotgun-story/shotgun-story-001-trailer.mp3?ver=1" type="audio/mpeg" fileSize="4418990" />
-    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/shotgun-story/shotgun-story-001-trailer.mp3?ver=1" type="audio/mpeg" length="4418990" />
+<media:content url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/shotgun-story/shotgun-story-001-trailer.mp3?ver=3" type="audio/mpeg" fileSize="4449501" />
+    <enclosure url="https://pdcn.co/e/chtbl.com/track/85158/podcaststudios.co.za/audio/shotgun-story/shotgun-story-001-trailer.mp3?ver=3" type="audio/mpeg" length="4449501" />
 
 <guid isPermaLink="false">shotgun-story-001</guid>
 
