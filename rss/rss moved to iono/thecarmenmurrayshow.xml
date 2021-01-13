@@ -9,6 +9,13 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
      
      <channel>
+
+
+<itunes:new-feed-url>
+  https://iono.fm/rss/chan/5999
+</itunes:new-feed-url>	
+
+
           <atom:link href="https://podcaststudios.co.za/rss/thecarmenmurrayshow.xml" rel="self" type="application/rss+xml" />
           <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
           <ttl>30</ttl>
@@ -95,13 +102,13 @@
                <itunes:name>Gavin Kennedy | Solid Gold Podcasts #BeHeard</itunes:name>
                <itunes:email>thecarmenmurrayshow@solidgold.co.za</itunes:email>
           </itunes:owner>
-          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000-cover.jpg" />
+          <itunes:image href="http://podcaststudios.co.za/images/thecarmenmurrayshow/tcms-000f-cover.jpg" />
           <itunes:keywords>Carmen Murray, Boo-Yah, UX, user experience, CMO, innovation, alchemist, future-fit yourself, #FutureFit, #BookFit, #TrendFit, AI, marketing, mobile, speaker, Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
 
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Mon, 07 Sep 2020 08:41:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2020 08:43:00 +0200</lastBuildDate>
 
 
 <item>

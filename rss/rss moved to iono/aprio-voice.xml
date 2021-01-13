@@ -8,6 +8,10 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	
 <channel>	
+
+<itunes:new-feed-url>
+  https://iono.fm/rss/chan/6000
+</itunes:new-feed-url>		
 	
 <title>Aprio Voice</title>	
 <link>https://solidgoldstudios.co.za/channel.php?title=aprio-voice</link>	
@@ -77,7 +81,7 @@ Recorded and produced at https://SolidGoldStudios.co.za #BeHeard
 <itunes:complete>no</itunes:complete>
 
 
-<lastBuildDate>Wed, 28 Oct 2020 18:17:51 +0200</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2020 18:18:00 +0200</lastBuildDate>
 
 
 <item>
