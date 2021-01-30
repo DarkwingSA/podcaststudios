@@ -1,0 +1,1012 @@
+<rss version="2.0"	
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	
+<channel>	
+	
+<title>The Reading Room</title>	
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>	
+<managingEditor>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</managingEditor>	
+<language>en-za</language>	
+<generator>Solid Gold Podcasts 2.0</generator>	
+<docs>https://solidgold.co.za</docs>	
+	
+<spotify:countryOfOrigin>za</spotify:countryOfOrigin>	
+	
+<copyright>© Solid Gold Podcasts - all rights reserved</copyright>	
+	<description><![CDATA[
+<p>Can we entice you into our Reading Room? </p>	
+<p>This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.</p>	
+<p>And the Reading room contains a host of extraordinary people. Leading lights of the written word - authors, literary critics, columnists and ideas people - will tantalise your minds with their wordplay, while discussing the ideas and worldviews that form our wonderful literary milieu.
+
+Come step into a world of magic, the place of undiscovered treasures, a room of reading... </p>
+<p>another SolidGold.co.za podcast #BeHeard</p>	
+	]]></description>
+	
+<image>	
+	<url>https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1</url>
+	<title>The Reading Room</title>
+	<link><![CDATA[https://solidgoldstudios.co.za/channel.php?title=the-reading-room]]></link>
+</image>	
+	
+<itunes:explicit>no</itunes:explicit>	
+<itunes:type>episodic</itunes:type>	
+<itunes:subtitle>This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.</itunes:subtitle>	
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts #BeHeard</itunes:author>	
+	<itunes:summary><![CDATA[
+Can we entice you into our Reading Room? 	
+	
+This is the place for lovers of language and literature, those of us who believe that reading is essential, as we seek to rise above the ordinary.	
+	
+And the Reading room contains a host of extraordinary people. Leading lights of the written word - authors, literary critics, columnists and ideas people - will tantalise your minds with their wordplay, while discussing the ideas and worldviews that form our wonderful literary milieu.
+
+Come step into a world of magic, the place of undiscovered treasures, a room of reading...
+	
+another SolidGold.co.za podcast  #BeHeard	
+	]]></itunes:summary>
+	
+	<itunes:image href="https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1" />
+	
+	<atom:link href="https://podcaststudios.co.za/rss/the-reading-room.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+	
+	<media:copyright>© Solid Gold Podcasts - all rights reserved</media:copyright>
+	<media:thumbnail url="https://podcaststudios.co.za/images/the-reading-room/reading-room-000a-cover.jpg?ver=1" />
+	<media:keywords>reading, room, books, english, language, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+	
+	<itunes:owner>
+	<itunes:email>the-reading-room@solidgold.co.za</itunes:email>
+	<itunes:name>The Reading Room</itunes:name>
+	</itunes:owner>
+	
+	<itunes:keywords>reading, room, books, english, language, Another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+	
+	<itunes:category text="Arts">
+	  <itunes:category text="Books" />
+	</itunes:category>
+	<itunes:category text="Education">
+	  <itunes:category text="Language Learning" />
+	  <itunes:category text="Self-Improvement" />
+	</itunes:category>
+	<itunes:category text="Leisure">
+	  <itunes:category text="Hobbies" />
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+	  <itunes:category text="Personal Journals" />
+	</itunes:category>
+	
+	<webMaster>gavin@solidgold.co.za (Gavin Kennedy | Solid Gold Podcasts #BeHeard)</webMaster>
+	<ttl>30</ttl>
+	<pubDate>Fri, 31 Jul 2020 10:00:00 +0200</pubDate>
+	
+	
+<itunes:complete>no</itunes:complete>
+
+
+<lastBuildDate>Fri, 22 Jan 2021 17:32:44 +0200</lastBuildDate>
+
+
+<item>
+<!-- Sequence 010 - Pulp Non Fiction in Person | Bronwyn Williams (Economist / Trend Analyst / Futurist) - Season 1 Episode 10     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Pulp Non Fiction in Person | Bronwyn Williams (Economist / Trend Analyst / Futurist)</title>
+<itunes:title>Pulp Non Fiction in Person | Bronwyn Williams (Economist / Trend Analyst / Futurist)</itunes:title>
+<itunes:subtitle>Highly effective reading habits of a Successful Reader</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:duration>41:56</itunes:duration>
+<link>https://solidgold.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-010-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 22 Jan 2021 17:32:44 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Pulp Non Fiction in Person — Highly effective reading habits of a Successful Reader
+Bronwyn Williams (Economist / Trend Analyst / Futurist)
+
+What insights can this voracious reader impart? Well - Listen Here! If you are at a loss as to what to read that can make your mind take a quantum leap into the future, Bronwyn Williams has a number of interesting insights that will yield quantifiable results!
+
+What is she reading? What is she writing about reading and books? Should one actually read the 'must read' books? And what is the philosophy behind reading - and philosophy?
+</p>
+<br />
+<p>Economics in One Lesson <a href="https://amzn.to/3c4dK9M?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3c4dK9M</a></p>
+<p>The True Believer <a href="https://amzn.to/3sPkzlu?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3sPkzlu</a></p>
+<p>The Remains Of The Day <a href="https://amzn.to/39VP947?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/39VP947</a></p>
+<p>Momo <a href="https://amzn.to/36611PX?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/36611PX</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Pulp Non Fiction in Person — Highly effective reading habits of a Successful Reader
+Bronwyn Williams (Economist / Trend Analyst / Futurist)
+
+What insights can this voracious reader impart? Well - Listen Here! If you are at a loss as to what to read that can make your mind take a quantum leap into the future, Bronwyn Williams has a number of interesting insights that will yield quantifiable results!
+
+What is she reading? What is she writing about reading and books? Should one actually read the 'must read' books? And what is the philosophy behind reading - and philosophy?
+</p>
+<br />
+<p>Economics in One Lesson <a href="https://amzn.to/3c4dK9M?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3c4dK9M</a></p>
+<p>The True Believer <a href="https://amzn.to/3sPkzlu?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3sPkzlu</a></p>
+<p>The Remains Of The Day <a href="https://amzn.to/39VP947?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/39VP947</a></p>
+<p>Momo <a href="https://amzn.to/36611PX?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/36611PX</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-010-bronwyn-williams.mp3?ver=1" type="audio/mpeg" fileSize="40737877" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-010-bronwyn-williams.mp3?ver=1" type="audio/mpeg" length="40737877" />
+
+<guid isPermaLink="false">the-reading-room-010</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 009 - If Trees Could Talk... | Megan Emmett Parker (author and senior producer in the environmental world) - Season 1 Episode 9     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>If Trees Could Talk... | Megan Emmett Parker (author and senior producer in the environmental world)</title>
+<itunes:title>If Trees Could Talk... | Megan Emmett Parker (author and senior producer in the environmental world)</itunes:title>
+<itunes:subtitle>And 100 of them you should get to know!</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:duration>30:22</itunes:duration>
+<link>https://solidgold.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-009-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 10 Dec 2020 14:54:35 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+If Trees Could Talk... — And 100 of them you should get to know!
+Megan Emmett Parker (author and senior producer in the environmental world)
+
+With a Masters in environmental management, a conservation degree and a decade working as a senior producer on 50/50 on tv, Megan Parker has a solid grounding on all topics environmental. 
+
+Her book, Game Ranger in your Backpack, has been selling out and reprinted yearly since release ten years ago. And her book on trees, originally titled If Trees Could Talk, now published by Struik under the title 100 Bushveld Trees, is the go-to guide for those wanting to know more about our wonderful country, her biomes and the ‘beings’ that inhabit it.
+</p>
+<br />
+<p>Game Ranger in Your Pocket on Amazon <a href="https://amzn.to/3m73ezP?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3m73ezP</a></p>
+<p>100 Bushveld Trees <a href="https://amzn.to/2LmQl8b?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/2LmQl8b</a></p>
+<p>Megan on LinkedIn <a href="https://www.linkedin.com/in/megan-parker-39027510/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://www.linkedin.com/in/megan-parker-39027510/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+If Trees Could Talk... — And 100 of them you should get to know!
+Megan Emmett Parker (author and senior producer in the environmental world)
+
+With a Masters in environmental management, a conservation degree and a decade working as a senior producer on 50/50 on tv, Megan Parker has a solid grounding on all topics environmental. 
+
+Her book, Game Ranger in your Backpack, has been selling out and reprinted yearly since release ten years ago. And her book on trees, originally titled If Trees Could Talk, now published by Struik under the title 100 Bushveld Trees, is the go-to guide for those wanting to know more about our wonderful country, her biomes and the ‘beings’ that inhabit it.
+</p>
+<br />
+<p>Game Ranger in Your Pocket on Amazon <a href="https://amzn.to/3m73ezP?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3m73ezP</a></p>
+<p>100 Bushveld Trees <a href="https://amzn.to/2LmQl8b?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/2LmQl8b</a></p>
+<p>Megan on LinkedIn <a href="https://www.linkedin.com/in/megan-parker-39027510/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://www.linkedin.com/in/megan-parker-39027510/</a></p>
+<p>Music : https://JohnBartmann.com</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-009-megan-parker.mp3?ver=1" type="audio/mpeg" fileSize="29624255" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-009-megan-parker.mp3?ver=1" type="audio/mpeg" length="29624255" />
+
+<guid isPermaLink="false">the-reading-room-009</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 008 - The Logic of God | Jean-Marie Jullienne (Entrepreneurial Author) - Season 1 Episode 8     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Logic of God | Jean-Marie Jullienne (Entrepreneurial Author)</title>
+<itunes:title>The Logic of God | Jean-Marie Jullienne (Entrepreneurial Author)</itunes:title>
+<itunes:subtitle>How Has the Cloud Moved?</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:duration>36:26</itunes:duration>
+<link>https://solidgold.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-008-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Thu, 05 Nov 2020 15:18:21 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Logic of God — How Has the Cloud Moved?
+Jean-Marie Jullienne (Entrepreneurial Author)
+
+For centuries, visions and beliefs of and in ‘God’ have been obscured in many ways, oftentimes through mistranslation of the original texts that make up the Scriptures, holy books and teachings. 
+
+To many, religion seems to be either something which is divisive or not relevant to them in this day and age. But looking at the Writings from a different perspective can change our perception. 
+
+Over a period of 35 years, Dr. Jean-Marie Jullienne studied the ancient texts to divine a clear understanding of what the words in the Bible actually mean and how the stories sometimes take on a different connotation.
+</p>
+<br />
+<p>Connect on LinkedIn <a href="https://www.linkedin.com/in/dr-jean-marie-jullienne-16a0ba23/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://www.linkedin.com/in/dr-jean-marie-jullienne-16a0ba23/</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Logic of God — How Has the Cloud Moved?
+Jean-Marie Jullienne (Entrepreneurial Author)
+
+For centuries, visions and beliefs of and in ‘God’ have been obscured in many ways, oftentimes through mistranslation of the original texts that make up the Scriptures, holy books and teachings. 
+
+To many, religion seems to be either something which is divisive or not relevant to them in this day and age. But looking at the Writings from a different perspective can change our perception. 
+
+Over a period of 35 years, Dr. Jean-Marie Jullienne studied the ancient texts to divine a clear understanding of what the words in the Bible actually mean and how the stories sometimes take on a different connotation.
+</p>
+<br />
+<p>Connect on LinkedIn <a href="https://www.linkedin.com/in/dr-jean-marie-jullienne-16a0ba23/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://www.linkedin.com/in/dr-jean-marie-jullienne-16a0ba23/</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Jean-Marie Jullienne, religion, author, The Logic of God, The Cloud has Moved, Bible, religious teachings, interpretation, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-008-jean-marie-julienne.mp3?ver=1" type="audio/mpeg" fileSize="35495997" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-008-jean-marie-julienne.mp3?ver=1" type="audio/mpeg" length="35495997" />
+
+<guid isPermaLink="false">the-reading-room-008</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 007 - This Way Forward | Cliff Matthews (Clinical Social Worker and Behavioral Specialist) - Season 1 Episode 7     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts #BeHeard</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>This Way Forward | Cliff Matthews (Clinical Social Worker and Behavioral Specialist)</title>
+<itunes:title>This Way Forward | Cliff Matthews (Clinical Social Worker and Behavioral Specialist)</itunes:title>
+<itunes:subtitle>Taking the most rewarding path</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>28:57</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-007-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Sat, 26 Sep 2020 09:22:10 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+This Way Forward — Taking the most rewarding path
+Cliff Matthews (Clinical Social Worker and Behavioral Specialist)
+
+Do you know the difference between self-confidence and self-esteem?
+
+If you’re lacking the latter, do you need a positive exercise routine to flex that mental muscle?
+
+Then #ListenHere!
+
+Giving us an unique insight into the challenges of maintaining your ‘authentic self’ and self-esteem, author of This Way Forward, Cliff Matthews helps us to navigate the route sometimes hard to travel.
+</p>
+<br />
+<p>This Way Forward on Amazon <a href="https://amzn.to/3mNvvgf?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3mNvvgf</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+This Way Forward — Taking the most rewarding path
+Cliff Matthews (Clinical Social Worker and Behavioral Specialist)
+
+Do you know the difference between self-confidence and self-esteem?
+
+If you’re lacking the latter, do you need a positive exercise routine to flex that mental muscle?
+
+Then #ListenHere!
+
+Giving us an unique insight into the challenges of maintaining your ‘authentic self’ and self-esteem, author of This Way Forward, Cliff Matthews helps us to navigate the route sometimes hard to travel.
+</p>
+<br />
+<p>This Way Forward on Amazon <a href="https://amzn.to/3mNvvgf?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3mNvvgf</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Cliff Matthews, this way forward, behavioural psychology, self-esteem, lockdown, depression l, meaning, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-007-cliff-matthews.mp3?ver=1" type="audio/mpeg" fileSize="28269675" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-007-cliff-matthews.mp3?ver=1" type="audio/mpeg" length="28269675" />
+
+<guid isPermaLink="false">the-reading-room-007</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 006 - The Power of Purpose | Richard Wright (Professional Speaker) - Season 1 Episode 6     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Power of Purpose | Richard Wright (Professional Speaker)</title>
+<itunes:title>The Power of Purpose | Richard Wright (Professional Speaker)</itunes:title>
+<itunes:subtitle>Whether you Think you Can or you Can’t - You’re Right</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:duration>19:10</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-006-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Tue, 22 Sep 2020 17:32:16 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Power of Purpose — Whether you Think you Can or you Can’t - You’re Right
+Richard Wright (Professional Speaker)
+
+This is not necessarily a treatise on overcoming cancer - although it in part is. 
+
+It’s how Richard found the Wright way to deal with what life had thrown at him, how he came to find his life’s purpose, and how to obliterate obstacles. 
+
+'What is most needed right now is inspiration, motivation, encouragement and some help with a shift in thinking. If I can enrich lives in the smallest of ways at this time, I am making a difference and my life can mean something.''
+
+If you need motivation, you’ve come to the Wright Room.. 
+
+#ListenHere
+</p>
+<br />
+<p>Website <a href="https://iamRichardWright.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://iamRichardWright.com</a></p>
+<p>The Power of Purpose' on Amazon <a href="https://amzn.to/32ULotD?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/32ULotD</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Power of Purpose — Whether you Think you Can or you Can’t - You’re Right
+Richard Wright (Professional Speaker)
+
+This is not necessarily a treatise on overcoming cancer - although it in part is. 
+
+It’s how Richard found the Wright way to deal with what life had thrown at him, how he came to find his life’s purpose, and how to obliterate obstacles. 
+
+'What is most needed right now is inspiration, motivation, encouragement and some help with a shift in thinking. If I can enrich lives in the smallest of ways at this time, I am making a difference and my life can mean something.''
+
+If you need motivation, you’ve come to the Wright Room.. 
+
+#ListenHere
+</p>
+<br />
+<p>Website <a href="https://iamRichardWright.com?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://iamRichardWright.com</a></p>
+<p>The Power of Purpose' on Amazon <a href="https://amzn.to/32ULotD?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/32ULotD</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Richard Wright, cancer, obstacles, power of purpose, mind power, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-006-richard-wright.mp3?ver=1" type="audio/mpeg" fileSize="18874545" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-006-richard-wright.mp3?ver=1" type="audio/mpeg" length="18874545" />
+
+<guid isPermaLink="false">the-reading-room-006</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 005 - Paige Nick Walks into Our Bar | Paige Nick (novelist, columnist and advertising copywriter) - Season 1 Episode 5     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Paige Nick Walks into Our Bar | Paige Nick (novelist, columnist and advertising copywriter)</title>
+<itunes:title>Paige Nick Walks into Our Bar | Paige Nick (novelist, columnist and advertising copywriter)</itunes:title>
+<itunes:subtitle>A Million Miles From Normal</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>33:49</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-005-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Wed, 16 Sep 2020 12:22:26 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Paige Nick Walks into Our Bar — A Million Miles From Normal
+Paige Nick (novelist, columnist and advertising copywriter)
+
+Many people would know her from her weekly column on sex, dating, and romance, and other crazy shenanigans, in the Sunday Times newspaper. But Paige Nick is more than the sex-obsessed writer many people wrote in to the newspaper would have us believe!
+
+Nick's first book, A Million Miles from Normal (2010) and her second novel, This Way Up (2011), were followed by a co-authorship with Sarah Lotz and Helen Moffett in 2013, of series of Choose Your Own Adventure erotic novels, including, A Girl Walks into a Bar, A Girl Walks into a Wedding and Girl Walks into a Blind Date, which were sold in 21 countries around the world. In April 2015 She brought us a compilation of her Sunday Times columns - and reader’s responses to them - in Pens Behaving Badly. 
+
+Paige started the Good Book Appreciation Society on Facebook in 2013, which has amassed over 12000 followers - all bibliophiles! 
+
+Find out what Paige is up to, and her take on our Now Normal
+</p>
+<br />
+<p>A million Miles from Normal' on Amazon <a href="https://amzn.to/33tKwLs?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/33tKwLs</a></p>
+<p>Pens Behaving Badly' on Amzon <a href="https://amzn.to/3hEcU2q?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3hEcU2q</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Paige Nick Walks into Our Bar — A Million Miles From Normal
+Paige Nick (novelist, columnist and advertising copywriter)
+
+Many people would know her from her weekly column on sex, dating, and romance, and other crazy shenanigans, in the Sunday Times newspaper. But Paige Nick is more than the sex-obsessed writer many people wrote in to the newspaper would have us believe!
+
+Nick's first book, A Million Miles from Normal (2010) and her second novel, This Way Up (2011), were followed by a co-authorship with Sarah Lotz and Helen Moffett in 2013, of series of Choose Your Own Adventure erotic novels, including, A Girl Walks into a Bar, A Girl Walks into a Wedding and Girl Walks into a Blind Date, which were sold in 21 countries around the world. In April 2015 She brought us a compilation of her Sunday Times columns - and reader’s responses to them - in Pens Behaving Badly. 
+
+Paige started the Good Book Appreciation Society on Facebook in 2013, which has amassed over 12000 followers - all bibliophiles! 
+
+Find out what Paige is up to, and her take on our Now Normal
+</p>
+<br />
+<p>A million Miles from Normal' on Amazon <a href="https://amzn.to/33tKwLs?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/33tKwLs</a></p>
+<p>Pens Behaving Badly' on Amzon <a href="https://amzn.to/3hEcU2q?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3hEcU2q</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Good Book Appreciation asociety, books, reading, author, columnist, book review, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-005-paige-nick.mp3?ver=1" type="audio/mpeg" fileSize="32946813" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-005-paige-nick.mp3?ver=1" type="audio/mpeg" length="32946813" />
+
+<guid isPermaLink="false">the-reading-room-005</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 004 - The Journey Man | Chris Marais (Author | Reporter | Brains behind KarooSpace.co.za) - Season 1 Episode 4     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>The Journey Man | Chris Marais (Author | Reporter | Brains behind KarooSpace.co.za)</title>
+<itunes:title>The Journey Man | Chris Marais (Author | Reporter | Brains behind KarooSpace.co.za)</itunes:title>
+<itunes:subtitle>Travels through the world of reporter Chris Marais</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:duration>40:55</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-004-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Fri, 28 Aug 2020 15:03:43 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Journey Man — Travels through the world of reporter Chris Marais
+Chris Marais (Author | Reporter | Brains behind KarooSpace.co.za)
+
+How many of you remember Scope magazine? That ‘raunchy’ mag with great writing from back in the day? Or Style? A paean to gorgeousness in the 80s and 90s... 
+
+Great journalism comes in sometimes surprising places, and one who contributed greatly to their popularity is Chris Marais. In his time, Chris has been a deadline-crazy newspaper reporter for some top South African titles (including the Rand Daily Mail), a magazine investigative journalist (Scope Magazine) and editor (Living Africa Magazine), winning a number of media awards along the way. 
+
+He and wife Julienne du Toit currently live and work in Cradock in the Karoo, South Africa’s magical dry heartland, where they own and manage KarooSpace.co.za - the region’s premier website.
+
+They have over the years created articles for local and offshore print and online publications that include SA Country Life, Sawubona, High Life (British Airways in-flight), Sunday Times (Johannesburg) Travel, The Guardian (UK) and Wild Magazine (SA National Parks). 
+
+Now self-publishing their glorious range of books about the Karoo, we catch up with Chris in the Heartland to find out about his start in the business and hear more about their upcoming book, Karoo Roads. 
+
+Books by Chris Marais and Julienne du Toit:
+
+A Drink of Dry Land – Journeys through Namibia, Namibia Space, Shorelines – A Journey along the South African Coast, Coast to Coast, 101 Beloved Bars of Southern Africa (with Pat Hopkins), Karoo Keepsakes, Karoo Keepsakes II, The Journey Man – A South African Reporter’s Stories (Chris) and Road Tripper – Eastern Cape Karoo.
+</p>
+<br />
+<p>Visit <a href="https://karoospace.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://karoospace.co.za</a></p>
+<p>Buy The Journey Man <a href="http://karoospace.co.za/shop/the-journey-man/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">http://karoospace.co.za/shop/the-journey-man/</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+The Journey Man — Travels through the world of reporter Chris Marais
+Chris Marais (Author | Reporter | Brains behind KarooSpace.co.za)
+
+How many of you remember Scope magazine? That ‘raunchy’ mag with great writing from back in the day? Or Style? A paean to gorgeousness in the 80s and 90s... 
+
+Great journalism comes in sometimes surprising places, and one who contributed greatly to their popularity is Chris Marais. In his time, Chris has been a deadline-crazy newspaper reporter for some top South African titles (including the Rand Daily Mail), a magazine investigative journalist (Scope Magazine) and editor (Living Africa Magazine), winning a number of media awards along the way. 
+
+He and wife Julienne du Toit currently live and work in Cradock in the Karoo, South Africa’s magical dry heartland, where they own and manage KarooSpace.co.za - the region’s premier website.
+
+They have over the years created articles for local and offshore print and online publications that include SA Country Life, Sawubona, High Life (British Airways in-flight), Sunday Times (Johannesburg) Travel, The Guardian (UK) and Wild Magazine (SA National Parks). 
+
+Now self-publishing their glorious range of books about the Karoo, we catch up with Chris in the Heartland to find out about his start in the business and hear more about their upcoming book, Karoo Roads. 
+
+Books by Chris Marais and Julienne du Toit:
+
+A Drink of Dry Land – Journeys through Namibia, Namibia Space, Shorelines – A Journey along the South African Coast, Coast to Coast, 101 Beloved Bars of Southern Africa (with Pat Hopkins), Karoo Keepsakes, Karoo Keepsakes II, The Journey Man – A South African Reporter’s Stories (Chris) and Road Tripper – Eastern Cape Karoo.
+</p>
+<br />
+<p>Visit <a href="https://karoospace.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://karoospace.co.za</a></p>
+<p>Buy The Journey Man <a href="http://karoospace.co.za/shop/the-journey-man/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">http://karoospace.co.za/shop/the-journey-man/</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Chris Marais, author, columnist, photo-journalist, journeyman, publisher, karoospace.co.za, raconteur, Karoo, travel, Keepsakes, Cradock, writer, Struik, Penguin Random House, Julienne du Toit, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-004-chris-marais.mp3?ver=1" type="audio/mpeg" fileSize="39759817" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-004-chris-marais.mp3?ver=1" type="audio/mpeg" length="39759817" />
+
+<guid isPermaLink="false">the-reading-room-004</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 003 - Just Doing it with David Bullard | David Bullard (Columnist | Author | TV Presenter | Celebrity Public Speaker) - Season 1 Episode 3     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Just Doing it with David Bullard | David Bullard (Columnist | Author | TV Presenter | Celebrity Public Speaker)</title>
+<itunes:title>Just Doing it with David Bullard | David Bullard (Columnist | Author | TV Presenter | Celebrity Public Speaker)</itunes:title>
+<itunes:subtitle>He’s been Out To Lunch for Years!</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:duration>29:41</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-003-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Tue, 25 Aug 2020 18:15:50 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Just Doing it with David Bullard — He’s been Out To Lunch for Years!
+David Bullard (Columnist | Author | TV Presenter | Celebrity Public Speaker)
+
+Known for his controversial satire, David Bullard, SA's voice of calm in a time of faux outrage, takes no prisoners when he takes people out to lunch. 
+
+With his penchant for creating furores at every opportunity, mainly through his widely read column, ‘Out to Lunch’, Bullard has taken on new media and Woke wannabe ‘Rock stars’ with gusto on Twitter, even causing a storm in the South African blogosphere by describing blogging as the 'air guitars of journalism... cobbled together by people who wouldn't stand a hope in hell of getting a job in journalism.'
+
+We catch up with the Prof of Applied Histrionics at UTS (and Columnist for PoliticsWeb‬) to see who he’s been plying with wine - and if he is actually all fluffy inside.
+</p>
+<br />
+<p>Some of David's columns <a href="‪http://Politicsweb.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">‪http://Politicsweb.co.za</a></p>
+<p>Buy David's book on Amazon <a href="https://amzn.to/3li6mJU?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3li6mJU</a></p>
+<p>Follow David on Twitter <a href="https://twitter.com/lunchout2?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/lunchout2</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Just Doing it with David Bullard — He’s been Out To Lunch for Years!
+David Bullard (Columnist | Author | TV Presenter | Celebrity Public Speaker)
+
+Known for his controversial satire, David Bullard, SA's voice of calm in a time of faux outrage, takes no prisoners when he takes people out to lunch. 
+
+With his penchant for creating furores at every opportunity, mainly through his widely read column, ‘Out to Lunch’, Bullard has taken on new media and Woke wannabe ‘Rock stars’ with gusto on Twitter, even causing a storm in the South African blogosphere by describing blogging as the 'air guitars of journalism... cobbled together by people who wouldn't stand a hope in hell of getting a job in journalism.'
+
+We catch up with the Prof of Applied Histrionics at UTS (and Columnist for PoliticsWeb‬) to see who he’s been plying with wine - and if he is actually all fluffy inside.
+</p>
+<br />
+<p>Some of David's columns <a href="‪http://Politicsweb.co.za?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">‪http://Politicsweb.co.za</a></p>
+<p>Buy David's book on Amazon <a href="https://amzn.to/3li6mJU?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/3li6mJU</a></p>
+<p>Follow David on Twitter <a href="https://twitter.com/lunchout2?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/lunchout2</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+David Bullard, Out to Lunch, Sunday Times, columnist, author, politics, PoliticsWeb, Twitter, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-003-david-bullard.mp3?ver=1" type="audio/mpeg" fileSize="28971758" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-003-david-bullard.mp3?ver=1" type="audio/mpeg" length="28971758" />
+
+<guid isPermaLink="false">the-reading-room-003</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 002 - Pedants of the world - Revolt! | Sue de Groot (Sunday Times and Times Live | Deputy Features Editor and Columnist) - Season 1 Episode 2     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>Pedants of the world - Revolt! | Sue de Groot (Sunday Times and Times Live | Deputy Features Editor and Columnist)</title>
+<itunes:title>Pedants of the world - Revolt! | Sue de Groot (Sunday Times and Times Live | Deputy Features Editor and Columnist)</itunes:title>
+<itunes:subtitle>Making peace with a piece is not as piquing as sneaky peaking</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>31:59</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-002-cover.jpg" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Mon, 24 Aug 2020 18:13:53 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Pedants of the world - Revolt! — Making peace with a piece is not as piquing as sneaky peaking
+Sue de Groot (Sunday Times and Times Live | Deputy Features Editor and Columnist)
+
+Autocorrect: making Twitter pedants delete and re-tweet since 2007 - Cassandra Page
+
+Pedantry
+attitude; human behaviour, displaying obsession with detail or process, often negatively perceived
+
+For the Grammar Nazis and busy spelling-bees out there, Sue de Groot’s ‘Pedant Class’ in the Sunday Times was a main reason for buying the paper. 
+
+Now found on the Times Select website, she continues to enthral us with her ‘Word in the Hand’ column. 
+
+The English language - as she should be spoken - is a wonderful world of twists and turns, of words that can be bent to your will. But only when done proper like! 
+
+We sit down with the self-confessed word nerd and ace columnist to discover what’s getting her hot under the collar.
+</p>
+<br />
+<p>Follow Sue on Twitter <a href="https://twitter.com/deGrootS1?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/deGrootS1</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+Pedants of the world - Revolt! — Making peace with a piece is not as piquing as sneaky peaking
+Sue de Groot (Sunday Times and Times Live | Deputy Features Editor and Columnist)
+
+Autocorrect: making Twitter pedants delete and re-tweet since 2007 - Cassandra Page
+
+Pedantry
+attitude; human behaviour, displaying obsession with detail or process, often negatively perceived
+
+For the Grammar Nazis and busy spelling-bees out there, Sue de Groot’s ‘Pedant Class’ in the Sunday Times was a main reason for buying the paper. 
+
+Now found on the Times Select website, she continues to enthral us with her ‘Word in the Hand’ column. 
+
+The English language - as she should be spoken - is a wonderful world of twists and turns, of words that can be bent to your will. But only when done proper like! 
+
+We sit down with the self-confessed word nerd and ace columnist to discover what’s getting her hot under the collar.
+</p>
+<br />
+<p>Follow Sue on Twitter <a href="https://twitter.com/deGrootS1?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/deGrootS1</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Sue de Groot, Sunday Times, Pedant Class, pedantry, Word in the Hand, Times Select, journalist, columnist, deputy features editor, wordsmith, word nerd, English, language, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-002-sue-de-groot.mp3?ver=1" type="audio/mpeg" fileSize="31289076" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-002-sue-de-groot.mp3?ver=1" type="audio/mpeg" length="31289076" />
+
+<guid isPermaLink="false">the-reading-room-002</guid>
+
+</item>
+
+
+<item>
+<!-- Sequence 001 - It’s Electrifying! | Gus Silber (Journalist | Author | Scriptwriter | Speechwriter | TweetWriter) - Season 1 Episode 1     FULL -->
+<author>the-reading-room@solidgold.co.za (Solid Gold Podcasts | Solid Gold Podcasts #BeHeard)</author>
+<itunes:author>Solid Gold Podcasts | Solid Gold Podcasts</itunes:author>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+       <title>It’s Electrifying! | Gus Silber (Journalist | Author | Scriptwriter | Speechwriter | TweetWriter)</title>
+<itunes:title>It’s Electrifying! | Gus Silber (Journalist | Author | Scriptwriter | Speechwriter | TweetWriter)</itunes:title>
+<itunes:subtitle>Digital Graffiti from Gus Silber’s Wall</itunes:subtitle>
+
+<itunes:explicit>no</itunes:explicit>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>39:32</itunes:duration>
+<link>https://solidgoldstudios.co.za/channel.php?title=the-reading-room</link>
+
+<!-- Use EPISODE-SPECIFIC image -->
+<itunes:image href="http://podcaststudios.co.za/images/the-reading-room/reading-room-001-cover.jpg?ver=2" />
+<!-- Use EPISODE-SPECIFIC image -->
+
+<pubDate>Sun, 23 Aug 2020 18:04:34 +0200</pubDate>
+
+<description><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+It’s Electrifying! — Digital Graffiti from Gus Silber’s Wall
+Gus Silber (Journalist | Author | Scriptwriter | Speechwriter | TweetWriter)
+
+Over the last few years, columnist, scriptwriter and author Gus Silber has written some extraordinary commentary pieces on his journeys around his neighbourhood in Johannesburg and his digital wanderings through the global village we call social media, and posted them to Facebook. 
+
+This latest tour de force, Electric Graffiti: Musings on a Facebook Wall, takes us on a magical mystery tour around what words and thoughts mean when cobbled together in ‘sound bytes’.
+</p>
+<br />
+<p>Follow Gus on Twitter <a href="https://twitter.com/gussilber?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/gussilber</a></p>
+<p>Buy Gus's book on Amazon <a href="https://amzn.to/2QvKs7O?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/2QvKs7O</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></description>
+
+<content:encoded><![CDATA[
+<p><a href="https://solidgold.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+<p><a href="https://api.whatsapp.com/send?phone=27832271409&text=%5BReading%20Room%20Podcast%5D%20Hello%20Gavin...">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/whatsapp-us-now-64.png?ver=1" alt="WhatsApp us now" height="32px" /></a></p>
+<p>
+It’s Electrifying! — Digital Graffiti from Gus Silber’s Wall
+Gus Silber (Journalist | Author | Scriptwriter | Speechwriter | TweetWriter)
+
+Over the last few years, columnist, scriptwriter and author Gus Silber has written some extraordinary commentary pieces on his journeys around his neighbourhood in Johannesburg and his digital wanderings through the global village we call social media, and posted them to Facebook. 
+
+This latest tour de force, Electric Graffiti: Musings on a Facebook Wall, takes us on a magical mystery tour around what words and thoughts mean when cobbled together in ‘sound bytes’.
+</p>
+<br />
+<p>Follow Gus on Twitter <a href="https://twitter.com/gussilber?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://twitter.com/gussilber</a></p>
+<p>Buy Gus's book on Amazon <a href="https://amzn.to/2QvKs7O?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">https://amzn.to/2QvKs7O</a></p>
+<p>Music : https://JohnBartmann.com | Rusty Bicycle</p>
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<!-- CLIENT SPECIFIC LINKS IN THE SHOW NOTES -->
+<br />
+<p>When you're ready to #BeHeard, contact the podcast specialists at <a href="https://solidgold.co.za"?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">SolidGold.co.za</a></p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Solid%20Gold%20Podcast&utm_medium=Episode%20Description%20The%20Reading%20Room">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32px" /></a></p>
+]]></content:encoded>
+
+<itunes:keywords>
+Gus Silber, columnist, editor, author, scriptwriter, journalist, Electric Graffiti, Facebook, Twitter, social media, Johannesburg, Another Solid Gold Podcast, Gavin Kennedy, #BeHeard
+</itunes:keywords>
+
+<media:content url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-001-gus-silber.mp3?ver=1" type="audio/mpeg" fileSize="38426007" />
+    <enclosure url="https://chtbl.com/track/85158/podcasters.co.za/audio/the-reading-room/reading-room-001-gus-silber.mp3?ver=1" type="audio/mpeg" length="38426007" />
+
+<guid isPermaLink="false">the-reading-room-001</guid>
+
+</item>
+	
+	</channel>
+	</rss>

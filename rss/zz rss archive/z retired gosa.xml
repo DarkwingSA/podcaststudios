@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:dcterms="https://purl.org/dc/terms/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+     
+     <channel>
+
+          <title>Gun Talk by GOSA</title>
+          <link>https://solidgoldstudios.co.za/gosa.php</link>
+          <managingEditor>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</managingEditor>
+          <language>en-za</language>
+      
+          <spotify:countryOfOrigin>za</spotify:countryOfOrigin>
+      
+          <copyright>Solid Gold Studios - all rights reserved</copyright>
+          <description>Promoting safe, responsible and lawful firearm ownership.</description>
+
+          <image>
+            <url>https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2</url>
+            <title>Gun Talk by GOSA</title>
+            <link>https://solidgoldstudios.co.za/gosa</link>
+          </image>
+
+          <itunes:explicit>clean</itunes:explicit>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>Promoting safe, responsible and lawful firearm ownership.</itunes:subtitle>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          <itunes:summary>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.
+
+Our principles are simple:
+- Firearms in private hands are essential to public safety and democracy
+- We stand for ALL lawful firearm owners
+- Every firearm owner must let his or her voice be heard
+- We will not condone any illegal activity
+- No personal attacks against anybody at all
+
+We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, both available in the files section of the group, and all approved amendments.
+</itunes:summary>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
+
+          <atom:link href="https://podcaststudios.co.za/rss/gosa.xml" rel="self" type="application/rss+xml" />
+
+          <media:copyright>SolidGoldStudios.co.za all rights reserved</media:copyright>
+          <media:thumbnail url="https://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
+          <media:keywords>GOSA, gun owners south africa, firearms, Tim Flack, another Solid Gold podcast, Gavin Kennedy, #BeHeard</media:keywords>
+          <media:category>Society &amp; Culture</media:category>
+
+          <itunes:owner>
+               <itunes:email>guntalk@solidgoldstudios.co.za</itunes:email>
+               <itunes:name>GOSA | Solid Gold Studios</itunes:name>
+          </itunes:owner>
+
+          <itunes:keywords>GOSA, gun owners south africa, firearms, Tim Flack, another Solid Gold podcast, Gavin Kennedy, #BeHeard</itunes:keywords>
+
+          <itunes:category text="Society &amp; Culture" />
+
+          <webMaster>gavin@solidgoldstudios.co.za (Gavin Kennedy | Solid Gold Studios)</webMaster>
+
+          <ttl>30</ttl>
+
+          <lastBuildDate>Thu, 24 Jan 2019 20:30:00 +0200</lastBuildDate>
+
+    <item>
+          <!-- S01 E002 -->
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Is my licence still valid?</title>
+          <itunes:title>Is my licence still valid?</itunes:title>
+          <itunes:subtitle>White, Green, Card... we clarify them all for you.</itunes:subtitle>
+          <itunes:duration>2:19</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg?ver=2" />
+
+      <!--
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+      -->
+      
+          <pubDate>Sat, 12 Jan 2019 16:00:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
+Welcome to <strong>Gun Talk</strong>. The <strong>GOSA (Gun Owners South Africa)</strong> podcast that answers your FAQs (Frequently Asked Questions) relating to firearm ownership in South Africa.</p>
+<p>S01 E02</p>
+
+
+<p>__________</p>
+<p>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.</p>
+<p>Our principles are simple:
+- Firearms in private hands are essential to public safety and democracy
+- We stand for ALL lawful firearm owners
+- Every firearm owner must let his or her voice be heard
+- We will not condone any illegal activity
+- No personal attacks against anybody at all</p>
+<p>We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, both available in the files section of the group, and all approved amendments.</p>
+<p>__________</p>
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/groups/gunownerssa/">please join now</a> as this is the best place to get up-to-date news.</p>
+<p>You can also visit our website <a href="http://gosaonline.co.za/?utm_source=Gun%20Talk%20Podcast">GOSAonline.co.za</a> or send a mail directly to:</p>
+<p><a href="mailto:membership@gosa.co.za?subject=Membership Query from Gun Talk Podcast">Membership Email</a></p>
+<p><a href="mailto:office@gosa.co.za?subject=General Query from Gun Talk Podcast">General Queries Email</a></p>
+<p><a href="mailto:law@gosa.co.za?subject=Appeals and Motivations Query from Gun Talk Podcast">Appeals and Motivations Email</a></p>
+<p>__________</p>
+<p>Presented by Melanie Walker, Soundscaping by Acoustinc Alien Audio, Edited by Creston Christians, Produced by Tim Flack and Gavin Kennedy</p>
+<p>#GOSAhasmy6 #BeHeard</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Gun%20Talk%20Podcast">another Solid Gold podcast</a></p>
+
+]]>
+          </description>
+
+          <itunes:summary>
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
+Welcome to <strong>Gun Talk</strong>. The <strong>GOSA (Gun Owners South Africa)</strong> podcast that answers your FAQs (Frequently Asked Questions) relating to firearm ownership in South Africa.</p>
+<p>S01 E02</p>
+
+
+<p>__________</p>
+<p>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.</p>
+<p>Our principles are simple:
+- Firearms in private hands are essential to public safety and democracy
+- We stand for ALL lawful firearm owners
+- Every firearm owner must let his or her voice be heard
+- We will not condone any illegal activity
+- No personal attacks against anybody at all</p>
+<p>We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, both available in the files section of the group, and all approved amendments.</p>
+<p>__________</p>
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/groups/gunownerssa/">please join now</a> as this is the best place to get up-to-date news.</p>
+<p>You can also visit our website <a href="http://gosaonline.co.za/?utm_source=Gun%20Talk%20Podcast">GOSAonline.co.za</a> or send a mail directly to:</p>
+<p><a href="mailto:membership@gosa.co.za?subject=Membership Query from Gun Talk Podcast">Membership Email</a></p>
+<p><a href="mailto:office@gosa.co.za?subject=General Query from Gun Talk Podcast">General Queries Email</a></p>
+<p><a href="mailto:law@gosa.co.za?subject=Appeals and Motivations Query from Gun Talk Podcast">Appeals and Motivations Email</a></p>
+<p>__________</p>
+<p>Presented by Melanie Walker, Soundscaping by Acoustinc Alien Audio, Edited by Creston Christians, Produced by Tim Flack and Gavin Kennedy</p>
+<p>#GOSAhasmy6 #BeHeard</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Gun%20Talk%20Podcast">another Solid Gold podcast</a></p>
+
+]]>
+          </itunes:summary>
+
+          <itunes:keywords>Melanie Walker, Tim Flack, St James massacre, APLA</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/gosa/gosa-s01-e003-green-is-gold.mp3" type="audio/mpeg" fileSize="3575334" />
+              <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/gosa/gosa-s01-e003-green-is-gold.mp3" type="audio/mpeg" length="3575334" />
+
+          <guid isPermaLink="false">gosa-s01-e003-v2</guid>
+                                                        
+    </item>
+
+    
+    <item>
+          <!-- S01 E001 -->
+          <author>guntalk@solidgoldstudios.co.za (Gun Talk | Solid Gold Studios)</author>
+          <itunes:author>GOSA | Solid Gold Studios</itunes:author>
+          
+          <itunes:episodeType>full</itunes:episodeType>
+
+          <title>Who is GOSA?</title>
+          <itunes:title>Who is GOSA?</itunes:title>
+          <itunes:subtitle>Why does GOSA exist and what do they do?</itunes:subtitle>
+          <itunes:duration>3:39</itunes:duration>
+
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode>
+
+          <itunes:image href="http://podcaststudios.co.za/images/gosa/gosa-cover-s01-0000.jpg" />
+
+      <!--
+      	  <dcterms:valid>
+          	start=2018-12-08T08:00+02:00;
+          	end=3018-12-08T08:00+02:00;
+          </dcterms:valid>
+      -->
+      
+          <pubDate>Sat, 12 Jan 2019 15:30:00 +0200</pubDate>
+          
+          <description>
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
+Welcome to <strong>Gun Talk</strong>. The <strong>GOSA (Gun Owners South Africa)</strong> podcast that answers your FAQs (Frequently Asked Questions) relating to firearm ownership in South Africa.</p>
+<p>In this episode Paul Oxley (GOSA Chairman) will tell you more about the who, what, where, when and why of GOSA.</p>
+
+
+<p>__________</p>
+<p>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.</p>
+<p>Our principles are simple:
+- Firearms in private hands are essential to public safety and democracy
+- We stand for ALL lawful firearm owners
+- Every firearm owner must let his or her voice be heard
+- We will not condone any illegal activity
+- No personal attacks against anybody at all</p>
+<p>We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, both available in the files section of the group, and all approved amendments.</p>
+<p>__________</p>
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/groups/gunownerssa/">please join now</a> as this is the best place to get up-to-date news.</p>
+<p>You can also visit our website <a href="http://gosaonline.co.za/?utm_source=Gun%20Talk%20Podcast">GOSAonline.co.za</a> or send a mail directly to:</p>
+<p><a href="mailto:membership@gosa.co.za?subject=Membership Query from Gun Talk Podcast">Membership Email</a></p>
+<p><a href="mailto:office@gosa.co.za?subject=General Query from Gun Talk Podcast">General Queries Email</a></p>
+<p><a href="mailto:law@gosa.co.za?subject=Appeals and Motivations Query from Gun Talk Podcast">Appeals and Motivations Email</a></p>
+<p>__________</p>
+<p>Presented by Melanie Walker, Soundscaping by Acoustinc Alien Audio, Edited by Creston Christians, Produced by Tim Flack and Gavin Kennedy</p>
+<p>#GOSAhasmy6 #BeHeard</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Gun%20Talk%20Podcast">another Solid Gold podcast</a></p>
+
+]]>
+
+          </description>
+
+          <itunes:summary>
+            <![CDATA[
+<a href="https://solidgoldstudios.co.za/?utm_source=Podcast&utm_medium=Episode%20Description">
+<img src="https://podcaststudios.co.za/images/solidgoldstudios/another-solid-gold-podcast-long-height-64.jpg?ver=1" alt="Another Solid Gold Podcast" height="32" />
+</a>
+
+<p>
+Welcome to <strong>Gun Talk</strong>. The <strong>GOSA (Gun Owners South Africa)</strong> podcast that answers your FAQs (Frequently Asked Questions) relating to firearm ownership in South Africa.</p>
+<p>In this episode Paul Oxley (GOSA Chairman) will tell you more about the who, what, where, when and why of GOSA.</p>
+
+
+<p>__________</p>
+<p>If you are a South African who lawfully owns a firearm, you are us... and we are you. We are the blanket organisation for all of the Provincial GOSAs, the Municipal GOSAs, and the Ward GOSAs.</p>
+<p>Our principles are simple:
+- Firearms in private hands are essential to public safety and democracy
+- We stand for ALL lawful firearm owners
+- Every firearm owner must let his or her voice be heard
+- We will not condone any illegal activity
+- No personal attacks against anybody at all</p>
+<p>We strongly recommend reading and familiarising yourself with the FIREARMS CONTROL ACT 60 OF 2000 and the Firearms Control Regulations, 2004, both available in the files section of the group, and all approved amendments.</p>
+<p>__________</p>
+<p>If you're not already following us on Facebook, <a href="https://www.facebook.com/groups/gunownerssa/">please join now</a> as this is the best place to get up-to-date news.</p>
+<p>You can also visit our website <a href="http://gosaonline.co.za/?utm_source=Gun%20Talk%20Podcast">GOSAonline.co.za</a> or send a mail directly to:</p>
+<p><a href="mailto:membership@gosa.co.za?subject=Membership Query from Gun Talk Podcast">Membership Email</a></p>
+<p><a href="mailto:office@gosa.co.za?subject=General Query from Gun Talk Podcast">General Queries Email</a></p>
+<p><a href="mailto:law@gosa.co.za?subject=Appeals and Motivations Query from Gun Talk Podcast">Appeals and Motivations Email</a></p>
+<p>__________</p>
+<p>Presented by Melanie Walker, Soundscaping by Acoustinc Alien Audio, Edited by Creston Christians, Produced by Tim Flack and Gavin Kennedy</p>
+<p>#GOSAhasmy6 #BeHeard</p>
+<p><a href="https://solidgoldstudios.co.za/?utm_source=Gun%20Talk%20Podcast">another Solid Gold podcast</a></p>
+
+]]>
+
+          </itunes:summary>
+
+          <itunes:keywords>Melanie Walker, Tim Flack, St James massacre, APLA</itunes:keywords>
+
+          <media:content url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/gosa/gosa-s01-e001-who-is-gosa.mp3" type="audio/mpeg" fileSize="5722633" />
+              <enclosure url="https://chtbl.com/track/85158/podcaststudios.co.za/audio/gosa/gosa-s01-e001-who-is-gosa.mp3" type="audio/mpeg" length="5722633" />
+
+          <guid isPermaLink="false">gosa-s01-e001</guid>
+                                                        
+    </item>
+
+     </channel>
+</rss>
